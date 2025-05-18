@@ -1,0 +1,29 @@
+﻿l_english:
+# GUI
+# Визначені Тексти
+boneyard_name: "Кістковий Двір"
+dayglow_name: "Дейглоу"
+maxson_name: "Максон"
+redding_name: "Реддінг"
+shady_sands_name: "Тіньові Піски"
+
+allgood_elections_name: "Сенатор Мерфі"
+kimball_elections_name: "Аарон Кімбелл"
+hayes_elections_name: "Мер Гейз"
+secret_boi_elections_name: "Даг Ґраніт"
+
+boneyard_first_candidate_support: "[?global.first_candidate_support_array^1]%"
+dayglow_first_candidate_support: "[?global.first_candidate_support_array^2]%"
+maxson_first_candidate_support: "[?global.first_candidate_support_array^3]%"
+redding_first_candidate_support: "[?global.first_candidate_support_array^4]%"
+shady_sands_first_candidate_support: "[?global.first_candidate_support_array^5]%"
+
+boneyard_second_candidate_support: "[?global.second_candidate_support_array^1]%"
+dayglow_second_candidate_support: "[?global.second_candidate_support_array^2]%"
+maxson_second_candidate_support: "[?global.second_candidate_support_array^3]%"
+redding_second_candidate_support: "[?global.second_candidate_support_array^4]%"
+shady_sands_second_candidate_support: "[?global.second_candidate_support_array^5]%"
+
+NCR_ELECTIONS_BUTTON_OPEN_TEXT: "Карта Виборів"
+NCR_ELECTIONS_BUTTON_OPEN_TEXT_BLOCKED: "§gКарта Виборів§!"
+

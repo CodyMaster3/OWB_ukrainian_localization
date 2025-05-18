@@ -1,0 +1,124 @@
+﻿l_english:
+utah_pantheon:0 "§GЗадоволення Богів§!"
+utah_pantheon_desc:0 "Велика війна знищила старих богів, але в її тіні виник новий пантеон. Протягом століть наш народ поклонявся цим божествам — і за свою вірність отримував щедрі дари."
+
+utah_pantheon_sacrifice:0 "Жертва Богам"
+utah_pantheon_loyalty:0 "Підтвердити вірність §Y[This.GetPantheonSelectedGodName]§!"
+
+utah_pantheon_timeout:0 "Поклоніння [This.GetPantheonSelectedGodName]"
+utah_pantheon_timeout_desc:0 "Ми перебуваємо в періоді поклоніння §Y[This.GetPantheonSelectedGodName]§! і маємо почекати, перш ніж вибрати нового бога."
+
+CAN_SELECT_OTHER_GOD_IN_PANTHEON_AGAIN_TT:0 "§Y[This.GetName]§! може обрати іншого бога з §YПантеону§!.\n"
+
+utah_pantheon_sun_unique:0 "Сліпуче Сяйво"
+utah_pantheon_sun_ritual:0 "Славлення Сонця"
+utah_pantheon_sun_ritual_upgrade:0 "Славна Іскра"
+
+utah_pantheon_moon_unique:0 "Нічні Вилазки"
+utah_pantheon_moon_ritual:0 "Процесія Небес"
+utah_pantheon_moon_ritual_upgrade:0 "Місячні Одкровення"
+
+utah_pantheon_land_unique:0 "Спочинок Землі"
+utah_pantheon_land_ritual:0 "Великий Жнивар"
+utah_pantheon_land_ritual_upgrade:0 "Ріг Достатку"
+
+utah_pantheon_mountain_unique:0 "Свята Автаркія"
+utah_pantheon_mountain_ritual:0 "Велике Сходження"
+utah_pantheon_mountain_ritual_upgrade:0 "Там, Де Витримують Орли"
+
+utah_pantheon_ncn_unique:0 "Дар Божий"
+utah_pantheon_ncn_ritual:0 "Духовне Відродження"
+
+utah_pantheon_legion_unique:0 "Барабани Війни"
+utah_pantheon_legion_ritual:0 "Розп’яття"
+
+utah_pantheon_sor_unique:0 "Бойова Підготовка"
+utah_pantheon_sor_ritual:0 "Уроки Батька"
+utah_pantheon_sor_ritual_upgrade:0 "Скрупульозне Планування"
+
+utah_pantheon_tar_unique:0 "Стара Жорстокість"
+utah_pantheon_tar_ritual:0 "Криваве Бачення"
+utah_pantheon_tar_ritual_upgrade:0 "Безрозсудна Перемога"
+
+utah_pantheon_dea_unique:0 "Божа Робота"
+utah_pantheon_dea_ritual:0 "Мілітаризація"
+utah_pantheon_dea_ritual_upgrade:0 "Військове Суспільство"
+
+utah_pantheon_crz_unique:0 "Очищення"
+utah_pantheon_crz_ritual:0 "Вогняна Слава"
+utah_pantheon_crz_ritual_upgrade:0 "З Попелу"
+
+utah_pantheon_uin_unique:0 "Шанування Швидкості"
+utah_pantheon_uin_ritual:0 "Помста з Неба"
+utah_pantheon_uin_ritual_upgrade:0 "Смерть Згори"
+
+utah_pantheon_lon_unique:0 "Звільнення Ночі"
+utah_pantheon_lon_ritual:0 "Тиша Насильства"
+utah_pantheon_lon_ritual_upgrade:0 "Оглушлива Тиша"
+
+utah_pantheon_ritual_tt:0 "§GПокращує Святі Ритуали Обраного Бога.§!"
+utah_pantheon_blessing_tt:0 "§GПокращує Благословення Обраного Бога.§!"
+
+utah_pantheon_mood_small_tt:0 "Незначно покращує ставлення [This.GetPantheonSelectedGodName] до нас"
+utah_pantheon_mood_medium_tt:0 "Відчутно покращує ставлення [This.GetPantheonSelectedGodName] до нас"
+utah_pantheon_mood_large_tt:0 "Значно покращує ставлення [This.GetPantheonSelectedGodName] до нас"
+utah_pantheon_mood_negative_small_tt:0 "Незначно погіршує ставлення [This.GetPantheonSelectedGodName] до нас"
+utah_pantheon_mood_negative_medium_tt:0 "Відчутно погіршує ставлення [This.GetPantheonSelectedGodName] до нас"
+utah_pantheon_mood_negative_large_tt:0 "Значно погіршує ставлення [This.GetPantheonSelectedGodName] до нас"
+
+utah_pantheon_sacrifice_tt:0 "Значно знижує вартість племінних жертвоприношень"
+pantheon_sacrifice_cost:0 "£pol_power  §Y[?pantheon_sacrifice_var]§!"
+pantheon_sacrifice_cost_blocked:0 "£pol_power  §R[?pantheon_sacrifice_var]§!"
+
+utah_religious_sermons:0 "Блага Звістка"
+utah_religious_sermons_desc:0 "«Не хлібом єдиним буде жити людина, а кожним словом, що виходить з вуст Божих.»"
+
+utah_religious_sermons_diligence:0 "Проповідувати про Старанність"
+utah_religious_sermons_charity:0 "Проповідувати про Милосердя"
+utah_religious_sermons_sacrifice:0 "Проповідувати про Жертву"
+utah_religious_sermons_masses:0 "Проповіді Відродження"
+utah_religious_sermons_syncretism:0 "Проповідувати про Єдність"
+utah_religious_sermons_heresy:0 "Проповідувати проти Єресі"
+
+utah_hgh_interaction:0 "Моління до Хрестителів"
+utah_hgh_interaction_desc:0 "«Один Господь, одна віра, одне хрещення; один Бог і Отець усіх.»"
+
+utah_baptise:0 "Хрестити наш Народ"
+utah_ban_fishing:0 "Заборонити риболовлю в священних водах"
+utah_cleanse_water:0 "Очистити воду"
+water_purification:0 "Є Неочищена Вода"
+
+utah_mur_ano_war:0 "Зцілення Розколу"
+utah_mur_ano_war_desc:0 "«Ось, яке це добре і приємне — жити братам разом в єдності!»"
+
+utah_new_offensive_effort:0 "Нові Наступальні Дії"
+utah_reinforce_the_frontline:0 "Укріпити Передову"
+
+utah_glass_trade_with_ham:0 "Торгівля з Склярами"
+utah_glass_trade_with_ham_desc:0 "«Справедливі ваги й терези — від Господа; усі гирі в торбі — Його справа.»"
+
+utah_sand_upon_the_river:0 "Днопоглиблення"
+utah_end_trade_with_ham:0 "Припинити торгівлю з містиками Хаммонда"
+mur_stopped_trade:0 "Мерто припинив з нами торгівлю."
+
+utah_ham_glass_forging:0 "Кузні Пустелі"
+utah_ham_glass_forging_desc:0 "Багато хто вважає пустелю мертвим краєм — безплідною, негостинною землею, що годиться лише вигнанцям. Ми ж — не погоджуємося."
+
+utah_desert_clearing:0 "Очищення Пустель"
+DESERT_CLEARING_TOOLTIP:0 "У нас є неочищені пустельні регіони"
+utah_new_forge:0 "Будівництво Нових Кузень"
+NEW_FORGE_TOOLTIP:0 "У нас є нерозвинуті пустельні регіони"
+
+utah_war_for_heaven:0 "Війна за Небеса"
+utah_war_for_heaven_desc:0 "Конфлікт із Брамою Небес неминучий. Ми маємо бути готовими до бою, коли настане час."
+
+walls_of_jericho:0 "Стіни Єрихона"
+abandon_northern_states:0 "Залишити Прикордонні Штати"
+retake_states:0 "Почати Новий Наступ"
+secure_wastes:0 "Забезпечити Пустки Тератона"
+form_united_front:0 "Сформувати Єдиний Фронт"
+UNITED_FRONT:0 "Єдиний Фронт"
+missionary_recruitment:0 "Місії з Вербування на Півдні"
+northern_aid:0 "Військова Допомога Півночі"
+all_for_god:0 "Все заради Бога"
+

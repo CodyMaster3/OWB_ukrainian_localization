@@ -1,0 +1,21 @@
+﻿l_english:
+
+  tla_annex_decrepit:0 "Повернення наших південних мурів"
+  tla_decision_annex_decrepit:0 "Анексувати Занепалі Мури"
+
+  tla_favourites:0 "Сини Тлалока"
+  tla_favourites_desc:0 "У міру погіршення стану Тлалока, він стає все більш сприйнятливим до впливу своїх дітей-A.I., як на краще, так і на гірше."
+
+  tla_decision_zapata_drift:0 "Продовольчі кампанії для бідних"
+  tla_decision_zapata:0 "Утворити профспілки працівників"
+  tla_decision_max_drift:0 "Корпоративні промови"
+  tla_decision_max:0 "Надати шляхетні звання"
+  tla_decision_mont_drift:0 "Фізична підготовка працівників"
+  tla_decision_mont:0 "Військове озброєння"
+
+  tla_decision_mont_patch:0 "Протидіяти впливу Монтесуми"
+
+  tla_asset_protection_protocols:0 "§RПРОТОКОЛИ ЗАХИСТУ АКТИВІВ§!"
+  tla_asset_protection_protocol:0 "ПРОТОКОЛ ЗАХИСТУ [From.Capital.GetID]"
+  tla_nuclear_deterrance_protocol:0 "§RПРОТОКОЛ СТРИМУВАННЯ [From.Capital.GetID]§!"
+

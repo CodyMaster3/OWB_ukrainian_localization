@@ -1,0 +1,67 @@
+﻿l_english:
+# GUI:
+GO_TO_SENATE_RRG_BUTTON:0 "До Сенату"
+SENATE_RRG_MENU:0 "§GНатисніть§!, щоб відкрити або закрити §Yвікно Сенату§!."
+SENATE_RRG_MENU_DECISION_TT:0 "Також ви можете знайти іншу кнопку для відкриття §Yвікна Сенату§! у верхній частині вкладки §YПолітика§!."
+
+SENATE_RRG_CANDIDATE_1_SENATOR_VOTES_TT:0 "Наразі §G[?senate_party_a_value]§! сенаторів підтримують §YЛеонардо Мору§!, що відповідає §G[?candidate_1_senator_votes_percentage|2%]§! від загальної кількості сенаторів."
+SENATE_RRG_CANDIDATE_1_DEPUTY_VOTES_TT:0 "Наразі §G[?house_party_a_value]§! депутатів підтримують §YЛеонардо Мору§!, що відповідає §G[?candidate_1_deputy_votes_percentage|2%]§! від загальної кількості депутатів."
+SENATE_RRG_CANDIDATE_2_SENATOR_VOTES_TT:0 "Наразі §G[?senate_party_b_value]§! сенаторів підтримують §YДанте Ґерру§!, що відповідає §G[?candidate_2_senator_votes_percentage|2%]§! від загальної кількості сенаторів."
+SENATE_RRG_CANDIDATE_2_DEPUTY_VOTES_TT:0 "Наразі §G[?house_party_b_value]§! депутатів підтримують §YДанте Ґерру§!, що відповідає §G[?candidate_2_deputy_votes_percentage|2%]§! від загальної кількості депутатів."
+SENATE_RRG_CANDIDATE_3_SENATOR_VOTES_TT:0 "Наразі §G[?senate_party_c_value]§! сенаторів підтримують §YРосадо§!, що відповідає §G[?candidate_3_senator_votes_percentage|2%]§! від загальної кількості сенаторів."
+SENATE_RRG_CANDIDATE_3_DEPUTY_VOTES_TT:0 "Наразі §G[?house_party_c_value]§! депутатів підтримують §YРосадо§!, що відповідає §G[?candidate_3_deputy_votes_percentage|2%]§! від загальної кількості депутатів."
+
+LEONARDO_MORA:0 "§YЛеонардо Мора§!"
+LEONARDO_MORA_COLORED:0 "§YМора§!"
+LEONARDO_MORA_ATTITUTE:0 "Візіонер. Герой війни. Чоловік. Леонардо Мора — усе це і навіть більше. У 2263 році, під час свого першого президентського терміну, Мора отримав неможливе завдання: перемогти Легіон. Маючи у розпорядженні лише неорганізовану міліцію, Мора витиснув перемогу з безнадійної поразки завдяки крові, поту і чистій харизмі. Тепер, з другим терміном на горизонті, улюблений герой народу має лише одну мету: возз'єднання своєї втраченої батьківщини — Мексики. Іншого такого чоловіка, такого здатного і впливового, як Мора, вже не буде — принаймні, так він думає. Лише він здатен об'єднати народ Мексики в єдине ціле — добровільно чи інакше. Ніщо, навіть Бог, не стане між ним і його покликанням. Мора або увійде в історію як найбільша постать Мексики, або загине, намагаючись."
+DANTE_GUERRA:0 "§YДанте Ґерра§!"
+DANTE_GUERRA_COLORED:0 "§MҐерра§!"
+DANTE_GUERRA_ATTITUTE:0 "Маючи виконавчу владу в Республіці, президент Ґерра має чимало пріоритетів — найважливіший серед них — суд і страта Цезаря та його поплічників. Співпрацюючи з Конґресом та народом, Данте прагне навести молот правосуддя на беззаконні землі Пустки. Водночас, цей старіючий президент продовжує покращувати життя свого народу, підтримувати інституції Республіки і прагне її процвітання. Данте Ґерру чекає напружений термін, але до його кінця він зробить усе, щоб залишити Пустку кращою, ніж вона була."
+VALENTINA_ROSADO:0 "§YВалентина Росадо§!"
+VALENTINA_ROSADO_COLORED:0 "§RРосадо§!"
+VALENTINA_ROSADO_ATTITUTE:0 "Валентина Росадо — одна з найдосвідченіших інженерів Республіки, одна з небагатьох мексиканських зброярів, які мають доступ до виробничих потужностей TAA. Її молоде обличчя прикрашають великі зелені очі та м'які риси, що гармонійно поєднуються з каштановим волоссям. Світло-коричнева шкіра часто вкрита машинним мастилом — звичка, що надає їй ще більшої харизми, попри бездоганну зовнішність. Волосся Валентини завжди зібране у хвіст, щоб не заважало, а косметикою вона не користується. Як і її чоловічі колеги, вона носить традиційну мексиканську уніформу без медалей на грудях, а на зап’ясті — піп-бой із найновішими планами щодо Ріо. Президентка Республіки планує привести свій народ у майбутнє — у світ електрики, проточної води та безпеки."
+
+SENATE_RRG_SENATORS:0 "Сенатори:"
+SENATE_RRG_DEPUTIES:0 "Депутати:"
+SENATE_RRG_SENATORS_AND_DEPUTIRES_COLORS_TT:0 "§YЖовте§! поле означає, що сенатор або депутат підтримує §YЛеонардо Мору§!.\n§MСинє§! поле означає, що сенатор або депутат підтримує §YДанте Ґерру§!.\n§RЧервоне§! поле означає, що сенатор або депутат підтримує §YВалентину Росадо§!.\n§gСіре§! поле означає, що сенатор або депутат наразі нікого не підтримує."
+SENATE_RRG_SENATORS_AND_DEPUTIRES_ARE_EXILED:0 "[This.GetRRGSenateCurrentVotesFromState] \n--------------\nСенатори та депутати з цього штату — §RВИГНАНІ§!, оскільки §Y[This.GetName]§! не перебуває під нашим контролем.\n--------------\n§GНатисніть§!, щоб центр карти перейшов до §Y[This.GetName]§!."
+SENATE_RRG_CLICK_TO_GO_TO_STATE:0 "[This.GetRRGSenateCurrentVotesFromState] \n--------------\n§GНатисніть§!, щоб центр карти перейшов до §Y[This.GetName]§!."
+
+SENATE_RRG_SUPPORT_TEXT:0 "[This.GetRRGSenateVotesAmountColor]§W/§!§Y64§!"
+HOUSE_RRG_SUPPORT_TEXT:0 "[This.GetRRGHouseVotesAmountColor]§W/§!§Y256§!"
+
+RRG_CURRENT_LEADER:0 "§Y[This.GetLeader]§!"
+RRG_CURRENT_LEADER_DESC:0 "[This.GetRRGLeaderDesc]"
+RRG_CURRENT_LEADER_ATTITUDE:0 "[This.GetRRGLeaderAttitute]"
+
+SENATE_RRG_SEATS_TT:0 "§Y[This.GetLeader]§! наразі має підтримку §G[This.GetRRGSenateVotesAmountColor]§W сенаторів. Для прийняття рішень президентові потрібно щонайменше §Y32§! сенатори.\n\nРозподіл голосів сенаторів, які не підтримують [This.GetLeader]: [This.GetRRGSenateOpposingVotesContribution]"
+HOUSE_RRG_SEATS_TT:0 "§Y[This.GetLeader]§! наразі має підтримку §G[This.GetRRGHouseVotesAmountColor]§W депутатів. Для прийняття рішень президентові потрібно щонайменше §Y128§! депутатів.\n\nРозподіл голосів депутатів, які не підтримують [This.GetLeader]: [This.GetRRGHouseOpposingVotesContribution]"
+
+# Локалізація з скриптів:
+string_rrg_senate_senate_votes_amount_red:0 "§R[This.GetRRGSenateSupportForLeader]§!"
+string_rrg_senate_senate_votes_amount_green:0 "[This.GetRRGSenateSupportForLeader]"
+string_rrg_senate_house_votes_amount_red:0 "§R[This.GetRRGHouseSupportForLeader]§!"
+string_rrg_senate_house_votes_amount_green:0 "[This.GetRRGHouseSupportForLeader]"
+
+string_rrg_senate_senate_opposing_votes_for_mora:0 "\n   - §R[?senate_party_b_value|0]§! сенаторів підтримують §YДанте Ґерру§! \n   - §R[?senate_party_c_value|0]§! сенаторів підтримують §YВалентину Росадо§!"
+string_rrg_senate_senate_opposing_votes_for_guerra:0 "\n   - §R[?senate_party_a_value|0]§! сенаторів підтримують §YЛеонардо Мору§! \n   - §R[?senate_party_c_value|0]§! сенаторів підтримують §YВалентину Росадо§!"
+string_rrg_senate_senate_opposing_votes_for_rosado:0 "\n   - §R[?senate_party_a_value|0]§! сенаторів підтримують §YЛеонардо Мору§! \n   - §R[?senate_party_b_value|0]§! сенаторів підтримують §YДанте Ґерру§!"
+string_rrg_senate_house_opposing_votes_for_mora:0 "\n   - §R[?house_party_b_value|0]§! депутатів підтримують §YДанте Ґерру§! \n   - §R[?house_party_c_value|0]§! депутатів підтримують §YВалентину Росадо§!"
+string_rrg_senate_house_opposing_votes_for_guerra:0 "\n   - §R[?house_party_a_value|0]§! депутатів підтримують §YЛеонардо Мору§! \n   - §R[?house_party_c_value|0]§! депутатів підтримують §YВалентину Росадо§!"
+string_rrg_senate_house_opposing_votes_for_rosado:0 "\n   - §R[?house_party_a_value|0]§! депутатів підтримують §YЛеонардо Мору§! \n   - §R[?house_party_b_value|0]§! депутатів підтримують §YДанте Ґерру§!"
+
+string_rrg_senate_current_amount_of_senator_and_deputy_votey_in_state:0 "Розподіл голосів у §Y[This.GetName]§! наразі:\n   §YМора§!: §Y[?senator_a_votes_from_state]§! сенаторів та §Y[?deputy_a_votes_from_state]§! депутатів\n   §MҐерра§!: §Y[?senator_b_votes_from_state]§! сенаторів та §Y[?deputy_b_votes_from_state]§! депутатів\n   §RРосадо§!: §Y[?senator_c_votes_from_state]§! сенаторів та §Y[?deputy_c_votes_from_state]§! депутатів"
+
+RRGSenateSupportPartyAKey:0 "[?senate_party_a_value|0]"
+RRGSenateSupportPartyBKey:0 "[?senate_party_b_value|0]"
+RRGSenateSupportPartyCKey:0 "[?senate_party_c_value|0]"
+RRGHouseSupportPartyAKey:0 "[?house_party_a_value|0]"
+RRGHouseSupportPartyBKey:0 "[?house_party_b_value|0]"
+RRGHouseSupportPartyCKey:0 "[?house_party_c_value|0]"
+
+INCREASE_OPINION_OF_SENATOR_A_TT:0 "Думка сенаторів про §YЛеонардо Мору§! покращується. Їхня думка про інших кандидатів погіршується.\n"
+INCREASE_OPINION_OF_SENATOR_B_TT:0 "Думка сенаторів про §YДанте Ґерру§! покращується. Їхня думка про інших кандидатів погіршується.\n"
+INCREASE_OPINION_OF_SENATOR_C_TT:0 "Думка сенаторів про §YВалентину Росадо§! покращується. Їхня думка про інших кандидатів погіршується.\n"
+INCREASE_OPINION_OF_DEPUTY_A_TT:0 "Думка депутатів про §YЛеонардо Мору§! покращується. Їхня думка про інших кандидатів погіршується.\n"
+INCREASE_OPINION_OF_DEPUTY_B_TT:0 "Думка депутатів про §YДанте Ґерру§! покращується. Їхня думка про інших кандидатів погіршується.\n"
+INCREASE_OPINION_OF_DEPUTY_C_TT:0 "Думка депутатів про §YВалентину Росадо§! покращується. Їхня думка про інших кандидатів погіршується.\n"

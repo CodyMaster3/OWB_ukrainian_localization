@@ -1,0 +1,141 @@
+﻿l_english:
+NCR_banditry_category:0 "Проблема Рейдерів"
+NCR_banditry_category_desc:0 "Республіка розширювалась надто стрімко, приєднуючи поселення, міста й племена. Тепер, ставши надто великою, вона не здатна захищати ці території — і потерпає від постійних нападів рейдерів."
+NCR_bandit_raids:0 "Напади Рейдерів"
+NCR_bandit_raids_desc:0 "Блукаючі банди рейдерів крадуть усе, що не прибите цвяхами, й палять решту! Потрібно підняти війська й зупинити їх!"
+NCR_pacify_bandits_in_the_northern_countryside:0 "Утихомирити банди в Реддінгу"
+NCR_hunt_down_northern_bandits:0 "Заарештувати банди Реддінгу"
+NCR_hunt_down_northern_bandits_tt:0 "Позбавляє регіон рейдерів Реддінгу.\n"
+NCR_maintain_northern_control:0 "Утримувати контроль над Реддінгом"
+NCR_pacify_bandits_mission_explanation:0 "Утримуйте дивізії в регіоні протягом [?Root.NCR_maintain_control_timer|H0] днів, щоби утихомирити рейдерів.\n"
+
+NCR_pacify_bandits_in_the_eastern_countryside:0 "Утихомирити канібалів у північних рубежах"
+NCR_hunt_down_eastern_bandits:0 "Придушити канібалів"
+NCR_hunt_down_eastern_bandits_tt:0 "Позбавляє регіон канібалів.\n"
+NCR_maintain_eastern_control:0 "Утримувати контроль над Північчю"
+
+NCR_pacify_bandits_in_the_western_countryside:0 "Утихомирити племінних рейдерів на заході"
+NCR_hunt_down_western_bandits:0 "Полювання на племінних рейдерів"
+NCR_hunt_down_western_bandits_tt:0 "Позбавляє регіон племінних рейдерів.\n"
+NCR_maintain_western_control:0 "Утримувати контроль над Солтон-Сі"
+
+NCR_northern_bandits:0 "Банди нападають у Реддінгу."
+NCR_eastern_bandits:0 "Канібали наступають з Орегону."
+NCR_western_bandits:0 "Племена нападають із Солтона."
+
+NCR_helios_category:0 "Ремонт HELIOS One"
+NCR_helios_category_desc:0 "Після перемоги над Братством Сталі та захоплення стратегічних об'єктів, NCR взяла під контроль електростанцію HELIOS One. Втім, станція виявилась неробочою. Тепер чиновники у відчаї шукають того, хто зможе повернути її до ладу..."
+NCR_repair_helios_fantastic:0 "Найняти містера Фантастика"
+NCR_repair_helios_followers:0 "Найняти Ігнасіо Ріваса"
+NCR_repair_helios_brotherhood:0 "Звернутись до Братства Сталі"
+
+NCR_heavytroops_focus_category:0 "Розгортання експериментальних солдатів"
+NCR_armourexperiment_focus:0 "Розгорнути експериментальних силовиків"
+NCR_armourexperiment_focus_desc:0 "Наші експерименти з силовою бронею увінчались успіхом — нові підрозділи в Шейді-Сендс готові до служби."
+NCR_protege_focus:0 "Розгорнути війська Лі"
+NCR_protege_focus_desc:0 "Генерал Лі Олівер, протеже Кімбола, вірить у перевагу технологій. Його солдати носять силову броню, щоби знищити ворогів NCR."
+NCR_heavytroops_focus:0 "Розгорнути важких солдатів"
+NCR_heavytroops_focus_desc:0 "Після поразки на дамбі ми змінили стратегію — робимо ставку на технології й силову броню, щоб перемогти Легіон."
+
+ncr_revolts:0 "Федерація Фінікса повстала!"
+seek_peace:0 "Підписати мирну угоду"
+seek_peace_desc:0 "Війна з Федерацією Фінікса йде не на нашу користь. Армія оточена, противник наступає. Пора покласти край насильству."
+
+ncr_renofrontier:0 "Розширитись у Честер"
+ncr_umbrafrontier:0 "Розширитись в Орік"
+ncr_bosfrontier1:0 "Захопити Антіох"
+ncr_bosfrontier2:0 "Зайняти Санта-Крус"
+ncr_klamfrontier:0 "Захопити Ден"
+ncr_klamfrontier2:0 "Розширитись у Горнбрук"
+
+ncr_renofrontierdev:0 "Розвинути Честер"
+ncr_klamfrontierdev:0 "Оцивілізувати Ден"
+ncr_klamfrontierdev2:0 "Розвинути Горнбрук"
+ncr_umbrafrontierdev:0 "Освоїти Орік"
+ncr_bosfrontierdev:0 "Освоїти Антіох"
+ncr_bosfrontierdev2:0 "Розвинути Санта-Крус"
+
+ncr_purchaserangerbits:0 "Відкриває можливість купувати землі у Пустельних Рейнджерів"
+ncr_rangerfrontier:0 "Купити Скрапхіп"
+ncr_rangerfrontier2:0 "Купити Тікетл-Джанкшн"
+
+NCR_hayes_bear_land_of_titans:0 "§GВедмідь у Землі Титанів§!"
+ncr_southern_push:0 "§GЗемля на Півдні§!"
+
+NCR_baseballin_time:0 "§4Бейсбол Живе Знову!§!"
+NCR_baseballin_time_desc:0 "    "
+ncr_new_baseball_game:0 "Підготовка до нового матчу!"
+
+NCR_protectors_of_justice:0 "§OЗахисники Справедливості§!"
+ncr_helping_the_last_mexican_democracy:0 "§GОстання мексиканська демократія§!"
+ncr_helping_the_little_democracy:0 "§GМаленька демократія§!"
+ncr_help_the_ranchers:0 "Допомогти скотарям"
+ncr_merchants_of_el_foro:0 "§YКупці Ель-Форо§!"
+ncr_the_yellow_rose:0 "§YЖовта Роза§!"
+ncr_colorado_steel:0 "§gКолорадська Сталь§!"
+ncr_history_repeats_itself:0 "§RІсторія Повторюється§!"
+ncr_can_i_get_amen_in_here:0 "Можна почути 'Амінь'?"
+ncr_a_little_piece_of_sanity:0 "Крихта притомності"
+ncr_no_racists_allowed:0 "§RРасистам Не Місце§!"
+
+NCR_500_inf_400_se_30_pp: "£rifle_texticon §H500§! £support_equipment_texticon §Y400§! £pp_texticon §Y30§!"
+NCR_500_inf_400_se_30_pp_blocked: "£rifle_texticon §R500§! £support_equipment_texticon §R400§! £pp_texticon §R30§!"
+NCR_500_inf_400_se_30_pp_tooltip: "Це рішення коштує $NCR_500_inf_400_se_30_pp_blocked$"
+
+NCR_25_pp_25_cp: "£pp_texticon §Y25§! £command_power §Y25§!"
+NCR_25_pp_25_cp_blocked: "£pp_texticon §R25§! £command_power §R25§!"
+NCR_25_pp_25_cp_tooltip: "Це рішення коштує $NCR_25_pp_25_cp_blocked$"
+
+#Baseball teams
+ncr_team:0 "Гримучі Ведмеді"
+baja_team:0 "Баха-Бласт"
+klamath_team:0 "Трапери Озера Кратер"
+vegas_team:0 "Щасливі Ударники"
+badland_team:0 "Бакару-Бомбардувальники"
+reno_team:0 "Королі Карсон-Сіті"
+arroyo_team:0 "Живі Легенди"
+rangers_team:0 "Цитадельний Піщаний Шторм"
+shi_team:0 "Східні Дракони"
+free_fighters_team:0 "Кулаки Люті"
+brotherhood_team:0 "Сталеві Барсуки"
+blue_rose_team:0 "Росвелльські Загарбники"
+
+#Kimball decision
+NCR_great_basin_campaign:0 "§tКампанія в Великому Басейні§!"
+ncr_attack_vipers:0 "§GСпалити Змій§!"
+ncr_attack_jacals:0 "Остання Зграя"
+ncr_attack_jacals_desc:0 "«Славні дні» Шакалів давно позаду — тепер це просто зграя хаотичних рейдерів. Пора їх добити."
+ncr_deal_slanter:0 "§gМилі Єноти§!"
+ncr_deal_slags_modoc:0 "Житниця Невади"
+
+#Taxes
+NCR_investment_opportunities:0 "§GІнвестиційні Можливості§!"
+NCR_investment_opportunities_desc:0 "Завдяки нашому населенню, промисловості та політичній організації, економіка Республіки значно перевершує будь-яку групу пустки. Використавши цю перевагу (та трохи військових погроз), ми можемо привабити інших до вигідної торгівлі — вигідної, звісно, передусім для нас.\n\nЯкщо ж вони відмовляться... іноді палиця ефективніша за пряник."
+ncr_tax_someone:0 "Інвестиційна Пропозиція"
+ncr_increase_taxes:0 "Запрошення до Митного Союзу"
+ncr_investment_1:0 "Інвестиції в Промисловість"
+ncr_investment_2:0 "Зміцнення Економічних Зв'язків"
+ncr_democracy_isnt_free:0 "§3Демократія — Це Не Безкоштовно§!"
+
+#Moore
+NCR_bos_crusade:0 "§tОстання Місія§!"
+
+ncr_mbc_guardians:0 "Під Носом"
+ncr_mbc_cause_and_wbh:0 "Зачистити Північ"
+ncr_mbc_tbh:0 "Техаський Холд'ем"
+ncr_mbc_mxc:0 "§gОстаннє Нагадування про Максона§!"
+ncr_mbc_mon:0 "§4Подорож до Монтани§!"
+ncr_mbc_ach:0 "§tДезертири§!"
+
+ncr_mbc_finale:0 "Кращий Світ"
+
+#Calhoun
+NCR_help_lloyd:0 "§gБлагородна Місія Сталевих Рейнджерів§!"
+
+ncr_sr_research_coop:0 "Поділитись Даними Досліджень NCR"
+ncr_exchange_program:0 "Програма Обміну Спеціалістами"
+ncr_boneyard_embassy:0 "Посольство Братства"
+
+ncr_cal_raider_war:0 "§tПроти Усякого Зла§!"
+
+

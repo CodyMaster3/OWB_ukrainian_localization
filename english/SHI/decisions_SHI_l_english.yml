@@ -1,0 +1,25 @@
+﻿l_english:
+# decisions
+SHI_infiltration_category:0 "Китайські Інфільтратори"
+SHI_infiltration_category_desc:0 "Наш народ походить із давнього роду шпигунів і майстрів убивства. Таємні операції в нас у крові, а пустка не готова до нашої люті."
+SHI_infiltration_focus:0 "Побудувати шпигунську мережу"
+SHI_mandate_over_california:0 "§tМандат на Каліфорнію§!"
+SHI_establish_mandate:0 "Встановити мандат"
+SHI_dragon_call:0 "Покликати Дракона Додому"
+SHI_ncr_wp_category:0 "Мир з НКР"
+SHI_ncr_wp_category_desc:0 "Ми робимо все можливе, щоби чинити опір Ведмедю, але ми не витримаємо вічно!\nПотрібно добиватись миру, щойно НКР покаже ознаки втоми!"
+SHI_wp_focus:0 "Зв'язатися з переговорниками НКР"
+SHI_bos_smuggling_category:0 "Шлях Ши"
+SHI_bos_smuggling_category_desc:0 "У нас є можливість переправити ресурси на територію Ши!\nНаші зв'язки гарантують лише одну операцію.\n\nЩо ми надішлемо?"
+SHI_bos_pa:0 "Надіслати нашу броню"
+SHI_bos_lg:0 "Надіслати другий найкращий подарунок..."
+SHI_bos_mp:0 "Надіслати наших перевірених людей"
+SHI_bos_cp:0 "Надіслати... Трохи кепів..."
+
+500_inf_50_pp: "£rifle_texticon §H500§! £pp_texticon §H50§!"
+500_inf_50_pp_blocked: "£rifle_texticon §R500§! £pp_texticon §R50§!"
+500_inf_50_pp_tooltip: "Це рішення коштує $500_inf_50_pp_blocked$"
+
+100_mp_50_pp: "£manpower1_texticon §H100§! £pp_texticon §H50§!"
+100_mp_50_pp_blocked: "£manpower1_texticon §R100§! £pp_texticon §R50§!"
+100_mp_50_pp_tooltip: "Це рішення коштує $100_mp_50_pp_blocked$"

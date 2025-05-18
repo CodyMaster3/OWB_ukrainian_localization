@@ -1,0 +1,77 @@
+﻿l_english:
+  wayward_frontier:0 "Загублений Рубіж"
+  chosen_son:0 "Обраний Син"
+  protector_mexico:0 "Захисник Мексики"
+  exploiter_mexico:0 "Керуючий Мексикою"
+  pacification_subroutines:0 "Підпрограми Умиротворення"
+  pacification_subroutines_desc:0 "§RНе втручайтеся в операції безпеки.§!"
+  victorious_protector:0 "Переможний Захисник"
+  victorious_protector_desc:0 "§GСупермен...§!"
+
+  tla_agriculture_idea:0 "Сіємо Насіння"
+  tla_feeding_people:0 "Нагодувати Людей"
+  tla_compensation:0 "Компенсації Працівникам"
+
+  tla_political_idea:0 "Допомога Руки"
+  tla_organising_people:0 "Організація Людей"
+  tla_concessions:0 "Поступки Співробітникам"
+
+  tla_mil_idea:0 "На Варті"
+  tla_protecting_people:0 "Захищаючи Людей"
+  tla_compliance:0 "Боти-Підпорядкування"
+  tla_self_defense:0 "Навчання Самообороні"
+
+  tla_reconciliation:0 "Примирення"
+  tla_reconciliation_max:0 "Спадок Тлалока"
+
+  tla_protectors_guarantee:0 "Гарантія Захисника"
+  tla_protectors_guarantee_desc:0 "§GГарантії Тлалока захищають лише (деякі) мексиканські нації від зовнішніх загроз, але не захищають картелі від інших мексиканських націй!§!"
+
+  tla_the_guarantees:0 "Гарантії"
+  tla_the_guarantees_desc:0 "§GВаші гарантії дозволяють вам захищати будь-яку мексиканську націю у вашій сфері впливу від самотньої боротьби. Але це НЕ дозволить вам втрутитися на боці картелів проти місцевих держав.§!"
+
+  tla_decaying_memory:0 ""
+  tla_decaying_memory_desc:0 "Як Тлалок, ви постійно втрачаєте памʼять — як від впливу часу, так і через три конфліктуючі особистості всередині вас. У вас буде приблизно п’ять років, щоб примиритися зі світом, перш ніж ви помрете. Після цього ви відродитеся у вигляді улюбленого сина."
+
+  tla_memory_loss_idea:0 "Втрачена Памʼять"
+  tla_memory_loss_idea_desc:0 "§RДейзі, Дейзі...§!"
+
+  tla_untimely_death:0 "Передчасна Смерть"
+  tla_untimely_death_desc:0 "Незважаючи на всі зусилля та підготовку, Тлалок не зміг завершити свій заповіт до смерті. Результатом стала плутанина й хаос на нових територіях його дітей."
+
+  tla_research_bonus:0 "Подарунок Тлалока: Знання"
+
+  tla_finished_gifts:0 "Остання Воля"
+  tla_finished_gifts_desc:0 "Завершивши розподіл останніх дарів, Тлалок готовий до своєї неминучої смерті."
+
+  blessed_by_tlaloc:0 "Благословенний Тлалоком"
+  blessed_by_tlaloc_desc:0 "Навіть великі сили Мексики вражені довірою та знайомством цього лідера з могутнім A.I. А їхній народ — ще більше."
+
+  tla_efficiency_code:0 "Розширене Керування Енергією"
+  tla_efficiency_code_desc:0 ""
+
+  tla_nuclear_shellshock:0 "Ядерний Шок"
+  tla_nuclear_shellshock_desc:0 "Свіже радіаційне забруднення шириться, як чума, влаштовуючи бунти в містах і дезертирство в армії. Такої руйнівної сили світ не бачив з часів Великої Війни. Але війна, війна ніколи не змінюється."
+
+  apocalypse_now:0 "Жахи Старого Світу"
+  apocalypse_now_desc:0 "Що сталося, невже день розплати настав знову!?"
+
+  petro_chico_inc:0 "Петро Чіко Inc."
+  petro_chico_rails:0 "Петро Чіко Залізниці"
+  petro_chico_robotics:0 "Петро Чіко Робототехніка"
+  petro_chico_air:0 "Петро Чіко Повітря"
+  petro_chico_nav:0 "Петро Чіко Флот"
+
+  # Прапори
+  tla_gift_close:0 "Сконцентровані Подарунки"
+  tla_gift_medium:0 "Щедрі Подарунки"
+  tla_gift_far:0 "Розпорошені Подарунки"
+  tla_gift_recipient:0 "Одержувач Подарунка"
+  tla_gift_received:0 "Подарунок Отримано"
+
+  tla_gift_weapons_flag:0 "Подарунок Зброї"
+  tla_gift_people_flag:0 "Подарунок Дружби"
+  tla_gift_stability_flag:0 "Подарунок Стабільності"
+  tla_gift_technology_flag:0 "Подарунок Знань"
+  tla_gift_resources_flag:0 "Подарунок Ресурсів"
+

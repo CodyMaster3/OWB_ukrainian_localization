@@ -1,0 +1,198 @@
+﻿l_english:
+
+#Sky Reavers
+ncr_SKY_establish_the_survey_corp:0 "§YЗаснувати Корпус Досліджень§!"
+ncr_SKY_establish_the_survey_corp_desc:0 "Невада сповнена таємниць, на які багато хто не може знайти відповідей — особливо в регіоні, що колись називався 'Полігоном Випробувань Невади'.\nДля дослідження цих загадок (чи то казок, як кажуть науковці НКР) буде створено Корпус Досліджень Невади. Можливо, це дасть нам перевагу в Мохаві?"
+
+ncr_SKY_exploring_area_2:0 "§LЗона 2§!"
+ncr_SKY_exploring_area_2_desc:0 "Зона 2 виявилася довоєнним складом армії США. Більшість ресурсів розграбовано, хоча кілька гаубиць залишилися — пошкоджені, але ремонтопридатні. Судячи з напису 'Тут була Перл', можна припустити, що це справа рук Бумерів. Добре хоч гармати залишили!"
+
+ncr_SKY_exploring_area_22:0 "§OЗона 22§!"
+ncr_SKY_exploring_area_22_desc:0 "У Зоні 22 розташований військовий аеродром. Якщо пощастить, ми знайдемо документацію для наших науковців. Все одно їм нічим більше зайнятись!"
+
+ncr_SKY_exploring_area_18:0 "§CЗона 18§!"
+ncr_SKY_exploring_area_18_desc:0 "Зона 18 — ще один аеродром, але цього разу з розбитим прототипом невідомого призначення. Нехай яйцеголові розбирають цю штуковину на деталі."
+
+ncr_SKY_exploring_area_15:0 "§GЗона 15§!"
+ncr_SKY_exploring_area_15_desc:0 "Експедиція виявила колишній полігон для тестування технологій, що, за словами науковців, передували створенню ГЕККу. Це велике відкриття! Ми зможемо використати залишені нотатки для розвитку нашої території, хоч шанс створити новий ГЕКК — мізерний. Але принаймні тут можна заснувати фермерські поселення."
+
+ncr_SKY_exploring_area_6:0 "§1Зона 6§!"
+ncr_SKY_exploring_area_6_desc:0 "Нарешті трохи вдачі! Ми знайшли військовий бункер зі старими кресленнями літаків. Можливо, це намагався винести шпигун, або ж просто хтось був недбалим. Так чи інакше, тепер нашим механікам є за що вчепитись.\n\nХтось бачив мої штани?\nНі?\nЧортові геккони."
+
+ncr_SKY_the_airbase_calls:0 "§3Зона 51§!"
+ncr_SKY_the_airbase_calls_desc:0 "Серце наших територій — таємний об'єкт, який, схоже, був найменш збереженим секретом довоєнної Америки. На щастя, ми можемо обшукати численні бункери та архіви. Це займе чимало часу."
+
+ncr_SKY_searching_for_schematics:0 "Перевірити бази даних"
+ncr_SKY_searching_for_schematics_desc:0 "На цих пристроях збереглась вражаюча кількість даних, але на їхнє вивчення потрібен час."
+
+ncr_SKY_searching_for_the_escaped:0 "§4Ми хочемо вірити§!"
+ncr_SKY_searching_for_the_escaped_desc:0 "\"Якщо знайдете — поверніть. Власність Зони 51\""
+
+ncr_SKY_opening_armories:0 "Зламати Арсенали"
+ncr_SKY_opening_armories_desc:0 "Ламати довоєнні армійські склади у пошуках зброї — що може піти не так!"
+
+ncr_SKY_reparing_weapons:0 "Ремонт знайденої зброї"
+ncr_SKY_reparing_weapons_desc:0 "На диво, все пройшло без проблем!"
+
+ncr_SKY_examining_labs:0 "Лабораторії Зони 51"
+ncr_SKY_examining_labs_desc:0 "Слід бути обережними у цих лабораторіях. Хто знає, що зберігається в усіх цих пробірках — катастрофа неминуча, якщо якийсь дурень їх перекине!"
+
+ncr_SKY_accessing_the_database:0 "Бази Даних Зони 51"
+ncr_SKY_accessing_the_database_desc:0 "Все залежить від бази даних. Яйцеголові просто одержимі файлами, які тут знаходять."
+
+ncr_SKY_secrets_of_the_airforce:0 "Таємниці Повітряних Сил"
+ncr_SKY_secrets_of_the_airforce_descc:0 "Не дивись вниз. Справді? Це весь секрет? Ну, тут є ще дещо цікаве..."
+
+ncr_SKY_the_Hellion_project:0 "Проєкт §t\"HELLION\"§!"
+ncr_SKY_the_Hellion_project_desc:0 "Стільки згадок про 'Калькулятор'. Може, працівник був дуже слабкий у математиці?"
+
+ncr_SKY_air_matinence_training:0 "Передові авіаційні розробки"
+ncr_SKY_air_matinence_training_desc:0 "Це не просто авіація — це ПЕРЕДОВА авіація."
+
+ncr_SKY_the_republics_airforce:0 "Повітряні Сили Республіки"
+ncr_SKY_the_republics_airforce_desc:0 "Рев Ведмедя пролунає з небес!"
+
+
+#Fourways
+ncr_FOU_a_lesson_from_house:0 "Урок від Гауса"
+ncr_FOU_a_lesson_from_house_desc:0 "Гаус домігся того, що НКР не може заборонити своїм громадянам відвідувати Стріп — і це розумно. Ми зробимо те саме, укладаючи договори з навколишніми країнами, щоб наші скарбниці не постраждали."
+
+ncr_FOU_expanding_regional_security:0 "Захист наших грошей"
+ncr_FOU_expanding_regional_security_desc:0 "Навіть якщо ми гарантуємо приплив людей до Чотирьох доріг, рейдери можуть створити проблеми. Наступним кроком буде формування військових сил для полювання на них."
+
+ncr_FOU_brahmin_pitstop:0 "Брахмін-Зупинка"
+ncr_FOU_brahmin_pitstop_desc:0 "Створення зупинок для караванів приведе більше людей на нашу територію."
+
+ncr_FOU_crimson_caravan_contracts:0 "Контракти з Багряним Караваном"
+ncr_FOU_crimson_caravan_contracts_desc:0 "Ми абсолютно точно не під примусом."
+
+ncr_FOU_entering_the_big_circle:0 "Ласкаво просимо до Великого Кола!"
+ncr_FOU_entering_the_big_circle_desc:0 "Коло — воно велике."
+
+#Baggers
+ncr_BAG_expanding_authority_in_colorado:0 "Розширення впливу"
+ncr_BAG_expanding_authority_in_colorado_desc:0 "З перемогою НКР у Колорадо і нашим поверненням до неї, ми можемо отримати шанс приєднати цю територію до складу Республіки."
+
+ncr_BAG_reconsiling_the_foragers:0 "Примирення з Збирачами"
+ncr_BAG_reconsiling_the_foragers_desc:0 "Отже, Портер, давно не бачились."
+
+ncr_BAG_professional_training:0 "Професіонали мають стандарти"
+ncr_BAG_professional_training_desc:0 "Ні, тату, я не вбивця — я солдат НКР. Різниця в тому, що одне — це професія, а інше — психічна хвороба!"
+
+ncr_BAG_statehood_offer_to_battery:0 "Пропозиція державності Чорному Каньйону"
+ncr_BAG_statehood_offer_to_battery_desc:0 "Купол. Віддайте."
+
+ncr_BAG_the_secrets_of_the_dome:0 "За Куполом Боулдера"
+ncr_BAG_the_secrets_of_the_dome_desc:0 "Я не буду спойлерити мод, обіцяю."
+
+#Shared Mil and Industry
+NCR_shared_industrial_start_focus:0 "Каліфорнійський Промисловий Прогрес"
+NCR_shared_industrial_start_focus_desc:0 "Тепер ми — частина НКР, а отже, повинні прийняти її високі стандарти будівництва."
+
+NCR_shared_industrial_new_slots:0 "Каравани тепер вчасно!"
+NCR_shared_industrial_new_slots_desc:0 "Податки на їх будівництво, звісно, не найприємніші, але тепер каравани прибувають вчасно!"
+
+NCR_shared_industrial_scavenging_1:0 "Організувати нові групи пошуку"
+NCR_shared_industrial_scavenging_1_desc:0 "З підтримкою НКР ми можемо зібрати кращі команди для розбору довоєнних споруд."
+
+NCR_shared_industrial_scavenging_2:0 "Покращити навички пошуку"
+NCR_shared_industrial_scavenging_2_desc:0 "До НКР ми не знали, що речі, які ми знаходили, можуть мати таке застосування.\nДякуємо, інженери НКР!"
+
+NCR_shared_industrial_scavenging_3:0 "Дослідити довоєнні бункери"
+NCR_shared_industrial_scavenging_3_desc:0 "Дослідження довоєнних бункерів — надзвичайно небезпечне заняття. Хто знає, що там чекає?\nОднак НКР надала нам підтримку для пошуку цінних ресурсів у таких місцях."
+
+NCR_shared_industrial_civ_1:0 "Будуємо майбутнє"
+NCR_shared_industrial_civ_1_desc:0 "Досить жити у зруйнованих хатинах — НКР побудує оселі, гідні вільних людей!"
+
+NCR_shared_industrial_civ_2:0 "Дім для демократії"
+NCR_shared_industrial_civ_2_desc:0 "Наш уряд вирішив збудувати нову адміністративну будівлю.\nРоботи над житлом для звичайних людей ще не завершено, але для них це, мабуть, важливіше..."
+
+NCR_shared_industrial_civ_3:0 "Нові домівки для простих людей"
+NCR_shared_industrial_civ_3_desc:0 "Нарешті закінчили! Могли б зробити раніше, але як є."
+
+NCR_shared_industrial_mil_1:0 "Розширення Ґанраннерів"
+NCR_shared_industrial_mil_1_desc:0 "зброя..."
+
+NCR_shared_industrial_mil_2:0 "Абсолютно нові майстерні"
+NCR_shared_industrial_mil_2_desc:0 "Зброя?"
+
+NCR_shared_industrial_mil_3:0 "Наші власні Ґанраннери"
+NCR_shared_industrial_mil_3_desc:0 "ЗБРОЯЯЯЯ!!!"
+
+NCR_shared_engineering_boost:0 "Запросити інженерів НКР"
+NCR_shared_engineering_boost_desc:0 "Інженер уже тут."
+
+NCR_shared_industry_boost:0 "Передача досвіду"
+NCR_shared_industry_boost_desc:0 "Досвідчених працівників важко знайти. Перекинемо їх на інші напрямки виробництва."
+
+NCR_shared_final_scavenge:0 "§gКаліфорнійське Копання§!"
+NCR_shared_final_scavenge_desc:0 ""
+
+NCR_shared_final_civ:0 "§YКаліфорнійське Будівництво§!"
+NCR_shared_final_civ_desc:0 ""
+
+NCR_shared_final_mil:0 "§GКаліфорнійське Стріляння§!"
+NCR_shared_final_mil_desc:0 ""
+
+NCR_shared_final_naval:0 "§3Каліфорнійське Плавання§!"
+
+#Mil
+NCR_shared_military_start_focus:0 "“У Армії…”"
+NCR_shared_military_start_focus_desc:0 ""
+
+NCR_shared_military_recruitment_1:0 "Наші Нові Патріоти"
+NCR_shared_military_recruitment_1_desc:0 ""
+
+NCR_shared_military_recruitment_2:0 "Служити Батьківщині"
+NCR_shared_military_recruitment_2_desc:0 ""
+
+NCR_shared_military_recruitment_3:0 "“Ми Не Підемо Тихо”"
+NCR_shared_military_recruitment_3_desc:0 ""
+
+NCR_shared_police_force_1:0 "Поліція на Вулицях"
+NCR_shared_police_force_1_desc:0 ""
+
+NCR_shared_police_force_2:0 "Запит Поліцейського Обладнання"
+NCR_shared_police_force_2_desc:0 ""
+
+NCR_shared_police_force_3:0 "Сила Закону"
+NCR_shared_police_force_3_desc:0 ""
+
+NCR_shared_rangers_1:0 "Кращі з Кращих"
+NCR_shared_rangers_1_desc:0 ""
+
+NCR_shared_rangers_2:0 "Тренування Рейнджерів"
+NCR_shared_rangers_2_desc:0 ""
+
+NCR_shared_rangers_3:0 "Народження Легенд"
+NCR_shared_rangers_3_desc:0 ""
+
+NCR_shared_gun_runner_outpost:0 "Форпости Ґанраннерів"
+NCR_shared_gun_runner_outpost_desc:0 ""
+
+NCR_shared_fortifying_capital:0 "Захистити Столицю"
+NCR_shared_fortifying_capital_desc:0 ""
+
+NCR_shared_raising_a_garrison:0 "Підняти Гарнізон!"
+NCR_shared_raising_a_garrison_desc:0 ""
+
+NCR_shared_military_weapons_1:0 "Нові Стандарти Озброєння"
+NCR_shared_military_weapons_1_desc:0 ""
+
+NCR_shared_military_weapons_2:0 "Польові Госпіталі Послідовників"
+NCR_shared_military_weapons_2_desc:0 ""
+
+NCR_shared_military_weapons_3:0 "Величезна Угода з Ґанраннерами"
+NCR_shared_military_weapons_3_desc:0 ""
+
+
+
+
+
+
+
+
+
+
+
+

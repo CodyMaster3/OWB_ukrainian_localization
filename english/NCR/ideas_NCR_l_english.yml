@@ -1,0 +1,255 @@
+﻿l_english:
+ranger_unification_treaty:0 "Договір про Об’єднання Рейнджерів"
+ranger_unification_treaty_desc:0 "Договір про Об’єднання Рейнджерів — двостороння угода між Новою Каліфорнійською Республікою та Пустельними Рейнджерами Невади, підписана у 2271 році. Їхній вплив на військову доктрину НКР буде відчутним ще довгі роки."
+starting_caps_idea:0 "Децентралізована Бюрократія"
+ranger_unification_treaty_2:0 "Договір про Об’єднання Рейнджерів"
+ranger_unification_treaty_2_desc:0 "Договір про Об’єднання Рейнджерів — двостороння угода між Новою Каліфорнійською Республікою та Пустельними Рейнджерами Невади, підписана у 2271 році. Їхній вплив на військову доктрину НКР буде відчутним ще довгі роки."
+ncr_bureacracy:0 "Уряд Старого Світу"
+ncr_bureacracy_desc:0 "Уряд НКР базується на системі Старого Світу, з Президентом і Конгресом. Внаслідок цього значна частина республіки потопає в бюрократії, і майже нічого не рухається вперед."
+revalued_ncr:0 "Переоцінені Долари НКР"
+ncrbank:0 "Центральний Банк НКР"
+ncrjustice:0 "Верховний Суд"
+ncrmotroops:0 "Військова Пропаганда"
+ncrcentral:0 "Централізована Держава"
+ncr_manifestdestiny_idea:0 "Явна Доля"
+ncr_crimson_caps:0 "Субсидована 'Багряна Караванна'"
+ncr_reorganizedexpeditionary:0 "Реорганізований Експедиційний Корпус"
+
+hooverdamvictor:0 "Переможець при Греблі Гувера"
+hooverdamvictor_desc:0 "Ця держава здобула перемогу при Греблі Гувера, отримавши контроль над пустелею Мохаве й велику престижність."
+dennis_crocker:0 "Денніс Крокер"
+col_royez:0 "Полковник Ройєз"
+chief_lee_oliver:0 "Лі Олівер"
+al_chestbreach:0 "Ел Честбріч"
+
+oldworldmachines:0 "Машини Старого Світу"
+oldworldmachines_desc:0 ""
+
+oldworldarmour_tt:0 "Отримайте технологію, яка підвищує атаку та захист армії на урбанізованій місцевості на 10%"
+
+oldworldtheatre:0 "Театр Старого Світу"
+oldworldtheatre_desc:0 ""
+
+denmotherpenalty:0 "Покарання Матері-Вовчиці"
+denmotherpenalty_desc:0 ""
+
+long15:0 "Довга 15"
+long15_desc:0 ""
+
+brahminbarons:0 "Брахмінські Барони"
+brahminbarons_desc:0 ""
+
+ncrguns:0 "Переналаштування Зброярського Виробництва"
+ncrguns_desc:0 ""
+
+ncrguns2:0 "Модернізація Зброї"
+ncrguns2_desc:0 ""
+
+ncrguns3:0 "Угода з 'Ган Раннерами'"
+ncrguns3_desc:0 ""
+
+heavytroops:0 "Важка Піхота"
+heavytroops_desc:0 ""
+
+scavunion:0 "Союз Скраверів"
+scavunion_desc:0 ""
+
+allarewelcome:0 "Всі Ласкаво Просимо"
+allarewelcome_desc:0 ""
+
+immigrationlimits:0 "Обмеження Імміграції"
+immigrationlimits_desc:0 ""
+
+mutantlabour:0 "Праця Мутантів"
+mutantlabour_desc:0 ""
+
+hubdrugs:0 "Наркоторгівля Хабу"
+hubdrugs_desc:0 ""
+
+hubweapons:0 "Зброя Хабу"
+hubweapons_desc:0 ""
+
+mechcore:0 "Початки Механізованих Військ"
+mechcore_desc:0 ""
+
+rapidadvance:0 "Швидкий Наступ"
+rapidadvance_desc:0 ""
+
+onlythebest:0 "Тільки Найкращі"
+onlythebest_desc:0 ""
+
+gunrunnerliscense:0 "Ліцензія 'Ган Раннерів'"
+gunrunnerliscense_desc:0 ""
+
+drummondsarmy:0 "Армія Драммонда"
+drummondsarmy_desc:0 ""
+
+blastfromthepast:0 "Привид Минулого"
+blastfromthepast_desc:0 ""
+
+mobilearmy:0 "Мобільна Армія"
+mobilearmy_desc:0 ""
+
+speartip:0 "Тактика 'Наконечника Списа'"
+speartip_desc:0 ""
+
+bigjim:0 "Великий Джим"
+bigjim_desc:0 ""
+
+legacyofnavarro1:0 "Спадщина Наварро"
+legacyofnavarro1_desc:0 ""
+
+legacyofnavarro2:0 "Спадщина Наварро"
+legacyofnavarro2_desc:0 ""
+
+legacyofnavarro3:0 "Спадщина Наварро"
+legacyofnavarro3_desc:0 ""
+
+aradesh:0 "Арадеш"
+aradesh_desc:0 ""
+
+seth:0 "Сет"
+seth_desc:0 ""
+
+tandi:0 "Танді"
+tandi_desc:0 ""
+
+baronswar:0 "Війна Баронів"
+baronswar_desc:0 ""
+
+baronswarbuyout:0 "Викуп Баронів"
+baronswarbuyout_desc:0 ""
+
+ncrbarons:0 "Барони"
+ncrbarons_desc:0 ""
+
+baronofbarons:0 "Барон Баронів"
+baronofbarons_desc:0 ""
+
+banditopayments:0 "Платежі Бандитам"
+banditopayments_desc:0 ""
+
+brahminbill:0 "Закон Про Брахмінів"
+brahminbill_desc:0 ""
+
+rationing:0 "Нормування"
+rationing_desc:0 ""
+
+militindustrial:0 "Військово-Промисловий Комплекс"
+militindustrial_desc:0 ""
+
+draftstandards:0 "Стандарти Призову"
+draftstandards_desc:0 ""
+
+nevtradeagreements:0 "Торговельні Угоди з Невадою"
+nevtradeagreements_desc:0 ""
+
+monopoly:0 "Монополії"
+monopoly_desc:0 ""
+
+newleague:0 "Нова Ліга"
+newleague_desc:0 ""
+
+leagueradio:0 "Радіо Ліги"
+leagueradio_desc:0 ""
+
+ncrdraft:0 "Призов"
+ncrdraft_desc:0 ""
+
+hundredeighteenthcore:0 "108-й Корпус"
+hundredeighteenthcore_desc:0 ""
+
+theatoms:0 "Атоми"
+theatoms_desc:0 ""
+
+aaronkimball:0 "Аарон Кімбалл"
+aaronkimball_desc:0 ""
+
+urbandraft:0 "Міський Призов"
+urbandraft_desc:0 ""
+
+ncrmarch:0 "Марш"
+ncrmarch_desc:0 ""
+
+jimdraft:0 "Призов Джима"
+jimdraft_desc:0 ""
+
+jimdraft2: "Комбіновані Сили"
+
+rangergenmossman:0 "Рейнджер Моссман"
+rangergenmossman_desc:0 ""
+
+ncrrangerprop:0 "Пропаганда Рейнджерів"
+ncrrangerprop_desc:0 ""
+
+followerfunding:0 "Фінансування Послідовників"
+followerfunding_desc:0 ""
+
+ncrmint:0 "Монетний двір НКР"
+ncrmint_desc:0 ""
+
+theboneyard:0 "Кістковий Двір"
+theboneyard_desc:0 ""
+
+gizmoslegacy:0 "Спадщина Ґізмо"
+gizmoslegacy_desc:0 ""
+
+gunrunnerexpanded:0 "Розширення 'Ган Раннерів'"
+gunrunnerexpanded_desc:0 ""
+
+ncr_upgrade_economy_law:0 "§OМи змінюємо закон економіки!§!"
+
+ncr_brahmin_economy:0 "Скромна Економіка"
+ncr_caravan_protection:0 "Зростаюча Економіка"
+ncr_militarized_economy:0 "Непохитна Економіка"
+
+ncr_revolt_exhaustion_1:0 "Незначна Втома від Війни"
+ncr_revolt_exhaustion_2:0 "Помірна Втома від Війни"
+ncr_revolt_exhaustion_3:0 "Середня Втома від Війни"
+ncr_revolt_exhaustion_4:0 "Сильна Втома від Війни"
+ncr_revolt_exhaustion_5:0 "Критична Втома від Війни"
+ncr_revolt_exhaustion_6:0 "Фатальна Втома від Війни"
+
+ncr_revolts_development:0 "Розвиток Фенікської Федерації"
+ncr_revolts_development_desc:0 "Відповідно до умов мирної угоди з Фенікською Федерацією, ми мусимо передавати значну частину нашого доходу для відновлення їхньої економіки. Проте це може обернутись вигодою для нас — розвиненіші сусіди означають кращу торгівлю."
+
+ncr_revolts_payments:0 "Репараційні Платежі від НКР"
+
+opening_long_15:0 "Відкриття Довгої 15-ї"
+opening_long_15_desc:0 "Щоб відновити шлях до пустелі Мохаве через Довгу 15-ту, спершу треба вигнати місцевих рейдерів."
+
+# Барони
+bar_reno_support:0 "Підтримка з Реддінґа"
+bar_reno_support_desc:0 ""
+bar_reno_guns:0 "§GСхеми Ван Ґраффів§!"
+bar_reno_guns_desc:0 ""
+bar_the_big_circle:0 "Член 'Великого Кола'"
+bar_the_big_circle_desc:0 ""
+
+# Мексика
+MXT_mexico_administration_2:0 "§GАдміністрація Мексики§!"
+MXT_mexico_industry:0 "Промисловість Нової Мексики"
+
+NCR_area_51_research_zone:0 "§1Зона Досліджень — Ареа 51§!"
+
+NCR_celebrating_launch:0 "§1Святкування Запуску§!"
+
+# Розширення Кімбалла
+NCR_DEA:0 "Департамент Закордонних Справ"
+NCR_steel_menace:0 "Пропагандистська Кампанія Проти §gСталевої Загрози§!"
+
+# Розширення Олґуда
+NCR_state_department:0 "Державний Департамент"
+NCR_not_a_question_of_citizenship:0 "Це Не Питання Громадянства"
+NCR_supporting_the_populace:0 "Недискримінаційна Підтримка"
+NCR_protectors_of_justice_idea:0 "Захисники Справедливості"
+NCR_celebrating_baseball_victory:0 "§4Святкуємо Перемогу '[ncr_team_name]'!§!"
+
+# Розширення Мур
+NCR_cali_first:0 "§gКаліфорнія Понад Усе§!"
+NCR_hayes_reforms:0 "§1Соціальні Реформи Гейза§!"
+NCR_chaotic_region:0 "Хаотичний Регіон"
+
+# Розширення Калхуна
+ncr_new_ranger_corps:0 "Новий Корпус Рейнджерів"
+

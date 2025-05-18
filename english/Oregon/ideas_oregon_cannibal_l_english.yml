@@ -1,0 +1,75 @@
+﻿l_english:
+brainwashed_trait:0 "Зомбований"
+brainwashed_trait_desc:0 "Цей лідер служить не за власним бажанням — його свідомо зомбували для забезпечення лояльності!"
+
+oregon_cannibal_raider_slave_trade:0 "Работоргівля з Рейдерами"
+oregon_cannibal_raider_slave_trade_desc:0 ""
+
+oregon_cannibal_legion_slave_trade:0 "Работоргівля з Легіоном"
+oregon_cannibal_legion_slave_trade_desc:0 ""
+
+oregon_cannibal_white_glove_slave_trade:0 "Работоргівля з Клубом «Біла Рукавичка»"
+oregon_cannibal_white_glove_slave_trade_desc:0 ""
+
+oregon_cannibal_widespread_cannibalism:0 "Повсюдне Людожерство"
+oregon_cannibal_widespread_cannibalism_desc:0 ""
+
+oregon_cannibal_fighting_cannibalism:0 "Боротьба з Людожерством"
+oregon_cannibal_fighting_cannibalism_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism_hands:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_hands_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism_legs:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_legs_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism_hands_legs:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_hands_legs_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism_hands_legs_mind:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_hands_legs_mind_desc:0 ""
+
+oregon_cannibal_ritualised_cannibalism_final:0 "Ритуалізоване Людожерство"
+oregon_cannibal_ritualised_cannibalism_final_desc:0 ""
+
+oregon_cannibal_reformed_cannibals:0 "Реформовані Людожери"
+oregon_cannibal_reformed_cannibals_desc:0 ""
+
+oregon_cannibal_new_line:0 " \n"
+
+oregon_cannibal_fighting_off_cannibalism_tt:0 "\nПодальші фокуси у цьому дереві допоможуть скоротити цей час.\n"
+
+mdt_serpent_guard:0 "Ми відправляємо Зміїну Гвардію — підрозділ §Yелітної піхоти§! для охорони Ламачів Ребер."
+
+mdt_pact_perpetual:0 "§gТепер, коли ми розібрались із Супермутантами, настав час звернути увагу на нашого нового підданого — [RBT.GetName]. Ми маємо забезпечити, щоб ця тваринка служила нам вічно, а не думала про втечу.§!"
+
+mdt_envoy_for_war:0 "§gМи посилаємо «посланця» на північ і робимо [RBT.Getname] просту пропозицію: дозвольте нам воювати за вашу незалежність в обмін на «Договір про Службу» або ж ми вторгнемося не лише в [TRL.Getname], але й у вас.§!"
+
+mdt_has_not_accepted_pact_of_servitude:0 "§Y[RBT.GetNameWithFlag]§! не прийняли нашої пропозиції або ми її не надсилали.§!"
+
+mdt_super_mutants_loyal:0 "§gТепер, коли Перший нарешті побачив бачення [MDT.GetLeader], решта Супермутантів починають підкорятися!§!\n"
+
+mdt_gecko_warriors:0 "§g[MDT.GetLeader] використовує свої Месметрони для зламу свідомості регіональних геків, перетворюючи їх на могутніх ящіркових воїнів!§!\n"
+
+mdt_first_commander:0 "§g[MDT.GetLeader] із великими труднощами нарешті зламала волю стійкого лідера Тролевого Сховища — Першого!§!\n"
+
+mdt_mlulu_commander:0 "§g[MDT.GetLeader] використовує свої «темні чари», щоб змусити членів Коралового Двору передати їй контроль над їхнім великим звіром М'лулу!§!\n"
+
+mdt_convert_unit_leaders:0 "§g[MDT.GetLeader] застосовує «містичні чарівні маніпуляції», щоб примусово зомбувати командирів [THIS.Getname].§!\n    §Y90%§! шанс на §Gповне підпорядкування.§!\n    §Y10%§! шанс на... §Rвибух мозку.§!\n"
+
+mdt_queen:0 "§Y[ROOT.GetLeader]§! отримає титул §Y«Королева»§!\n"
+
+mdt_rename_states_tt:0 "\n§gВплив Месмеральди поширюється на всі підкорені штати Орегону, перейменовуючи їх згідно з її баченням!§!"
+
+mdt_the_gorgons_scheme:0 "Плани Горгони"
+mdt_the_gorgons_scheme_desc:0 ""
+
+mdt_artefacts_of_control:0 "Реліквії Контролю"
+mdt_artefacts_of_control_desc:0 "Месмеральда володіє кількома «унікальними» реліквіями старого світу, які вона забрала з часів перебування у «Гадюках»: рабські нашийники, месметрони та інші зловісні «зачаровані артефакти». Завдяки їм вона може керувати підданими з набагато більшою ефективністю, ніж її суперники."
+
+mdt_if_they_are_puppeted_annex:0 "Якщо вони є суб'єктами §Y[MDT.GetNameDef]§!, вони будуть §Gмиттєво анексовані.§!\n"
+
+oregon_cannibal_one_year_off_rooting_tt:0 "Скорочує §YБоротьбу з людожерством§! на §Y365§! днів.\n"
