@@ -1,0 +1,132 @@
+﻿l_english:
+settler_nation:0 "Нація Поселенців"
+settler_nation_desc:0 ""
+
+erect_palisade:0 "Зведення Палісадника"
+erect_palisade_desc:0 ""
+
+local_pride:0 "Місцева Гордість"
+local_pride_desc:0 ""
+
+labor_treaties:0 "Трудові Угоди"
+labor_treaties_desc:0 ""
+
+new_schools:0 "Нові Школи"
+new_schools_desc:0 ""
+
+firefighter_protection:0 "Протипожежний Захист"
+firefighter_protection_desc:0 ""
+
+police_protection:0 "Поліцейський Захист"
+police_protection_desc:0 ""
+
+tato_farming:0 "Вирощування Тато"
+tato_farming_desc:0 ""
+
+brahmin_herding:0 "Пасіння Брамінів"
+brahmin_herding_desc:0 ""
+
+enforced_trade_laws:0 "Посилені Торгові Закони"
+enforced_trade_laws_desc:0 ""
+
+construction_protection:0 "Будівельний Захист"
+construction_protection_desc:0 ""
+
+wall_construction:0 "Будівництво Стіни"
+wall_construction_desc:0 ""
+
+established_armory:0 "Створення Арсеналу"
+established_armory_desc:0 ""
+
+chem_lab:0 "Хімічна Лабораторія"
+chem_lab_desc:0 ""
+
+settler_robco:0 "RobCo"
+settler_robco_desc:0 ""
+
+oligarchical_power:0 "Олігархічна Влада"
+oligarchical_power_desc:0 ""
+
+settler_monopoly:0 "Монополії Поселенців"
+settler_monopoly_desc:0 ""
+
+eliminating_rivals:0 "Усунення Суперників"
+eliminating_rivals_desc:0 ""
+
+settlerbodyguards:0 "Особисті Охоронці"
+settlerbodyguards_desc:0 ""
+
+loyalty_idea:0 "Лояльність"
+loyalty_idea_desc:0 ""
+
+settler_subsidized_weapon_manufacturers:0 "Субсидоване Виробництво Зброї"
+settler_subsidized_weapon_manufacturers_desc:0 ""
+
+militia_posters:0 "Пропаганда Міліції"
+militia_posters_desc:0 ""
+
+encourage_women:0 "Заохочення Жінок до Служби"
+encourage_women_desc:0 ""
+
+militia_drilling:0 "Навчання Міліції"
+militia_drilling_desc:0 ""
+
+marching_drills:0 "Марширувальні Вправи"
+marching_drills_desc:0 ""
+
+settler_old_tactics:0 "Тактики Старого Світу"
+settler_old_tactics_desc:0 ""
+
+settler_militia_organization:0 "Організація Міліції"
+settler_militia_organization_desc:0 ""
+
+settler_standardized_military:0 "Стандартизоване Військо"
+settler_standardized_military_desc:0 ""
+
+settler_fallback_tactics:0 "Резервні Тактики"
+settler_fallback_tactics_desc:0 ""
+
+settler_tactical_awareness:0 "Тактична Обізнаність"
+settler_tactical_awareness_desc:0 ""
+
+settler_point_defence:0 "Точкова Оборона"
+settler_point_defence_desc:0 ""
+
+settler_wasteland_settlers:0 "Поселенці Пустки"
+settler_wasteland_settlers_desc:0 ""
+
+settler_long_distance_movements:0 "Далекі Переходи"
+settler_long_distance_movements_desc:0 ""
+
+settler_medical_protection:0 "Медичний Захист"
+settler_medical_protection_desc:0 ""
+
+settler_militia_commanders:0 "Командири Міліції"
+settler_militia_commanders_desc:0 ""
+
+caravanmilitia:0 "Караванна Міліція"
+caravanmilitia_desc:0 ""
+
+settlerdefendingwitha:0 "Місто Найманців"
+settlerdefendingwitha_desc:0 ""
+
+settlerdefendingwithb:0 "Місто Скарбошукачів"
+settlerdefendingwithb_desc:0 ""
+
+settlerdefendingwithc:0 "Місто Віця"
+settlerdefendingwithc_desc:0 ""
+
+settler_council_of_minds:0 "Рада Розумів"
+settler_council_of_minds_desc:0 ""
+
+settlercleanwater:0 "Чиста Вода"
+settlercleanwater_desc:0 ""
+
+settlerpowerful:0 "Могутні"
+settlerpowerful_desc:0 ""
+
+settleradvanced:0 "Передові"
+settleradvanced_desc:0 ""
+
+settlerwealthy:0 "Заможні"
+settlerwealthy_desc:0 ""

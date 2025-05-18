@@ -1,0 +1,335 @@
+﻿l_english:
+  national_spirit_rejection_of_automation:0 "Відмова від автоматизації"
+  national_spirit_rejection_of_automation_desc:0 "Цезар уявляє суспільство, яке працює як єдине ціле. Повернення машин та інших довоєнних інструментів зашкодить прагненню, яке Цезар прищеплює своїм підданим."
+
+  cultofmars:0 "Культ Марса"
+  cultofmars_desc:0 "Легіон вірить, що Цезар — Син Марса, бога війни, який приніс очищувальний вогонь на землю, щоб його син міг завоювати її. Вони віддані Цезарю до фанатизму."
+
+  cultofmars1:0 "Подих єресі"
+  cultofmars2:0 "Брат Бога — Вулкан"
+  cultofmars3:0 "Старший брат"
+  cultofmars4:0 "Культ Вулкана"
+
+  legion_nf_enslaved_dogs:0 "Поневолені пси"
+  legion_nf_enslaved_dogs_desc:0 ""
+
+  legion_nf_flagstaff_slaves:0 "Раби з Флеґстаффа"
+  legion_nf_flagstaff_slaves_desc:0 ""
+
+  legion_nf_phoenix_slaves:0 "Фенікські раби"
+  legion_nf_phoenix_slaves_desc:0 ""
+
+  legion_nf_two_sun_slaves:0 "Раби Двох Сонць"
+  legion_nf_two_sun_slaves_desc:0 ""
+
+  legion_nf_warcamp_slaves:0 "Раби з військового табору"
+  legion_nf_warcamp_slaves_desc:0 ""
+
+  legion_nf_homestead_slaves:0 "Раби з хуторів"
+  legion_nf_homestead_slaves_desc:0 ""
+
+  legion_nf_numeri:0 "Нумері"
+  legion_nf_numeri_desc:0 ""
+
+  legion_nf_lay_of_the_land:0 "Знання місцевості"
+  legion_nf_lay_of_the_land_desc:0 ""
+
+  legion_nf_legionary_grit:0 "Легіонерська стійкість"
+  legion_nf_legionary_grit_desc:0 ""
+
+  legion_nf_praetorian:0 "Преторіанець"
+  legion_nf_praetorian_desc:0 ""
+
+  legion_nf_meritocracy:0 "Меритократія"
+  legion_nf_meritocracy_desc:0 ""
+
+  legion_nf_legionary_blacksmiths:0 "Легіонерські ковалі"
+  legion_nf_legionary_blacksmiths_desc:0 ""
+
+  legion_nf_enslaved_scribes:0 "Поневолені писарі"
+  legion_nf_enslaved_scribes_desc:0 ""
+
+  legion_nf_gladiator:0 "Гладіатори"
+  legion_nf_gladiator_desc:0 ""
+
+  legion_nf_burned_man_rumours:0 "Чутки про Спаленого"
+  legion_nf_burned_man_rumours_desc:0 ""
+
+  legion_nf_the_bulls_wounds:0 "Рани Бика"
+  legion_nf_the_bulls_wounds_desc:0 ""
+
+  legion_nf_worthy_foe:0 "Гідний ворог"
+  legion_nf_worthy_foe_desc:0 ""
+
+  legion_nf_nova_roma:0 "Нова Рома"
+  legion_nf_nova_roma_desc:0 ""
+
+  legion_nf_vegas_strip:0 "Вогні Вегаса"
+  legion_nf_vegas_strip_desc:0 ""
+
+  legion_nf_overextension:0 "Надмірне розширення"
+  legion_nf_overextension_desc:0 ""
+
+  legion_nf_new_thesis:0 "Нова теза"
+  legion_nf_new_thesis_desc:0 ""
+
+  legion_nf_immortal_empire:0 "Безсмертна імперія"
+  legion_nf_immortal_empire_desc:0 ""
+
+  legion_nf_spqr:0 "S.P.Q.R"
+  legion_nf_spqr_desc:0 ""
+
+  legion_nf_pax_romana:0 "Pax Romana"
+  legion_nf_pax_romana_desc:0 ""
+
+  legion_nf_fort_focus:0 "Зусилля зі зведення фортів"
+  legion_nf_fort_focus_desc:0 ""
+
+  legion_nf_factory_focus:0 "Зусилля зі зведення виробництв"
+  legion_nf_factory_focus_desc:0 ""
+
+  legion_nf_follower_slaves:0 "Раби Послідовників"
+  legion_nf_follower_slaves_desc:0 ""
+
+  legion_nf_servus:0 "Серви"
+  legion_nf_servus_desc:0 ""
+
+  legion_nf_slave_collars:0 "Рабські нашийники"
+  legion_nf_slave_collars_desc:0 ""
+
+  legion_nf_freemen:0 "Вільні люди"
+  legion_nf_freemen_desc:0 ""
+
+  legion_nf_foundries_of_mars:0 "Ливарні Марса"
+  legion_nf_foundries_of_mars_desc:0 ""
+
+  legion_nf_pax_per_bellum:0 "Мир через війну"
+  legion_nf_pax_per_bellum_desc:0 ""
+
+  legion_nf_child_soldiers:0 "Дитячі солдати"
+  legion_nf_child_soldiers_desc:0 ""
+
+  legion_nf_hoover_dam:0 "Гребля Гувера"
+  legion_nf_hoover_dam_desc:0 ""
+
+  legion_nf_weapon_maintenance:0 "Обслуговування зброї"
+  legion_nf_weapon_maintenance_desc:0 ""
+
+  legion_nf_unit_tactics:0 "Тактика підрозділів Легіону"
+  legion_nf_unit_tactics_desc:0 ""
+
+  legion_nf_explosives_creation:0 "Методи виробництва вибухівки"
+  legion_nf_explosives_creation_desc:0 ""
+
+  legion_nf_ridgers_pyre:0 "Процвітаюча економіка"
+  legion_nf_ridgers_pyre_desc:0 ""
+
+  legion_nf_kaibab_crucifiction:0 "Бог племен"
+  legion_nf_kaibab_crucifiction_desc:0 ""
+
+  legion_nf_profligate_destruction:0 "Розгнуздане знищення"
+  ilegion_nf_profligate_destruction_desc:0 ""
+
+  legion_chariots_of_gods:0 "Колісниці Бога"
+
+  ces_scribes_slaves:0 "Вцілілі зі Сліперів"
+  ces_scribes_slaves_desc:0 "Суміш заморожених та довоєнних науковців, які після смерті свого господаря вважали, що можуть безкарно мандрувати землями Легіону. Тепер вони служать лише Цезарю."
+
+  legion_nf_divide_et_impera:0 "Поділяй і володарюй"
+  legion_nf_divide_et_impera_desc:0 ""
+
+  legion_nf_decimatio:0 "Децимація"
+  legion_nf_decimatio_desc:0 ""
+
+  legion_gr_reduce_pop:0 "Зменшення людських ресурсів"
+  legion_gr_reduce_pop_desc:0 ""
+
+  CES_code_talkers:0 "Таємниці навахо"
+  legion_slave_trade:0 "Работоргівля Легіону"
+
+  ces_equities_idea:0 "Еквіти"
+  national_spirit_distrust_machines:0 "Недовіра до машин"
+  national_spirit_limited_automation:0 "Обмежена автоматизація"
+  national_spirit_rejection_of_automation1:0 "Обмежене машинобудування"
+  national_spirit_rejection_of_automation2:0 "Індустріальні лицеміри"
+  national_spirit_rejection_of_automation3:0 "Краще втекти, ніж померти даремно"
+  legion_training:0 "Тренування Легіону"
+  legion_training_non_lar:0 "Тренування Легіону"
+
+  nav_pathfinders:0 "Провідники з навахо"
+  nav_pathfinders2:0 "Провідники Легіону"
+  nav_pathfinders_encryption:0 "Розвідники навахо"
+
+  two_sun_cliens:0 "Клієнти Двох Сонць"
+  two_sun_cliens2:0 "Клієнти Двох Сонць"
+
+  legion_select_few1:0 "Вістря меча"
+  legion_select_few2:0 "Вістря меча"
+
+  cultofmars_principes:0 "Принцепси"
+  cultofmars_triplex:0 "Тріплекс"
+
+  legion_tribute_idea_navajo:0 "Данина навахо Легіону"
+  legion_tribute_idea_hopi:0 "Данина хопі Легіону"
+
+  two_speedway_toll:0 "Мито з автомагістралі"
+  two_oval_tithe_idea:0 "Овальний податок"
+
+  manumissio:0 "Відпущення на волю"
+  manumissio1:0 "Відпущення на волю"
+  manumissio2:0 "Відпущення на волю"
+  manumissio3:0 "Відпущення на волю"
+  manumissio4:0 "Зразкові раби"
+
+  via_militaris:0 "Військова дорога"
+  via_militaris_2:0 "Народна дорога"
+  via_militaris_3:0 "Дивина світу"
+
+  legionary_state:0 "Легіон з державою"
+  legionary_state_desc:0 "О, в Легіону є міста, але врешті-решт це суспільство існує для служби Легіону. Війна — це все, що він знає. Поки що."
+  legionary_state1:0 "Казарми Легіону"
+  legionary_state2:0 "Озброєний табір"
+  legionary_state3:0 "Вони зроблять пустку..."
+  legionary_state4:0 "...і назвуть її миром"
+  legionary_state5:0 "Легіон, гідний імперії"
+
+  ces_fortress_arizona:0 "Фортеця Аризона"
+  ces_fortress_arizona_desc:0 "Смерть Цезаря глибоко потрясла вірного Луція, і тепер його головним пріоритетом є захист спадщини Цезаря. План «Фортеця Аризона» простий — масштабні укріплення, покликані захистити Серце Легіону, поки той не відновиться."
+  ces_fortress_arizona1:0 "Фортеця Народу"
+  ces_fortress_arizon1:0 "Стіна Луція"
+
+  state_of_legion:0 "Імперія без кінця"
+  roman_citizens:0 "Громадяни Легіону"
+  roman_citizens2:0 "Громадяни Риму"
+
+  ces_tithes:0 "Данина"
+  ces_tithes1:0 "Тягарі імперії"
+
+  ces_aequitas_idea:0 "Справедливість (Aequitas)"
+
+  southern_friends:0 "Наш південний друг"
+  ces_tribute_to_hades:0 "Плата перевізнику"
+
+  frumentarii_advisors:0 "Фрументарії-друзі"
+
+  WHT_compassion:0 "Суворе, але справедливе правління"
+  WHT_oppression:0 "Жорстокість"
+
+  library:0 "Велика бібліотека"
+
+  ces_legionary_glory:0 "Слава Легіону"
+  ces_caesar_is_cool_idea:0 "Правитель Пустки"
+  ces_primus_glory_idea:0 "Слава Примуса"
+  ces_centurion_glory_idea:0 "Слава Центуріона"
+  ces_decanius_glory_idea:0 "Слава Декана"
+
+  ces_auxiliaries_idea:0 "Ауксилії"
+  ces_auxiliaries_integration:0 "Інтегровані ауксилії"
+  ces_lessons_haskhesh_idea:0 "Уроки Гашкеша"
+  ces_long_war_idea:0 "Кампанія в Мохаве"
+  infiltrate_ncr:0 "Інфільтрація НКР"
+  infiltrate_ncr_resistance:0 "Інфільтрація НКР"
+  CES_armories_gente_idea:0 "Склади Дженте відкрито!"
+  ces_canis_latrans_idea:0 "Пси"
+  CES_urban_legionaries_idea:0 "Міські легіонери"
+  ces_frumentarii_drilmasters_idea:0 "Інструктори"
+  ces_frumentarii_infiltrator_idea:0 "Розвідники"
+  ces_frumentarii_generals_idea:0 "Генерали"
+  ces_frumentarii_guide_idea:0 "Провідники"
+  ces_desert_idea:0 "Пустельна підготовка"
+  ces_frumentarii_officers_idea:0 "Офіцери фрументаріїв"
+  ces_tip_of_spear_idea:0 "Вістря списа"
+  ces_vulpes_guard_idea:0 "Що ми робимо в тіні"
+  ces_legionary_inger_idea:0 "Ангели милосердя"
+  ces_inger_funding_idea:0 "Місце жінки"
+  ces_legionary_support_idea:0 "Очищувальний вогонь"
+  CES_vulcan_legion_idea:0 "Легіон Вулкана"
+  CES_vulcan_legion_idea_2:0 "Легіон Вулкана"
+  CES_vulcan_legion_idea_3:0 "Легіон Вулкана"
+  CES_vulcan_chariots_idea:0 "По-моєму, або ніяк"
+  CES_vulcan_chariots_idea_2:0 "Молот і ковадло"
+  CES_vulcan_chariots_idea_3:0 "Культ Нас поширюється"
+  ces_infinite_armies:0 "Нескінченні легіони"
+  ces_ever_evolving_idea:0 "Вічна еволюція"
+  ces_new_generation_idea:0 "Нове покоління"
+  ces_biding_our_time_idea:0 "Чекаємо слушного моменту"
+  CES_modern_triarii_idea:0 "Сучасні триарії"
+  ces_auxiliary_supremacy_idea:0 "Перевага ауксилій"
+  CES_legionary_support_idea:0 "Очищувальне полум’я"
+  CES_fire_fuel_idea:0 "Вогні Тартару"
+  CES_malpais_power_support:0 "Горе грішникам"
+  CES_ghoul_dogs:0 "Пекельні пси"
+  CES_ghoul_dogs_desc:0 ""
+  CES_healthy_ghouls:0 "Природжені гуль"
+  CES_healthy_ghouls_2:0 "Природжені гуль"
+  CES_acceptable_failures_idea:0 "Допустимі провали"
+  CES_acceptable_failures_idea_desc:0 ""
+  CES_go_pluto_idea:0 "Вшанування Стародавнього Риму"
+  CES_go_pluto_idea_desc:0 ""
+  CES_gente_ghoul_deal:0 "Пропозиція Дженте"
+  CES_gente_ghoul_deal_desc:0 ""
+  CES_funding_profligates_idea:0 "Підтримка розпусників"
+  CES_funding_profligates_idea_desc:0 ""
+  CES_taa_arms_improvements_idea:0 "Озброєння з Техасу"
+  CES_taa_arms_improvements_idea_desc:0 ""
+  CES_mineral_wealth_idea:0 "Скарби підземного світу"
+  CES_mineral_wealth_idea_desc:0 ""
+  CES_relieved_tensions_idea:0 "Зменшення напруги"
+  CES_relieved_tensions_idea_desc:0 ""
+  CES_eternal_flame_idea:0 "Вічне полум’я"
+  CES_eternal_flame_idea_desc:0 ""
+  CES_stay_hades_idea:0 "Переважаючий шлях"
+  CES_stay_hades_idea_desc:0 ""
+  CES_athens_idea:0 "Мудрість Афін"
+  CES_athens_idea_desc:0 ""
+  CES_sparta_idea:0 "Міць Спарти"
+  CES_sparta_idea_desc:0 ""
+  CES_ghoul_nation_idea:0 "Притулок для гулів"
+  CES_ghoul_nation_idea_desc:0 ""
+  CES_underworld_surfaces_idea:0 "Повстання Підземного Світу"
+  CES_underworld_surfaces_idea_desc:0 ""
+  CES_ghoul_navajo_idea:0 "Данина навахо"
+  CES_ghoul_navajo_idea_desc:0 ""
+  CES_ghoul_two_sun_idea:0 "Данина Двох Сонць"
+  CES_ghoul_two_sun_idea_desc:0 ""
+  CES_go_east_idea:0 "Шлях на схід"
+  CES_go_east_idea_desc:0 ""
+  CES_los_teachings_idea:0 "Вчення Церкви"
+  CES_los_teachings_idea_desc:0 ""
+  CES_tlp_teachings_idea:0 "Стратегії Старого Світу"
+  CES_tlp_teachings_idea_desc:0 ""
+  CES_whd_teachings_idea:0 "Жорстке правління"
+  CES_whd_teachings_idea_desc:0 ""
+  CES_bel_teachings_idea:0 "Зимова тактика"
+  CES_bel_teachings_idea_desc:0 ""
+  CES_experienced_ghouls_idea:0 "Довге життя"
+  CES_experienced_ghouls_idea_desc:0 ""
+  CES_davison_schizophrenia:0 "§RВоля Антлера§!"
+  CES_davison_schizophrenia_2:0 "§RВоля Антлера§!"
+  CES_davison_schizophrenia_3:0 "§RВоля Антлера§!"
+  CES_nightkin_frumentaries:0 "§2Воїни Сомнуса§!"
+  CES_nightkin_frumentaries_2:0 "§2Воїни Сомнуса§!"
+  CES_fev_pool_mutants:0 "§GРезервуар F.E.V.§!"
+  CES_fev_pool_mutants_nightkins:0 "§2Резервуар F.E.V.§!"
+  CES_nightkin_research:0 "§2Дослідження найткінів§!"
+  CES_nightkin_migration:0 "§2Міграція найткінів§!"
+  CES_stealthboy_stash:0 "§gСховище Стелсбоїв§!"
+  CES_hades_legion:0 "§8Легіон Гадеса§!"
+  CES_lanius_campaign:0 "Східний когорт"
+  CES_gila_navigators:0 "Flumen Nostrum"
+  CES_gila_navigators_desc:0 "Там, де припливи сягають серця Фенікса, горді мореплавці Аризони вирушають із пристані. Судна торговців, Преторіанський флот та наші Socii Navales постійно рухаються Гілою. Під час своїх подорожей моряки складають карти західних вод; але найбільше — самого русла ріки. Ми стоїмо на фланзі Колорадо — Flumen Nostrum — і саме тут ми маємо намір заволодіти нею. З естуарію ми почнемо."
+
+  CES_frontier_toll:0 "Випробування рубежу"
+  CES_frontier_toll_desc:0 ""
+  CES_merciless_cohort:0 "Милосердна спустошеність"
+  CES_merciless_cohort_desc:0 ""
+  CES_triumph_reliance:0 "Опора на тріумф"
+  CES_triumph_reliance_desc:0 ""
+  CES_lessons_denver:0 "Уроки Денвера"
+  CES_learning_to_build_quickly:0 "Інженерія Легіону"
+  CES_learning_to_build_quickly_desc:0 ""
+  CES_comprehensive_training:0 "Комплексна підготовка"
+  CES_comprehensive_training_desc:0 ""
+
+  ces_legionary_pacification_dynamic_modifier:0 "Умиротворення Легіоном"
+

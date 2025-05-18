@@ -1,0 +1,41 @@
+﻿l_english:
+  legion_owns_cores_all_vegas_states_tt:0 "§Y[CES.GetNameDef]§! володіє, контролює та має ядра на всіх ядрових землях §Y[VEG.GetNameDef]§!."
+  legion_owns_all_mojave_bos_core_states_tt:0 "§Y[CES.GetNameDef]§! володіє та контролює всі ядрові землі §Y[MOJ.GetNameDef]§!."
+
+  ces_add_two_vulpes_opinion:0 "§YВулпес§!§L змінить думку про §!§Y[TWO.GetName]§!§L на краще§!"
+  ces_add_two_lucius_opinion:0 "§YЛуцій§!§L змінить думку про §!§Y[TWO.GetName]§!§L на краще§!"
+  ces_add_two_aurelius_opinion:0 "§YАурелій§!§L змінить думку про §!§Y[TWO.GetName]§!§L на краще§!"
+  ces_add_gdh_vulpes_opinion:0 "§YВулпес§!§L змінить думку про §!§Y[GDH.GetName]§!§L на краще§!"
+  ces_add_ghd_lucius_opinion:0 "§YЛуцій§!§L змінить думку про §!§Y[GDH.GetName]§!§L на краще§!"
+  ces_add_gdh_aurelius_opinion:0 "§YАурелій§!§L змінить думку про §!§Y[GDH.GetName]§!§L на краще§!"
+
+  self_add_vulpes_opinion:0 "§YВулпес§!§L змінить думку про нас на краще§!"
+  self_add_lucius_opinion:0 "§YЛуцій§!§L змінить думку про нас на краще§!"
+  self_add_aurelius_opinion:0 "§YАурелій§!§L змінить думку про нас на краще§!"
+
+  ces_ultima_decided_trigger:0 "§LРадники визначились, або ж Цезар втомився від цієї суперечки§!"
+  ces_ultima_friendship:0 "Цезар сказав: \"§OFors Iuvat Audentes§!\""
+  ces_ultima_to_two:0 "Цезар дозволив Двом Сонцям правити всією Ковбойською Землею"
+  ces_ultima_to_gdh:0 "Цезар подарував §MУльтімо§! фракції §YСини Сонця§!."
+
+  NAV_heal_caesar_trigger_tt:0 "Стан здоров’я Цезаря погіршився."
+  caesar_was_healed_tt:0 "§YБіль Цезаря полегшився.§!"
+
+  ces_davison_and_antler_tt: "\n§YДевісон... і Антлер?§! стають командиром підрозділу\n§LРівень§!: §Y4§!\n§RНавичка атаки§!: §Y5§!\n§GНавичка захисту§!: §Y3§!\n§PПланування§!: §Y1§!\n§MЛогістика§!: §Y1§!\n\n"
+  ces_keen_tt: "§LРівень§!: §Y4§!\n§RНавичка атаки§!: §Y4§!\n§GНавичка захисту§!: §Y2§!\n§PПланування§!: §Y1§!\n§MЛогістика§!: §Y3§!\n\n"
+  ces_shale_tt: "§LРівень§!: §Y5§!\n§RНавичка атаки§!: §Y4§!\n§GНавичка захисту§!: §Y2§!\n§PПланування§!: §Y3§!\n§MЛогістика§!: §Y3§!\n\n"
+  ces_giants_tt: "§YЧим §Gвелетні§! можуть перейматися?§!"
+  ces_nightkins_migration_tt: "\n§Y§2Найткіни§! дізналися, що знайдено ліки, й тепер прагнуть потрапити до земель Легіону в надії на зцілення.§!"
+  ces_shizo_davison:0 "Антлер і Девісон"
+  ces_cured_davison:0 "Девісон"
+
+  ces_measles_tt: "§LРівень§!: §Y3§!\n§RНавичка атаки§!: §Y3§!\n§GНавичка захисту§!: §Y2§!\n§PПланування§!: §Y2§!\n§MЛогістика§!: §Y1§!\n§gРиси§!: §tСильний§!, §tСтійкий§!, §tСтворений руйнувати§!\n\n"
+  ces_green_tt: "§LРівень§!: §Y4§!\n§RНавичка атаки§!: §Y3§!\n§GНавичка захисту§!: §Y2§!\n§PПланування§!: §Y3§!\n§MЛогістика§!: §Y2§!\n§gРиси§!: §tСпостережливий§!, §tІнтелігентний§!, §tУмілий§!\n\n"
+
+  ces_vlp_fantasticus_tt:0 "§O'Пікус' стане культурним радником§!"
+  ces_vlp_fantasticus_puppet_tt:0 "§O'Пікус' очолить наші війська в Мохаве як маріонетка§!"
+
+  ces_tribal_tech_visibility_tt:0 "\n§OЛегіон не може досліджувати племінні технології безпосередньо, але деякі можна отримати через фокуси.§!\n"
+  ces_tt_event_effect:0 "\n§gЗгадана подія матиме такі наслідки:§!\n\n"
+
+  CES_searchlight_raided_flag:0 "Табір Сьорчлайт вже був розграбований"

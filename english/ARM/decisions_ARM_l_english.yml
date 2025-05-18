@@ -1,0 +1,18 @@
+﻿l_english:
+arm_railway_reconstruction_decision_category:0 "Відбудова залізниці"
+arm_rebuild_tampico_station:0 "Відбудувати станцію Тампіко"
+arm_extend_tracks_into_la_pesca:0 "Продовжити колії до Ла-Пески"
+arm_extend_tracks_into_ciudad_valles:0 "Продовжити колії до Сьюдад-Вальєс"
+arm_extend_tracks_into_ciudad_victoria:0 "Продовжити колії до Сьюдад-Вікторія"
+arm_rebuild_reynosa_station:0 "Відбудувати станцію Рейноса"
+arm_extend_tracks_into_san_carlos:0 "Продовжити колії до Сан-Карлоса"
+arm_extend_tracks_into_forlorn_slipway:0 "Продовжити колії до Занедбаного Слипвею"
+arm_connect_the_northern_and_southern_lines:0 "З'єднати північну та південну гілки"
+arm_border_wars:0 "Чинити тиск на ворогів"
+arm_border_war_rio:0 "Чинити тиск на Армагеддон-Естасьйон"
+arm_border_war_rio_desc:0 "Ріо справді варто передати станцію. Подивіться на них — вони ледь тримають оборону проти зграї асолтронів."
+
+### Велика Гра ###
+ARM_taa_food:0 "Велика гра"
+ARM_taa_food_desc:0 "Сепарація TAA від Республіки Ріо-Гранде мала принести їм свободу, але для деяких сусідів це лише нова здобич. Час покаже, чи зможе [TAA.GetLeader] врятувати свою молоду націю. \n\nПоточний стан впливу сусідів TAA: \n§M[RRG.GetNameWithFlag]§!: \n§M[ARM.GetNameWithFlag]§!: \n§M[ACH.GetNameWithFlag]§!:0"
+
