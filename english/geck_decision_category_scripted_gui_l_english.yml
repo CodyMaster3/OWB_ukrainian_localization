@@ -1,0 +1,27 @@
+﻿l_english:
+  # GUIs:
+  GECK_DECISION_CATEGORY_SCRIPTED_GUI_ENTRY_BUTTON_TT: "[This.GetGECKUsabilityTooltip]"
+
+  GECK_IN_USE_TOOLTIP: "Ви не можете вибрати нову провінцію поки поточне розгортання ГЕКК-а не завершилося."
+  GECK_USABLE_TOOLTIP: "§GКлацніть§! щоб вибрати/скасувати розгортання ГЕКК-а в §Y[This.GetName]§!."
+  GECK_TOO_DEVELOPED_TOOLTIP: "§Y[This.GetName]§! занадто розвинене для розгортання ГЕКК-а. Ми ризикуємо завдати ушкоджень уже наявній там інфраструктурі."
+  GECK_IMPASSABLE_TOOLTIP: "§Y[This.GetName]§! недоступно для розгортання ГЕКК-а."
+
+  GECK_USABLE_NAME: "[This.GetName]"
+  GECK_UNUSABLE_NAME: "§g[This.GetName]§!"
+  GECK_SELECTED_NAME: "£trigger_yes  [This.GetName]"
+  GECK_SELECTED_DISABLED_NAME: "£trigger_yes  §g[This.GetName]§!"
+
+  # Decisions:
+  geck_decision_category: "Генератор Едемських Кущів Компактний"
+  geck_decision_category_desc: "Генератор Едемських Кущів Компактний - це пристрій, здатний перетворити радіоактивну і мертву землю Пустки на землю, придатну для сільського господарства. Під час розгортання ГЕКК зруйнує матерію в заданому йому радіусі та перетворить її на живу, дихаючу й родючу землю, і дозволить життю початися знову."
+
+  deploy_geck: "[GetDeployGeckDecisionName]"
+  GECK_DECSION_NAME_WITHOUT_TARGET: "Розвернути ГЕКК"
+  GECK_DECSION_NAME_WITH_TARGET: "Розвернути ГЕКК в [?geck_target_state.GetName]"
+
+  GECK_HAS_SELECTED_STATE: "Обрано область у списку вище"
+  GECK_STATE_GETS_EFFECTS: "§Y1x§! §G50%§! швидкість дослідження §Yбудівництва§!.\n§Y1x§! §G50%§! швидкість дослідження §Yсільського господарства§!.\n§YВибрана область§!:\n    Тип області змінюється на §Yзахищене стіною поселення§!.\n    Додається §Y2 цивільних майстерень§!.\n    Додається §Y3 інфраструктури§!.\n    Додається виробництво §Y8 одиниць енергії§!.\n    Додається виробництво §Y8 одиниць води§!."
+
+  GECK_INVENTORY_TEXT: "Запаси ГЕКК: §Y[?geck_count]§! £geck_texticon"
+  

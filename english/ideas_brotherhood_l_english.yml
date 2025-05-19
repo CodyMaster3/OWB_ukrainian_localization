@@ -1,0 +1,101 @@
+﻿l_english:
+  bos_underground_hangars: "Підземні ангари"
+  bos_underground_hangars_desc: "Через те, що Лост-Гіллз втратив майже всі свої наземні бункери, наша здатність використовувати наявні в нас технології повітряного базування вкрай обмежена, а наші писарі змушені використовувати винятково наші небагатьох підземні ангари, які залишилися, ретельно розраховуючи час зльоту, щоб входи в ангари не були виявлені НКР."
+
+  bos_enclave_tactical_experience_1: "Тактичний досвід анклаву"
+  bos_enclave_tactical_experience_2: "Тактичний досвід анклаву"
+  bos_enclave_tactical_experience_3: "Тактичний досвід анклаву"
+  bos_mutant_fighting_experience_1: "Тактичний досвід мутантів"
+  bos_mutant_fighting_experience_2: "Тактичний досвід мутантів"
+  bos_mutant_fighting_experience_3: "Тактичний досвід мутантів"
+  bos_legion_fighting_experience_1: "Тактичний досвід легіону"
+  bos_legion_fighting_experience_2: "Тактичний досвід легіону"
+  srg_steel_rangers_armed_corps_1: "Армійський корпус сталевих рейнджерів"
+  srg_steel_rangers_armed_corps_2: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_3: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_4: "$srg_steel_rangers_armed_corps_1$"
+  srg_steel_rangers_armed_corps_5: "$srg_steel_rangers_armed_corps_1$"
+  bos_brotherhood_exodus: "Повернення експедицій"
+  bos_brotherhood_exodus_desc: "З падінням відділення Братство приймає наплив тих, хто вижив, працюючи над тим, щоб їм були призначені нові завдання."
+  bos_state_influence: "Присутність братства"
+  bos_state_influence_desc: "Братство має деяку незначну присутність у цьому регіоні."
+  bos_state_influence_effect_tt: "§YПідземна присутність§!: Якщо §YЛост-Гіллз§! вступає у війну з власником цього регіону, контроль над цим регіоном негайно переходить до §YЛост-Гіллз§!."
+  bos_saviour_of_mankind:0 "Спаситель людства""
+  generic_bos_scribes:0 "Писарі засновники""
+  generic_bos_scribes_desc:0 ""
+
+  generic_bos_paladins:0 "Паладини засновники"
+  generic_bos_paladins_desc:0 ""
+
+  genericbossteellegions:0 "Сталеві легіони"
+  genericbossteellegions_desc:0 ""
+
+  genericbosbosfleshbeforesteel:0 "Плоть перед сталлю"
+  genericbosbosfleshbeforesteel_desc:0 ""
+
+  genericbossbosscriberesearch:0 "Дослідження писарів"
+  genericbosscriberesearch_desc:0 ""
+ 
+  genericbosbunkerthought:0 "Бункерне мислення"
+  genericbosbunkerthought_desc:0 ""
+
+  genericbosaerialsupermacy:0 "Повітряна перевага"
+  genericbosaerialsupermacy_desc:0 ""
+
+  genericbosflightacademy:0 "Льотна академія Братства Сталі"
+  genericbosflightacademy_desc:0 ""
+
+  genericbost45d:0 "Виробництво T-45d"
+  genericbost45d_desc:0 ""
+
+  genericbost51b:0 "Виробництво T-51b"
+  genericbost51b_desc:0 ""
+
+  genericboscombinedoperations:0 "Комбіновані операції"
+  genericboscombinedoperations_desc:0 ""
+
+  genericbossurfaceoutposts:0 "Аванпости на поверхні"
+  genericbossurfaceoutposts_desc:0 ""
+
+  genericbosnewtech:0 "Технологічний прорив"
+  genericbosnewtech_desc:0 ""
+
+  genericbosbosfactoryoutput:0 "Виробничий процес"
+  genericbosfactoryoutput_desc:0 ""
+
+  genericbosresources:0 "Виробництво ресурсів"
+  genericbosresources_desc:0 ""
+
+  genericbos_wastelanders:0 "Вербування гідних жителів Пустки"
+  genericbos_wastelanders_desc:0 ""
+
+  genericbos_new_initiates:0 "Нові покоління"
+  genericbos_new_initiates_desc:0 ""
+
+  genericbos_t45_production:0 "Виробництво броні Братства"
+  genericbos_t45_production_desc:0 ""
+
+  genericbos_ourmight:0 "Постійне вдосконалення"
+  genericbos_ourmight_desc:0 ""
+
+  genericbos_brotherhoodnavy:0 "Морське братство"
+  genericbos_brotherhoodnavy_desc:0 ""
+
+  genericbos_airbases:0 "Відновлення аеропортів"
+  genericbos_airbases_desc:0 ""
+
+  genericbos_workshops:0 "Виробництво друкованих плат"
+  genericbos_workshops_desc:0 ""
+
+  genericbos_powerplants:0 "Електростанції"
+  genericbos_powerplants_desc:0 ""
+
+  genericbos_foundries:0 "Плавка сталі"
+  genericbos_foundries_desc:0 ""
+
+  brotherhoodnavy_1_tt:0 "Збільшити §YМорське братство§! на §G+10% Координація флоту§!"
+  brotherhoodnavy_2_tt:0 "Зменшити §YМорське братство§! на §G-10% Виснаження флоту§!"
+  brotherhoodnavy_3_tt:0 "Збільшити §YМорське братство§! на §G+10% Дальність флоту§!"
+
+  intelligence_defense_boost_dlc_weak_tt:0 "Якщо у вас є La Resistance, ця ідея також дає \n§G2 контррозвідки§! і §G1 сили криптографії§!"
+  intelligence_defense_boost_dlc_strong_tt:0 "Якщо у вас є La Resistance, ця ідея також дає \n§G3 контррозвідки§! і §G2 сили криптографії§!""

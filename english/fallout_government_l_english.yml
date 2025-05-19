@@ -1,0 +1,406 @@
+﻿l_english:
+ raider_ransack_tt:0 "§YRansack:§! As Raiders, we will also raid and plunder the state when we core it.\n  §Y*§!All of the infrastructure in the state will be §Rdamaged§!.\n  §Y*§!We will gain §G+[ROOT.equ_per_infra_from_coring_raider_tt]§! §YInfantry Equipment§! from the states old owner, §G+[ROOT.caps_per_infra_from_coring_raider_tt]k§! §YCaps§! and §G+[ROOT.cp_per_infra_from_coring_raider_tt]§! §YCommand Power§! for each infrastructure damaged."
+ coring_police_div_tt: "§YPeacekeepers:§! When cored, spawn §G[?ROOT.modifier@coring_police_div]§! §YLawkeeper§! division in the state."
+ coring_police_div: "Free §YLawkeeper§! division from Coring"
+ pacification_system_enabled:0 "Pacification System Enabled"
+ coring_raider_infantry_equipment_per_infrastructure_mod:0 "Infantry Equipment from Coring (per Infrastructure)"
+ coring_raider_command_power_per_infrastructure_mod:0 "Command Power from Coring (per Infrastructure)"
+ coring_raider_caps_per_infrastructure_mod:0 "Caps from Coring (per Infrastructure)"
+ disables_the_ransack_coring_mechanic:0 "Disables the Raider §Y"Ransack\"§! Coring Mechanic."
+ enables_the_ransack_coring_mechanic:0 "Enables the Raider §Y"Ransack\"§! Coring Mechanic."
+
+ ruler:0 "Абсолютна влада"
+ ruler_noun:0 "Абсолютна влада"
+ ruler_desc:0 "Влада одного"
+
+ people:0 "Народ"
+ people_noun:0 "Демократія"
+ people_desc:0 "Влада багатьох"
+
+ intellectuals:0 "Інтелігенція"
+ intellectuals_noun:0 "Інтелігенція"
+ intellectuals_desc:0 "Влада Прогресу"
+
+ elites:0 "Еліта"
+ elites_noun:0 "Еліта"
+ elites_desc:0 "Влада малої групи"
+
+  #Broken Coast
+ BRK_ruler_party:0 "Влада Гравена"
+ BRK_elites_party:0 "Влада Рагнара"
+ BRK_intellectuals_party:0 "Вільні мислителі"
+ BRK_people_party:0 "Мягкі серця"
+
+  #NCR
+ NCR_ruler_party:0 "Сепаратисти Могильника"
+ NCR_elites_party:0 "Барони"
+ NCR_intellectuals_party:0 "Партія Старого Світу"
+ NCR_people_party:0 "Конгрес НКР"
+
+  #New Reno
+ NEW_ruler_party:0 "Ван Граффи"
+ NEW_elites_party:0 "Зламані Брати"
+ NEW_intellectuals_party:0 "Райт"
+ NEW_people_party:0 "Бішоп"
+ NEW_enclave_party_long:0 "Анклав"
+ NEW_enclave_party:0 "Анклав"
+ NEW_thradd_party_long:0 "Традд"
+ NEW_thradd_party:0 "Традд"
+
+  #Chichen Itza
+ ITZ_intellectuals_party:0 "Ті'Хуун"
+ ITZ_ruler_party:0 "Каломте"
+ ITZ_elites_party:0 "Ехерсіто"
+ ITZ_people_party:0 "Рада"
+
+  #Tzotzil
+ TDT_people_party:0 "Рада Народу"
+ TDT_elites_party:0 "Іцські лоялісти"
+ TDT_ruler_party:0 "Ті, що бачать"
+ TDT_intellectuals_party:0 "Реформісти"
+
+  #Aztlan
+ ATE_ruler_party:0 "Ті, що бачать"
+ ATE_ruler_party_long:0 "Королівська сім'я"
+ ATE_elites_party:0 "Культ Орла"
+ ATE_intellectuals_party:0 "Культ Ягуара"
+ ATE_people_party:0 "Істинна Мексика"
+
+  #Army of Mexico
+ ARM_ruler_party:0 "Каудільйо"
+
+  #Bone Dancers
+ BDT_people_party:0 "Паломники Небес"
+ BDT_elites_party:0 "Люди з Колонн"
+ BDT_elites_party_long:0 "Люди з Колонн"
+ BDT_intellectuals_party:0 "Пурпурові Послушники"
+ BDT_intellectuals_party_long:0 "Пурпурові Послушники"
+ BDT_ruler_party:0 "Арена Краніума"
+
+  #TVT-Town
+ TVT_people_party:0 "бігуни"
+ TVT_ruler_party:0 "Бачення режисера"
+
+  #TCA
+ TCA_people_party:0 "Круглий стіл Епсилон"
+
+
+
+
+  #Vault City
+ VLT_people_party:0 "Громадянська ліга"
+ VLT_people_party_long:0 "Громадянська ліга"
+ VLT_intellectuals_party:0 "Стара гвардія"
+ VLT_intellectuals_party_long:0 "Стара гвардія"
+ VLT_ruler_party:0 "Культ оновлення"
+ VLT_elites_party:0 "Пацифісти"
+
+  #S'lanter
+ SLN_people_party:0 "Кращі жителі"
+ SLN_elites_party:0 "Ден-Жителі"
+
+  #New Vegas
+ VEG_mortimer_party:0 "Чоловіки вищого товариства"
+ VEG_mortimer_party_long:0 "Люди вищого товариства"
+ VEG_nero_party:0 "Слизький родич відроджується"
+ VEG_nero_party_long:0 "Слизький родич відроджується"
+
+  #Troll Warren
+ TRL_ruler_party:0 "Загін Першого"
+ TRL_elites_party:0 "Загін Піттмана"
+ TRL_intellectuals_party:0 "Загін Беатріс"
+ TRL_people_party:0 "Загін Костяного Рика"
+
+  #The Flawed Parish
+ BRE_ruler_party:0 "Гараж"
+ BRE_elites_party:0 "Наказ"
+ BRE_intellectuals_party:0 "Апостоли"
+ BRE_people_party:0 "Дитячий сад"
+
+  #RRG
+ RRG_people_party:0 "Конституціоналісти"
+ RRG_people_party_long:0 "Конституціоналісти"
+ RRG_elites_party:0 "КИТ"
+ RRG_elites_party_long:0 "Коаліція Інтересів Техасу"
+ RRG_intellectuals_party:0 "Прогрес"
+ RRG_intellectuals_party_long:0 "Прогрес"
+ RRG_ruler_party:0 "Рух"
+ RRG_ruler_party_long:0 "Рух Архітекторів Відрождення"
+
+  #ASS
+ ASS_people_party:0 "Кубинський зв'язок"
+ ASS_elites_party:0 "Пурпурова помста"
+ ASS_intellectuals_party:0 "Мертві Кеннеді"
+ ASS_ruler_party:0 "Змова"
+
+  #CHC
+ CHC_people_party:0 "Колібрі"
+ CHC_elites_party:0 "Скутий Хор"
+ CHC_intellectuals_party:0 "Скутий Хор"
+ CHC_ruler_party:0 "Орден Амброза"
+ CHC_ruler_party_long:0 "Лицарський орден Святого Амброза Армістеда, Захисника Всього Доброго, Сповненого Благих Намірів і такого, що задовольняє Світ і Великий Всесвіт"
+
+  #TOC
+ TOC_people_party:0 ""Північні Туристи""
+ TOC_elites_party:0 "Вартові Белізни"
+ TOC_intellectuals_party:0 "Виживші Сховища 100"
+ TOC_ruler_party:0 "Льодоруби"
+
+  #PMR
+ PMR_people_party:0 "Бродячі надзирателі"
+ PMR_elites_party:0 "Сани"
+ PMR_intellectuals_party:0 "Ріллбагс"
+ PMR_ruler_party:0 "Команда Грейнджера"
+
+  #NOR (Nordicon)
+ NOR_starting_party:0 "Власність Нордикона"
+ NOR_starting_party_long:0 "Власність Нордикона"
+
+  #EHT (Eighties)
+ EHT_people_party:0 "Велике Північне Плем'я"
+ EHT_people_party_long:0 "Велике Північне Плем'я"
+ EHT_elites_party:0 "Банда Флагмана"
+ EHT_elites_party_long:0 "Банда Флагмана"
+ EHT_intellectuals_party:0 "Загублене плем'я"
+ EHT_intellectuals_party_long:0 "Загублене плем'я"
+ EHT_ruler_party:0 "Банда Громовержця"
+ EHT_ruler_party_long:0 "Банда Громовержця"
+
+  # RES
+ RES_ruler_party:0 "Лоялісти доктора Кларка"
+ RES_elites_party:0 "Полковник Грінс Гвардії"
+ RES_intellectuals_party:0 "§GПідрівень 3§! Учені"
+ RES_people_party:0 "Ньюунс"
+
+  #RCK
+ RCK_ruler_party:0 "Влада Тараканів"
+ RCK_ruler_party_long:0 "Влада Тараканів"
+
+  #MLT
+ MLT_elites_party:0 "Кораловий суд"
+ MLT_elites_party_long:0 "Кораловий суд"
+
+  #### Laws #####
+
+  ## Military Law Categories
+
+ outsider_recruitment_laws:0 "Вербування чужинців"
+ undesirables_recruitment_laws:0 "Вербування неугодних"
+ mutant_recruitment_laws:0 "Вербування мутантів"
+ officer_training_laws:0 "Офіцерські тренування"
+ army_training_laws:0 "Армійські тренування"
+
+  ## Outsider Recruitment
+
+ outsider_law_none:0 "Ніяких чужаків"
+ outsider_law_none_desc:0 "Коли ми завойовуємо нові землі і підкорюємо інші народи, треба вирішити що робити з тими, хто залишився після війни. Ми постійно приходитимемо до висновку, що різниця в наших культурах надто велика для їхньої служби в наших лавах."
+ outsider_law_volunteers:0 "Чужаки-добровольці"
+ outsider_law_volunteers_desc:0 "Ми не в змозі відповісти відмовою людині, яка хоче битися за нас, особливо після війни. Навіть якщо вони прийшли не з нашої землі, нам варто давати гвинтівку і патрони кожному, хто захоче битися за нашу справу. Але мовні та культурні бар'єри нікуди не поділися, і з ними доведеться жити."
+ outsider_law_auxiliaries:0 "Підтримка чужаків"
+ outsider_law_auxiliaries_desc:0 "У нас завжди має бути повністю укомплектована солдатами армія, і в цьому нам допоможуть чужинці, яким ми призначимо відповідні ролі. І хоч на повного солдата вони не будуть схожими, вони зможуть підтримувати наших солдатів як тільки зможуть, навіть якщо це заважатиме координації."
+ outsider_law_batallions:0 "Батальйони чужаків"
+ outsider_law_batallions_desc:0 "Щоб знайти здібних солдатів, ми повинні ставитися до інтегрованого населення як до свого власного. Колишні вороги зможуть принести користь перебуваючи в наших спеціальних загонах, чи то вузькоспеціалізовані, чи то змішані. Однак, допускаючи це, ми повинні враховувати заворушення, які можуть виникнути в нашій військовій ієрархії."
+
+  ## Brotherhood Outsider Laws
+
+ outsider_law_brotherhood_initiates:0 "Чужаки-послушники"
+ outsider_law_brotherhood_initiates_desc:0 "Братство може дозволити чужакам бути помічниками наших Паладинів."
+ outsider_law_brotherhood_knights:0 "Чужаки-лицарі"
+ outsider_law_brotherhood_knights_desc:0 "Враховуючи нестачу солдатів, деякі вважають, що ми повинні дозволити досвіченим чужакам ставати Лицарями. Вибраний став таким, врешті-решт."
+
+  ## Undesirable Recruitment Law
+
+ undesirables_law_none:0 "Ніяких невгодних"
+ undesirables_law_none_desc:0 "Якщо ми хочемо зберегти згуртованість і порядок у лавах наших військових, ми повинні забезпечити певний рівень моральності та довіри серед наших людей. Дотримуючись законів нашої країни, ми подбаємо про те, щоб у наших лавах не було жодних злочинців."
+ undesirables_law_petty:0 "Вербування дрібних злочинців"
+ undesirables_law_petty_desc:0 "І хоч закон і порядок це основа успішної армії, скасовувати службу в нашій армії через дрібні злочини - нерозумно і контрпродуктивно. Є цілком вагомі причини, через які людина може вкрасти їжу або порушити закон, і вони не повинні перешкоджати їй у служінні."
+ undesirables_law_homicidal:0 "Вербування вбивць"
+ undesirables_law_homicidal_desc:0 "Технічно, армія - це організована група озброєних людей, які бажають убивати. І якщо вже такі люди - наша головна мета, чому нам варто тримати вбивць і подібних за ґратами, якщо вони можуть використовувати свої навички та кровожерливість на нашу користь? І хоч вони можуть зробити нашу армію і правління більш нестабільним, їхня жорстокість, спрямована на наших ворогів, безсумнівно, стане в пригоді."
+ undesirables_law_raider:0 "Вербування рейдерів"
+ undesirables_law_raider_desc:0 "У наших землях і не тільки існують групи особистостей, які присвятили себе "заробляння\" грошей і влади за допомогою вбивств, здирництва, наркоторгівлі та іншого незаконного. І хоч їхня відкрита відраза до закону і порядку створить достатньо проблем, їхні навички можуть стати в пригоді."
+ undesirables_law_slaver:0 "Вербування рабів"
+ undesirables_law_slaver_desc:0 "І хоч це напевно викличе проблеми з рабовласниками, дарування свободи і гвинтівки кожному рабу, який бажає битися в нашій армії, безсумнівно, збільшить наші ряди. Але не варто давати їм нічого надто небезпечного...\n§YЗменшує множник видобутку рабів на 2.§!"
+
+  ## Mutant Normal Law
+
+ normies_law_none:0 "Ніяких людей"
+ normies_law_none_desc:0 "Люди... люди всюди. На вулицях, у каналізаціях, у лісах, горах і руїнах. Гладкошкірим немає місця поруч із нами."
+ normies_law_allowed:0 "Люди дозволені"
+ normies_law_allowed_desc:0 "Так, гладкошкірі люди можуть полювати і вбивати нас, якщо не тримати їх у вузді. Але це не означає, що серед них усі поголовно вбивці. Ми можемо зрівнятися з добрими і тими людьми, які допоможуть нам."
+
+  ## Mutant Recruitment Law
+
+ mutant_law_none:0 "Ніяких мутантів"
+ mutant_law_none_desc:0 "Пустка повна цими істотами, зміненими наукою або радіацією. Заради нашої військової потужності їх мають вважати небезпечними, дегенеративними і не повинні допускати до служби без винятків. Інакше ми просто поставимо всю нашу армію під ризик."
+ mutant_law_none_allowed_to_remove_tt:0 "§YЦе заблокує наш закон про набір мутантів.§!"
+ mutant_law_ghoul:0 "Вербування гулів"
+ mutant_law_ghoul_desc:0 "Простіше кажучи, гулі більш здатні чинити опір Пустки, ніж звичайна людина. З невразливістю до радіації та витривалою статурою, гуль - ідеальний солдат. Хто може не закликати солдата, який не їсть, не старіє і може пережити найжахливіші поранення?"
+ mutant_law_super:0 "Вербування супермутантів"
+ mutant_law_super_desc:0 "Супермутанти виправдовують слово супер у своїй назві. Войовничі та набагато сильніші й могутніші за кожну людину, супермутанти дуже неслабо поліпшать нашу військову міць. Але в цьому є і свої мінуси. Більшість супермутантів вважають людей жалюгідними та нижчими з істот, що може призвести до непокори та заворушень у наших лавах."
+ mutant_law_both:0 "Вербування всіх мутантів"
+ mutant_law_both_desc:0 "Теорія еволюції проста: слабкі вмирають, сильні живуть. І хоч гулів і супермутантів не можна вважати такими, що повністю перевершують звичайних людей, вони мають багато переваг, які дуже стануть у нагоді в Пустці. Може це й погіршить структуру та стабільність нашої армії та нації, але не можна просто не скористатися перевагами, які вони дадуть нам."
+ robotic_army:0 "Роботи"
+
+  ## Officer Training Laws
+
+ officer_law_local_heroes:0 "Місцеві лідери"
+ officer_law_local_heroes_desc:0 "Коли виникає питання про лідера нашої армії - відповідь проста. По всій нашій нації є унікальні люди, що вирізняються хоробрістю, героїзмом і навичками. У них буде підтримка народу і здатність вести нас до перемоги."
+ officer_law_local_legends:0 "Легенди"
+ officer_law_local_legends_desc:0 "Часом з'являються такі люди, які за короткий термін набирають значну репутацію. Вони можуть бути борцями за свободу, неспинними лінчевателями, мудрецями або навіть страшними бандитами. У них є всі якості для лідерства."
+ officer_law_professional_mercenaries:0 "Досвічені найманці"
+ officer_law_professional_mercenaries_desc:0 "І хоч вербування лідерів з нашої власної нації це хороший варіант, ми також повинні звернути увагу на досвід інших. У Пустки завжди вистачає досвідчених і жорстоких убивць, які з радістю запропонують свої послуги за доволі важкий мішечок із кришками. Ці наймані офіцери, як правило, більш проникливі, кмітливі і переконливі ніж наші власні, і добре впораються з роллю лідера."
+ officer_law_veterans:0 "Загартовані солдати"
+ officer_law_veterans_desc:0 "Ті, хто вже колись добре відслужили солдатом, ідеально підходять на роль лідера інших солдатів. Вони пройшли крізь пекло і повернулися цілими, забравши звідти знання щодо тактики та лідерства. Вони повернуться на поле бою не солдатами, а офіцерами, і тепер вони використовуватимуть свій досвід замість гвинтівки."
+ officer_law_military_academy:0 "Офіцери воєнної академії"
+ officer_law_military_academy_desc:0 "Якщо ми хочемо ще більше зміцнити наше командування, ми повинні звернути більшу увагу на розуміння тактики наших офіцерів, і ми повинні бути впевнені, що навчимо наших лідерів того, що вони повинні знати, так само, як ми навчали б наших солдатів. У результаті наша армія стане міцною бойовою машиною, керованою хитрими і розумними офіцерами."
+
+  ## Mutant Officer Training Laws
+
+ officer_law_mutant_instinct:0 "Інстинкти мутантів"
+ officer_law_mutant_instinct_desc:0 "Супермутанти, кінцевий продукт мутації ВРЕ, жорстокі й небезпечні. Майже 300 кілограм м'язів, прискорена регенерація клітин та імунітет до більшості, якщо не до всіх людських хвороб, у результаті навіть найтупіший мутант - це сила, на яку треба зважати. Через їхню порівняно невелику чисельність порівняно з людською популяцією багато мутантів перебувають в ізоляції, яка веде до того, що вони ні з ким не спілкуються."
+ officer_law_mutant_dumdum:0 ""Дурні""
+ officer_law_mutant_dumdum_desc:0 "Мутанти другого покоління - одні з найпоширеніших мутантів пусток. Хоча їхні розумові здібності обмежені порівняно з першим поколінням, їм не звикати битися. Здатний працювати в команді та використовувати свою грубу силу і витривалість за призначенням, будь-який супермутант може знищити загін ворогів."
+ officer_law_mutant_second:0 "Тренування другого покоління"
+ officer_law_mutant_second_desc:0 "Навіть з усіма розумовими проблемами другого покоління мутантів, ми можемо очікувати від них більше, ніж просто кидок на ворога. Муштра, стрільба по мішенях, тактика невеликих загонів. Це ті речі, що залишилися від людства, які ми не можемо просто так забути."
+ officer_law_mutant_first:0 "Тренування першого покоління"
+ officer_law_mutant_first_desc:0 "Обмеженість наших менших братів не можуть завадити нам реалізувати наш справжній потенціал. Тактичне застосування кількох різних видів зброї, загороджувальний вогонь, активна розвідка, терористичні рейди. Ці ідіоти не можуть зрозуміти сенсу всього цього, але вони можуть просто слідувати командам."
+ officer_law_mutant_master:0 "Діти Творця"
+ officer_law_mutant_master_desc:0 "До того, як проклятий Виходець зі Сховища вбив Творця, мутантам судилося захопити Пустку. Наша сила, наша воля, наша жорстока хитрість. Усе це дає нам право формувати Пустку за нашим власним зразком, незалежно від того, що думають нижчі раси. У нашому новому світі тільки найкращі будуть вести наші армії."
+
+  ## Military Training Law
+
+ training_law_none:0 "Без тренувань"
+ training_law_none_desc:0 "Що стосується нашої армії, то тут ми не можемо йти відразу двома шляхами. Усе-таки розширені знання про тактику і просунута доктрина не врятують від кулі в лоб або радіації. Пустка - небезпечне місце, і махати кийком або тиснути на курок досить просто. Інстинкти та зброя зроблять свою справу."
+ training_law_wasteland:0 "Тренування з виживання в пустці"
+ training_law_wasteland_desc:0 "Пустка - жорстоке місце, і слід очікувати, що врешті-решт нашим солдатам доведеться захищатися від тварин, рейдерів або роботів. У наших лавах є кілька досвідчених солдатів, і буде корисно, якщо вони поділяться досвідом з усіма новобранцями і не тільки."
+ training_law_mercenaries:0 "Найманці-керівникі"
+ training_law_mercenaries_desc:0 "У Пустці є особлива професія, що полягає в бойових навичках - найманець. Їх легко знайти, і за достатню кількість грошей вони можуть по-різному допомогти нам. Найкорисніше, що вони можуть для нас зробити - поділитися навичками і знаннями, які вони отримали."
+ training_law_veterans:0 "Ветерани"
+ training_law_veterans_desc:0 "Очевидно, новобранець не довго проживе, якщо не знатиме, що робити. З огляду на загальний рівень життя в Пустці, можна цілком сказати, що чим довше хтось живе, тим він більш досвідчений. Допомога від ветеранів у тренуванні новобранців збільшить їхні знання і дасть їм змогу стати більш досвідченими і тактично просунутими."
+ training_law_military_academy:0 "Воєнні академії"
+ training_law_military_academy_desc:0 "Коли справа доходить до впровадження передової тактики і технологій на полі бою, піхота повинна бути такою ж досвідченою як і ті, хто командує ними. Тому ми подбаємо про те, щоб кожен солдат був навчений за найвищими стандартами згуртованості, пильності та холоднокровності. Тим самим ми можемо отримати у себе дуже досвідчену армію не тільки за мірками нашого регіону, а й усієї Пустки."
+
+  ## Drug Laws
+
+ drug_laws:0 "Наркотичні речовини"
+ chems_banned:0 "Наркотики заборонені"
+ chems_banned_desc:0 "У людей багато вад, але найстрашнішою з них є залежність від наркотиків. У найрізноманітніших формах, розмірах і кольорах, ефекти від хімікатів можуть зламати майже будь-кого. Чи то для покращення себе, чи то для задоволення, наркотики показують свою справжню небезпеку лише з появою залежності. Ми повинні зробити правильний вибір."
+ chems_legalised:0 "Наркотики дозволені"
+ chems_legalised_desc:0 "У Пустки багато чого можна зробити, але навряд чи в цей список потрапляє можливість вибрати, як хтось інший житиме своїм життям. Деякі просто хочуть покайфувати, і це їхня справа. Хтось скаже, що "наркотики небезпечні", «вони повільно вб'ють тебе» та інші дурниці, але це не має значення. Нехай люди самі вибирають погані рішення!"
+ bans_drugs:0 "Наркотики заборонені"
+
+  ## Slavery Laws
+
+ slavery_allowed:0 "Рабство дозволено"
+ slavery_laws:0 "Рабство"
+ slavery_outlawed:0 "Рабство заборонено"
+ slavery_outlawed_desc:0 "Бомби поклали край епосі Лінкольна, але ми воскресимо його голос. Ми відновимо його бачення світу, де всі люди рівні й можуть жити вільними!"
+ slave_society:0 "Рабовласницьке суспільство"
+ indentured_servitude:0 "Договірна служба"
+ indentured_servitude_desc:0 "Вони не раби, вони наші 'слуги.' Ми дали їм дах над головою, їжу, одяг і мету. Ми дали їм життя."
+ slavers_idea_1:0 "Поневолювати наших ворогів"
+ slavers_idea_1_desc:0 "'Особливий інтерес представляє доля племені Косоплетів з Аризони, які вступили в альянс із Цезарем і служили розвідниками його армії під час завоювання цього регіону. Щойно Аризона "умиротворилася", Легіон зрадив свого союзника, знищив його племінну культуру і поневолив у рабство. Тих, кому не догодили такі дії Легіону, було розіп'ято на залишках 40-ої автомагістралі.'"
+ slavers_idea_2:0 "Органsзована работоргівля"
+ slavers_idea_2_desc:0 "Ти хочеш купувати рабів, а я хочу їх продавати. Ми добре поладнаємо."
+ slavers_idea_3:0 "Покластися на рабів"
+ slavers_idea_3_desc:0 "Ти вбив сотню людей тільки заради проби наркотиків!? Ну, не навмисно. Тобто, так, раби дорогі, але за перші кілька місяців ми вже окупилися, тож Мордіно не буде так злий на мене."
+ slavers_idea_4:0 "Деспотичні работорговці"
+ slavers_idea_4_desc:0 "Це сумний, але факт, що деяким просто судилося підживлювати амбіції тих, хто вищий за них."
+ slavers_idea_5:0 "Работорговці Пустки!"
+ slavers_idea_5_desc:0 "Колись рабство будувало імперії до війни. Ми подбаємо про те, щоб це сталося знову."
+
+  ## Press Laws
+
+ press_laws:0 "ЗМІ"
+ political_effort_press:0 "Свобода слова"
+ political_effort_press_desc:0 "Ніхто не зупинить пресу, нехай тільки спробують. Вільні люди битимуться за свою свободу."
+ political_effort_censorship:0 "Заглушити іншодумство"
+ political_effort_censorship_desc:0 "Це офіційна заява, містере Макдонах? "Мер-тиран атакує вільну пресу?\""
+ political_effort_state_press:0 "Державна преса"
+ political_effort_state_press_desc:0 "Народ Столичної пустки! Це я, володар ваших думок, Тридогнайт! Слухайте і підкоряйтеся! Тьху ти, це вже репертуар того... іншого радіо."
+ enemy_plans:0 "Файні новини, друкуйте."
+
+  ## Policies Tooltips and Misc
+
+ military_policies:0 "Воєнні політики"
+ economic_policies:0 "Економічні політики"
+ economic_advisor:0 "Економічні радники"
+ economic_advisor_cost_factor:0 "Вартість економічного радника"
+ cultural_policies:0 "Політика культури"
+ cultural_advisor:0 "Культурні радники"
+ cultural_advisor_cost_factor:0 "Вартість культурних радників"
+ production_policies:0 "Виробничі політики"
+ construction_firm:0 "Великі підприємства"
+ construction_firm_cost_factor:0 "Вартість великих підприємств"
+ engineering_firm:0 "Довоєнні підприємства"
+ industrial_advisor:0 "Економічні радники"
+ arms_supplier:0 "Збройові кампанії"
+ manpower_laws_hidden:0 "Є доступ до законів людських ресурсів"
+ navy_restoration_advisor:0 "Морський конструктор"
+ vehicle_restoration_advisor:0 "Транспортний конструктор"
+ aircraft_restoration_advisor:0 "Повітряний конструктор"
+ research_advisor:0 "Научний радник"
+ research_advisor_cost_factor:0 "Вартість научного радника"
+
+ outsider_recruitment_laws_cost_factor:0 "Вартість законів про найм сторонніх спеціалістів"
+ undesirables_recruitment_laws_cost_factor:0 "Вартість законів про найм небажаних лиць"
+ mutant_recruitment_laws_cost_factor:0 "Вартість законів про вербування мутантів"
+ officer_training_laws_cost_factor:0 "Вартість юридичного навчання офіцерів"
+ army_training_laws_cost_factor:0 "Вартість законів про армійську підготовку"
+ press_laws_cost_factor:0 "Вартість закону про пресу"
+ slavery_laws_cost_factor:0 "Вартість законів про рабство"
+ drug_laws_cost_factor:0 "Вартість законів про наркотики"
+ vehicle_restoration_advisor_cost_factor:0 "Вартість дизайнера автомобіля"
+ navy_restoration_advisor_cost_factor:0 "Вартість конструктора воєнно-морського флоту"
+ aircraft_restoration_advisor_cost_factor:0 "Вартість авіабудівничої компанії"
+
+ EFFECT_CHANGE_LAW_officer_training_laws:0 "Змінити політику тренування офіцерів на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_army_training_laws:0 "Змінити політику тренування армії на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_outsider_recruitment_laws:0 "Змінити політику вербування чужаків на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_undesirables_recruitment_laws:0 "Змінити політику вербування невгодних на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_mutant_recruitment_laws:0 "Змінити політику вербування мутантів на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_press_laws:0 "Змінити політику преси на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_slavery_laws:0 "Змінити політику рабства на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_drug_laws:0 "Змінити політику наркотиків на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_currency_laws:0 "Змінити закон про валюту на «$NAME|Y$», який надає ($DESC$)."
+ EFFECT_CHANGE_LAW_vehicle_restoration_advisor:0 "Змінити політику транспортного конструктора на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_navy_restoration_advisor:0 "Змінити політику морського конструктора на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_aircraft_restoration_advisor:0 "Змінити політику повітряного конструктора на '$NAME|Y$' яка дає ($DESC$)."
+
+ has_unique_manpower_law:0 "Володіє унікальними законами з військової повинності"
+ has_unique_officer_laws:0 "Володіє унікальними політиками офіцерства"
+ has_unique_outsider_laws:0 "Володіє унікальними політиками чужаків"
+ has_unique_economic_laws:0 "Володіє унікальними економічними політиками"
+ has_unique_trade_laws:0 "Володіє унікальними політиками торгівлі"
+ has_unique_press_laws:0 "Володіє унікальними політиками преси"
+ has_unique_slave_laws:0 "Володіє унікальними політиками рабства"
+ has_unique_drug_laws:0 "Володіє унікальними політиками наркотиків"
+ has_unique_undesirable_laws:0 "Володіє унікальними законами з вербування невгодних"
+ has_unique_mutant_recruitment_laws:0 "Володіє унікальними законами з вербування мутантів"
+
+
+ # Chichen Itza #
+ # Tzotzil
+ # Aztlan
+ # AoM
+ #Bone Dancers
+ #### Laws #####
+ # Military Law Categories
+ ## Outsider Recruitment
+ ## Brotherhood Outsider Laws
+ ## Undesirable Recruitment Law
+ ## Mutant Normal Law
+ ## Mutant Recruitment Law
+ ## Officer Training Laws
+
+## Mutant Officer Training Laws
+
+
+ ## Military Training Law
+ # RRG
+
+  # ASS
+ ASS_people_party_long:0 "Кубинський зв'язок"
+ ASS_elites_party_long:0 "Пурпурова помста"
+ ASS_intellectuals_party_long:0 "Мертві Кеннеди"
+ ASS_ruler_party_long:0 "Змова"

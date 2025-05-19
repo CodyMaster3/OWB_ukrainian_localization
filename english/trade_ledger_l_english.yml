@@ -1,0 +1,16 @@
+﻿l_english:
+  # GUI:
+  TRADE_LEDGER_TITLE: "Ринок організацій"
+  TRADE_LEDGER_TEST_TEXT: "тестик"
+  #TRADE_LEDGER_ENTRY_FLAG_TT: "§GКлацніть§! щоби центрувати карту на їх столиці (§Y[This.Capital.GetName]§!)."
+  #TRADE_LEDGER_PP_TT: "§YПолітична влада§! \nПриріст політ. влади: [?political_power_daily|2+] в день. \nБазова к-сть: §Y2.00§!"
+  #TRADE_LEDGER_STABILITY_TT: "§YСтабільність§! \nПоточна стабільність: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"
+  #TRADE_LEDGER_WAR_SUPPORT_TT: "§YПідтримка війни§! \nПоточна підтримка війни: [This.GetPuppetLedgerWarSupportColor][?has_war_support|2%]§!"
+  #TRADE_LEDGER_MANPOWER_TT: "§YЛюдські ресурси§! \nДоступні людські ресурси: §Y[This.GetPuppetLedgerManpower]§! \nВикористовувані людські ресурси: §Y[This.GetPuppetLedgerUsedManpower]§! \n   - На тренуванні: §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nЗагальна к-сть людських ресурсів: §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \n§Y[?modifier@conscription|2%]§! населення ненаціональних територій доступно (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
+  #TRADE_LEDGER_INDUSTRIAL_CAPACITY_TT: "§YФабрики§! \nВикористовувані воєнні фабрики: §Y[?military_factories_in_use|0]§!/§Y[?num_of_military_factories|0]§! \nВикористовувані верфі: §Y[?naval_factories_in_use|0]§!/§Y[?num_of_naval_factories|0]§! \nВикористовувані цивільні майстерні: §Y[?civilian_factories_in_use|0]§!/§Y[?num_of_civilian_factories|0]§!"
+  #TRADE_LEDGER_FUEL_TT: "§YЕнергоносії§!"
+  #TRADE_LEDGER_NAVY_TT: "§YФлот§! \nК-сть кораблів: §Y[?num_of_ships|0]§!"
+  #TRADE_LEDGER_CONSCRIPTION_LAW_TT: "§YЗакон про призов§! \nЗараз у нас наступний закон про призов: §Y[This.GetConscriptionLawName]§!, згідно з яким якому §Y[This.GetConscriptionLawPercentage]§! населення на національних територіях стануть людськими ресурсами."
+  #legion_vassal: "Племінний підданий"
+
+  #tring_puppet_ledger_conscription_factor: "\n\nМодифікатор людських ресурсів: §Y[?conscription_factor_temp|0%]§!."

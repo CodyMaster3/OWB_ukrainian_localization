@@ -1,0 +1,14 @@
+﻿l_english:
+  caps_scripted_diplo_gui_amount_tt:0 "Подарувати [THIS.GetName]: [?caps_to_send_to|2+=] [ROOT.GetCapTxt]"
+  caps_scripted_diplo_gui_left_button_tt:0 "Натисніть, щоби прибрати §R1§! [ROOT.GetCapTxt]  \nShift+ЛКМ, щоби прибрати §R10§! [ROOT.GetCapTxt]  \nCtrl+ЛКМ, щоби прибрати §R100§! [ROOT.GetCapTxt]  \n\nМінімальний розмір подарунку §G10§! [ROOT.GetCapTxt]"
+  caps_scripted_diplo_gui_right_button_tt:0 "Натисніть, щоби добавити §G1§! [ROOT.GetCapTxt]  \nShift+ЛКМ, щоби додати §G10§! [ROOT.GetCapTxt]  \nCtrl+ЛКМ, щоби додати §G100§! [ROOT.GetCapTxt]  \n\nМаксимальний розмір подарунку [?caps_to_send_max|=+0] [ROOT.GetCapTxt]"
+
+  CAPS_SEND_GIFT_TITLE:0 "Відправити кришки в подарунок"
+  CAPS_SEND_GIFT_ACTION_DESC:0 "Відправити подарунок, який ти сам бажав отримати, як маленький рейдер, §GC§! A §RP§! §GS§!"
+  caps_gift_receive_desc:0 "Прийняти подарунок [?caps_to_send_to|2=+] [GetCapType] від [ROOT.GetName]"
+
+  caps_gift_accept_title:0 "Подарунок для [THIS.GetName]"
+  caps_gift_accept_desc:0 "Подарунок [?caps_to_send_to|2=+] [GetCapType] для [THIS.GetName] отримано"
+
+  caps_gift_reject_title:0 "Подарунок для [THIS.GetName]"
+  caps_gift_reject_desc:0 "Подарунок [?caps_to_send_to|2=+] [GetCapType] для [THIS.GetName] відхилено"

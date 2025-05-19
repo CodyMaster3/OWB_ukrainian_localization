@@ -1,0 +1,229 @@
+﻿l_english:
+
+
+ ###Organization effects tooltips
+ organization_add_tt:0 "Заснувати філіал [GetOrganizationNameTT] в [This.GetName]\n"
+ organization_add_already_present_tt:0 "[GetOrganizationNameTT] уже присутній в [This.GetName]\n"
+ organization_add_influence_tt:0 "Змінити відносини [GetOrganizationName] на [?org_influence_amount|+0]\n"
+ ### Flash Sale GUI
+ caps_market_tt:0 "Крышковий ринок"
+ market_title_tt:0 "Чорний ринок"
+ back_button_tt:0 "Повернутися на попередній екран."
+ gun_runner_open_tt:0 "Чорний ринок Зброярів"
+ chem_runner_open_tt:0 "Чорний ринок наркотиків"
+ slave_runner_open_tt:0 "Чорний ринок рабів"
+ cap_market_name_tt:0 "[GetOrganizationName]"
+ cap_opinion_tt:0 "Думка організації - [GetMarketOpinion]"
+ market_opinion_tt:0 "[?selected_org_amount|=+0]"
+ cap_inventory_tt:0 "Поточний інвентар  - [GetMarketInventory]"
+ market_gui_purchase_tt:0 "[!purchase_button_click_enabled]\n[!purchase_button_click]"
+
+  ###Trade Ledger GUI
+ cap_stock_tt:0 "На складі: [GetMarketAmount]"
+ cap_minimum_opinion:0 "Мін. думка: [GetMinimumOpinion]"
+ opinion_amount_tt:0 "[?minimum_opinion_temp_var|0Y]"
+ minimum_opinion_purchase_tt:0 "Потрібно мінімум [GetMinimumOpinion] для закупки"
+ item_cost_tt:0 "Придбати за: [CalculateBuyPrice]"
+ item_sell_cost_tt:0 "Продати за: [CalculateSellPrice]"
+ sell_price_amount:0 "§R[?temp_sell_price|0]k§!"
+ sell_percentage_amount:0 "Думка організації про угоду: [?temp_org_bonus|=+0%] до вартості продажі\n   Модифікатор поставок: [?inventory_reduction|R%0]"
+ buy_price_amount:0 "§G[?temp_buy_price|0]k§!"
+ buy_percentage_amount:0 "Знижка про думку організації: [?temp_discount|%0G] до вартості продажі"
+ ledger_item_name:0 "[GetMarketInventory]"
+ trade_ledger_item_buy_tt:0 "§GНатисніть§!, щоби придбати\n[!item_cost_click_enabled]\nПоточна думка: [GetSelectedOrgOpinion]\nОб'єм угоди: §Y500§! §L[GetMarketInventory]§!  \n   [CalculateDiscountPercentage]  \n[!item_cost_click]"
+ trade_ledger_item_sell_tt:0 "§GНатисніть§!, щоби продати\n[!item_sell_cost_click_enabled]\nПоточна думка: [GetSelectedOrgOpinion]\nОб'єм угоди: §Y500§! §L[GetMarketInventory]§!  \n   [CalculateSellPercentage]  \n[!item_sell_cost_click]"
+ organization_ledger_opinion_tt:0 "Поточна думка: [GetOrgOpinion]"
+ org_opinion_string:0 "[?current_org_opinion_temp|+0]"
+ org_available:0 "§GТак§!"
+ org_unavailable:0 "§RНі§!"
+ recent_transaction_cooldown:0 "Немає недавніх угод з [GetOrganizationName]"
+  ### Organization Decisions Loc
+ CAPS_MARKET_DECISION_BUTTON_OPEN_TEXT:0 "Ринок Організацій"
+ CAPS_MARKET_DECISION_BUTTON_OPEN_TEXT_BLOCKED:0 "§gРинок Організацій§!"
+ has_organization_visible_tt:0 "Має [GetOrganizationName] присутність, що належить вузлу"
+ has_organization_influence_tt:0 "Має [?influence_to_have|Y0] думки про [GetOrganizationName]"
+ has_spendable_influence_tt:0 "Має [?influence_to_spend|0Y] позитивної думки про [GetOrganizationName]\n  Поточна корисна думка: [?current_spendable_influence|Y0]"
+
+ gun_runner_boost_production:0 "§YЗброярі§!: Ривок виробництва"
+ gun_runner_add_operative:0 "§YЗброярі§!: Найняти найкращих контрабандистів"
+ gun_runner_entice:0 "Спокусити §GЗброярів§! розширенням"
+
+ motorized_runner_hola_girls:0 "§YЧоп Шоп§!: Гавайські статуетки"
+ motorized_runner_anti_muffler:0 "§YЧоп Шоп§!: виробництво непрацюючих глушників"
+ motorized_runner_fuzzy_dice:0 "§YЧоп Шоп§!: підвісні кубики"
+ motorized_runner_door_shotguns:0 "§YЧоп Шоп§!: дробовики над дверцею"
+ motorized_runner_entice:0 " Спокусити §GЧоп Шоп§! розширенням"
+
+
+ energy_runner_electric_research:0 "§YВан Граффи§!: торгівля знанням"
+ energy_runner_greedy_kingpins:0 "§YВан Граффи§!: безжалісня експлуатація"
+ energy_runner_family_vaults:0 "§YВан Граффи§!: сімейні сховища"
+ energy_runner_entice:0 "Спокусиити §YВан Граффів§! розширенням"
+
+ melee_runner_hunt_mirelurks:0 "§YМ'ясник Піт§!: як полювати на болотників"
+ melee_runner_whetstones:0 "§YМ'ясник Піт§!: точильні камені"
+ melee_runner_faee_cocktail:0 "§YМ'ясник Піт§!: коктейлі Фея"
+ melee_runner_half_bar:0 "§YМ'ясник Піт§!: поставки шоколаду "
+ melee_runner_entice:0 "Соблазнить §GМ'ясника Піта§! розширенням"
+
+ advanced_runner_entice:0 "Спокусити §GВанкуверських Фвхівців§! розширенням"
+ black_market_category:0 "Відносини з організаціями"
+
+
+
+
+  #### Events
+    ### Generic
+ caps_organization_events.1.t:0 "[GetOrganizationName] просить про позику"
+ caps_organization_events.1.d:0 "[GetOrganizationName] звернулися до нас у скрутну хвилину. Продажі йдуть погано, справи просідають. Вони хотіли б запросити позику, щоб зберегти обсяги свого виробництва. Це може бути привабливим варіантом, якщо нам коли-небудь знадобляться їхні товари."
+ caps_organization_events.1.a:0 "Позика"
+ caps_organization_events.1.b:0 "Ми не можемо стільки витрачати"
+ caps_organization_events.1.c:0 "Подарунок"
+
+ caps_organization_events.11.t:0 "[GetOrganizationName] повернули борг"
+ caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationName] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву.»
+ caps_organization_events.11.a:0 «Союзник, який нам колись знадобиться"
+
+ caps_organization_events.12.t:0 "[GetOrganizationName] затримують виплати"
+ caps_organization_events.12.d:0 "[GetOrganizationName] не можуть дозволити собі виплатити наш кредит. На даний момент вони начебто стабільні, але навряд чи ми знову побачимо наші кришки."
+ caps_organization_events.12.a:0 "Забудемо заради дружби"
+ caps_organization_events.12.b:0 "Ми будемо терплячі"
+
+ caps_organization_events.13.t:0 "[GetOrganizationName] запитують знижені тарифи"
+ caps_organization_events.13.d:0 "[GetOrganizationName] попросили нас знизити тарифи на торгівлю по всій нашій країні. Наші податки завдають шкоди їм, і вони, схоже, готові домовитися з нами про деякі... вигідні угоди пізніше, в обмін на цю послугу."
+ caps_organization_events.13.a:0 "Відмінний козир"
+ caps_organization_events.13.b:0 "Ми не можемо стільки витрачати"
+ organizations_lowered_trade_tariffs:0 "Зниження тарифів"
+
+ caps_organization_events.14.t:0 "Організація просить збільшити виробничі потужності"
+ caps_organization_events.14.d:0 "Наші торгові партнери, які створили філії в наших торгових центрах, подали запит на збільшення наших виробничих потужностей військового призначення. За оцінками наших економістів, щоб виконати ці квоти, нам буде потрібно [?bolster_production_event_target|0+] військових фабрик. Якщо подібні запити будуть виконані, вони обіцяють збільшення оборотів торгівлі, а так само... деякі 'неофіційні' нагороди."
+ caps_organization_events.14.a:0 "Досяжна мета"
+ caps_organization_events.14.b:0 "Нерозумна вимога"
+ bolster_production_event_mission:0 "Завдання: побудуйте більше військових фабрик"
+ bolster_production_event_mission_goal_tt:0 "Побудуйте [?bolster_production_event_target|0+] військових фабрик\n Зараз фабрик: [?num_of_military_factories|0R]"
+ bolster_production_event_org_tt:0 "Змінить ставлення всіх організацій: [?org_influence_amount|+=0]"
+
+ caps_organization_events.2.t:0 "Дослідження для технологій"
+ caps_organization_events.2.d:0 "Керівництво [GetOrganizationName] запросило допомогу в дослідженні покинутого наукового закладу поблизу. Вони вважають, що тут є велика схованка зі спорядженням Старого Світу, що може допомогти їм з новими підприємствами і допоможемо триматися на передовій ринку. В обмін на підтримку, вони поділяться цим знанням з нами. Хоча є ризик втратити людей, або ще гірше, від оборонних систем закладу, ми маємо витримати подібне випробування."
+ caps_organization_events.2.a:0 "Знайдіть лідера для загону"
+ caps_organization_events.2.b:0 "У нас немає людей для подібного"
+
+ caps_organization_events.21.t:0 "Скарб"
+ caps_organization_events.21.d:0 "Наші люди знайшли не тільки шматочки технологій Старого Світу, а й робочий прототип. [GetOrganizationName] вкрай вдячні нам за наш успіх, пропонуючи можливу послугу в майбутньому."
+ caps_organization_events.21.a:0 "Навички та тренування окупаються"
+ caps_organization_events.22.t:0 "Скринька Пандори"
+ caps_organization_events.22.d:0 "Коли наші люди спустилися в глибини комплексу [GetOrganizationName], більшість із них не повернулися. Член групи повідомляє, що коли вони спустилися всередину, на них влаштували засідку сторожові роботи. На щастя, кілька людей повернулися."
+ caps_organization_events.22.a:0 "Слава богу..."
+    #### Advanced Runners
+ caps_organization_events.151.t:0 "Фахівці"
+ caps_organization_events.151.d:0 "Ми зіткнулися з дуже цікавою групою, яка підривала наші операції з випромінювання технологій Старого Світу, здавалося, з'являючись з нізвідки. Багато постраждалих повідомляють, що їх оглушили, зв'язали і засліпили «сяючим синім світлом». Хоча вони не заподіяли шкоди нашим старателям, схоже, що наша присутність тут не вітається. Досі ми не могли зв'язатися з ними. Представник від них повернувся з однією з наших розвідувальних груп. Повністю вкриті облягаючим костюмом з передових полімерів, вони передавали просте повідомлення. 'Ми Спеціалісти Куувера, і у нас є для вас пропозиція. Допоможіть нам витягти §реліквію Старого Світу§! з руїн на вашій території. Ми винагородимо вас за вашу згоду'. Перш ніж ми встигли відповісти, вони немов випарувалися, залишивши тільки записку з місцем розташування об'єкта."
+ caps_organization_events.151.a:0 "Загадково, але інтригуючі."
+ caps_organization_events.151.b:0 "Подібні саботажники вимагають іти їм на зустріч!?"
+ organization_5_setup_idea:0 "Фахівці союзники"
+
+ caps_organization_events.152.t:0 "Робочі параметри"
+ caps_organization_events.152.d:0 "Минуло кілька тижнів з моменту нашого останнього контакту зі Спеціалістами. Наш розвідник доставив повідомлення в поштову скриньку, розташовану на величезному полі, як зазначено в записці, залишеній нам після зустрічі з їхнім 'представником'. Відтоді ми не отримували жодних контактів. Однак сьогодні прибув новий представник. Постійний представник, за його словами. Він каже нам, що незабаром Спеціалістам знадобиться наша допомога, і після її надання буде й нагорода. Перш ніж подробиці будуть розкриті, вони попросили нас створити агентство для підтримки їхніх дій по всьому регіону. Ми вважаємо, що подібне агентство може дати нам перевагу і проти наших ворогів."
+ caps_organization_events.152.a:0 "Загальна мета"
+ caps_organization_events.152.b:0 "У нас немає ресурсів для перевірки загадкових повідомлень."
+ maven_create_spy_agency:0 "Створити Агентство Оперативної Підтримки"
+
+    ### Mercenary
+ gun_runner_spawn_unit:0 "Попросити загін охорони"
+ caps_organization_events.301.t:0 "Відкликання загону Зброярів"
+ caps_organization_events.301.d:0 "Зброярі відкликали той об'єкт, який вони відправили нам для допомоги на війні."
+ caps_organization_events.301.a:0 "Безпечної дороги додому"
+  ###GUN RUNNER DATA
+ gun_runner_name_tt:0 "Зброярі"
+ gun_runner_market_tt:0 "[GetGunRunnerInventory]"
+ gun_runner_market_icon:0 "[GetGunRunnerMarketIcon]"
+ gun_runner_equip_1:0 "Гладкоствол"
+ gun_runner_equip_2:0 "Базовий вогнестріл"
+ gun_runner_equip_3:0 "Звичайний вогнестріл"
+ gun_runner_equip_4:0 "Просунутий вогнестріл"
+ gun_runner_equip_5:0 "Допоміжне спорядження"
+ gun_runner_equip_6:0 "СОП"
+ gun_runner_equip_7:0 "Легкий кулемет"
+ gun_runner_equip_8:0 "Протитанкова зброя"
+ gun_runner_amount_tt:0 «[?global.gun_runner_inventory]»
+ organization_floor_modifier_1:0 "Думка Зброярів"
+  ###Motorized Runner Data
+ buy_infantry_equipment:0 "Закупівля піхотного спорядження"
+ motorized_runner_name_tt:0 "Чоп Шоп"
+ motorized_runner_market_tt:0 «[GetMotorizedRunnerInventory]»
+ motorized_runner_market_icon:0 «[GetMotorizedRunnerMarketIcon]»
+ motorized_runner_amount_tt:0 «[?global.motorized_runner_inventory]»
+ organization_floor_modifier_2:0 "Думка Чоп Шопа"
+  ### DATA SLAVE RUNNER
+  ###Chem Decisions
+ chem_jet:0 "Закупити Гвинт"
+ chem_buffout:0 "Закупити Баффаут"
+ chem_psycho:0 "Закупити Психо"
+  ###Energy Weapon Market
+ energy_runner_market_tt:0 «[GetEnergyRunnerInventory]»
+ energy_runner_market_icon:0 «[GetEnergyRunnerMarketIcon]»
+ energy_runner_amount_tt:0 «[?global.energy_runner_inventory]»
+ energy_runner_name_tt:0 "Ван Граффи"
+ energy_runner_equip_1:0 "Лазерні мушкети"
+ energy_runner_equip_2:0 "Лазерні гвинтівки"
+ energy_runner_equip_3:0 "Просунуті лазерні гвинтівки"
+ energy_runner_equip_4:0 "Важкий-RCW"
+ energy_runner_equip_5:0 "Гатлінг-лазер"
+ energy_runner_equip_6:0 "Допоміжне спорядження"
+ organization_floor_modifier_3:0 "Думка Ван Граффів"
+  ###Melee Runner market
+ melee_runner_name_tt:0 "М'ясник Піт"
+ melee_runner_market_tt:0 "[GetMeleeRunnerInventory]"
+ melee_runner_market_icon:0 "[GetMeleeRunnerMarketIcon]"
+ melee_runner_amount_tt:0 "[?global.melee_runner_inventory]"
+ melee_runner_equip_1:0 "Дробова зброя"
+ melee_runner_equip_2:0 "Ріжуча зброя"
+ melee_runner_equip_3:0 "Важка зброя"
+ melee_runner_equip_4:0 "Силова зброя"
+ melee_runner_equip_5:0 "Динаміка"
+ melee_runner_equip_6:0 "Вогнемет"
+ melee_runner_equip_7:0 "Осколкові гранати"
+ melee_runner_equip_8:0 "Інсинератор"
+ melee_runner_equip_9:0 "Гранатомет"
+ organization_floor_modifier_4:0 "Думка М'ясника Піта"
+  ####Advanced Runner Market
+ advanced_runner_name_tt:0 "Ванкуверські Фахівці"
+ advanced_runner_market_tt:0 "[GetAdvancedRunnerInventory]"
+ advanced_runner_market_icon:0 "[GetAdvancedRunnerMarketIcon]"
+ advanced_runner_amount_tt:0 "[?global.advanced_runner_inventory]"
+ organization_floor_modifier_5:0 "Думка Ванкуверських Фахівців"
+  #### Followers Organization
+ follower_runner_name_tt:0 "Послідовники Апокаліпсису"
+ followers_runner_market_tt:0 "[GetFollowersRunnerInventory]"
+ followers_runner_market_icon:0 "[GetFollowersRunnerMarketIcon]"
+ followers_runner_amount_tt:0 "[?global.follower_runner_inventory]"
+ followers_runner_equip_1:0 "Базова зброя Послідовників"
+ followers_runner_equip_2:0 "Ріжуча зброя Послідовників"
+ followers_runner_equip_3:0 "Важка зброя Послідовників"
+ followers_runner_equip_4:0 "Енергетична зброя Послідовників"
+ followers_runner_equip_5:0 "Динаміт"
+ followers_runner_equip_6:0 "Вогнемети"
+ followers_runner_equip_7:0 "Осколкові гранати"
+ followers_runner_equip_8:0 "Інсенератори"
+ followers_runner_equip_9:0 "Гранатомети"
+ organization_floor_modifier_6:0 "Думка Послідовників"
+ 
+ #### Organisation Names
+ org_gun_runners_name:0 "Зброярі"
+ org_gente_arms_name:0 "Збройова Генте"
+ org_hawkmoon_name:0 "Боєприпаси Хоукмун"
+
+ org_chop_shop_name:0 "Чоп Шоп"
+ org_nas_garages_name:0 "Гаражі Наса"
+ org_battleford_motorshop_name:0 "Беттлфорд Моторс"
+
+ org_van_graffs_name:0 "Ван Граффи"
+ org_lady_lasers_name:0 "Леді Лазерс"
+ org_warden_remnants_name:0 "Залишки Вартових"
+
+ org_butcher_petes_name:0 "М'ясник Піт"
+ org_velasquez_choppers_name:0 "Чопери Веласкес"
+ org_middlemark_surplus_name:0 "Склад Міддлмарка"
+
+ org_vancouver_mavens_name:0 "Ванкуверські Фахівці"
+ org_xiuhcoatl_name:0 "Шиукоатль Індастріc"
+ org_yorkton_arms_name:0 "Збройова Йорктона"

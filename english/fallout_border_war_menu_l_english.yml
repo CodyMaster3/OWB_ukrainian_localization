@@ -1,0 +1,50 @@
+﻿l_english:
+  # GUI:
+  FALLOUT_BORDER_WAR_MENU_TITLE: "Розпочати прикордонну війну"
+  FALLOUT_BORDER_WAR_MENU_OWN_STATES_TITLE: "[This.GetAdjective] областей"
+  FALLOUT_BORDER_WAR_MENU_OWN_STATES_TT: "Тут ви можете вибрати з якою вашою областю ви хочете розпочати прикордонну війну."
+  FALLOUT_BORDER_WAR_MENU_ENEMY_STATES_TITLE: "Ворожі області"
+  FALLOUT_BORDER_WAR_MENU_ENEMY_STATES_TT: "Тут ви можете вибрати на якій ворожій області буде прикордонна війна."
+  FALLOUT_BORDER_WAR_MENU_LEADERS_TITLE: "Доступні генерали"
+  FALLOUT_BORDER_WAR_MENU_LEADERS_TT: "Тут ви можете вибрати генералів, які будуть командувати військами під час прикордонної війни."
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_OWN_STATES_SHOWN: "§RУ вас на данний момент немає областей, з яких можна почати прикордонну війну.§!"
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_ENEMY_STATES_YET_SHOWN: "§YВиберіть одну з ваших областей, щоби глянути доступні для прикордонної війни області.§!"
+  FALLOUT_BORDER_WAR_MENU_INFO_NO_LEADERS_SHOWN: "§RУ вас на данний момент немає генералів, які зможуть почати прикордонну війну.§!"
+  
+  START_BORDER_WAR_TT: "[This.GetBorderWarStartButtonTooltip]"
+  
+  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT: "[This.GetBorderWarSelectStateButtonTooltip]"
+  FALLOUT_BORDER_WAR_MENU_UNSELECT_STATE_BUTTON_TT: "§GКлацніть§!, щоби відмінити вибір области. \n§GПравий клац§!, щоби центрувати карту на §Y[This.GetName]§!."
+  FALLOUT_BORDER_WAR_MENU_SELECT_STATE_BUTTON_TT_DELAYED: "[This.GetBorderWarSelectStateButtonTooltipDelayed]"
+  
+  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT: "[This.GetBorderWarSelectLeaderButtonTooltip]"
+  FALLOUT_BORDER_WAR_MENU_UNSELECT_LEADER_BUTTON_TT: "§GКлацніть§!, щоби відмінити вибір генерала."
+  FALLOUT_BORDER_WAR_MENU_SELECT_LEADER_BUTTON_TT_DELAYED: "Тут ви можете вибрати генерала, який буде командувати військами в прикордонній війні. \nЯкщо вибраний генерал уже командує армією - при прикордонній війні він почне командувати армією для прикордонної війни."
+  
+  # Scripted Localisation:
+  string_border_war_start_tt: "§GКлацніть§!, щоби почати прикордонну війну з §Y[This.GetBorderWarEnemyCountry]§! в §Y[?selected_own_state_for_border_war.GetName]§! и §Y[?selected_enemy_state_for_border_war.GetName]§!."
+  string_border_war_start_tt_disabled: "§RЩоби почати прикордонну війну, вам потрібно вибрати вашу область, ворожу область і генерала!§!"
+  
+  string_border_war_select_state_tt_disabled_already_border_war: "§RЦя область уже в прикордонній війні.§!"
+  string_border_war_select_state_tt_disabled_not_owned_or_controlled: "§RЦя область не під контролем її правителя або правитель змінився.§!"
+  string_border_war_select_state_tt_disabled_no_matching_neighbor_state: "§RУ цій області немає підходящої сусідньої області, на які можна почати прикордонну війну.§!"
+  string_border_war_select_state_tt_disabled_no_divisions_in_state: "§RУ нас немає дивізій в цій області для прикордонної війни.§!"
+  string_border_war_select_state_tt_disabled_war_with_owner: "§RМи уже у війні з власником цієї області, тому в прикордонній війні просто немає змісту.§!"
+  string_border_war_select_state_tt_disabled_impassable_states: "§RЛандшафт між §Y[?Root.selected_own_state_for_border_war.GetName]§! і §Y[This.GetName]§! непрохідний.§!"
+  string_border_war_select_state_tt: "§GКлацніть§!, щоби вибрати цю область. \n§GПравий клац§!, щоби центрувати карту на §Y[This.GetName]§!."
+  
+  string_border_war_select_state_tt_delayed_own_state: "Тут ви можете вибрати з якої вашої області ви хочете почати прикордонну війну. \nВибравши цю область ви побачите всі доступні для прикордонної війни сусідні області справа."
+  string_border_war_select_state_tt_delayed_enemy_state: "Тут ви можете выбрати на якій ворожій області будеі проходит прикордонна війна. \nВибравши цю область - на ній і почнеться прикордонна війна."
+  
+  string_border_war_select_leader_tt_disabled_in_border_war: "§R[This.GetBorderWarMenuLeaderName] уже залучений в прикордонну війну.§!"
+  string_border_war_select_leader_tt_disabled_in_combat: "§R[This.GetBorderWarMenuLeaderName] уже залучений в бій.§!"
+  string_border_war_select_leader_tt_disabled_sick: "§R[This.GetBorderWarMenuLeaderName] хворіє.§!"
+  string_border_war_select_leader_tt_disabled_wounded: "§R[This.GetBorderWarMenuLeaderName] ранений.§!"
+  string_border_war_select_leader_tt: "§GКлацніть§!, щоби вибрати §Y[This.GetBorderWarMenuLeaderName]§! в якості генерала для прикордонної війни."
+
+  # Scripted Effects:
+  FALLOUT_BORDER_WAR_MENU_LIMIT_NEIGHBOR_STATES_TO_THIS_TT:0 "Потенційні цілі прикордонної війни\n"
+  FALLOUT_BORDER_WAR_MENU_MAIN_TT:0 "Почнеться планування прикордонної війни"
+  FALLOUT_BORDER_WAR_MENU_ALL_GENERALS:0 "Усі генерали доступні для прикордонної війни"
+  FALLOUT_BORDER_WAR_MENU_ALL_OWNED_POSSIBLE:0 "Усі належні регіони з дивізіями доступні для прикордонної війни"
+  

@@ -1,0 +1,62 @@
+﻿l_english: 
+  # spellchecker stuff
+  #spellcheck_ignore:0 "ADD_CORE_TLALOC_TT_DELAYED"
+  
+  # GUI:
+  ADD_CORE_TT:0 "§H[ROOT.coring_button_label_name_scripted_loc] регіон§! £pol_power [?coring_var_coring_cost]"
+  ADD_CORE_TT_DELAYED:0 "§HОсновний показник§!: £pol_power 25\n§HНаселення§!: £pol_power [?coring_var_state_pop]\n§HНац. населення§!: £pol_power [?coring_var_cored_pop]\n§HВідстань до столиці§!: £pol_power [?coring_var_distance]\n§HБонус§!: [?coring_var_claim|%0]\n--------------\n[!add_core_click_enabled]"
+  not_allowed_to_core_flag:0 " §RВимкнена можливість націоналізації§!"
+  tt_is_not_in_home_area:0 "Не пов'язаний з капіталом власника."
+  tt_is_not_in_home_area:0 "Не пов'язаний з коштами власника."
+  core_button_25_state_reduction_tt:0 "Бонус §G25%§! до ціни націоналізації території."
+  core_button_50_state_reduction_tt:0 "Отримати §G50%§! знижки на націоналізацію земель."
+  trigger_less_than_20_resistance:0 "Менше ніж §Y20%§! опору"
+  coring_free_population_in_state_tt:0 "§CFrontier Settling§!: Добавити §G[?modifier@coring_free_population_in_state]§! §Yнаселення§! в регіон."
+
+  coring_free_population_in_state: "Населення в результаті націоналізації"
+  TTM_CORE_SPECIAL_BONUS:0 "\n§GОкрім націоналізації регіону, ми також отримаємо ще один бонус§!"
+  ADD_CORE_TLALOC_TT:0 "§HПідключитися до Chico-Net§! £resources_strip|2£ [?coring_var_energy_cost]"
+  ADD_CORE_TLALOC_TT_DELAYED:0 "§HОсновний показник§!: £resources_strip|2£ 10 \n§HЗниження вартості націоналізації за рахунок модифікаторів§!: [?coring_cost_from_modifiers_for_display|%0] \n§HЗ уже підключених регіонів§!: [?Root.coring_var_energy_cost_from_coring] \n--------------\n[!add_core_tlaloc_click_enabled]--------------\n§Y[This.GetName]§! станет націоналізований країною §Y[Root.GetName]§!."
+
+  HAS_ENOUGH_ENERGY_TO_CORE_STATE:0 "§Y[Root.GetName]§! виробляє достатньо §YEnergy§! для §Y[?coring_var_energy_cost]§! (зараз §Y[?free_energy_for_coring]§!)"
+
+  # Two Coring
+  ADD_CORE_TWO_TT:0 "§HПеретворити регіон в культ Наса§! £unit_motorized_icon_small [?coring_var_motorized_cost]"
+  ADD_CORE_TWO_TT_DELAYED:0 "§HОсновний показник§!: £unit_motorized_icon_small 100\n§HНаселення регіону§!: £unit_motorized_icon_small [?coring_var_state_pop]\n§HВідстань від столиці§!: £unit_motorized_icon_small [?coring_var_distance]\n§HЗниження витрат на націоналізацію завдяки модифікаторам§!: [?coring_cost_from_modifiers_for_display|%0]\n§HВартість націоналізації§!: £unit_motorized_icon_small [?coring_var_motorized_cost]\n--------------\n[!add_core_two_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
+
+  trigger_infrastructure_coring:0 "Рівень інфраструктури регіону не нижче §Y[?required_infrastructure]§!"
+  
+  # Res Coring
+  ADD_CORE_RES_TT:0 "§H[ROOT.coring_button_label_name_scripted_loc] регіон§! £pol_power [?coring_var_coring_cost]"
+  ADD_CORE_RES_TT_DELAYED:0 "§HБазове значення§!: £pol_power [?BASE_COST]\n§HСтратегічна цінність землі§!: £pol_power [?coring_var_state_strategic_value]\n§HНаселення регіону§!: £pol_power [?coring_var_state_pop]\n§HВіддаленість від столиці§!: £pol_power [?coring_var_distance]\n§HКоефіцієнт ефективності націоналізації§!: [?coring_cost_factor_gui|%0]\n§HМножник вимог§!: [?coring_var_claim|%0]\n§HЗниження витрат на націоналізацію за рахунок модифікаторів§!: [?coring_cost_from_modifiers_for_display|%0]\n§HОбмеження витрат на націоналізацію§!: £pol_power [?maximum_coring_cost]\n§HВартість націоналізації§!: £pol_power [?coring_var_coring_cost]\n--------------\n[!add_core_click_enabled][Root.coring_button_bonus_effect_scripted_loc]"
+
+  FALLOUT_CORING_TAB_TITLE:0 "[This.GetCoringTabTitle]"
+  FALLOUT_CORING_TAB_NO_STATES_INFO:0 "[This.GetCoringTabNoStatesInfo]"
+
+  FALLOUT_GO_TO_STATE_TT:0 "§GКлацайте§! для центрування на §Y[This.GetName]§!."
+  FALLOUT_CORE_BUTTON:0 "[ROOT.coring_button_label_name_scripted_loc]"
+  FALLOUT_TLALOC_CORE_BUTTON:0 "Підключитися"
+  FALLOUT_TWO_CORE_BUTTON:0 "Націоналізувати"
+  FALLOUT_RES_CORE_BUTTON:0 "Націоналізувати"
+
+  # Scripted Localisation:
+  string_fallout_coring_tab_no_states_info:0 "В настоящее время у нас нет ненациональных регионов."
+  string_fallout_tlaloc_coring_tab_no_states_info:0 "В настоящее время у нас нет несвязанных регионов."
+  coring_button_label_terraformer_coring:0 "Терраформирование"
+  coring_button_label_pacification_coring:0 "Усмирение"
+  coring_button_label_default_coring:0 "Национализировать"
+
+  # Custom Modifiers:
+  core_creation_cost_factor:0 "Цена национализации"
+  local_core_creation_cost_factor:0 "Местный фактор цены национализации"
+  maxium_core_cost_increase:0 "Максимальная цена национализации изменится на"
+  required_compliance_for_coring:0 "Необходимое согласие для национализации"
+  local_required_compliance_for_coring:0 "Местные требования согласия для национализации"
+  required_compliance_for_coring_factor:0 "Фактор наобходимого согласия"
+  local_required_compliance_for_coring_factor:0 "Местный фактор наобходимого согласия"
+  required_infrastructure_for_coring: "Необходимая инфраструктура для конвертации"
+  local_required_required_infrastructure_for_coring: "Местная необходимая инфраструктура для конвертации"
+
+  # Scripted effects
+  decrease_coring_cost_for_prev_cores: "Будет получена постоянная скидка в [?core_cost_var|%G0] на национализацию земель, бывших ранее национальными для государства §Y[PREV.GetNameDef]§!."
+  compliance_greater_then_or_equal_requirement:0 "Подчинение выше или равно §Y[?required_compliance]%§!"

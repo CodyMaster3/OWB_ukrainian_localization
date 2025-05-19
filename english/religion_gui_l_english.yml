@@ -1,0 +1,7 @@
+﻿l_english: 
+ CONVERTED_STATE_TT:0 "[Root.ConvertedState]"
+ CONVERSION_POSSIBLE_TT:0 "[Root.ConvertableState]"
+ HEA_CONVERTED_TEXT:0 "Пар очистив мешканців цієї землі"
+ NCN_CONVERTED_TEXT:0 "Мешканці прийняли істинну Віру!"
+ HEA_CONVERTABLE_TEXT:0 "Мешканці цієї землі §RПОВИННІ§! очиститися Паром"
+ NCN_CONVERTABLE_TEXT:0 "Мешканці цієї землі можуть прийняти істинну Віру"

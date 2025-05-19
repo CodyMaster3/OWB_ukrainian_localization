@@ -1,0 +1,6 @@
+﻿l_english:
+  core_owned_states_of_prev_tt: "§Y[This.GetNameDef]§! §Gнаціоналізовує§! всі території §Y[Prev.GetNameDef]§!.\n"
+  core_all_core_states_of_prev_tt:0 "§GНаціоналізовує§! всі національні території §Y[Prev.GetNameDef]§!.\n"
+  claim_core_states_of_prev_tt: "§Y[This.GetNameDef]§! отримує §Gпретензії§! на території §Y[Prev.GetNameDef]§!.\n"
+  grant_claims_and_wargoal_for_core_states_of_prev_tt: "§Y[This.GetNameDef]§! отримує §Gпретензії§! на території §Y[Prev.GetNameDef]§! та §Gціль війни§! з ними.\n"
+  grant_claims_and_territory_dispute_decisions_for_core_states_of_prev_tt: "§Y[This.GetNameDef]§! отримує §Gправа§! на території §Y[Prev.GetNameDef]§! та відкриває для себе §Gрішення по спірним територіям§!.\n"

@@ -1,0 +1,101 @@
+﻿l_english:
+ is_brotherhood_nation_tt:0 "Є підрозділом §YБратства Сталі§!"
+ is_not_brotherhood_nation_tt:0 "§RНЕ§! є підрозділом §YБратства Сталі§!"
+ is_brotherhood_nation_proper:0 "Дотримується законів §YБратства Сталі§! по призову"
+
+ is_chinese_nation_tt:0 "Страна була заснована §Oзалишками китайців§!"
+
+ is_ghoul_nation_tt:0 "Є нацією §Yгулів§!"
+ is_not_ghoul_nation_tt:0 "§RНЕ§! є нацією §Yгулів§!"
+
+ is_human_nation_tt:0 "Є §Yлюдською§! нацією"
+ is_not_human_nation_tt:0 "§RНЕ§! є §Yлюдською§! нацією"
+
+ is_mormon_nation_tt:0 "Є §Yмормонською§! нацією"
+ is_not_mormon_nation_tt:0 "§RНЕ§! є §Yмормонською§! нацією"
+
+ is_raider_nation_tt:0 "Є нацією §Yрейдерів§!"
+ is_not_raider_nation_tt:0 "§RНЕ§! є нацією §Yрейдерів§!"
+
+ is_settler_nation_tt:0 "Є нацією §Yпоселенців§!"
+ is_not_settler_nation_tt:0 "§RНЕ§! є нацією §Yпоселенців§!"
+
+ is_super_mutant_nation_tt:0 "Є нацією §Yсупермутантів§!"
+ is_not_super_mutant_nation_tt:0 "§RНЕ§! є нацією §Yсупермутантів§!"
+
+ is_psyker_nation_tt:0 "Є нацією §Yпсайкерів§!"
+ is_not_psyker_nation_tt:0 "§RНЕ§! є нацією §Yпсайкерів§!"
+
+ is_tribal_nation_tt:0 "Є §Yплемінною§! нацією"
+ is_not_tribal_nation_tt:0 "Є ли §Rне§! §Yплемінною§! нацією?"
+
+ is_mexican_nation_tt:0 "Це §Yмексиканська§! нация"
+ is_not_mexican_tt:0 "§RНЕ§! є §Yмексиканською§! нацією"
+
+ is_north_mexican_nation_tt:0 "Це §Yпівнічна мексиканська§! нация."
+ is_not_north_mexican_tt:0 "§RНЕ§! є §Yпівнічною мексиканською§! нацією"
+
+ is_south_mexican_nation_tt:0 "Це §Yпівденно-мексиканська§! нация."
+ is_not_south_mexican_tt:0 "§RНЕ§! є §Yпівденно мексиканською§! нацією"
+
+ is_vault_tec_nation_tt:0 "Є нацією §YВолт-Тек§!"
+
+ is_robotic_civilization_tt:0 "Є §Yроботизованою§! нацією"
+
+ is_coastal_nation_tt:0 "Є §Yприбережною§! нацією"
+ is_not_coastal_nation_tt:0 "§RНЕ§! є §Yприбережною§! нацією"
+
+ is_advanced_nation_tt:0 "Є §Yпросунутою§! нацією"
+ is_not_advanced_nation_tt:0 "§RНЕ§! є §Yпросунутою§! нацією"
+
+ is_civilized_nation_tt:0 "Є §Yцивілізованою§! нацією"
+ is_not_civilized_nation_tt:0 "§RНЕ§! є §Yцивілізованою§! нацією"
+
+ is_chiconet_nation_tt:0 "Є нацією §YЧіко-нет§!"
+ is_not_chiconet_nation_tt:0 "§RНЕ§! є нацією §YЧіко-нет§!"
+
+ is_ncr_nation_tt:0 "Є нацією §YНКР§!"
+ is_not_ncr_nation_tt:0 "§RНЕ§! є нацією §YНКР§!"
+
+ is_canadian_nation_tt:0 "Є нацією §Yканадців§!"
+
+ is_canadian_peoples_front_nation:0 "Є нацією §YКанадського народного фронту§!"
+
+ is_neutral_country_tt:0 "Держава §Y[THIS.GetName]§! взаємонейтрально з державою §Y[PREV.GetName]§!"
+
+
+
+
+
+
+
+
+
+
+ is_not_tribal_tt: "§RНЕ§! є §Yплемінною§! нацією"
+
+ is_mexican_tt: "Є §Yмексиканською§! нацією"
+
+ is_north_mexican_tt: "Є §Yпівнічною мексиканською§! нацією"
+
+ is_south_mexican_tt: "Є §Yпівденно мексиканською§! нацією"
+
+
+
+
+
+
+
+
+
+
+ TRIGGER_NUM_OF_CONTROLLED_STATES_MORE_THAN:0 "Регіонів під контролем більше $NUMBER|H$" #️Це виправлення оригінальної локалізації хойки, бо замість регіонів там написано країн. Прохання не видаляти️#️
+ TRIGGER_NUM_OF_CONTROLLED_STATES_LESS_THAN:0 "Регіонів під контролем менше $NUMBER|H$"
+ FE_HISTORICAL: "Історичний фокус" #️Теж виправлення оригінальної локалізації хойки, якщо написати Історичний фокус для ШІ, то не влазить у вікно мода#️
+ BYPASS_FOCUS_TRIGER: "Наступне змусить пропустити фокус:"
+ POPUP_MINOR_EVENTS: "Пригоди"
+ FE_DIFFICULTY_CUSTOM_BTN: "Користувацькі правила"
+ EFFECT_CREATE_UNIT_LOCATION: "Буде створена $OWNER|H$§Yая§! дивізія в регіоні $STATE|H$\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Буде створена $OWNER|H$§Yая§! дивізія ($COUNT|H$)"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Буде створена $OWNER|H$§Yая§! дивізія ($COUNT|H$) в регіоні $STATE|H$\n"
+ 

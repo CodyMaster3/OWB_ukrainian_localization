@@ -1,0 +1,12 @@
+﻿l_english:
+  generic_unlock_focus_tt: "§RПотрібно [Root.GetUnlockFocusName]§!"
+  generic_unlock_focus_completed_tt: "§GВиконано§!"
+  generic_rapid_military_deployment: "Швидке розгортання збройних сил"
+  cant_faction_call_tt: "§RНе можна залучати союзників фракцій до наших воєн.§!"
+  ally_cant_faction_call_tt: "§RЦей союзник не може брати участь у їхніх війнах.§!"
+  cant_faction_call: "Не можна закликати союзників до воєн"
+  cant_faction_join_tt: "§RНе можна закликати в цю війну союзників.§!"
+  ally_cant_faction_join_tt: "§RЦього союзника не можна закликати в нашу війну.§!"
+  cant_faction_join: "Не можна приєднатися до воєн союзників"
+  allow_join_faction_default_tt:0 "§RНації не можуть приєднуватися до фракцій за допомогою ручних дипломатичних дій через правила гри.§!"
+  

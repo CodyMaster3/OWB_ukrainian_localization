@@ -1,0 +1,80 @@
+﻿l_english:
+ #-------------------------------------
+ # National Focuses
+ legion_must_own_hangdog_territory:0 "Ви повинні контролювати провінції §YБитих Псів§!, щоби отримати цей ефект."
+ legion_must_own_twin_mothers_territory:0 "Ви повинні контролювати провінції §YМатерів-близнючок§!, щоби отримати цей ефект."
+ legion_must_own_two_sun_territory:0 "Ви повинні контролювати провінції §YДвох Сонць§!, щоби отримати цей ефект."
+ legion_must_own_baudelio_territory:0 "Ви повинні контролювати провінції §YФермерів Баудельйо§!, щоби отримати цей ефект."
+ legion_must_own_granjas_territory:0 "Щоби отримати ефект, ви повинні володіти колишніми штатами §YЛас-Гранхас§!."
+ legion_must_own_pecos_territory:0 "Ви повинні контролювати провінції §YКолонії Пекос§!, щоби отримати цей ефект."
+ legion_must_own_vegas_territory:0 "Ви повинні контролювати провінції §YНью-Вегаса§!, щоби отримати цей ефект."
+ legion_must_own_arizona_territory:0 "Ви повинні контролювати провінції §YАризони§!, щоби отримати цей ефект."
+ legion_must_own_new_mexico_territory:0 "Ви повинні контролювати провінції §YНью-Мехіко§!, щоби отримати цей ефект."
+ legion_must_own_colorado_territory:0 "Ви повинні контролювати провінції §YКолорадо§!, щоби отримати цей ефект."
+
+ legion_mongrels_tt:0 "Розгорне 3 дивізії §Yбойових псів Легіону§!. \n"
+ skin_walkers_tt:0 "Розгорне 2 дивізії §Yспецназа§!. \n"
+ cult_of_nas_tt:0 "Розгорне 2 §Yдивізії БТР§!. \n"
+ demon_servants_tt:0 "Розгорне 2 дивізії §Yспецназа§!. \n"
+ steelbreakers_tt:0 "Розблокує §Yсталеломів§!.\n"
+
+ legion_siege_battalion_tt:0 "Розгорне 2 §Yссадні дивізії§!."
+ legion_recon_battalion_tt:0 "Розгорне 3 §Yдивізії фрументаріїв§!."
+ legion_chariots_tt:0 "Розгорне 2 §Yмоторизовані колісниці Легіона§!."
+
+ legion_unlock_shottol_god_of_dogs_tt:0 "Розблокує §YШоттол, Бог Гончих§!: Дасть §YВовча зграя§!: §G+10%§! Протипіхотна атака"
+
+ legion_unlock_goddess_diana_tt:0 "Розблокує §YБогиня Діана§!: Дасть §G+10%§! Швидкість відновлення."
+
+ legion_unlock_caesar_the_godslayer_tt:0 "Розблокує §YЦезар, вбивця богів§!: Дасть §G+5%§! Швидкість відновлення."
+
+ legion_unlock_cult_of_nas_tt:0 "Розблокує §YКульт Наса§!: Дасть §YТранспорт§!: §G+5%§! протипіхотна атака і §G+10%§! Прорив."
+
+ legion_unlock_cult_of_nas_minor_tt:0 "Розблокує §YКульт Наса§!: Дасть §YТранспорт§!: §G+5%§! Прорив."
+
+ legion_unlock_wyatt_the_demon_tt:0 "Розблокує §YДемон Ваят§!: Дасть §G+10%§! Швидкість дивізії."
+
+ legion_unlock_legion_outlaws_tt:0 "Розблокує §YЛегіонери-розбійники§!: Дасть §G+5%§! Швидкість дивізії."
+
+ zetan_landing_tt:0 "Армія зетанських роботів приземлилася.\n"
+
+ bosgetvertibirds_tt:0 "Братство Сталі отримає §Y30§! Гвинтокрилів. НКР отримає §G10§!."
+ allgetvertibirds_tt:0 "Братство Сталі отримає §Y20§! Гвинтокрилів. НКР отримає §G20§!."
+ ncrgetvertibirds_tt:0 "Братство Сталі отримає §Y10§! Гвинтокрилів. НКР отримає §G30§!."
+
+ # Flags
+ refused_petition:0 "Відхилене прохання"
+ accepted_petition:0 "Схвалене прохання"
+ hoover_dam_lost:0 "Втрата дамби Гувера"
+ hoover_dam_won:0 "Збереження дамби Гувера"
+ battle_for_hoover_dam:0 "Битва за дамбу Гувера"
+ legion_chariots:0 "Колісниці Легіона"
+ sided_with_vulpus:0 "Обрано Вульпес"
+ sided_with_lanius:0 "Обрано Ланий"
+ caesar_survived:0 "Цезар вижив"
+ sided_with_lucius:0 "Обрано Луцій"
+ no_generic_manufacturer:0 "Не дозволяє спільних виробників"
+ no_generic_advisor:0 "Не дозволяє спільних радників"
+ stole_cores:0 "Претензії отримані"
+
+ #idea tooltips
+ killed_off:0 "Не був убитий!"
+ enclave_return:0 "Дорнан повернувся"
+ #event OOB tooltips
+ vallebandits_tt:0 "З'являється три загони ополчення!"
+ pazbandits_tt:0 "З'являється три загони ополчення!"
+
+  #Fuck he's here everybody get down
+ riseofclaus:0 "§RСенатор розвинеться у свою наймогутнішу форму й отримає претензію на нову область§!"
+ thelist1:0 "§GСенатор Клаус двічі перевірить свій список і отримає військову ціль для всіх неслухняних народів пустки.§!"
+ thelist2:0 "§RВи ВСІ в списку.§!"
+ claim_the_north_tt:0 "Надає §Y[This.GetNameDef]§! §Gправа§! і §Gпретензії§! щодо основних територій кожної країни на півночі §YВашингтона§!!"
+ own_the_north_tt:0 "Усі території §Yпівночі§! §YВашингтона§! під контролем §Y[This.GetNameDef]§!, їх маріонеток та союзників.\n"
+ slavery_now_allowed_tt:0 "Додаткові §Rзакони по рабству§! для [This.GetNameDef]."
+
+ available_army_chief: "Доступний як §Yвоєначальник§!: \n"
+ #-------------------------------------"
+ # National Focuses"
+ # Flags"
+ encalve_return:0 "Дорнан повернувся!"
+ #Fuck he's here everybody get down

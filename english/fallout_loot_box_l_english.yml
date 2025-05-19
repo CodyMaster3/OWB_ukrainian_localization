@@ -1,0 +1,15 @@
+﻿l_english:
+ # GUIs:
+ FALLOUT_LOOT_BOX_WINDOW_TITLE: "Лутбокс"
+ FALLOUT_LOOT_BOX_OPEN_BUTTON_TT: "[This.GetFalloutLootBoxOpenButtonTooltip]"
+ FALLOUT_LOOT_BOX_OPEN_BUTTON_TT_DELAYED: "До лутбоксів можуть входити предмети, політична влада, досвід, людські ресурси або [This.GetCapType]."
+ FALLOUT_LOOT_BOX_OPEN_MORE_BUTTON_TEXT: "Відкрити більше лутбоксів"
+ FALLOUT_LOOT_BOX_OPEN_MORE_BUTTON_TT: "§GКлацніть§!, щоби відкрити ще один лутбокс."
+ FALLOUT_LOOT_BOX_COST_TEXT: "Кожен лутбокс коштує §Y[?loot_box_cost|2]§! [This.GetCapTxt] ."
+ FALLOUT_LOOT_BOX_ENTRY_TEXT: "[?fallout_loot_box_drop_amount|0]"
+ FALLOUT_LOOT_BOX_ENTRY_TT: "Ми отримали §G[?fallout_loot_box_drop_amount|0]§! [This.GetFalloutLootBoxEntryType] від цього лутбокса."
+ FALLOUT_LOOT_BOX_ITEM_ENTRY_TT: "§Y[This.GetFalloutLootBoxItemEntryName]§! \n§L[This.GetFalloutLootBoxItemEntryDesc]§! \n\n§YКатегорія:§! [This.GetFalloutLootBoxItemEntryCategory] \n§YЯкість:§! [This.GetFalloutLootBoxItemEntryQuality] \n\n§YЕфекти при оснащенні:§! \n[This.GetFalloutLootBoxItemEntryEffects]"
+
+ # Scripted Localisation:
+ string_fallout_loot_box_open_button_tt_blocked_too_few_caps: "§RНам потрібно хоча би [?loot_box_cost|2] [This.GetCapType].§!"
+ string_fallout_loot_box_open_button_tt: "§GКлацніть§!, щоби відкрити цей лутбокс вартістю §R[?loot_box_cost|2]§! [This.GetCapType]."

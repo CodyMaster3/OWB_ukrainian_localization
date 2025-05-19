@@ -1,0 +1,87 @@
+﻿l_english:
+  #spellcheck_ignore: all
+  # Scripted GUI:
+ PIPBOY_PLUS_OPEN_TT:0 "Піп-Бой Плюс"
+
+ PIPBOY_PLUS_BACK_button:0 "НАЗАД"
+ PIPBOY_PLUS_BACK_button_TT:0 "Повернутися назад."
+
+ PIPBOY_PLUS_WELCOME_MESSAGE:0 "[This.GetRandomWelcomeMessage], §Y[This.GetLeader]§!"
+
+ PIPBOY_PLUS_SELECT_FONT_COLOR_TT: "§GНатисність§!, щоби перемкнути колір шрифту за замовчуванням в текстах на екрані піпбоя між §Gзеленим§! та §9бурштиновим§!."
+
+ PIPBOY_PLUS_STARTING_SCREEN_HEADER:0 "Волт-Тек™ Представляє!"
+ PIPBOY_PLUS_STARTING_SCREEN_TEXT:0 "Ласкаво просимо в Піп-Бой Плюс™, нову енциклопедію Волт-Тек™ з гарантиєю плавної роботи в 200 років.\n\nПобудована з 77-Серійної Термостійки Сталі РЕПКОНН™, і з новішою технологією Слайдер™ що надає повноцінний контроль, Піп-Бой Плюс™ чудовий прийстрій для всіх трудолюбивих Американців! Наш революційнний 4:3 екран складається з візору робота воєнного классу РобКо Індастриз™, найбільш міцного скла колт-небудь добавленого в Піп-Бой, дозволяючи вам читати текст навіть в самому розпалі битви!\n\nДля допомоги в налаштуванні, не забудьте прибрати посібник користувача Піп-Бой Плюс™: доступне за низькою ціною всього-лише в $999.99!\n\nДанний пристрій доступний в любий момент промто нажаттям кнопки 'Допомога' у верхньому правому куті вашого Волт-Тек™ Піп-Боя 2000™!"
+ PIPBOY_PLUS_TAB_REGION_TT:0 "§GНажмите§! чтобы переключиться на вкладку '§YРегионы и Нации§!'."
+ PIPBOY_PLUS_TAB_MECHANIC_TT:0 "§GНажмите§! чтобы переключиться на вкладку '§YМеханики§!'."
+ PIPBOY_PLUS_TAB_CHANGELOG_TT:0 "§GНажмите§! чтобы переключиться на вкладку '§YСписок Изменений§!'."
+ PIPBOY_PLUS_TAB_CREDITS_TT:0 "§GНажмите§! чтобы переключиться на вкладку '§YТитры§!'."
+ PIPBOY_PLUS_CATEGORY_SELECTED_TT:0 "Эта вкладка в данный момент выбрана."
+
+ PIPBOY_PLUS_NATION_LIST_HEADER:0 "НАЦІЇ"
+ PIPBOY_PLUS_NATION_HEADER:0 "§Y[This.GetPipboySelectedCountryName]§!"
+ PIPBOY_PLUS_REGION_LIST_HEADER:0 "РЕГІОНИ"
+ PIPBOY_PLUS_REGION_HEADER:0 "§Y[This.GetPipboySelectedRegionTitle]§!"
+ PIPBOY_PLUS_MECHANIC_LIST_HEADER:0 "МЕХАНІКИ"
+ PIPBOY_PLUS_MECHANIC_HEADER:0 "§Y[This.GetPipboySelectedMechanicTitle]§!"
+ PIPBOY_PLUS_CHANGELOG_LIST_HEADER:0 "СПИСОК ЗМІН"
+ PIPBOY_PLUS_CHANGELOG_MAJOR_HEADER:0 "§Y[This.GetPipboySelectedChangelogTitleLong]§!"
+ PIPBOY_PLUS_CHANGELOG_HEADER:0 "§Y[This.GetPipboySelectedChangelogTitle]§!"
+ PIPBOY_PLUS_CREDITS_HEADER:0 "ТИТРИ"
+
+ PIPBOY_PLUS_NATION_LIST_DESC:0 "[This.GetPipboySelectedRegionText]"
+ PIPBOY_PLUS_REGION_LIST_DESC:0 "Тут ви можете знайти список всіх регіонів. Якщо ви хочете прочитати побільше про якийсь регіон чи країну в цьому регіоні, ви можете нажати на назву регіону."
+ PIPBOY_PLUS_MECHANIC_LIST_DESC:0 "Тут ви можете знайти список всіх ігрових механік. Якщо ви хочете прочитати побільше про якусь механіку, ви можете нажати на її назву."
+ PIPBOY_PLUS_CHANGELOG_MAJOR_LIST_DESC:0 "Тут ви можете знайти список всіх оновлень з чейнджлогами. Якщо ви хочете почитати чейнджлог певного оновлення - клацніть на нього."
+ PIPBOY_PLUS_CHANGELOG_MINOR_LIST_DESC:0 "[This.GetPipboySelectedMajorUpdateText]"
+
+ PIPBOY_PLUS_NATION_TXT:0 "[This.GetPipboySelectedCountryText]\n"
+ PIPBOY_PLUS_MECHANIC_TXT:0 "[This.GetPipboySelectedMechanicText]\n"
+ PIPBOY_PLUS_CHANGELOG_TXT:0 "[This.GetPipboySelectedChangelogText]\n"
+ PIPBOY_PLUS_CREDITS_TXT:0 "[This.GetPipboySelectedCreditsText]\n"
+
+ PIPBOY_PLUS_COUNTRY_LIST_BUTTON_TT:0 "§GНатисніть§! щоби почитати про §Y[This.GetNameWithFlag]§!."
+ PIPBOY_PLUS_COUNTRY_LIST_BUTTON_TT_DELAYED:0 "§GНатисніть ПКМ§! щоби центрувати карту на столицю [This.GetAdjective], §Y[This.Capital.GetName]§!."
+ PIPBOY_PLUS_REGIONS_LIST_BUTTON_TT:0 "§GНатисніть§! щоби почитати про регіон '§Y[This.GetPipBoyRegion]§!'."
+ PIPBOY_PLUS_REGIONS_LIST_BUTTON_TT_DELAYED:0 "§GНатисніть ПКМ§! щоби центрувати карту на §Y[This.GetPipBoyRegionCenterState]§!."
+ PIPBOY_PLUS_MECHANICS_LIST_BUTTON_TT:0 "§GНатисніть§! щоби почитати про §Y[This.GetPipBoyMechanics]§!."
+ PIPBOY_PLUS_CHANGELOG_MAJOR_LIST_BUTTON_TT:0 "§GНатисніть§! щоби проглянути список оновлень §YOld World Blues§!."
+ PIPBOY_PLUS_CHANGELOG_MINOR_LIST_BUTTON_TT:0 "§Натисніть§! щоби переглянути чейнджлоги §Y[This.GetPipBoyChangelog]§!."
+ PIPBOY_PLUS_CREDITS_BUTTON_TT:0 "§GНатисніть§! щоби проглянути титри §YOld World Blues§!."
+ PIPBOY_PLUS_FLAG_BUTTON_TT:0 "§GНатисніть§! щоби центрувати карту на вашій столиці, §Y[This.Capital.GetName]§!."
+
+ PIPBOY_PLUS_NATION_ENTRY_NAME:0 "[This.GetFlag] §Y[This.GetName]§!"
+ PIPBOY_PLUS_REGION_ENTRY_NAME:0 "§Y[This.GetPipBoyRegion]§!"
+ PIPBOY_PLUS_MECHANIC_ENTRY_NAME:0 "§Y[This.GetPipBoyMechanics]§!"
+ PIPBOY_PLUS_CHANGELOG_MAJOR_ENTRY_NAME:0 "§Y[This.GetPipBoyChangelogLong]§!"
+ PIPBOY_PLUS_CHANGELOG_ENTRY_NAME:0 "§Y[This.GetPipBoyChangelog]§!"
+
+ PIPBOY_PLUS_COUNTRY_LIST_NO_ENTRIES_INFO:0 "§RПСУВАННЯ РЕГІОНАЛЬНИХ ДАНИХ, ІДЕ ДЕФРАГМЕНТАЦІЯ§!"
+
+  #########################################
+  # WELCOME STRINGS
+  #########################################
+ string_random_welcome_message_howdy:0 "Здоров"
+ string_random_welcome_message_hello:0 "Привіт"
+ string_random_welcome_message_hey:0 "Гей"
+ string_random_welcome_message_hi_there:0 "Привітик"
+ string_random_welcome_message_good_day:0 "Добрий День"
+ string_random_welcome_message_good_day_short:0 "Добр день"
+ string_random_welcome_message_cheers:0 "Вашими молитвами"
+ string_random_welcome_message_greetings:0 "Здраствуйте"
+ string_random_welcome_message_hail:0 "Привіт"
+ string_random_welcome_message_welcome:0 "Ласкаво просимо"
+ string_random_welcome_message_buenos_dias:0 "Буенос діас"
+ string_random_welcome_message_bienvenido:0 "Б'єнвеніда"
+ string_random_welcome_message_alo:0 "Алло"
+ string_random_welcome_message_diga:0 "Слухаю"
+ string_random_welcome_message_bueno:0 "Буено"
+ string_random_welcome_message_muy_buenos:0 "Муй буенос"
+ string_random_welcome_message_salve:0 "Сальве"
+ string_random_welcome_message_saludos:0 "Салюдос"
+ string_random_welcome_message_salud:0 "Салют"
+ string_random_welcome_message_hola:0 "Хола"
+
+ spellcheck_ignore: "все"
+
+

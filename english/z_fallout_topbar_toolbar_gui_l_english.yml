@@ -1,0 +1,57 @@
+﻿l_english:
+  # GUI:
+  #spellcheck_ignore: puppet_taxation_popup_icon
+ FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT:0 "§YРізні вкладки§!\nНатисніть, щоби показати або приховати розгорнуте меню для інших вкладок."
+ FALLOUT_TOOLBAR_DROP_DOWN_BUTTON_TT_DELAYED:0 "[This.GetToolbarDropDownButtonTooltipDelayed]"
+
+ FALLOUT_TOOLBAR_TAB_BUTTON_TT:0 "[This.GetToolbarTabButtonTooltip]"
+
+  # Scripted Localisation:
+ string_fallout_toolbar_drop_down_button_tt_invalid:0 "§RУ нас немає інших можливих вкладок.§!"
+ string_fallout_toolbar_drop_down_button_help:0 "[GetMiscButtonTTHint]"
+
+ string_fallout_tab_button_tt_1:0 "§Y[This.GetCoringTabTitle]§! \n[This.GetCoringTabDesc]"
+ string_fallout_coring_tab_title:0 "Не націоналізовані регіони"
+ string_fallout_coring_tab_desc:0 "Перевірте території, які не є вашими національними, і, якщо можливо, вкажіть їхні національні."
+ string_fallout_tlaloc_coring_tab_title:0 "Відновити енергосистему"
+ string_fallout_tlaloc_coring_tab_desc:0 "Переглядайте території, які не підключені до Chico-Net, і підключайте їх, якщо це можливо."
+
+ string_fallout_tab_button_tt_2:0 "§YЕкономіка§! \nДізнайтеся подробиці про економічну ситуацію у вашій країні та витратьте свої скарби."
+
+ string_fallout_tab_button_tt_3:0 "§YКнига Маріонеток§! \nВивчіть детальну інформацію про всіх ваших підданих, включно з їхньою поточною політичною владою, чисельністю армії та законом про призов."
+
+ string_fallout_tab_button_tt_4:0 "§Y[This.GetSenateTabTitle]§! \n[This.GetSenateTabDesc]"
+ string_fallout_default_senate_tab_title:0 "Парламент"
+ string_fallout_default_senate_tab_desc:0 "Давайте вивчимо ваш парламент і можливості щодо взаємодії з ними."
+ string_fallout_rrg_senate_tab_title:0 "[RRG.GetAdjective] Сенат"
+ string_fallout_rrg_senate_tab_desc:0 "Давайте вивчимо [RRG.GetAdjective] Сенат і думка всіх сенаторів і депутатів щодо нових законів."
+
+ string_fallout_tab_button_tt_5:0 "§YКарта торгівельних вузлів§! \nВивчіть економічні зв'язки на пусткаї."
+
+ string_fallout_tab_button_tt_6:0 "§YРинкові організації§! \nВідвідайте місцевий базар, щоб купити зброю, спорядження та багато іншого.!"
+
+ string_fallout_tab_button_tt_7:0 "Наші §YСклади§!"
+
+ string_fallout_tab_button_tt_8:0 "§YДодаткові режими карти§! \nПерегляд додаткових режимів карти OWB. \n§RПерший раз може знадобитися деякий час для завантаження!§!"
+
+ string_fallout_tab_button_tt_9:0 "§YЯщик з предметами§! \nКупіть ящики з предметами, які можуть містити предмети."
+
+ string_fallout_tab_button_tt_10:0 "§YДодаткові режими карти§! \nПерегляд режимів користувацької карти OWB. \n§RПерше завантаження може зайняти багато часу!§!"
+
+ popup_hover_over_tooltip:0 "[GetPopupTooltip]"
+ node_level_up_popup_tooltip:0 "[GetNodeLevelUpPopUp]"
+ node_level_up_popup_tooltip_tt:0 "В §Y[?target_state_var.GetName]§! може бути підняти рівень до [?new_level|+0]"
+ node_disabled_popup_tooltip:0 "[GetNodeDisabledPopUp]"
+ node_disabled_popup_tooltip_tt:0 "§Y[?target_state_var.GetName]§! §Rне діє§!\nВузол не буде приносити дохід, поки вимкнений"
+ node_trade_income_tt:0 "[GetNodeNewRoutePopup]"
+ node_recieve_route_popup_tt:0 "Встановлено маршрут із §Y[?recieving_state.GetName]§! в [?trade_recieved_from|+=] [GetCapType]"
+ node_new_node_popup_tt:0 "[GetNodeNewNodePopup]"
+ node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках і головним центром торгівлі для §Y[THIS.GetName]§!!"
+ node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках!"
+ puppet_taxation_popup_tooltip:0 "[GetPuppetTaxPopup]"
+ puppet_taxation_popup_tooltip_tt:0 "Налоги могут взиматься с §Y[?puppet.GetName]§!. \n  В настоящее время мы облагаем налогом: [?taxes_var_for_overlord|2=+] [GetCapType] от §Y[?puppet.GetName]§!\n  Їх поточний оподатковуваний дохід становить [PrecalculateTaxableIncome]\n    §gПодатки можна підвищувати, знижувати й оновлювати в книзі обліку маріонеток у вкладці 'Різне' на верхній панелі."
+ node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
+ puppet_taxation_popup_icon:0 "GFX_puppet_tax_icon"
+ node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! став домом для §G[GetOrganizationName]§!\nТепер ми можемо торгувати товарами і будувати з ними ділові відносини!"
+ exodus_popup_icon:0 "GFX_exodus_small"
+ exodus_popup_tooltip:0 "§YБіженці!§!\n§gЗа останні 60 днів, [?exodus_pop_left|0+] біженців покинули свої домівки, тремтячи перед нашими завойовницькими арміями.§!\n§g[?exodus_pop_gained|0+] біженців приїхало, щоби поселитися в наших регіонах.§!"

@@ -1,0 +1,49 @@
+﻿l_english:
+  SLAVE_MAIN: "[?slave_number_display|2] k"
+  SLAVE_TOOLTIP: "Ви маєте [?slave_number_display|2] т. рабів \n"
+  SLAVE_TOOLTIP_delayed: "Використовувати рабів через рішення рабовласників!"
+
+  ###Effect tooltips
+  slaver_decision_slaves_tt: "Додає [?temp_state_k_pop|=+]т. рабів"
+  slave_decision_trigger_tt: "Має [?slave_temp_trigger|2]т. рабів"
+  slaver_decisions_slave_spend_tt: "\nРозмістити [?slave_temp_cost] т. рабів до [temp_slave_scope.GetName]\n60% рабів повернуться"
+  slaver_decision_unlocks_tt: "Розблокує рівень [?temp_level_selector|0+] рішення про рабство.\nЖорстокість: [?temp_brutality|0-%]"
+  slaver_gain_slave_tt: "Отримати [?slaves_to_add|2+] т. рабів\n"
+  slaver_remove_slave_tt: "Видалити [?slaves_to_add|2-] т. рабів\n"
+
+  ###Trigger
+  slave_law_trigger_tt: "Прийнято чинний закон про рабовласництво"
+
+  ###Decision Meta Effects
+  slave_decision_level: "\nРівень прийняття рішень рабів: [?temp_decision_level|0+]"
+  slave_decision_brutality_tt: "[?slave_brutality|%-] повернулися через жорстокість"
+
+
+  ###Decision Names
+  slaver_enslave_population: "Поневолити підкорених чужинців"
+  slaver_enslave_population_tt: "Ваш рівень рабства має бути більшим за 2."
+  slaves_normal_category: "Де є батіг, там є шлях"
+  slaves_normal_category_desc: "Треба бути обережним, використовуючи раба як охоронця. Більшість з них не дуже зацікавлені в тому, щоб зберегти тобі життя, розумієш, що я маю на увазі? Твій поточний рівень рабства: [?modifier@slavery_use_modifier]"
+  slaver_add_bunker: "Побудувати бункери"
+  slaver_add_bunker_tt: "Ваш рівень рабства повинен бути принаймні 1."
+  slaver_buy_servant_decision: "Купити слуг"
+  slaver_workshop_slaves: "Надіслати рабів до майстерень"
+  slave_trade_mission_tt: "Якщо вони приймуть нашу пропозицію, ми отримаємо 300 рабів."
+  slaver_add_infrastructure: "Використати рабів для будівництва доріг"
+  slaver_add_infrastructure_tt: "Ваш рівень рабства має бути більшим за 0."
+  slaver_slave_raid: "Почати рейд за рабами"
+  slaver_build_factory: "Використати рабів для будівництва фабрики"
+  slaver_build_factory_tt: "Ваш рівень рабства має бути більшим за 2"
+  slaver_buy_servant_decision_desc: "На вашому місці я б стежив за такими розмовами. Це НЕ рабство. Ми дбаємо про цих біженців, і вони мають хороше життя... краще, ніж вони могли б отримати на пустирях."
+  slaver_slave_open_market: "Відвідати Невільничий ринок"
+  slaver_slave_close_market: "Покинути Невільничий ринок"
+  CES_slave_decision: "Поневолити більше підданих"
+  CES_slaver_build_factory: "Раби Справедливості"
+  CES_promote_latifundia: "Просування латифундій"
+  latifundia: "Створено латифундії"
+
+
+
+  ###Dynamic Modifiers
+  slaves_state_build_speed: "Рабська праця"
+  slavery_use_modifier: "Рівень експлуатації рабів"
