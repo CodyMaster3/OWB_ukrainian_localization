@@ -1,16 +1,16 @@
 ﻿l_english:
 # GUI
 # Визначені Тексти
-boneyard_name: "Кістковий Двір"
+boneyard_name: "Могильник"
 dayglow_name: "Дейглоу"
-maxson_name: "Максон"
+maxson_name: "Мексон"
 redding_name: "Реддінг"
-shady_sands_name: "Тіньові Піски"
+shady_sands_name: "Шейді-Сендс"
 
 allgood_elections_name: "Сенатор Мерфі"
 kimball_elections_name: "Аарон Кімбелл"
 hayes_elections_name: "Мер Гейз"
-secret_boi_elections_name: "Даг Ґраніт"
+secret_boi_elections_name: "Даг Ґрант"
 
 boneyard_first_candidate_support: "[?global.first_candidate_support_array^1]%"
 dayglow_first_candidate_support: "[?global.first_candidate_support_array^2]%"
