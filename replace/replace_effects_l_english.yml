@@ -1,0 +1,10 @@
+﻿l_english:
+ EFFECT_REMOVE_FM_LEADER:0 "$NAME|H$ перестає бути головнокомандуючим.\n"
+ EFFECT_REMOVE_CC_LEADER:0 "$NAME|H$ перестає бути командиром загону.\n"
+ EFFECT_CREATE_FM_LEADER:0 "$NAME|H$ стає головнокомандуючим.\n"
+ EFFECT_CREATE_CC_LEADER:0 "$NAME|H$ стає командиром загону.\n"
+ EFFECT_ADD_BUFF_TO_UNITS:0 "Збільшує вміння загонів, які знаходяться під командуванням командира загону."
+ EFFECT_IMPROVE_PLANNING:0 "Покращує планування загонів, які знаходяться під командуванням головнокомандуючого."
+ EFFECT_PROMOTE_LEADER:0 "Отримує підвищення до §Hголовнокомандуючого§!"
+ EFFECT_DEMOTE_LEADER:0 "Понижається до §Hкомандира загону§!"
+ EFFECT_EVERY_UNIT_LEADER_STARTS:0 "Любий командир загону"

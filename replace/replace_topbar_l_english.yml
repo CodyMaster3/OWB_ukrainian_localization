@@ -1,0 +1,10 @@
+﻿l_english:
+ MILITARY_FACTORIES_STATUS:0 "Використано воєнних майстерень: §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_MILITARY_FACTORIES:0 "Пошкоджені воєнні майстерні: $COUNTT|H$"
+ NAVAL_FACTORIES_STATUS:0 "Використано верфів: §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_NAVAL_FACTORIES:0 "Пошкоджені верфі: $COUNT|H$"
+ CIVILIAN_FACTORIES_STATUS:0 "Використано цивільних майстерень: §Y$USED$§!/§Y$TOTAL$§!"
+ DAMAGED_CIVILIAN_FACTORIES:0 "Пошкоджені цивільні майстерні: $COUNT|H$"
+ MILITARY_FACTORIES_OCCUPATION_STATUS:0 "Захоплено Воєнних майстерень: §Y$COUNT$§!"
+ NAVAL_FACTORIES_OCCUPATION_STATUS:0 "Захоплено верфів: §Y$COUNT$§!"
+ CIVILIAN_FACTORIES_OCCUPATION_STATUS:0 "Захоплено цивільних майстерень: §Y$COUNT$§!"

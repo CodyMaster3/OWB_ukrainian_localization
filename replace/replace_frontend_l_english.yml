@@ -1,0 +1,13 @@
+﻿l_english:
+ FE_DIFFICULTY:0 "Рівень Складності"
+ ACHIEVEMENTS_DIFFICULTY:0 "Обивала або складність згори"
+ FE_DIFFICULTY_VERY_EASY:0 "Розмазня"
+ FE_DIFFICULTY_VERY_EASY_TOOLTIP:0 "§L"Я натискаю на кнопки. Я збільшую швидкість. Я рахую цифри. Іноді я вигадую у своїй голові маленькі історії про те, що ці цифри означають."§!"
+ FE_DIFFICULTY_EASY:1 "Малюк"
+ FE_DIFFICULTY_EASY_TOOLTIP:0 "§L"Люди вмирають, нам потрібна свіжа кров."§!"
+ FE_DIFFICULTY_NORMAL:1 "Бувалець"
+ FE_DIFFICULTY_NORMAL_TOOLTIP:0 "§L"Неважливо, перемога буде за нами, вона буде швидкою, чесною та кровавою."§!"
+ FE_DIFFICULTY_HARD:1 "Накачаний"
+ FE_DIFFICULTY_HARD_TOOLTIP:1 "§L"Ти що у нас? РОЗУМНИК? Чергова дурість? Іще одна помилка? Цей рабський ошийник просто взірве твої мізки! ... своєю складністю"§!"
+ FE_DIFFICULTY_VERY_HARD:0 "Нестримний"
+ FE_DIFFICULTY_VERY_HARD_TOOLTIP:1 "§L"Трупам не властиво геройствувати"§!"

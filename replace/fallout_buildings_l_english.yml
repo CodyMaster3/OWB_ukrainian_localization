@@ -1,0 +1,45 @@
+﻿l_english:
+  synthetic_refinery:0 "Переробний завод"
+  synthetic_refinery_plural:0 "Переробні заводи"
+  synthetic_refinery_desc:0 "Ця будівля дає"
+  synthetic_refinery_amount:0 "$VALUE|Y0=$"
+  synthetic_refinery_resource:0 "£resources_strip|$FRAME$"
+
+  modifier_production_speed_synthetic_refinery_factor:0 "Швидкість будівництва §YНПЗ§!"
+  modifier_production_speed_synthetic_refinery_factor_desc:0 "Змінює швидкість будівництва Переробних заводів."
+
+  water_generator: "Очищувальна станція"
+  water_generator_plural: "Очищувальні станції"
+  water_generator_desc:0 "Ця будівля дає"
+  water_generator_amount:0 "$VALUE|Y0=$"
+  water_generator_resource:0 "£resources_strip|$FRAME$"
+
+  electricity_generator: "Електростанція"
+  electricity_generator_plural: "Електростанції"
+  electricity_generator_desc:0 "Ця будівля дає"
+  electricity_generator_amount:0 "$VALUE|Y0=$"
+  electricity_generator_resource:0 "£resources_strip|$FRAME$"
+
+  metal_generator: "Ковальня"
+  metal_generator_plural: "Ковальні"
+  metal_generator_desc:0 "Ця будівля дає"
+  metal_generator_amount:0 "$VALUE|Y0=$"
+  metal_generator_resource:0 "£resources_strip|$FRAME$"
+
+#  fuel_generator: "Fuel Processing Plant"
+#  fuel_generator_plural: "Fuel Processing Plants"
+#  fuel_generator_desc:0 "This building provides the state with"
+#  fuel_generator_amount:0 "$VALUE|Y0=$"
+#  fuel_generator_resource:0 "£resources_strip|$FRAME$"
+
+  circuitry_generator:0 "Виробнича лабораторія"
+  circuitry_generator_plural:0 "Виробничі лабораторії"
+  circuitry_generator_desc:0 "Ця будівля дає"
+  circuitry_generator_amount:0 "$VALUE|Y0=$"
+  circuitry_generator_resource:0 "£resources_strip|$FRAME$"
+
+#  advanced_technology_generator: "Research Facility"
+#  advanced_technology_generator_plural: "Research Facilities"
+#  advanced_technology_generator_desc:0 "This building provides the state with"
+#  advanced_technology_generator_amount:0 "$VALUE|Y0=$"
+#  advanced_technology_generator_resource:0 "£resources_strip|$FRAME$"

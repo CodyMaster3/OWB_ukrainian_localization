@@ -1,0 +1,429 @@
+﻿l_english:
+ # Categories
+
+  category_army:0 "Армія"
+  category_front_line:0 "Передові взводи"
+  category_demolitions:0 "Вибухові загони"
+  category_fireteams:0 "Кулеметні загони"
+  category_robots:0 "Роботи"
+  category_front_line_robots:0 "Передові Роботи"
+  category_cnc_robots:0 "К-У Роботи"
+  category_mutants:0 "Мутанти"
+  category_super_mutants:0 "Супермутанти"
+  category_super_mutant_infantry:0 "Піхота супермутантів"
+  category_special_forces:0 "Спецназ"
+  category_infantry_and_special_forces:0 "Піхота і спецназ"
+  category_light_special_forces:0 "Легкий спецназ"
+  category_power_armour:0 "Важкий спецназ"
+  category_infantry:0 "Піхота"
+  category_militia:0 "Ополчення"
+  category_standard_infantry:0 "Стандартна піхота"
+  category_leg_infantry:0 "Сухопутні війська"
+  category_weapon_infantry:0 "Зброя піхоти"
+  category_vehicles:0 "Транспортні засоби"
+  category_support:0 "Підтримка"
+  category_combat_support:0 "Бойова підтримка"
+  category_non_combat_support:0 "Небойова підтримка"
+  category_medical_support:0 "Медична підтримка"
+  category_recon_support:0 "Розвідувальна підтримка"
+  category_logistics_support:0 "Підтримка логістики"
+  category_maintenance_support:0 "Технічна підтримка"
+  category_behemoth:0 "Бегемоти"
+  mobile:0 "Мотопіхота"
+  infantry:0 "Піхота"
+  support:0 "Підтримка"
+  special_forces_group:0 "Спецназ"
+
+
+  category_air_unit:0 "Усі літаки"
+  category_fighter:0 "Винищувач"
+  category_light_air:0 "Легкий літак"
+  category_cas:0 "Штурмовик"
+  category_transport:0 "Вантажний літак"
+  category_heavy_air:0 "Важкий літак"
+  category_bomber:0 "Бомбардувальники"
+  category_strat_bomber:0 "Стратегічний бомбардувальник"
+  category_blimp:0 "Дирижабль"
+  category_spotter_plane:0 "Літак-розвідник"
+  category_screen_ship:0 "Крейсери"
+  category_capital_ship:0 "Лінкор"
+  category_carrier_ship:0 "Вантажний корабель"
+
+  category_all_infantry:0 "Уся піхота та мотопіхота»
+
+ # Групи (категорії конструктору підрозділів)
+  group_robot_group_title:0 "Взводи роботів"
+  group_mutant_group_title:0 "Взводи мутантів"
+  group_special_forces_group_title:0 "Спец взводи"
+
+ # Піхота
+  Infantry:0 "Піхотний взвод"
+  Infantry_short:0 "Піхота"
+  Infantry_desc:0 ""
+  
+ # Піхота
+  heavy_infantry:0 "Силовики"
+  heavy_infantry_short:0 "Силовики"
+  heavy_infantry_desc:0 ""
+
+  dog_infantry:0 "Взвод гончих"
+  dog_infantry_short:0 "Гончі"
+  dog_infantry_desc:0 "Пускайте гончих!"
+
+  spec_ops:0 "Взвод спецназу"
+  spec_ops_short:0 "Спецназ"
+  spec_ops_desc:0 ""
+
+  militia:0 "Взвод ополчення"
+  militia_short:0 "Ополчення"
+  militia_desc:0 ""
+
+  police_infantry:0 "Взвод правоохоронців"
+  police_infantry_short:0 "Правоохоронці"
+  police_infantry_desc:0 ""
+
+  fireteam_infantry:0 "Взвод Кулеметників"
+  fireteam_infantry_short:0 "Кулеметеик"
+  fireteam_infantry_desc:0 ""
+
+  demolitions_infantry:0 "Взвод підривників"
+  demolitions_infantry_short:0 "Підривники"
+  demolitions_infantry_desc:0 ""
+
+  anti_armor_infantry:0 "Комбіновані війська"
+  anti_armor_infantry_short:0 "Комбіновані війська"
+  anti_armor_infantry_desc:0 ""
+
+  gary_unit:0 "Орда Гері"
+  gary_unit_short:0 "ГЕРІ"
+  gary_unit_desc:0 ""
+
+  ghoul_paratrooper:0 "Повітряно-десантна піхота гулей"
+  ghoul_paratrooper_short:0 "Десант"
+  ghoul_paratrooper_desc:0 ""
+
+  super_mutant_nightkin_infantry:0 "Піхота Тіні"
+  super_mutant_nightkin_infantry_short:0 "Тінь"
+  super_mutant_nightkin_infantry_desc:0 "Тіні були елітною кастою воїнів в армії супермутантів Майстра і вершиною його творіння супермутантів."
+
+  forward_firebase_support:0 "Підтримка вогневої бази"
+  forward_firebase_support_short:0 "Вогнева база"
+  forward_firebase_support_desc:0 "Укріплені, напівмобільні позиції, які значно полегшать утримання лінії фронту."
+
+  behemoth:0 "Бегемот"
+  behemoth_short:0 "Бегемот"
+  behemoth_desc:0 ""
+
+  power_armour:0 "Взвод силової броні"
+  power_armour_short:0 "Силова броня"
+  power_armour_desc:0 "Піхота, споряджена силовою бронею. Їхня броня дає величезну перевагу в боях, додаючи істотний опір протипіхотним атакам. Вартість виробництва такої броні значно збільшує вартість виробництва піхоти, але дозволить заощадити більшу кількість людських ресурсів."
+
+  power_armour_fireteam_infantry:0 "Силовий взвод кулеметників"
+  power_armour_fireteam_infantry_short:0 "Сил. кулеметник"
+  power_armour_fireteam_infantry_desc:0 ""
+
+  power_armour_demolitions_infantry:0 "Силовий підривний взвод"
+  power_armour_demolitions_infantry_short:0 "Сил. підривник"
+  power_armour_demolitions_infantry_desc:0 ""
+
+  ghoul_infantry:0 "Піхотний взвод гулів"
+  ghoul_infantry_short:0 "Піхота гулів"
+  ghoul_infantry_desc:0 "Група розумних солдатів-гулів, набагато стійкіших до суворої реальності Пустки, ніж звичайні люди через їхній тривалий вплив радіації."
+
+  super_mutant_infantry:0 "Піхотний взвод супермутантів"
+  super_mutant_infantry_short:0 "Супермутанти"
+  super_mutant_infantry_desc:0 "Супермутанти, зазвичай не такі розумні, як їхні людські колеги, набагато сильніші та невибагливіші через їхню більшу, потужнішу структуру. На відміну від звичайної піхоти, для отримання цих незграбних солдатів необхідний доступ до ВРЕ."
+
+  super_mutant_aux_infantry:0 "Супермутанти-ауксиларії"
+  super_mutant_aux_infantry_short:0 "Супермутанти"
+  super_mutant_aux_infantry_desc:0 "Супермутанти, зазвичай не такі розумні, як їхні людські колеги, набагато сильніші та невибагливіші через їхню більшу, потужнішу структуру. На відміну від звичайної піхоти, для отримання цих незграбних солдатів необхідний доступ до ВРЕ."
+
+
+  molerat_infantry:0 "Когорта кротощурів"
+  molerat_infantry_short:0 "Кротощури"
+  molerat_infantry_desc:0 "Один чмир не може бути небезпечним. Але як щодо двадцяти? Або ста?"
+  
+  mirelurk_infantry:0 "Взвод Болотників"
+  mirelurk_infantry_short:0 "Болотники"
+  mirelurk_infantry_desc:0 "Приручені болотники, готові боротися і померти за свою королеву."
+
+  faerie_infantry:0 "Взвод фей"
+  faerie_infantry_short:0 "Фея"
+  faerie_infantry_desc:0 ""
+
+  leshy_unit:0 "Великий Лісовик"
+  leshy_unit_short:0 "Лісовик"
+  leshy_unit_desc:0 ""
+
+  leshy_baby_unit:0 "Дітлахи Великого Лісовика"
+  leshy_baby_unit_short:0 "Дітлахи Лісовика"
+  leshy_baby_unit_desc:0 ""
+
+  dun_robot_unit:0 "Сталева дама"
+  dun_robot_unit_short:0 "Сталева дама"
+  dun_robot_unit_desc:0 ""
+
+  cybernetic_support:0 "Кібернетичні імплантати"
+  cybernetic_support_desc:0 "За допомогою правильної технології ми можемо перевершити людські можливості! Наші солдати будуть витривалішими, кращими, швидшими і сильнішими, ніж наші прості органічні супротивники!"
+
+  plant_support:0 "Громадні рослини"
+  plant_support_desc:0 "Вирощена в домашніх умовах біологічна зброя дасть нашим військам величезну перевагу, за умови, що ми зможемо воювати на землях, досить родючих для її вирощування."
+  
+ # Моторизований/механізований
+  motorized_heavy_infantry:0 "Моторизованні силовики"
+  motorized_heavy_infantry_short:0 "Мобільні силовики"
+  motorized_heavy_infantry_desc:0 ""
+  motorized_fireteam:0 "Моторизовані кулеметники"
+  motorized_fireteam_short:0 "Мобільні кулеметники"
+  motorized_fireteam_desc:0 ""
+  motorized_demoteam:0 "Моторизовані підривники"
+  motorized_demoteam_short:0 "Мобільні підривники"
+  motorized_demoteam_desc:0 ""
+
+ # Танки
+  tank:0 "Танковый взвод"
+  tank_short:0 "Танки"
+  tank_desc:0 "Важко озброєні та броньовані танки проходитимуть крізь будь-які слабкі цілі, які досить дурні, щоб стати на їхньому шляху."
+  
+ # Planes
+  spotter_plane:0 "Розвідувальний літак"
+  spotter_plane_short:0 "Розвідник"
+  spotter_plane_desc:0 ""
+  fighter:0 "Літак-винищувач"
+  fighter_short:0 "Винищувач"
+  fighter_desc:0 ""
+  car_fighter:0 "Палубний винищувач"
+  car_fighter_short:0 "Палубний винищувач"
+  car_fighter_desc:0 ""
+  hev_fighter:0 "Важкий винищувач"
+  hev_fighter_short:0 "Важкий винищувач"
+  hev_fighter_desc:0 ""
+  long_fighter:0 "Винищувач дальньої дії"
+  long_fighter_short:0 "Винищувач дальної дії"
+  long_fighter_desc:0 ""
+  cas:0 "Штурмовик"
+  cas_short:0 "Штурмовик"
+  cas_desc:0 ""
+  hev_cas:0 "Важкий Штурмовик"
+  hev_cas_short:0 "Важкий Штурмовик"
+  hev_cas_desc:0 ""
+  car_cas:0 "Палубний Штурмовик"
+  car_cas_short:0 "Палубний Штурмовик"
+  car_cas_desc:0 ""
+  long_cas:0 "Штурмовик дальної дії"
+  long_cas_short:0 "Штурмовик дальної дії"
+  long_cas_desc:0 ""
+  transport_plane:0 "Транспортний літак"
+  transport_plane_short:0 "Транспортний літак"
+  transport_plane_desc:0 ""
+  blimp_bomber:0 "Дирижабль"
+  blimp_bomber_short:0 "Дирижабль"
+  blimp_bomber_desc:0 ""
+  ground_blimp_bomber:0 "Дирижабль підтримки"
+  ground_blimp_bomber_short:0 "Дирижабль підтримки"
+  ground_blimp_bomber_desc:0 ""
+  air_blimp:0 "Дирижабль повітряної підтримки"
+  air_blimp_short:0 "Дирижабль повітряної підтримки"
+  air_blimp_desc:0 ""
+  cheap_blimp:0 "Легкий Дирижабль"
+  cheap_blimp_short:0 "Легкий Дирижабль"
+  cheap_blimp_desc:0 ""
+  strat_bomber:0 "Стратегічний бомбардувальник"
+  strat_bomber_short:0 "Стратегічний бомбардувальник"
+  strat_bomber_desc:0 ""
+  long_strategic_bomber:0 "Бомбардувальник дальної дії"
+  long_strategic_bomber_short:0 "Бомбардувальник дальної дії"
+  long_strategic_bomber_desc:0 ""
+  hev_strategic_bomber:0 "Важкий турбогвинтовий бомбардувальник"
+  hev_strategic_bomber_short:0 "Важкий турбогвинтовий бомбардувальник"
+  hev_strategic_bomber_desc:0 ""
+  nav_strategic_bomber:0 "Бомбардувальник-торпедоносець"
+  nav_strategic_bomber_short:0 "Бомбардувальник-торпедоносець"
+  nav_strategic_bomber_desc:0 ""
+  payload_glider:0 "Планери з вантажем"
+  payload_glider_short:0 "Бомбові планери"
+  payload_glider_desc:0 ""
+  chaff_glider:0 "Загороджувальні аеростати"
+  chaff_glider_short:0 "Загороджувальні аеростати"
+  chaff_glider_desc:0 ""
+  
+ # Robots
+  support_robot:0 "Взвод роботів підтримки"
+  support_robot_short:0 "Роботи підтримки"
+  support_robot_desc:0 "Злегка озброєні та броньовані роботи, введені в експуатацію як бойові одиниці. З фокусом на роль підтримки."
+
+  combat_robot:0 "Взвод бойових роботів"
+  combat_robot_short:0 "Бойові роботи"
+  combat_robot_desc:0 "Важкоозброєні та броньовані роботи, створені для порушення першого закону робототехніки."
+
+  security_robot:0 "Взвод роботів-охоронців"
+  security_robot_short:0 "Роботи-охоронці"
+  security_robot_desc:0 "Роботи-охоронці ідеально підходять для усмирення некерованого населення."
+
+  super_heavy_robot:0 "Взвод надважких роботів"
+  super_heavy_robot_short:0 "Надвважкі роботи"
+  super_heavy_robot_desc:0 "Роботи, які кидають виклик будь-яким загальноприйнятим міркуванням або логіці, створені тільки з однією метою - руйнування."
+
+  cnc_robot:0 "Командно-керований робот"
+  cnc_robot_short:0 "Прикріплюваний К-КР"
+  cnc_robot_desc:0 ""
+  cnc_robot_2:0 "Командно-керований робот"
+  cnc_robot_2_short:0 "Прикріплюваний К-КР"
+  cnc_robot_2_desc:0 ""
+  cnc_robot_3:0 "Командно-керований робот"
+  cnc_robot_3_short:0 "Прикріплюваний К-КР"
+  cnc_robot_3_desc:0 ""
+  
+  
+  
+ # Підтримка
+
+  power_armour_support:0 "Підтримка силової броні"
+  power_armour_support_short:0 "Підтримка силової броні"
+  power_armour_support_desc:0 "Піхота, споряджена силовою бронею. Їхня броня дає величезну перевагу в боях, додаючи істотний опір протипіхотним атакам. Вартість виробництва такої броні значно збільшує вартість виробництва піхоти, але дозволить заощадити більшу кількість людських ресурсів."
+
+  fireteam_support:0 "Підтрика кулеметників"
+  fireteam_support_short:0 "Кулеметники"
+  fireteam_support_desc:0 ""
+
+  anti_air_support:0 "Протиповітряна підтримка"
+  anti_air_support_short:0 "ППО"
+  anti_air_support_desc:0 ""
+
+  demolitions_support:0 "Підтримка підривників"
+  demolitions_support_short:0 "Підривники"
+  demolitions_support_desc:0 ""
+
+  power_armour_fireteam_support:0 "Силова кулеметна підтримка"
+  power_armour_fireteam_support_short:0 "Кулеметники"
+  power_armour_fireteam_support_desc:0 ""
+
+  power_armour_demolitions_support:0 "Силова підривникова підтримка"
+  power_armour_demolitions_support_short:0 "Підривники"
+  power_armour_demolitions_support_desc:0 ""
+
+  recon_company:0 "Розвідувальна підтримка"
+  recon_company_short:0 "Розвідка"
+  recon_company_desc:0 "На великих пустках без старих технологій на кшталт GPS і доступу до карт, ми, маючи традиційну групу піхоти для розвідки, зможемо дозволити підрозділу краще вибирати тактику в бою."
+
+  motorized_recon_company:0 "Підтримка мобільної розвідки"
+  motorized_recon_company_short:0 "Мобільна розвідка"
+  motorized_recon_company_desc:0 "Розвідувальні групи за допомогою транспортних засобів можуть принести велику користь нашій розвідці, даючи змогу швидше і безпечніше переміщатися і підвищуючи обізнаність про пересування військ противника."
+
+  maintenance_company:0 "Технічна підтримка"
+  maintenance_company_short:0 "Ремонтна рота"
+  maintenance_company_desc:0 "Транспортні засоби та роботи важко виробляти, замість того, щоб викинути тих, хто зламався на пустки, можна зберегти їх за допомогою спеціально навчених одиниць з деякими основними навичками ремонту, щоб відновити їх до робочого стану."
+
+  motorized_maintenance_company:0 "Мобільне технічне обслуговування \nПідтримка"
+  motorized_maintenance_company_short:0 "Мобільна ремонтна рота"
+  motorized_maintenance_company_desc:0 "Обладнання, яке ремонтують наші бригади технічного обслуговування, не може бути миттєво приведене в робочий стан. Цей процес потребує часу та зусиль із транспортування зламаного обладнання доти, доки його можна буде полагодити. Моторизація дасть змогу нашим екіпажам виконувати свою роботу на ходу і перевозити більше обладнання в процесі."
+
+  logistics_company:0 "Логістична підтримка"
+  logistics_company_short:0 "Логістика"
+  logistics_company_desc:0 "У пустці постачання ще складніше переносити на лінію фронту, ніж до війни, через руїни, що лише залишаються. Додавання рот забезпечення, безумовно, сприятиме тому, щоб більша армія була представлена і належним чином виглядала."
+
+  motorized_logistics_company:0 "Мобільна Логістична підтримка"
+  motorized_logistics_company_short:0 "Мобільна Логістика"
+  motorized_logistics_company_desc:0 "Постачання армії на пустці пов'язане з низкою унікальних проблем, не останніми з яких є пошкоджена або заблокована довоєнна інфраструктура і ворожа дика природа. Більш швидка і краще захищена логістична компанія забезпечить кращий захист витратних матеріалів і необхідного обладнання від пошкоджень, тим самим підвищуючи ефективність."
+
+  dog_company:0 "Підтримка собак"
+  dog_company_short:0 "Собаки"
+  dog_company_desc:0 "Собаки, натреновані на запах людської плоті. Також дають переваги, особливо в лісових місцевостях."
+
+  anti_tank_company:0 "Протитанкова підтримка"
+  anti_tank_company_short:0 "ПТО"
+  anti_tank_company_desc:0 "Різноманітність протитанкової зброї, зібраної в підрозділ, щоб забезпечити підтримку удару і запуску по броньованим цілям, може дати піхоті та іншим легким підрозділам шанс протистояти транспортним засобам і роботам без необхідності їхнього виробництва."
+
+  medical_chem_company:0 "Медицинська підтримка"
+  medical_chem_company_short:0 "Медики"
+  medical_chem_company_desc:0 "Хороших людей важко знайти, особливо після того, як світ закінчився. Додавання спеціалізованих компаній, що несуть медичне обладнання і практикують основні медичні навички, може, принаймні, зменшити деякі втрати, понесені на полі бою."
+
+  motorized_medical_chem_company:0 "Мобільна Медична підтримка \nПідтримка"
+  motorized_medical_chem_company_short:0 "Мобільні медики"
+  motorized_medical_chem_company_desc:0 "Лікування пораненого солдата - досить важке завдання для початку, але вилучення коштів із зони активних бойових дій пов'язане з цілою низкою додаткових труднощів. Включення транспортних засобів до складу наших медичних бригад значно поліпшить цей процес і допоможе нам врятувати більше життів."
+
+  spec_ops_horses_tech:0 "Вершники"
+  spec_ops_horses_tech_desc:0 ""
+  spec_ops_horses_tech_2:0 "Вершники II"
+  spec_ops_horses_tech_2_desc:0 ""
+  spec_ops_horses_tech_3:0 "Вершники III"
+  spec_ops_horses_tech_3_desc:0 ""
+
+  spec_ops_cavalry:0 "Вершники"
+  spec_ops_cavalry_short:0 "Наїзник"
+  spec_ops_cavalry_desc:0 "Хто б міг подумати, що коні все ще в моді в цій пустці?"
+
+  chariot_unit:0 "Колісниці легіону"
+  chariot_unit_short:0 "Колісниці"
+  chariot_unit_desc:0 "Легіон їде БРРРРРРРРРРРР"
+
+  monster_support:0 "Підтримка колорадських мутантів"
+  monster_support_desc:0 ""
+  
+  # Support
+  light_ship_unit:0 "Легкий корабель"
+  light_ship_unit_short:0 "ЛК"
+  light_ship_unit_desc:0 ""
+
+  medium_ship_screen_unit:0 "Середній корабель"
+  medium_ship_screen_unit_short:0 "СК"
+  medium_ship_screen_unit_desc:0 ""
+
+  heavy_ship_unit:0 "Важкий корабель"
+  heavy_ship_unit_short:0 "ВК"
+  heavy_ship_unit_desc:0 ""
+
+  super_heavy_ship_unit:0 "Надважкий корабель"
+  super_heavy_ship_unit_short:0 "НВК"
+  super_heavy_ship_unit_desc:0 ""
+
+  # Sentinels
+  sentinel_unit:0 "Силова броня Сторожів"
+  sentinel_unit_short:0 "Сторожі"
+  sentinel_unit_desc:0 "Люди не повинні примінятися."
+
+  alamo_defenders:0 "Добровольці з Аламо"
+  alamo_defenders_short:0 "Добровольці"
+  alamo_defenders_desc:0 "Полковнику Тревіс, Деві Крокетт та ще сто вісімдесят капитанів Дікінсон, Джим Боуї присутні та враховані."
+
+  crusader_unit:0 "Хрестоносець"
+  crusader_unit_short:0 "Хрестоносець"
+  crusader_unit_desc:0 ""
+
+  cybernetic_warform:0 "Кібернетична бойова форма"
+  cybernetic_warform_short:0 "Бойова форма"
+  cybernetic_warform_desc:0 "Що ми наробили?"
+
+  paladin_unit:0 "Взвод паладінів"
+  paladin_unit_short:0 "Паладіни"
+  paladin_unit_desc:0 ""
+  Paladin_fireteam_unit:0 "Паладіни кулеметники"
+  Paladin_fireteam_unit_short:0 "Паладіни"
+  Paladin_fireteam_unit_desc:0 ""
+  Paladin_demo_unit:0 "Демонстрація Паладінів"
+  Paladin_demo_unit_short:0 "Паладіни"
+  Paladin_demo_unit_desc:0 ""
+  knight_support_unit:0 "Лицарі братства"
+  knight_support_unit_short:0 "Лицар"
+  knight_support_unit_desc:0 ""
+  scribe_support_unit:0 "Польові писарі"
+  scribe_support_unit_short:0 "Писарі"
+  scribe_support_unit_desc:0 ""
+
+  # Elites
+  elite_infantry:0 "Елітна піхота"
+  elite_infantry_short:0 "Елітна піхота"
+  elite_infantry_desc:0 ""
+  elite_power_armour:0 "Елітна силова броня"
+  elite_power_armour_short:0 "Елітна силова броня"
+  elite_power_armour_desc:0 ""
+  elite_spec_ops:0 "Елітний спецназ"
+  elite_spec_ops_short:0 "Елітний спецназ"
+  elite_spec_ops_desc:0 ""
+  elite_motorized:0 "Елітна моторизація"
+  elite_motorized_short:0 "Елітна моторизація"
+  elite_motorized_desc:0 ""
+  elite_robot:0 "Елітний робот"
+  elite_robot_short:0 "Елітний робот"
+  elite_robot_desc:0 ""
+  
