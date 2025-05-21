@@ -1,0 +1,18 @@
+l_english:
+<% factions.each do |faction_id, config| -%>
+<% faction_name = config['def_name'] -%>
+  ASK_TO_JOIN_<%= faction_id.upcase %>_TITLE:0 "Ask to join <%= faction_name %>"
+  ASK_TO_JOIN_<%= faction_id.upcase %>_ACTION_DESC:0 "Ask to join <%= faction_name %>\n\nRequires a border with any member of <%= faction_name %> and mutually positive relations with their leader."
+  ASK_TO_JOIN_<%= faction_id.upcase %>_SEND_DESC:0 "Ask to join <%= faction_name %>."
+  ASK_TO_JOIN_<%= faction_id.upcase %>_ACCEPT:0 "Request Accepted!"
+  ASK_TO_JOIN_<%= faction_id.upcase %>_REJECT:0 "Request Rejected!"
+  ASK_TO_JOIN_<%= faction_id.upcase %>_ACCEPT_DESC:0 "Your request to join <%= faction_name %> has been accepted!"
+  ASK_TO_JOIN_<%= faction_id.upcase %>_REJECT_DESC:0 "Your request to join <%= faction_name %> has been rejected!"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_TITLE:0 "Invite to <%= faction_name %>"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_ACTION_DESC:0 "Invite to <%= faction_name %>\n\nRequires prospect to border a member of <%= faction_name %> and have mutually positive relations with their leader."
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_SEND_DESC:0 "Invitation to <%= faction_name %>."
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_ACCEPT:0 "Invitation Accepted!"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_REJECT:0 "Invitation Rejected!"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_ACCEPT_DESC:0 "Your invitation to <%= faction_name %> has been accepted!"
+  INVITE_TO_JOIN_<%= faction_id.upcase %>_REJECT_DESC:0 "Your invitation to <%= faction_name %> has been rejected!"
+<% end -%>
