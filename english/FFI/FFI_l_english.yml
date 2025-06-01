@@ -65,7 +65,7 @@
 
   ffi_cp_cost:0 "§H15§!£command_power"
   ffi_cp_cost_blocked:0 "§R15§!£command_power"
-  ffi_cp_cost_tooltip:0 "It costs 15£command_power щоб обрати це."
+  ffi_cp_cost_tooltip:0 "Потрібно 15£command_power щоб обрати це."
 
   ffi_cruz_pardoned:0 "Носія Тіні Круза помилувано"
   ffi_ortiz_pardoned:0 "Ортіза-Поклика Ночі помилувано"
@@ -75,7 +75,7 @@
   FFI_rodriguez_bows:0 "Могутній Дос Родрігез похиляється"
 
   ffi_hire_suneater_tt:0 "Відкриває §YПожирача Сонця§! у якості військового командира."
-  ffi_hire_cruz_tt:0 Відкриває §YКруза§! у якості військового командира."
+  ffi_hire_cruz_tt:0 "Відкриває §YКруза§! у якості військового командира."
   ffi_hire_ortiz_tt:0 "Відкриває §YОртіза§! у якості військового командира."
   ffi_hire_dos_rodriguez_tt:0 "Відкриває §YДос Родрігеза§! у якості військового командира."
   ffi_hire_gonzales_tt:0 "Відкриває §YГонзалеса§! у якості радника культури."
