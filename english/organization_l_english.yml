@@ -66,7 +66,7 @@
  melee_runner_half_bar:0 "§YМ'ясник Піт§!: поставки шоколаду "
  melee_runner_entice:0 "Соблазнить §GМ'ясника Піта§! розширенням"
 
- advanced_runner_entice:0 "Спокусити §GВанкуверських Фвхівців§! розширенням"
+ advanced_runner_entice:0 " Спокусити §GВанкуверських Фвхівців§! розширенням"
  black_market_category:0 "Відносини з організаціями"
 
 
@@ -82,7 +82,7 @@
 
  caps_organization_events.11.t:0 "[GetOrganizationName] повернули борг"
  caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationName] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву.»
- caps_organization_events.11.a:0 «Союзник, який нам колись знадобиться"
+ caps_organization_events.11.a:0 "Союзник, який нам колись знадобиться"
 
  caps_organization_events.12.t:0 "[GetOrganizationName] затримують виплати"
  caps_organization_events.12.d:0 "[GetOrganizationName] не можуть дозволити собі виплатити наш кредит. На даний момент вони начебто стабільні, але навряд чи ми знову побачимо наші кришки."
@@ -144,14 +144,14 @@
  gun_runner_equip_6:0 "СОП"
  gun_runner_equip_7:0 "Легкий кулемет"
  gun_runner_equip_8:0 "Протитанкова зброя"
- gun_runner_amount_tt:0 «[?global.gun_runner_inventory]»
+ gun_runner_amount_tt:0 "[?global.gun_runner_inventory]»
  organization_floor_modifier_1:0 "Думка Зброярів"
   ###Motorized Runner Data
  buy_infantry_equipment:0 "Закупівля піхотного спорядження"
  motorized_runner_name_tt:0 "Чоп Шоп"
- motorized_runner_market_tt:0 «[GetMotorizedRunnerInventory]»
- motorized_runner_market_icon:0 «[GetMotorizedRunnerMarketIcon]»
- motorized_runner_amount_tt:0 «[?global.motorized_runner_inventory]»
+ motorized_runner_market_tt:0 "[GetMotorizedRunnerInventory]"
+ motorized_runner_market_icon:0 "[GetMotorizedRunnerMarketIcon]"
+ motorized_runner_amount_tt:0 "[?global.motorized_runner_inventory]"
  organization_floor_modifier_2:0 "Думка Чоп Шопа"
   ### DATA SLAVE RUNNER
   ###Chem Decisions
@@ -159,9 +159,9 @@
  chem_buffout:0 "Закупити Баффаут"
  chem_psycho:0 "Закупити Психо"
   ###Energy Weapon Market
- energy_runner_market_tt:0 «[GetEnergyRunnerInventory]»
- energy_runner_market_icon:0 «[GetEnergyRunnerMarketIcon]»
- energy_runner_amount_tt:0 «[?global.energy_runner_inventory]»
+ energy_runner_market_tt:0 "[GetEnergyRunnerInventory]"
+ energy_runner_market_icon:0 "[GetEnergyRunnerMarketIcon]"
+ energy_runner_amount_tt:0 "[?global.energy_runner_inventory]"
  energy_runner_name_tt:0 "Ван Граффи"
  energy_runner_equip_1:0 "Лазерні мушкети"
  energy_runner_equip_2:0 "Лазерні гвинтівки"
