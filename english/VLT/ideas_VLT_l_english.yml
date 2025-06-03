@@ -1,0 +1,165 @@
+﻿l_english:
+#Focus
+lessyears:0 "70 Років"
+lessyears_desc:0 ""
+
+years:0 "100 Років"
+years_desc:0 ""
+
+moreyears:0 "120 Років"
+moreyears_desc:0 ""
+
+crimserv:0 "Примусова Служба"
+crimserv_desc:0 ""
+
+crimslaves:0 "Рабство"
+crimslaves_desc:0 ""
+
+crimwar:0 "Призов"
+crimwar_desc:0 ""
+
+crimkill:0 "Страта"
+crimkill_desc:0 ""
+
+courtyard:0 "Нерівність на Внутрішньому Дворі"
+courtyard_desc:0 ""
+
+utopia:0 "Післявоєнна Утопія"
+utopia_desc:0 ""
+
+vaultmed:0 "Довоєнна Медична Підготовка"
+vaultmed_desc:0 ""
+
+vaultmedreg:0 "Медичні Регламенти"
+vaultmedreg_desc:0 ""
+
+festus:0 "Майстер на всі руки"
+festus_desc:0 ""
+
+citizen1:0 "Інтелектуальна Ефективність"
+citizen1_desc:0 ""
+
+courtyardcreackdown:0 "Репресії на Внутрішньому Дворі"
+courtyardcreackdown_desc:0 ""
+
+ghoulconferences:0 "Конференції Ґулів"
+ghoulconferences_desc:0 ""
+
+oldways:0 "Старі Звичаї"
+oldways_desc:0 ""
+
+courtyardcrackdown:0 "Придушення на Внутрішньому Дворі"
+courtyardcrackdown_desc:0 ""
+
+molethumb:0 "Кроти Мізків"
+molethumb_desc:0 ""
+
+braintrust:0 "Довіра до Мізків"
+braintrust_desc:0 ""
+
+vaultpride:0 "Гордість Vault-Tec"
+vaultpride_desc:0 ""
+
+vaultmartiallaw:0 "Воєнний Стан"
+vaultmartiallaw_desc:0 ""
+
+impenetrablecity:0 "Неприступне Місто"
+impenetrablecity_desc:0 ""
+
+flockgoggles:0 "Окуляри Сховища"
+flockgoggles_desc:0 ""
+
+flockdoc:0 "Дослідження Блідого Народу"
+flockdoc_desc:0 ""
+
+gift80s:0 "Подарунки Грому"
+gift80s_desc:0 ""
+
+def80s:0 "Законопроєкт про Призов 80-х"
+def80s_desc:0 ""
+
+vault_robosec:0 "Автоматизована Охорона"
+vault_robosec_desc:0 ""
+
+citizenservice:0 "Громадянство за Службу"
+citizenservice_desc:0 ""
+
+milsecurity:0 "Мілітаризація Охорони"
+milsecurity_desc:0 ""
+
+courtyarddraft:0 "Призов із Внутрішнього Двору"
+courtyarddraft_desc:0 ""
+
+firstutopia:0 "Утопія"
+firstutopia_desc:0 ""
+
+loyalcitizens:0 "'Лояльні' Громадяни"
+loyalcitizens_desc:0 ""
+
+controlapparati:0 "Апарат для Контролю Свідомості"
+controlapparati_desc:0 ""
+
+humanbreed:0 "Програми Розведення Людей"
+humanbreed_desc:0 ""
+
+advinfsup:0 "Передова Піхотна Підтримка"
+advinfsup_desc:0 ""
+
+advmotsup:0 "Передова Підтримка Техніки"
+advmotsup_desc:0 ""
+
+firsteconomy:0 "Дотаційна Цивільна Промисловість"
+firsteconomy_desc:0 ""
+
+firstmilitary:0 "Дотаційна Військова Промисловість"
+firstmilitary_desc:0 ""
+
+vcprot:0 "Протоколи Безпеки Міста-Сховища"
+vcprot_desc:0 ""
+
+avcprot:0 "Протоколи Безпеки Міста-Сховища"
+avcprot_desc:0 ""
+
+oldworldideals:0 "Ідеали Старого Світу"
+oldworldideals_desc:0 ""
+
+modernprag:0 "Сучасний Прагматизм"
+modernprag_desc:0 ""
+
+populationcontrol:0 "Контроль Населення"
+populationcontrol_desc:0 ""
+
+servrights:0 "Права Служників"
+servrights_desc:0 ""
+
+servreg:0 "Регламентовані Служники"
+servreg_desc:0 ""
+
+servskill:0 "Кваліфіковані Служники"
+servskill_desc:0 ""
+
+servunskill:0 "Некваліфіковані Служники"
+servunskill_desc:0 ""
+
+servshifts:0 "Змінами до Роботи"
+servshifts_desc:0 ""
+
+servwork:0 "Працюй До Знемоги"
+servwork_desc:0 ""
+
+houndsnorth:0 "Пси Півночі"
+houndsnorth_desc:0 ""
+
+vault_sho_reserve:0 "Резервісти Шошоні"
+vault_sho_reserve_desc:0 ""
+
+eagercyclops:0 "Схеми Протектрона"
+eagercyclops_desc:0 ""
+
+vault_rip_militia:0 "Міліція Райперулта"
+vault_rip_militia_desc:0 ""
+
+vault_tribals_idea:0 "Заклик Vault-Tec"
+vault_tribals_idea_desc:0 ""
+
+#Decisions
