@@ -1,0 +1,173 @@
+﻿l_english:
+  # Константи:
+  TECHNOLOGY_ITEM: "Технологічний Предмет"
+  RELIC_ITEM: "Реліквія"
+  TRINKET_ITEM: "Талісман"
+  ITEM_QUALITY_LEGENDARY: "§OЛегендарна§!"
+  ITEM_QUALITY_VERY_RARE: "§PДуже Рідкісна§!"
+  ITEM_QUALITY_RARE: "§BРідкісна§!"
+  ITEM_QUALITY_UNCOMMON: "§GНерідкісна§!"
+  ITEM_QUALITY_COMMON: "§gЗвичайна§!"
+  EQUIPPED_ITEM: "Споряджений Предмет"
+
+  # Інтерфейс:
+  FALLOUT_INVENTORY_WINDOW_TITLE: "Інвентар Предметів"
+  FALLOUT_INVENTORY_INVENTORY_TITLE: "Інвентар"
+  FALLOUT_INVENTORY_INVENTORY_TT: "Тут ви можете побачити всі §Y[?items_inventory_array^num]§! предмети у вашому інвентарі. Ви можете одночасно спорядити §Y3§! предмети: §C$TECHNOLOGY_ITEM$§!, §C$RELIC_ITEM$§! та §C$TRINKET_ITEM$§!. Споряджені предмети надають бонуси.\n\nПредмети мають різну якість. Якості (від найкращої до найгіршої):\n   - $ITEM_QUALITY_LEGENDARY$\n   - $ITEM_QUALITY_VERY_RARE$\n   - $ITEM_QUALITY_RARE$\n   - $ITEM_QUALITY_UNCOMMON$\n   - $ITEM_QUALITY_COMMON$"
+  FALLOUT_INVENTORY_PAGE_BUTTON_LEFT_TT: "§GНатисніть§!, щоб перейти на попередню сторінку.\n§GShift + клік§!, щоб перейти на першу сторінку."
+  FALLOUT_INVENTORY_PAGE_BUTTON_RIGHT_TT: "§GНатисніть§!, щоб перейти на наступну сторінку.\n§GShift + клік§!, щоб перейти на останню сторінку."
+  FALLOUT_INVENTORY_CLEAR_INVENTORY_BUTTON_TEXT: "Очистити"
+  FALLOUT_INVENTORY_CLEAR_INVENTORY_BUTTON_TT: "§GНатисніть§!, щоб очистити інвентар.\n§YЦе видалить усі неспоряджені предмети та дасть вам [?pp_gained_from_clearing_inventory|0+] £pol_power£.§W"
+  FALLOUT_INVENTORY_SORT_INVENTORY_BUTTON_TEXT: "Сортувати"
+  FALLOUT_INVENTORY_SORT_INVENTORY_BUTTON_TT: "§GНатисніть§!, щоб відсортувати інвентар за якістю предметів."
+
+  SELECTED_TECHNOLOGY_ITEM_WINDOW_TITLE: "$TECHNOLOGY_ITEM$"
+  SELECT_TECHNOLOGY_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectTechnologyItemButtonTooltip]"
+  SELECT_TECHNOLOGY_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectTechnologyItemButtonTooltipDelayed]"
+
+  SELECTED_RELIC_ITEM_WINDOW_TITLE: "$RELIC_ITEM$"
+  SELECT_RELIC_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectRelicItemButtonTooltip]"
+  SELECT_RELIC_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectRelicItemButtonTooltipDelayed]"
+
+  SELECTED_TRINKET_ITEM_WINDOW_TITLE: "$TRINKET_ITEM$"
+  SELECT_TRINKET_ITEM_BUTTON_TT: "[This.GetFalloutInventorySelectTrinketItemButtonTooltip]"
+  SELECT_TRINKET_ITEM_BUTTON_TT_DELAYED: "[This.GetFalloutInventorySelectTrinketItemButtonTooltipDelayed]"
+
+  FALLOUT_INVENTORY_ITEM_TT: "[This.GetFalloutInventoryItemButtonTooltip]"
+  FALLOUT_INVENTORY_ITEM_TT_DELAYED: "[This.GetFalloutInventoryItemButtonTooltipDelayed]"
+
+  FALLOUT_INVENTORY_POPUP_TITLE: "Предмет Видалено"
+  FALLOUT_INVENTORY_POPUP_DESC: "Один із споряджених предметів було видалено через завершення терміну дії.\nВидалений предмет:"
+  FALLOUT_INVENTORY_POPUP_ITEM_NAME: "§Y[This.GetFalloutCurrentInventoryItemName]§!"
+
+  FALLOUT_INVENTORY_CONFIRM_ALERT_WINDOW_TITLE: "[This.GetFalloutInventoryConfirmAlertTitle]"
+  FALLOUT_INVENTORY_CONFIRM_ALERT_WINDOW_DESC: "[This.GetFalloutInventoryConfirmAlertDesc]"
+
+  # Локалізація скриптів:
+  string_fallout_inventory_select_technology_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! \n§L[This.GetFalloutInventorySelectedTechnologyItemDesc]§! \n\n§YЯкість:§! [This.GetFalloutInventorySelectedTechnologyItemQuality] \n\n§YЕфекти:§! \n[This.GetFalloutInventorySelectedTechnologyItemEffects]"
+  string_fallout_inventory_select_technology_item_tt_has_no_item: "§YНаразі $TECHNOLOGY_ITEM$ не споряджено.§!"
+  string_fallout_inventory_select_technology_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! §Rне можна видалити вручну. Його буде автоматично знищено §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedTechnologyItemName]§! §Rнещодавно було споряджено, і його не можна видалити до §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_remove_item: "§GНатисніть§!, щоб зняти §Y[This.GetFalloutInventorySelectedTechnologyItemName]§! як споряджений §C$TECHNOLOGY_ITEM$§!."
+  string_fallout_inventory_select_technology_item_tt_cannot_replace_item_yet: "§RЦей предмет нещодавно споряджено і його не можна замінити до §Y[?selected_technology_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_technology_item_tt_replace_item: "§GНатисніть§!, щоб замінити §Y[This.GetFalloutInventorySelectedTechnologyItemName]§! на §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_technology_item_tt_equip_item: "§GНатисніть§!, щоб спорядити §Y[This.GetFalloutInventorySelectedItemName]§! як §C$TECHNOLOGY_ITEM$§!."
+  string_fallout_inventory_select_technology_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Rне є $TECHNOLOGY_ITEM$. Його не можна спорядити тут.§!"
+
+  string_fallout_inventory_select_relic_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! \n§L[This.GetFalloutInventorySelectedRelicItemDesc]§! \n\n§YЯкість:§! [This.GetFalloutInventorySelectedRelicItemQuality] \n\n§YЕфекти:§! \n[This.GetFalloutInventorySelectedRelicItemEffects]"
+  string_fallout_inventory_select_relic_item_tt_has_no_item: "§YНаразі $RELIC_ITEM$ не споряджено.§!"
+  string_fallout_inventory_select_relic_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! §Rне можна видалити вручну. Його буде автоматично знищено §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedRelicItemName]§! §Rнещодавно було споряджено, і його не можна видалити до §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_remove_item: "§GНатисніть§!, щоб зняти §Y[This.GetFalloutInventorySelectedRelicItemName]§! як споряджену §C$RELIC_ITEM$§!."
+  string_fallout_inventory_select_relic_item_tt_cannot_replace_item_yet: "§RЦей предмет нещодавно споряджено і його не можна замінити до §Y[?selected_relic_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_relic_item_tt_replace_item: "§GНатисніть§!, щоб замінити §Y[This.GetFalloutInventorySelectedRelicItemName]§! на §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_relic_item_tt_equip_item: "§GНатисніть§!, щоб спорядити §Y[This.GetFalloutInventorySelectedItemName]§! як §C$RELIC_ITEM$§!."
+  string_fallout_inventory_select_relic_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Rне є $RELIC_ITEM$. Його не можна спорядити тут.§!"
+
+  string_fallout_inventory_select_trinket_item_tt_has_item: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! \n§L[This.GetFalloutInventorySelectedTrinketItemDesc]§! \n\n§YЯкість:§! [This.GetFalloutInventorySelectedTrinketItemQuality] \n\n§YЕфекти:§! \n[This.GetFalloutInventorySelectedTrinketItemEffects]"
+  string_fallout_inventory_select_trinket_item_tt_has_no_item: "§YНаразі $TRINKET_ITEM$ не споряджено.§!"
+  string_fallout_inventory_select_trinket_item_tt_will_automatically_be_removed: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! §Rне можна видалити вручну. Його буде автоматично знищено §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_cannot_remove_item_yet: "§Y[This.GetFalloutInventorySelectedTrinketItemName]§! §Rнещодавно було споряджено, і його не можна видалити до §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_remove_item: "§GНатисніть§!, щоб зняти §Y[This.GetFalloutInventorySelectedTrinketItemName]§! як споряджений §C$TRINKET_ITEM$§!."
+  string_fallout_inventory_select_trinket_item_tt_cannot_replace_item_yet: "§RЦей предмет нещодавно споряджено і його не можна замінити до §Y[?selected_trinket_item_remove_date.GetDateStringNoHourLong]§!.§W"
+  string_fallout_inventory_select_trinket_item_tt_replace_item: "§GНатисніть§!, щоб замінити §Y[This.GetFalloutInventorySelectedTrinketItemName]§! на §Y[This.GetFalloutInventorySelectedItemName]§!."
+  string_fallout_inventory_select_trinket_item_tt_equip_item: "§GНатисніть§!, щоб спорядити §Y[This.GetFalloutInventorySelectedItemName]§! як §C$TRINKET_ITEM$§!."
+  string_fallout_inventory_select_trinket_item_tt_invalid_item: "§Y[This.GetFalloutInventorySelectedItemName]§! §Rне є $TRINKET_ITEM$. Його не можна спорядити тут.§!"
+
+  string_fallout_inventory_current_item_tt: "§Y[This.GetFalloutCurrentInventoryItemName]§! \n§L[This.GetFalloutCurrentInventoryItemDesc]§! \n\n§YКатегорія:§! [This.GetFalloutCurrentInventoryItemCategory] \n§YЯкість:§! [This.GetFalloutCurrentInventoryItemQuality] \n\n§YЕфекти при спорядженні:§! \n[This.GetFalloutCurrentInventoryItemEffects]"
+  string_fallout_inventory_current_item_tt_empty: "§RЦей слот інвентаря порожній.§!"
+  string_fallout_inventory_deselect_current_item_tt: "§GНатисніть§!, щоб скасувати вибір §Y[This.GetFalloutCurrentInventoryItemName]§!.\n[This.GetFalloutCurrentInventoryItemCanBeManuallyRemoved] [This.GetFalloutInventoryItemRemoveDaysTooltip]"
+  string_fallout_inventory_select_current_item_tt: "§GНатисніть§!, щоб вибрати §Y[This.GetFalloutCurrentInventoryItemName]§!. \nПісля вибору його можна буде спорядити в відповідну категорію.\n[This.GetFalloutCurrentInventoryItemCanBeManuallyRemoved] [This.GetFalloutInventoryItemRemoveDaysTooltip]"
+
+  string_fallout_inventory_current_item_days_remove_tt: "\n-------------\nЦей предмет не можна зняти до §Y[?fallout_inventory_item_remove_date.GetDateStringNoHourLong]§! після спорядження."
+
+  string_fallout_inventory_current_item_in_category_technology_relic_trinket: "§C$TECHNOLOGY_ITEM$§!, §C$RELIC_ITEM$§!, §C$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_relic_trinket: "§C$RELIC_ITEM$§!, §C$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology_trinket: "§C$TECHNOLOGY_ITEM$§!, §C$TRINKET_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology_relic: "§C$TECHNOLOGY_ITEM$§!, §C$RELIC_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_technology: "§C$TECHNOLOGY_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_relic: "§C$RELIC_ITEM$§!"
+  string_fallout_inventory_current_item_in_category_trinket: "§C$TRINKET_ITEM$§!"
+
+  string_fallout_inventory_item_quality_legendary: "$ITEM_QUALITY_LEGENDARY$"
+  string_fallout_inventory_item_quality_very_rare: "$ITEM_QUALITY_VERY_RARE$"
+  string_fallout_inventory_item_quality_rare: "$ITEM_QUALITY_RARE$"
+  string_fallout_inventory_item_quality_uncommon: "$ITEM_QUALITY_UNCOMMON$"
+  string_fallout_inventory_item_quality_common: "$ITEM_QUALITY_COMMON$"
+
+  string_fallout_item_can_be_destroyed_manually: "§GКлацніть правою кнопкою§!, щоб знищити цей предмет. Це дасть нам §G10§! £pol_power£."
+  string_fallout_item_cannot_be_destroyed_manually: "§RНе можна знищити вручну.§!"
+  string_fallout_inventory_confirm_alert_title_destroy_item: "Знищити §Y[This.GetFalloutInventoryConfirmAlertItemName]§!?"
+  string_fallout_inventory_confirm_alert_desc_destroy_item: "Ви хочете знищити предмет §Y[This.GetFalloutInventoryConfirmAlertItemName]§!? \n\n§YЕфекти при спорядженні:§! \n[This.GetFalloutInventoryConfirmAlertItemEffects] \n\nЦе дасть нам §G10§! £pol_power£ і назавжди видалить цей предмет з інвентаря."
+  string_fallout_inventory_confirm_alert_title_replace_selected_item: "Замінити §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§!?"
+  string_fallout_inventory_confirm_alert_desc_replace_selected_item: "Ви хочете замінити споряджений предмет §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§! на §Y[This.GetFalloutInventoryConfirmAlertItemAddName]§!? \n\nЕфекти §Y[This.GetFalloutInventoryConfirmAlertItemRemoveName]§!: \n[This.GetFalloutInventoryConfirmAlertItemRemoveEffects] \n\nЕфекти §Y[This.GetFalloutInventoryConfirmAlertItemAddName]§!: \n[This.GetFalloutInventoryConfirmAlertItemAddEffects] \n\nМи втратимо ефекти поточного предмета та отримаємо нові. Знятий предмет буде повернено до інвентаря."
+  string_fallout_inventory_confirm_alert_title_remove_selected_item: "Зняти §Y[This.GetFalloutInventoryConfirmAlertItemName]§!?"
+  string_fallout_inventory_confirm_alert_desc_remove_selected_item: "Ви хочете зняти предмет §Y[This.GetFalloutInventoryConfirmAlertItemName]§!? \n\n§YПоточні ефекти:§! \n[This.GetFalloutInventoryConfirmAlertItemEffects] \n\nЦе прибере його ефекти з нашої країни та поверне предмет до інвентаря."
+  string_fallout_inventory_confirm_alert_title_clear_inventory: "Очистити інвентар?"
+  string_fallout_inventory_confirm_alert_desc_clear_inventory: "Ви дійсно хочете §Yочистити§! свій §Yінвентар§!? \n\nЦе видалить усі §Y[?items_inventory_array^num]§! предмети в інвентарі та дасть по §G10§! £pol_power£ за кожен. Споряджені предмети залишаться."
+
+  # Скриптовані ефекти:
+  ADD_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetFalloutInventoryItemName]§! ([This.GetFalloutInventoryItemQuality]; [This.GetFalloutInventoryItemCategory]) додано до нашого інвентаря.\n"
+  REMOVE_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetFalloutInventoryItemName]§! було видалено з інвентаря.\n"
+  REMOVE_FALLOUT_INVENTORY_ITEM_TT_ALSO_REMOVED_AS_EQUIPPED_ITEM: "§Y[This.GetFalloutInventoryItemName]§! також знято як споряджений предмет і не повернуто до інвентаря."
+  ADD_RANDOM_ITEM_TT_NO_NEW_ITEM: "Здається, новий предмет було знайдено, але всі спроби відновити його зазнали невдачі.\n"
+  ADD_RANDOM_ITEM_TT: "Виявлено новий предмет і успішно відновлено. \n§Y[This.GetFalloutInventoryItemName]§! тепер доступний в інвентарі.\n"
+
+  # Скриптовані умови:
+  HAS_ANY_FALLOUT_INVENTORY_ITEM_TT: "§Y[This.GetName]§! має щонайменше §Y1§! предмет в інвентарі або споряджений"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_TT: "Має предмет §Y[This.GetFalloutInventoryItemName]§!"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_IN_INVENTORY_TT: "Має предмет §Y[This.GetFalloutInventoryItemName]§! в інвентарі"
+  HAS_SPECIFIC_FALLOUT_INVENTORY_ITEM_EQUIPPED_TT: "Має споряджений предмет §Y[This.GetFalloutInventoryItemName]§!"
+
+  # Предмети:
+  FALLOUT_INVENTORY_ITEM_1: "Покращене збирання набоїв"
+  FALLOUT_INVENTORY_ITEM_1_DESC: ""
+  FALLOUT_INVENTORY_ITEM_1_EFFECTS: "§Y$fireteam_equipment$:§! $soft_attack$§G+5.00%§!"
+
+  FALLOUT_INVENTORY_ITEM_2: "Hola Girl, Винтаж 2052"
+  FALLOUT_INVENTORY_ITEM_2_DESC: ""
+  FALLOUT_INVENTORY_ITEM_2_EFFECTS: "§Y$motorized_type$:§! $reliability$§G+11.00%§!"
+
+  FALLOUT_INVENTORY_ITEM_3: "Оптимізований мікроелемент злитого потоку"
+  FALLOUT_INVENTORY_ITEM_3_DESC: ""
+  FALLOUT_INVENTORY_ITEM_3_EFFECTS: "§Y$infantry_equipment$:§! $reliability$§G+5.00%§!"
+
+  FALLOUT_INVENTORY_ITEM_4: "Заточка із сатурніту"
+  FALLOUT_INVENTORY_ITEM_4_DESC: ""
+  FALLOUT_INVENTORY_ITEM_4_EFFECTS: "§Y$category_army$:§! $hard_attack$§G+10.00%§!"
+
+  FALLOUT_INVENTORY_ITEM_5: "Череп зі скла"
+  FALLOUT_INVENTORY_ITEM_5_DESC: "Невдовзі після першого удару Тлалока проти сил Ацтлана було знайдено цю реліквію. [This.GetLeader], чия шкіра повільно плавилась, знайшов ідеальний череп, перетворений на скло. Цей зелений сяючий символ минулого життя штовхає Мейвенів вперед."
+  FALLOUT_INVENTORY_ITEM_5_EFFECTS: "$stability_factor$: §G+15.00%§!"
+
+  FALLOUT_INVENTORY_ITEM_6: "Камера ProSnap PanaLuxe Deluxe"
+  FALLOUT_INVENTORY_ITEM_6_DESC: "Унікальний прототип камери ProSnap, яка так і не вийшла на ринок. Може одночасно захоплювати зображення і звук, об'єднуючи все в кіноплівку менш ніж за 2 години!"
+  FALLOUT_INVENTORY_ITEM_6_EFFECTS: "$stability_factor$: §G+7.50%§!"
+
+  FALLOUT_INVENTORY_ITEM_7: "Лезо з андроїд-металу"
+  FALLOUT_INVENTORY_ITEM_7_DESC: "Це унікальне лезо було викуване з броні андроїдів ТВ-Міста. Його створив Кага після захоплення міста. Вважається священним серед племен пустки, за нього пролито чимало крові."
+  FALLOUT_INVENTORY_ITEM_7_EFFECTS: "$war_support_factor$: §G+7.50%§!"
+
+
+  # Ideas:
+  fallout_inventory_item_idea_1: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_1$§!)"
+  fallout_inventory_item_idea_2: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_2$§!)"
+  fallout_inventory_item_idea_3: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_3$§!)"
+  fallout_inventory_item_idea_4: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_4$§!)"
+  fallout_inventory_item_idea_5: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_5$§!)"
+  fallout_inventory_item_idea_6: "$EQUIPPED_ITEM$ (§Y$FALLOUT_INVENTORY_ITEM_6$§!)"
+
+  # Події:
+  fallout_inventory_events.EVTNAME3: "Можливе відкриття у зовнішньому світі"
+  fallout_inventory_events.EVTDESC3: "Невеликий загін піонерів натрапив на печеру під час транспортування обладнання. Це місце може принести нам новий предмет, якщо воно виявиться настільки перспективним, як ми сподіваємося. Чи варто надіслати ще один загін для обшуку цієї місцевості?"
+  fallout_inventory_events3.EVTOPT1: "Хто не шукає, той не знаходить..."
+  fallout_inventory_events3.EVTOPT2: "... з іншого боку, на це підуть ресурси, які можна витратити на інше."
+
+  fallout_inventory_events.EVTNAME4: "Загін піонерів повертається"
+  fallout_inventory_events.EVTDESC4: "Загін, який ми відправили на пошуки нових предметів у знайденому місці, повернувся. Сподіваємось, вони принесли гарні новини."
+  fallout_inventory_events4.EVTOPT1: "Подивімося..."
+
+  SEND_OUT_SEARCH_TEAM_FOR_NEW_ITEM_TT: "Загін відправлено на пошуки цього місця...\n"
+
+  # Консольні команди:
+  d_clear_inventory_and_reset_with_all_items_DESC: "Очищає всі предмети в інвентарі та спорядженні, після чого додає всі предмети назад до інвентаря. Можна використовувати лише в режимі -debug."
