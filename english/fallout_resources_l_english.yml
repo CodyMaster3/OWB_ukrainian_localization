@@ -1,0 +1,29 @@
+﻿l_english:
+PRODUCTION_MATERIALS_WATER:0 "Вода"
+PRODUCTION_MATERIALS_ENERGY:0 "Енергія"
+PRODUCTION_MATERIALS_METAL:0 "Металобрухт"
+PRODUCTION_MATERIALS_COMPOSITES:0 "Композитні матеріали"
+PRODUCTION_MATERIALS_CIRCUITRY:0 "Схеми"
+PRODUCTION_MATERIALS_ADVANCED:0 "Передові компоненти"
+
+country_resource_water:0 "Додаткові£resources_strip_texticon|1"
+country_resource_energy:0 "Додаткові£resources_strip_texticon|2"
+country_resource_metal:0 "Додаткові£resources_strip_texticon|3"
+country_resource_composites:0 "Додаткові£resources_strip_texticon|4"
+country_resource_circuitry:0 "Додаткові£resources_strip_texticon|5"
+country_resource_advanced:0 "Додаткові£resources_strip_texticon|6"
+
+state_resource_water: "Додаткові£resources_strip_texticon|1"
+state_resource_energy: "Додаткові£resources_strip_texticon|2"
+state_resource_metal: "Додаткові£resources_strip_texticon|3"
+state_resource_composites: "Додаткові£resources_strip_texticon|4"
+state_resource_circuitry: "Додаткові£resources_strip_texticon|5"
+state_resource_advanced: "Додаткові£resources_strip_texticon|6"
+
+water_desc: "Вода — найцінніший ресурс Пустки. Без неї не вижити, а тим паче — не розквітнути."
+energy_desc: "Енергія — рідкісний, але незамінний ресурс. Потрібна для більшості будівель та механізмів."
+metal_desc: "Металобрухт та деталі, зібрані з руїн Старого Світу. Використовується для зведення споруд та створення зброї."
+composites_desc: "Композитні матеріали, що замінюють металобрухт там, де потрібно більше міцності. Необхідні для виготовлення обладнання високої якості."
+circuitry_desc: "Електросхеми, витягнуті зі згарищ доядерної цивілізації. Важливі для створення електроніки."
+advanced_desc: "Передові компоненти з довоєнних комплексів. Потрібні для розробки складної зброї та техніки."
+
