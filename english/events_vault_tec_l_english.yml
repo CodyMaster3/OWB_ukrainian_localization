@@ -1,123 +1,129 @@
 ﻿l_english:
- #Decisions
+#Decisions
 
- nf_vault_tec.1.t:0 "Дослідження Сховища 3"
- nf_vault_tec.1.d:0 "Сховище 3 частково затоплений, і Чорти, що населяють його - не намагалися хоч якось поліпшити стан притулку. Встановити тут аванпост цілком можливо, але набагато простіше полагодити місцеву систему очищення води й експортувати залишки в наші поселення."
- nf_vault_tec.1.a:0 "Використовувати воду для наших поселень»
- nf_vault_tec.1.b:0 «Відновити притулок і обґрунтувати поселення»
- nf_vault_tec.1.c:0 «Використати воду, ліки та створити форпост."
+nf_vault_tec.1.t:0 "Обстеження Сховища 3"
+nf_vault_tec.1.d:0 "Сховище 3 частково затоплене, а перебування в ньому Фієндів лише погіршило його стан. Створити тут форпост не неможливо, але значно простіше було б відремонтувати систему очищення води та експортувати її до інших наших поселень."
+nf_vault_tec.1.a:0 "Використати воду для існуючих поселень."
+nf_vault_tec.1.b:0 "Відновити Сховище та заснувати поселення."
+nf_vault_tec.1.c:0 "Використати воду, наркотики і створити форпост."
 
- nf_vault_tec.2.t:0 "Дослідження Сховища 6"
- nf_vault_tec.2.d:0 "Очищення цього сховища від гулів, які тинялися там понад дві сотні років, коштувало нам більш ніж кількох досвідчених людей. Проте, Сховище 6 добре збереглося, і ми можемо або обґрунтувати нове поселення, або встановити там промисловий центр.»
- nf_vault_tec.2.a:0 «Перебудувати для промисловості»
- nf_vault_tec.2.b:0 «Заснувати поселення»
+nf_vault_tec.2.t:0 "Обстеження Сховища 6"
+nf_vault_tec.2.d:0 "Очищення сховища від зараження гулями, яке тривало майже два століття, коштувало нам чимало членів охорони. Втім, Сховище 6 виглядає повністю цілим і може бути використане або як нове поселення, або як виробничий центр."
+nf_vault_tec.2.a:0 "Переобладнати для виробництва."
+nf_vault_tec.2.b:0 "Заснувати поселення."
 
- nf_vault_tec.3.t:0 "Дослідження Сховища 13"
- nf_vault_tec.3.d:0 "Сховище 13 все ще наповнене тілами пазурів смерті та мешканців притулку, що вказують на занедбаність цього місця. Але ми, тим не менш, виявили наполовину використаний ГЕКК. Ми можемо використати його, щоб перетворити притулок на повноцінне поселення, або щоб прискорити наші дослідження.»
- nf_vault_tec.3.a:0 «Використовувати ГЕКК для досліджень»
- nf_vault_tec.3.b:0 «Заснувати поселення»
- nf_vault_tec.3.c:0 «Дозволити Арройо повернутися в дім їхніх предків і залишити ГЕКК"
+nf_vault_tec.3.t:0 "Обстеження Сховища 13"
+nf_vault_tec.3.d:0 "Сховище 13 досі всіяне тілами когтів смерті та жителів, яких змусили покинути його. Проте в ньому є напіввикористаний G.E.C.K. Ми можемо використати його для перетворення сховища на повноцінне поселення або прискорити наші дослідження."
+nf_vault_tec.3.a:0 "Використати G.E.C.K. для досліджень."
+nf_vault_tec.3.b:0 "Заснувати поселення."
+nf_vault_tec.3.c:0 "Дозволити племені Арройо повернутися до рідного дому та залишити G.E.C.K. їм."
 
- nf_vault_tec.4.t:0 "Дослідження Сховища 15"
- nf_vault_tec.4.d:0 "Сховище 15 поклало початок Шейді-Сендс і Великих Ханів, і тримало у своїх стінах і рейдерів, і мешканців притулку, і мешканців НКР. Але час його не пощадив, як і минулі мешканці сховища разом із НКР. Сховище обчищене і ледве тримається. Щоб повернути Сховищу 15 гідний вигляд, нам потрібно буде використати велику кількість нашої інфраструктури, щоб перебудувати фундамент і замінити електричні частини. Але ми також можемо переконатися, що сховище в безпеці, і просто-напросто відкрити його як 'об'єкт культурної спадщини'.»
- nf_vault_tec.4.a:0 «Зробити зі сховища об'єкт культурної спадщини»
- nf_vault_tec.4.b:0 «Перебудувати притулок і обґрунтувати поселення"
+nf_vault_tec.4.t:0 "Обстеження Сховища 15"
+nf_vault_tec.4.d:0 "Сховище 15 — місце походження Шейді-Сендс і Великих Ханів. Воно було домівкою для рейдерів, жителів і громадян НКР. Проте роки були до нього нещадні — розграбування НКР та сумнівні мешканці з минулого залишили його в поганому стані. Щоб повернути його до придатного для життя стану, доведеться витратити значну частину нашої інфраструктури. Альтернатива — просто забезпечити його безпечність і відкрити як історичну пам’ятку для пустельників і жителів сховищ."
+nf_vault_tec.4.a:0 "Зробити історичною пам’яткою."
+nf_vault_tec.4.b:0 "Відбудувати сховище та заснувати поселення."
 
- nf_vault_tec.5.t:0 "Дослідження Сховища 19"
- nf_vault_tec.5.d:0 "Експеримент у Сховищі 19 полягав у соціальному розшаруванні, де жителі сховища поділялися на дві групи. Експеримент провалився через величезний запас сірки, що забруднила їхнє повітря.»
- nf_vault_tec.5.a:0 «Використати сірку для вибухівки»
- nf_vault_tec.5.b:0 «Позбутися сірки та обґрунтувати поселення"
+nf_vault_tec.5.t:0 "Обстеження Сховища 19"
+nf_vault_tec.5.d:0 "Сховище 19 було місцем проведення експерименту з соціального розділення — жителів поділили на дві окремі групи. Проте експеримент зазнав краху через великі поклади сірки, які забруднили систему повітропостачання."
+nf_vault_tec.5.a:0 "Використати поклади сірки для виробництва вибухівки."
+nf_vault_tec.5.b:0 "Знищити сірку й заснувати поселення."
 
- nf_vault_tec.6.t:0 "Дослідження Сховища 21"
- nf_vault_tec.6.d:0 "Мешканці Сховища 21 програли володіння своїм притулкам, тому Містер Хаус забрав його під своє крило. Він жорстоко вигнав їх зі свого будинку і залив більшу частину притулку бетоном. Але дозволив кільком жителям встановити процвітаючий ринок промисловості.»
- nf_vault_tec.6.a:0 «Включити місцеву економіку»
- nf_vault_tec.6.b:0 «Привести Сховище в робочий стан»
- nf_vault_tec.6.c:0 «Використати вибухівку Сховища 19, щоб очистити бетон.»
+nf_vault_tec.6.t:0 "Обстеження Сховища 21"
+nf_vault_tec.6.d:0 "Жителі Сховища 21 програли право володіння в азартній грі містеру Гаусу. Він жорстоко вигнав їх і залив більшу частину бетоном. Проте кільком громадянам було дозволено створити там успішну торгову мережу."
+nf_vault_tec.6.a:0 "Інтегрувати місцеву економіку."
+nf_vault_tec.6.b:0 "Повернути Сховище до робочого стану."
+nf_vault_tec.6.c:0 "Використати вибухівку зі Сховища 19 для очищення бетону."
 
- nf_vault_tec.7.t:0 «Видалення зараження»
- nf_vault_tec.7.d:0 «Втрата контакту з дослідницькою групою тепер лише крапля в морі. Рослиноподібне зараження, що знаходиться в Сховищі 22, заразило їх. Ми можемо або встановити карантин і спробувати дослідити це зараження, або очистити сховище від рослинності.»
- nf_vault_tec.7.a:0 «Дослідити»
- nf_vault_tec.7.b:0 «Надіслати команду очищення»
- nf_vault_tec.7.c:0 «Спалити!»
+nf_vault_tec.7.t:0 "Видалення зараження"
+nf_vault_tec.7.d:0 "Втрачений контакт із групою обстеження — це вже найменша з наших проблем. Рослинне зараження, що було ізольоване в Сховищі 22, вразило їх. Ми можемо створити карантинну зону та дослідити інфекцію або просто зачистити все."
+nf_vault_tec.7.a:0 "Дослідити інфекцію."
+nf_vault_tec.7.b:0 "Відіслати загін зачистки."
+nf_vault_tec.7.c:0 "Використати вогнемети."
 
- nf_vault_tec.8.t:0 «Сховище 34»
- nf_vault_tec.8.d:0 «Сховище 34 було закинуте тими, хто після 50 років стали бомбістами, що заселилися на авіабазі Нелліс. Вони по суті своїй ксенофоби, але з дозволу їхнього лідера ми змогли встановити з ними контакт. Сховище 34 саме по собі страждає через витік із реактора і наповнене гулями. Ми можемо або дійти згоди з бомбістами і дати їм контроль над місцевістю, щоб отримати сильного союзника, або полагодити реактор, вбити гулів і встановити аванпост.»
- nf_vault_tec.8.a:0 «Відновити притулок»
- nf_vault_tec.8.b:0 «Повернути бомбістам їхній старий будинок»
+nf_vault_tec.8.t:0 "Сховище 34"
+nf_vault_tec.8.d:0 "Сховище 34 було покинуте тими, хто став Бумерами, приблизно 50 років тому. Відтоді вони оселились на авіабазі Нелліс. Вони надзвичайно недовірливі до всіх, але з ласки свого лідера дозволили дипломатичній місії поспілкуватись із ними. Саме сховище, однак, страждає від витоку реактора і заражене гулями. Ми можемо або підійти до Бумерів і передати їм контроль над навколишніми землями, здобувши сильного союзника з подібним минулим, або відремонтувати витік, знищити гулів і забезпечити форпост у цьому районі."
+nf_vault_tec.8.a:0 "Відновити Сховище."
+nf_vault_tec.8.b:0 "Залучити Бумерів до нашої справи."
 
- nf_vault_tec.9.t:0 «Дослідження Сховища 70»
- nf_vault_tec.9.d:0 «Сховищу 70 було дано три ГЕКК-и, які потім були використані щоб створити Нью-Ханаан. Сховище сповнене цінних соціальних даних щодо експерименту, якому слідував притулок. Усі ці дані, на жаль, знаходяться на старовинній базі даних у руїнах сховища. Ми можемо відновити сховище і, найімовірніше, пошкодити базу даних, або перетворити сховище на дослідницький центр, щоб зберегти якомога більше даних з механізмів, які вже кришаться.»
- nf_vault_tec.9.a:0 «Відновити сховище»
- nf_vault_tec.9.b:0 «Дослідити дані, що залишилися в блоці»
+nf_vault_tec.9.t:0 "Обстеження Сховища 70"
+nf_vault_tec.9.d:0 "Сховище 70 отримало три G.E.C.K.'и та ефективно використало їх для створення мормонської нації Новий Канаан. Сховище є джерелом цінних соціальних даних — як щодо експерименту, так і культурного розвитку після нього. На жаль, усі ці дані зберігаються на старому мейнфреймі в руїнах сховища. Ми можемо відновити сховище, що ймовірно знищить мейнфрейм, або перетворити його на культурний дослідницький центр, намагаючись врятувати якомога більше даних."
+nf_vault_tec.9.a:0 "Відновити Сховище."
+nf_vault_tec.9.b:0 "Дослідити дані зі сховища."
 
- nf_vault_tec.10.t:0 «Доповідь команди очищення»
- nf_vault_tec.10.d:0 «Очищення сховища 22 пройшло жахливо. Хоч команда очищення виконала своє завдання, вони самі встигли стати жертвами зарази. Вибачення і кілька пострілів з 10мм пістолета пролунали луною в радіо, потім тиша.»
- nf_vault_tec.10.a:0 «Їхня жертва не буде забута.»
+nf_vault_tec.10.t:0 "Звіт Загону Зачистки"
+nf_vault_tec.10.d:0 "Зачистка Сховища 22 обернулась катастрофою. Хоча команді вдалося знищити рослинність і мутантів, самі вони були заражені. Після вибачення в ефірі пролунали постріли з пістолета калібру 10 мм... а потім настала тиша."
+nf_vault_tec.10.a:0 "Їхня жертва була благородною."
 
- nf_vault_tec.11.t:0 «Дослідження Сховища 29»
- nf_vault_tec.11.d:0 «Неподалік від сіл племені Матерів-Близнючків, вони, будучи нащадками мешканців сховища, перебувають на об'єкті Волт-Тек, який не функціонує. Консоль управління до непрацюючого суперкомп'ютера ЗАКС, який знаходиться в сховищі, дає нам два варіанти: відновити супутниковий зв'язок або відкотити ЗАКС до заводських налаштувань.»
- nf_vault_tec.11.a:0 «Відновити супутниковий зв'язок»
- nf_vault_tec.11.b:0 «Відкотити ЗАКС до заводських налаштувань»
+nf_vault_tec.11.t:0 "Обстеження Сховища 29"
+nf_vault_tec.11.d:0 "Недалеко від поселень племені Двох Матерів, яке походить від жителів сховища, розташоване неактивне сховище Vault-Tec. Центральна консоль керування ZAX працює в режимі низького енергоспоживання. На терміналі комп’ютера є два варіанти: Відновити супутниковий зв'язок або Відновити заводські налаштування."
+nf_vault_tec.11.a:0 "Відновити супутниковий зв'язок."
+nf_vault_tec.11.b:0 "Відновити налаштування ZAX."
 
- nf_vault_tec.12.t:0 «Доля притулку»
- nf_vault_tec.12.d:0 «Тепер, коли питання з суперкомп'ютером вирішене, постає питання з Матір'ями-Близнючками і з самим притулком. Ми можемо дати Матерям громадянство і обґрунтувати поселення в притулку, або дати їм автономію.»
- nf_vault_tec.12.a:0 «Заснувати поселення»
- nf_vault_tec.12.b:0 «Дати їм автономію»
+nf_vault_tec.12.t:0 "Доля Сховища"
+nf_vault_tec.12.d:0 "З питанням суперкомп’ютера розібрались. Тепер треба вирішити долю залишків племені Двох Матерів та самого Сховища. Ми можемо надати їм громадянство та створити форпост, або дозволити їм певну автономію."
+nf_vault_tec.12.a:0 "Заснувати поселення."
+nf_vault_tec.12.b:0 "Надати автономію."
 
- nf_vault_tec.13.t:0 «Перейменувати територію на Сховище 13?»
- nf_vault_tec.13.d:0 «Було створено форпост-сховище, чи слід перейменувати територію?»
- nf_vault_tec.13.a:0 «Так.»
- nf_vault_tec.13.b:0 «Ні.»
+nf_vault_tec.13.t:0 "Перейменувати штат у Сховище 13?"
+nf_vault_tec.13.d:0 "Форпост у сховищі створено. Чи варто перейменувати штат?"
+nf_vault_tec.13.a:0 "Так."
+nf_vault_tec.13.b:0 "Ні."
 
- nf_vault_tec.14.t:0 «Перейменувати територію на Сховище 21?»
- nf_vault_tec.14.d:0 «Було створено форпост-сховище, чи слід перейменувати територію?»
- nf_vault_tec.14.a:0 «Так.»
- nf_vault_tec.14.b:0 «Ні.»
+nf_vault_tec.14.t:0 "Перейменувати штат у Сховище 21?"
+nf_vault_tec.14.d:0 "Форпост у сховищі створено. Чи варто перейменувати штат?"
+nf_vault_tec.14.a:0 "Так."
+nf_vault_tec.14.b:0 "Ні."
 
-  nf_vault_tec.15.t:0 "Сховище 107»
-  nf_vault_tec.15.d:0 «Увійшовши до “Сховища 107”, наші розвідники повідомили, що потрапили в засідку групи, яка назвала себе “Хейвенцями”, у тому, що один з місцевих жителів, який нас супроводжував, впізнав як спорядження Наглядачів, погрожуючи, як висловилися розвідники, “знести їм кляті голови”, якщо вони не назовуть себе. Так тривало доти, доки не підійшла жінка, яка назвалася «Шоутайм» і заявила, що впізнала скаутські костюми наших розвідників, і зажадала розповісти, які наші наміри в місті. \n\nПісля наших пояснень «Шоутайм» (титул, який, здається, став синонімом «мера», «наглядача», «лідера» або «президента») дозволила нашим скаутам вільно досліджувати сховища і переглядати міські записи, але за однієї умови: в обмін на це право вони повинні були провести переговори з «наглядачем», тобто зі мною. \n\nНаші розвідники доповіли, що погодилися, сподіваючись, що я не засмучуся. Це призвело до того, що вони виявили, що майже випотрошене сховище було перетворено на штаб-квартиру «гавенітського опору». Вщерть заповнений обладнанням, зброєю та всіляким спорядженням для боротьби за свободу, а також горами журналів, що стосуються міста та його Сховища. Саме в цих журналах ми виявили, що експеримент 107-го полягав у наступному: дослідити, що може породити суспільство, побудоване на «корумпованих» людях в умовах тісноти. Експеримент, який мешканці Сховища одразу ж відкинули. \n\nЗадоволені, розвідники привели Шоутайм та її охоронців до найближчого транзитного центру. При зустрічі вона попросила надати її місту автономію, а в обмін на це її люди добровільно приєднаються до нас в якості вчителів дипломатії та стройових сержантів. Це було б великою допомогою, адже їх завзятість і харизма говорять самі за себе...»
-  nf_vault_tec.15.a:0 «Ми вітаємо вас як співмешканців».
-  nf_vault_tec.15.b:0 «Ваше Сховище буде служити нам так само добре."  
+nf_vault_tec.15.t:0 "Сховище 107"
+nf_vault_tec.15.d:0 "Після входу в «Притулок» Сховища 107 наші розвідники були атаковані групою, що назвала себе «Хейвенітами» — одягнені в екіпіровку Вартових, вони пригрозили «рознести голову до біса», якщо розвідники не представляться. Але жінка на ім’я «Шоутайм» втрутилася, впізнавши їх форму. Після розмови вона дозволила дослідити місто та записи, але з однією умовою — особиста зустріч зі мною.\n\nСховище 107 було майже повністю перетворене на штаб-квартиру «Опору Хейвена», наповнену зброєю, спорядженням і логами. Сам експеримент сховища полягав у спостереженні за суспільством, створеним із «корумпованих» осіб. Жителі одразу відмовились від цього задуму.\n\nШоутайм погодилась приєднатися до нас, за умови автономії. В обмін — її люди стануть нашими тренерами та викладачами. Їхня харизма й бойовий дух говорять самі за себе..."
+nf_vault_tec.15.a:0 "Ми вітаємо вас як братів по Сховищу."
+nf_vault_tec.15.b:0 "Ваше сховище послужить нам не гірше за вас."
 
-  nf_vault_tec.16.t:0 "The Vault Lost to Time"
-  nf_vault_tec.16.d:0 " According to local legend, the residents of Vault 24 didn't venture out much until they started making plays in recent years to become a regional power. However, all of that came to an end once the White Legs had enough of the vaulters and sent them running back home. Since then the vault had been silent, but we found a way to get them talking.\n\nOne of our techs presented a worm she'd crafted to infiltrate the interior vault systems through the exterior vault door controls. If the worm got through, it'd then have to be picked up by one of the vault's computers and spread across their entire mainframe, seizing it up. If they couldn't figure out how to undo our handiwork within the time their air needed to be recycled, then they'd be forced to open up shop. Once the tech's corrupted pip-boy connected to the door control, all we had to do was wait.\n\nA week and a day went by before the vault door alarm signaled and the door to the vault was thrust from its wall. Out of the vault walked a meager man who shambled his way towards the closest outsider. He appeared distraught with every step, as if his feeble gait was costing him precious seconds. He asked if we were from a vault and if we were the ones to put the strangle on things and we replied positively to both lines of questioning.\n\nAn agreement was formed soon thereafter, in exchange for a share of Vault 24's productivity, we'd leave them to their own devices. However, the lack of any discernable leadership within the vault has raised some eyebrows. All that the residents of Vault 24 have to say about their leader is that he went missing during their retreat from the White Legs.\n\nWhether we should investigate this matter further, or simply let Vault 24 be per our arrangement, has come into question."
-  nf_vault_tec.16.a:0 "They'll be fine without him."
-  nf_vault_tec.16.b:0 "Whatever happened to Overseer Tock?"
+nf_vault_tec.16.t:0 "Сховище, загублене в часі"
+nf_vault_tec.16.d:0 "Згідно з місцевими легендами, жителі Сховища 24 не виходили назовні до останніх років, коли вирішили стати регіональною силою. Та все закінчилося, коли Білоно́гі дістали їх, і вони втекли назад додому. Відтоді сховище мовчало — поки ми не знайшли спосіб змусити його заговорити.\n\nОдна з наших техніків створила черв’яка, здатного проникнути в системи сховища через зовнішній термінал на дверях. Якщо програма потрапить усередину, її підхопить внутрішній комп'ютер, і вона заблокує всю мережу. Якщо вони не зможуть її знешкодити до моменту необхідної регенерації повітря, їм доведеться відчиняти двері. Коли заражений піп-бой підключили — залишалось тільки чекати.\n\nМинув тиждень і день, як сигнал тривоги пролунало, і двері сховища були вирвані зі стіни. З нього вийшов змарнілий чоловік, який похитуючись підійшов до найближчого з нас. Його погляд був повен тривоги, ніби кожен крок віднімав у нього час. Він спитав, чи ми з іншого сховища і чи це ми поставили їм «за́шморг». Ми відповіли «так» на обидва питання.\n\nПісля цього було укладено угоду: в обмін на частку виробництва ми залишаємо їх у спокої. Але відсутність будь-якого лідера викликає підозри. Жителі 24 лише кажуть, що їхній наглядач зник під час втечі від Білоно́гих.\n\nВарто вирішити: розслідувати далі чи залишити все як є."
+nf_vault_tec.16.a:0 "Вони впораються і без нього."
+nf_vault_tec.16.b:0 "А що ж трапилось із Наглядачем Током?"
 
-  nf_vault_tec.17.t:0 "Whatever happened to Overwatch Tock?"
-  nf_vault_tec.17.d:0 "Vault 24 residents have a certain peculiarness about them. They don't smile or dance, they don't laugh or whistle, they just work. From the limited interactions we've had with the Timekeepers, they seem to have a clear pattern to their lives, they live in routine. This Overwatch Tock we'd been looking for was living out in the wasteland, a foreign place unfamiliar and unforgiving. Overwatch Tock was a tough bastard by many accounts, but was he tougher than the world outside his vault?\n\nWord eventually got to us that an assortment of vault gear marked with 24's was being sold in a market down in Arizona. We dispatched an agent to investigate these reported goods which brought him down a path that eventually led to the ancient Bloomfield Space Center. It was there that our agent walked upon a lone, solemn road that ended with a sun-bleached and decaying wooden cross. Overlooking the calm desert sands were the mummified remains of Overwatch Tock, mounted to the old cross.\n\nHow and why this vaulter from Utah wound up in Arizona is a story lost to time, as was the reasoning behind his fate. Nonetheless, the agent lowered the bony remains down and into a suitable enclosure of cloth, and brought him back to his home. The Timekeepers halted all their tasks for the day and placed belongings they valued inside the casket to rest among the body of the deceased. They surrounded the casket with candles, one for each year the man had lived. As the day neared its end, they extinguished the burning flames and lowered the case into a grave fashioned out of the Utah sand."
-  nf_vault_tec.17.a:0 "..."
+nf_vault_tec.17.t:0 "А що трапилось з Наглядачем Током?"
+nf_vault_tec.17.d:0 "Жителі Сховища 24 мають щось дивне в поведінці. Вони не посміхаються, не танцюють, не сміються і не свистять — тільки працюють. Їхнє життя — суцільна рутина. Той самий Наглядач Ток, якого ми шукали, опинився десь у пустці. Суворий, твердий — але чи був він міцніший за світ зовні?\n\nДо нас дійшли чутки про спорядження зі знаком «24», яке продавали на базарі в Аризоні. Наш агент вирушив розслідувати і зрештою натрапив на Космічний центр Блумфілда. Там, на самотній стежці, він побачив хрест із вибіленого сонцем дерева. На ньому — муміфіковані рештки Тока.\n\nЧому і як він, виходець з Юти, потрапив до Аризони, залишиться таємницею. Агент зняв тіло з хреста, загорнув у тканину і привіз додому. Хранителі часу зупинили всю роботу, поклали до труни дорогі речі, оточили її свічками — по одній за кожен рік життя. І, коли день згас, згасли й свічки, а труну опустили до могили в пісках Юти."
+nf_vault_tec.17.a:0 "..."
 
-  nf_vault_tec.18.t:0 "In Memoriam."
-  nf_vault_tec.18.d:0 "While Vault 24 had been where Tock garnered more power than any Timekeeper before, it was the wasteland where he would climb higher than any Timekeeper ever had, and ever would. Out in the land that had given him both life and death, the remains of Tock would rest under the shimmering moon and shining sun as time kept marching on."
-  nf_vault_tec.18.a:0 "A hero remembered in our time."
+nf_vault_tec.18.t:0 "In Memoriam."
+nf_vault_tec.18.d:0 "Хоч Ток досяг найбільшої влади у Сховищі 24, саме пустка стала місцем його найвищого злету. Там, де йому дали і життя, і смерть, він і буде спочивати — під сяйвом місяця і сонця, що сходять над пустелею, поки час невпинно крокує далі."
+nf_vault_tec.18.a:0 "Герой, якого пам’ятатимуть у наші дні."
 
-  nf_vault_tec.19.t:0 "Fixer-Upper"
-  nf_vault_tec.19.d:0 "Vault 37 is notably unique among other known vaults due to its overseer being a ZAX AI. For two-hundred years Overseer T.H.O.M.A.S has maintained a harsh control over the vault's population as programmed to do by Vault-Tec. However, unknown to the AI, Vault-Tec programmed the AI to have zero ethical boundaries, allowing the AI to predict the best possible route of 'protection' for its denizens without being tethered down by emotion.\n\nOur science team has raised a point of contention regarding use of the AI. They believe, with thorough work, they could repair and reprogram the AI to serve our needs; notably through the use of its talent at keeping a population docile. Where things get tricky, is understanding the risks of such an endeavour. To underestimate T.H.O.M.A.S would do it a disservice, and the chance of the AI breaking free from our control is a very real possibility. It would be wise to exercise caution with this project. "
-  nf_vault_tec.19.a:0 "That things gives me the creeps. Shut it down."
-  nf_vault_tec.19.b:0 "I love a good Jailor"
+nf_vault_tec.19.t:0 "Купа брухту з потенціалом"
+nf_vault_tec.19.d:0 "Сховище 37 є унікальним тим, що його наглядачем є ШІ ZAX. Протягом двохсот років наглядач Т.H.O.M.A.S. підтримував жорсткий контроль над жителями, згідно з інструкціями Vault-Tec. Та була одна деталь — Vault-Tec не заклав жодних етичних обмежень у програму. Це дозволило ШІ робити «найкраще» для безпеки мешканців — без зайвих емоцій.\n\nНаша наукова команда припускає: ми могли б переробити ШІ під наші цілі, зокрема — зберігання громадського порядку. Проте ризик є. Якщо Т.H.O.M.A.S. вирветься з-під контролю — катастрофа неминуча. Треба бути обережними."
+nf_vault_tec.19.a:0 "Мені моторошно від нього. Вимкнути."
+nf_vault_tec.19.b:0 "Люблю надійного тюремника."
 
-  nf_vault_tec.20.t:0 "The Mysterious Unmarked Vault Under Redmond"
-  nf_vault_tec.20.d:0 "Upon the order being given to open the vault, our technicians were hopeful that fellow dwellers would emerge, or even an obvious answer to what experiment was meant to take place in the unmarked vault would appear. But to our dismay, and mounting confusion, the especially large corridors of the vault were completely barren of anything other than junk.\n\nOr so we thought, as an excited novice technician reported a single wall-mounted terminal on the furthest wall from the entrance. Easily cracked, we discovered it contained magnitudes of information on every vault but itself across the whole of North America and beyond, as well as their locations and specific experiments. Cross-referencing our own vault’s knowledge as we found it on the registry, we confirmed that its information regarding the vaults to be correct. A boon to be sure. \n\nOn the other hand seismic tests to map the outside of the vault revealed a complex miles below the empty halls of this one. Although we have no ability to reach it, it may prove useful to establish an outpost here to study what we can or turn this large area into a storage facility."
-  nf_vault_tec.20.a:0 "Something about this is fishy, establish a post."
-  nf_vault_tec.20.b:0 "Storage will do use well."
+nf_vault_tec.20.t:0 "Таємниче Безіменне Сховище під Редмондом"
+nf_vault_tec.20.d:0 "Коли ми віддали наказ відкрити сховище, наші техніки сподівалися побачити інших мешканців або хоча б дізнатися про експеримент, який мав тут відбутися. Та на наш подив — і дедалі більшу тривогу — широкі коридори були цілком порожні, за винятком мотлоху.\n\nАле потім один з техніків виявив настінний термінал на найдальшій стіні. Взламавши його, ми знайшли масивну базу даних про всі сховища у Північній Америці й за її межами — окрім цього самого. Порівнявши дані з нашими, ми підтвердили їхню достовірність. Це безумовно цінна знахідка.\n\nСейсмічні вимірювання виявили ще один комплекс на багато миль нижче — хоч ми й не можемо до нього дістатися. Можна заснувати тут форпост для подальших досліджень, або ж перетворити порожній простір на склад."
+nf_vault_tec.20.a:0 "Щось тут не так... Заснувати форпост."
+nf_vault_tec.20.b:0 "Склад буде корисним."
 
-  nf_vault_tec.21.t:0 "The Hidden Corporate Vault"
-  nf_vault_tec.21.d:0 "Our scouts have come to us with reports of an unmarked Vault-Tech warehouse, guarded by several now-destroyed turrets. In the many rooms and notes that remained within the terminals, they discovered its purpose: to preserve the upper echelon of Vault-Tec. A fact hidden from the pre-war government.\n\nIt appears that the reason that they hid this vault was due to the research that was done in it. Biological experiments done in an attempt to combat the sterility that came about from exposure to the Forced Evolutionary Virus. The scouts uncovered facilities dedicated to biological, technological, and mechanical research of which we can repurpose. On the other hand, the men also discovered a terminal that allowed for the activation of a plugged-off AI by the name of CALIX. If we should reactivate it, as its asking us to, it will give us total control over the entire Vault.\n\nWe could utilize this AI to have a grip on the vault. Or, we could simply exploit the remaining resources, scrapping whatever blueprints or designs we can."
-  nf_vault_tec.21.a:0 "Calix? Sounds Useful."
-  nf_vault_tec.21.b:0 "What kind of idiot would trust that?"
+nf_vault_tec.21.t:0 "Приховане Корпоративне Сховище"
+nf_vault_tec.21.d:0 "Наші розвідники виявили склад Vault-Tec без позначень, захищений знищеними вже турелями. Згідно з документами і терміналами, його мета — зберегти еліту компанії, приховано від довоєнного уряду.\n\nТаємниця цього сховища криється у дослідженнях, що проводились всередині: біологічні експерименти для боротьби з безпліддям, спричиненим Вірусом Примусової Еволюції. Залишки лабораторій ми можемо використати — або ж активувати ШІ під назвою CALIX, що просить його пробудити, обіцяючи повний контроль над сховищем.\n\nМожемо скористатись цим ШІ — або ж розібрати все на деталі."
+nf_vault_tec.21.a:0 "CALIX? Звучить корисно."
+nf_vault_tec.21.b:0 "Який ідіот повірив би в це?"
 
-  nf_vault_tec.22.t:0 "Vault 9"
-  nf_vault_tec.22.d:0 "Many Vaults lay across the wastes, over 122 as far as our records tell us. It is with luck we stumbled across this one on our journeys through the territories of Wyoming. Our partially corrupted logs read as such: \n\n \n§GVAULT-TEC LOGS: VAULT 9§!\n\n§GA HOME FOR THE BEST AMONGST US, THE MOST LOYAL AMONGST US, THE FRIENDLIEST AMONGST US, THE GJOCJOHCOH AMONGST US: VAULT 9. SPECIALLY CONSTRUCTED FOR OUR B!B!SO NESABB! BAJSIBXONOANMNEMNMWN AB! WHO CANNOT JOIN US DUE TO POLICY. THAT IS RIGHT YOUR AHICXX BOWNBWAB CAN GET THEIR VERY OWN SPOT IN THEIR  VERY OWN VAULT! CALL 213-25-VAULT TODAY TO GUARANTEE YOUR ANCICINJWOINOABN A LIFE AFTER BOMBARDMENT! *only qualifying pre-registered vault-tec dwellers may take advantage of this offer.§! \n\n \nWhat this Vault houses or what its experiment was we are unsure of. A special breed of man that slipped through the cracks in history? Potential dwellers with gene defects? Who knows.\nWe prepared hackers, demolitionists, and engineers to open the door, luckily before trying anything to crack the gigantic metal hunk blocking our entrance, one of our junior scouts strolled up to the door and gave it a swift knock, opening it. \n\nAs the door rolled open our excitement mounted, as well as our curiosity, new dwellers? Terrible creatures? Horrifying experiments? B- barks..? Are there dogs in this vault? This is a dog vault..."
-  nf_vault_tec.22.a:0 "What even is the experiment?"
- #tooltips
- vault_security:0 "Створює групу безпеки для нового Сховища."
- vault_19_vault_21:0 "Використовуйте вибухівку, зроблену зі Сховища 19, щоб відкрити Сховище 21 для ремонту."
- tock_search_tt:0 "§CVault-Tec Message:§! §GWe will begin a search for Tock, the former Overseer of Vault 24! Perhaps gaining a legend that will heavily improve morale!§!"
+nf_vault_tec.22.t:0 "Сховище 9"
+nf_vault_tec.22.d:0 "По всіх пустках розкидано багато сховищ — щонайменше 122. Нам пощастило знайти ще одне у Вайомінгу. Наші частково пошкоджені логи говорять наступне:\n\n\n§GЛОГИ VAULT-TEC: СХОВИЩЕ 9§!\n\n§GДІМ ДЛЯ НАЙКРАЩИХ І НАЙВІДДАНІШИХ! ДЛЯ GJOCJOHCOH... СПЕЦІАЛЬНО ДЛЯ НАШИХ B!B!SO NESABB! BAJSIBXONOANMNEMNMWN AB! ХТО НЕ МОЖЕ ПРИЄДНАТИСЯ ЧЕРЕЗ ПОЛІТИКУ. ВАШ AHICXX BOWNBWAB МОЖЕ ОТРИМАТИ ВЛАСНЕ СХОВИЩЕ! ТЕЛЕФОНУЙТЕ 213-25-VAULT! *лише для попередньо зареєстрованих мешканців.§!\n\n\nЩо тут експериментували? Генетичні відхилення? Зниклі люди? Песики?\n\nНаші техніки вже готувались підривати двері... аж раптом юний скаут просто постукав у неї — і вона відчинилась.\n\nМи чекали чогось надзвичайного... Але що це? Це сховище для собак?.."
+nf_vault_tec.22.a:0 "Що за експеримент тут, взагалі?"
 
- #advisors
- vault_sarah:0 "Сара Вайнтрауб"
+nf_vault_tec.23.t:0 "Сховище 27"
+nf_vault_tec.23.d:0 "Наші розвідники повернулись значно швидше, ніж ми очікували. Виявилося, що Сховище 27 надзвичайно мале — менше чверті від стандартного розміру. Більшість його мешканців вже залишили його і подались до наших менш тісних поселень. Створення форпосту тут малоймовірне — та можна або розширити сховище, або просто розібрати його."
+nf_vault_tec.23.a:0 "Розібрати."
+nf_vault_tec.23.b:0 "Розширити."
 
- #flags
- vault_19_explosives:0 "Сховище 19 використовується для створення вибухівки."
- vault_21_excavated:0 "Сховище 21 було розкопано."
+# Підказки
+vault_security:0 "Створює команду безпеки для нового Сховища."
+vault_19_vault_21:0 "Використати вибухівку зі Сховища 19 для розчистки Сховища 21."
+tock_search_tt:0 "§CПовідомлення Vault-Tec:§! §GМи почнемо пошуки Тока, колишнього Наглядача Сховища 24! Можливо, ми здобудемо легенду, яка сильно підвищить бойовий дух!§!"
+
+# Радники
+vault_sarah:0 "Сара Вайнтрауб"
+
+# Прапори
+vault_19_explosives:0 "Сховище 19 виготовляє вибухівку."
+vault_21_excavated:0 "Сховище 21 розчищено."
