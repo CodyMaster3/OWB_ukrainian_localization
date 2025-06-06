@@ -1,0 +1,228 @@
+﻿l_english:
+#GENEIRC
+PO2_puppet_idea_one:0 "Автономна Адміністрація"
+PO2_puppet_idea_one_desc:0 ""
+
+PO2_puppet_idea_two:0 "Велика Адміністрація"
+PO2_puppet_idea_two_desc:0 "Велика Адміністрація"
+
+PO2_puppet_idea_three:0 "Надмірна Адміністрація"
+PO2_puppet_idea_three_desc:0 "Надмірна Адміністрація"
+
+PO2_puppet_idea_four:0 "Гігантська Адміністрація"
+PO2_puppet_idea_four_desc:0 "Гігантська Адміністрація"
+
+PO2_puppet_idea_large:0 "Велика Територіальна Адміністрація"
+PO2_puppet_idea_large_desc:0 "Велика Територіальна Адміністрація"
+
+PO2_overlord_exploit_idea:0 "Промислова Експлуатація"
+PO2_subject_needs_idea:0 "Промислова Підтримка"
+
+# NCR
+ncr_puppet_idea_starved:0 "Виморювання"
+ncr_puppet_idea_starved_desc:0 "НКР виморювала наші війська та народ — і досі відчуваються наслідки цього."
+
+ncr_puppet_idea_kneecapped:0 "Економічне Калецтво"
+ncr_puppet_idea_kneecapped_desc:0 "НКР змусила нас підкоритись через економіку. Наразі наша економіка ще оговтується від цих дій."
+
+ncr_puppet_idea_lied_to:0 "Політична Обмана"
+ncr_puppet_idea_lied_to_desc:0 "НКР політично обманула нас, через що наш народ втратив довіру до керівництва."
+
+ncr_puppet_idea_event2_1:0 "Нові Робочі Місця"
+ncr_puppet_idea_event2_1_desc:0 "Територіальна адміністрація НКР взялася відбудовувати наші підприємства і створювати робочі місця, що стало певним полегшенням."
+
+ncr_puppet_idea_event2_2:0 "Доступ до Їжі та Води"
+ncr_puppet_idea_event2_2_desc:0 "ТА НКР забезпечує доступ до їжі та води, хоча для цього часто «зачищає» землі й завозить нові ресурси."
+
+ncr_puppet_idea_event2_3:0 "Відбудова Адміністрації"
+ncr_puppet_idea_event2_3_desc:0 "ТА НКР взялася за реконструкцію нашої адміністративної системи."
+
+ncr_puppet_idea_raider:0 "Акт про Утихомирення Рейдерів"
+ncr_puppet_idea_tribal:0 "Акт про Примирення з Туземцями"
+
+ncr_puppet_idea_tribal_1:0 "Індустріальна Модернізація"
+ncr_puppet_idea_tribal_2:0 "Державна Освіта"
+
+ncr_puppet_idea_settler:0 "Акт про Реорганізацію Штатів"
+
+ncr_puppet_idea_ncr_draft:0 "Призов до НКР"
+ncr_puppet_idea_ncr_draft_1:0 "Призов до НКР"
+ncr_puppet_idea_ncr_draft_2:0 "Призов до НКР"
+
+ncr_puppet_taxation:0 "Оподаткування"
+ncr_puppet_taxation_desc:0 "У житті є дві неминучі речі — смерть і податки."
+
+ncr_puppet_idea_expanded_admin_authority:0 "Розширення Повноважень Адміністрації"
+ncr_puppet_idea_expanded_admin_authority_desc:0 "Обов’язок ТА — забезпечити лояльність людей. Для цього необхідно зміцнити наш контроль над регіоном."
+
+ncr_puppet_idea_propaganda_posters:0 "Пропагандистські Плакати"
+ncr_puppet_idea_propaganda_posters_desc:0 "Наша пропаганда поширює цінності НКР і страх перед ворогами. Ми маємо забезпечити лояльність населення."
+
+ncr_puppet_follower_support:0 "Підтримка Послідовників"
+ncr_puppet_follower_support_desc:0 "Ми не стільки поклоняємося, скільки дотримуємося принципів. Ми хочемо повернути мир цій пустці. Світ прагне до руйнації — ми намагаємось змінити його. — Ніколь"
+
+ncr_puppet_idea_new_farms:0 "Нові Ферми"
+ncr_puppet_idea_new_farms_desc:0 "Ці ферми допоможуть залучити людей і зменшити нестачу продовольства."
+
+ncr_puppet_idea_quotas:0 "Квоти"
+ncr_puppet_idea_quotas_desc:0 "...І ти будеш вдячний за місце за столом, Хоча він кривий, а лавка хитається, Ти змарнуєш життя, але принаймні мав змогу, Сплатити за могилу, бо ми орендували тобі колиску. Будь вірним і молися, що ми віддамо борг, Поводься як раб заради людського блага..."
+
+ncr_puppet_idea_encouragement:0 "Заохочення"
+ncr_puppet_idea_encouragement_desc:0 "...Ми Працюємо, щоб Заробити Право Працювати, Щоб Заробити Право, Працювати, щоб Заробити Право Працювати, Щоб Заробити Право Жити, І Право Померти..."
+
+ncr_puppet_idea_expanding_vehicle_production:0 "Розширення Виробництва Техніки"
+ncr_puppet_idea_expanding_production_desc:0 "Щоб віддячити НКР, ми маємо створити моторизовані корпуси. Ми залучимо досвідчених механіків, які навчать нове покоління."
+
+ncr_puppet_idea_highwaymen_experts:0 "Експерти з Шосейників"
+ncr_puppet_idea_highwaymen_experts_desc:0 "Хоча шосейники є проблемою пустки, вони добре лагодять машини. Ми надамо амністію тим, хто кинув кримінальне життя, і запропонуємо новий початок."
+
+ncr_puppet_idea_training_regiments:0 "Тренувальні Полки"
+ncr_puppet_idea_training_regiments_desc:0 "Наші війська повинні наслідувати НКР та її союзників: сучасна тактика та організація зроблять нашу армію ефективнішою."
+
+ncr_puppet_idea_tribal_combat_experience:0 "Бойовий Досвід"
+ncr_puppet_idea_tribal_combat_experience_desc:0 "Нашим силам потрібен бойовий досвід. Ми відправимо підрозділи допомагати іншим державам, щоб вчитись на практиці й краще розуміти пустку."
+
+ncr_puppet_idea_tribal_diet:0 "Нова Дієта"
+ncr_puppet_idea_tribal_diet_desc:0 "Наш раціон харчування був далекий від ідеального. Якщо ми хочемо мати сильних воїнів і міцний народ — час це змінити."
+
+ncr_puppet_idea_tribal_trials:0 "Випробування"
+ncr_puppet_idea_tribal_trials_desc:0 "Нашим силам потрібні нові випробування — щоб перевірити, як вони виживають без припасів і пересуваються у складних умовах. Це дасть їм витривалість, що перевершить ворогів."
+
+ncr_puppet_idea_tribal_expanding:0 "Розширення Армії"
+ncr_puppet_idea_tribal_expanding_desc:0 "Наші сили вже добре навчені. Тепер ми маємо зосередитися на їхньому збільшенні для посилення армії."
+
+ncr_puppet_tithe:0 "Десятина"
+ncr_puppet_tithe_desc:0 "Один із наших штатів прислав десятину. Як мило!"
+
+ncr_puppet_tithe_giver:0 "Десятина Каліфорнії"
+ncr_puppet_tithe_giver_desc:0 "Ми надіслали десятину до Каліфорнії на знак вдячності за все, що вони для нас зробили."
+
+ncr_puppet_assault:0 "Люті Штурми"
+ncr_puppet_assault_desc:0 "Як колишні рейдери, ми добре знаємо, як атакувати. Зосередьмося на цьому, щоб вдосконалити стратегії."
+
+ncr_puppet_piercing:0 "Проникаючі Атаки"
+ncr_puppet_piercing_desc:0 "Наші солдати все краще проводять штурми, що пробивають ворожі лінії швидше, ніж у наших союзників."
+
+ncr_puppet_shock:0 "Штурмові Війська"
+ncr_puppet_shock_desc:0 "Наші війська стали відмінними штурмовими загонами, які прориваються через лінії противника, з додатковими трофеями—перепрошую, припасами—зі складів ворога."
+
+ncr_puppet_raider_ranger_trainers:0 "Інструктори Рейнджерів"
+ncr_puppet_raider_ranger_trainers_desc:0 "Рейнджери НКР — елітні війська. Нам би не завадив власний корпус. Ми запросили інструкторів від НКР, і ті погодились — починаємо створення нашого рейнджерського корпусу, хоча це й потребує часу."
+
+ncr_puppet_raider_discipline:0 "Честь і Дисципліна"
+ncr_puppet_raider_discipline_desc:0 "Наші війська навчаються в рейнджерів, стаючи менш грубими, більш шляхетними й відданими. Встановлено високі стандарти й суворі покарання за порушення — це ціна, яку ми платимо."
+
+ncr_puppet_raider_duty:0 "Наш Обов’язок"
+ncr_puppet_raider_duty_desc:0 "Ми маємо обов’язок перед НКР, яка допомогла нам цивілізуватись і дала шанс на викуп. Ми служитимемо їй — так правильно."
+
+ncr_puppet_scavenger:0 "Експедиція Збирачів"
+ncr_puppet_scavenger_desc:0 "НКР надала нам трудовий резерв із дрібних злочинців для обшуку наших територій у її інтересах."
+
+ncr_puppet_scavenger_ncr:0 "Переваги Експедицій Збирачів"
+ncr_puppet_scavenger_ncr_desc:0 "Може, нам варто частіше посилати таких, як Годдард... а до речі, що з ним?"
+
+ncr_puppet_shock_trooper_remnant:0 "Залишки Штурмової Тактики"
+ncr_puppet_shock_trooper_remnant_desc:0 "За часів підпорядкування НКР ми навчались штурмовій тактиці. Тепер ми вільні, але зберегли деякі її уроки."
+
+ncr_puppet_raider_duty_remnant:0 "Залишки Обов’язку"
+ncr_puppet_raider_duty_remnant_desc:0 "Колись ми служили НКР. Тепер — ні. Але деякі з їхніх ідей ми зберегли."
+
+ncr_puppet_idea_tribal_expansion_remnant:0 "Залишки Нашого Розширення"
+ncr_puppet_idea_tribal_expansion_remnant_desc:0 ""
+
+ncr_puppet_idea_encouragement_remnant:0 "Залишки Наших Наставників"
+ncr_puppet_idea_encouragement_remnant_desc:0 ""
+
+ncr_puppet_idea_highwaymen_experts_remnant:0 ""
+ncr_puppet_idea_highwaymen_experts_remnant_desc:0 ""
+
+ncr_puppet_idea_ncr_draft_2_remnant:0 ""
+ncr_puppet_idea_ncr_draft_2_remnant_desc:0 ""
+
+#CES
+ces_puppet_idea_event_1:0 "Фрументарії"
+ces_puppet_idea_event_2:0 "Вичавлені до краплі"
+ces_puppet_idea_event_3:0 "Знищена Промисловість"
+ces_puppet_idea_event2_1:0 "Administratio Imperii"
+ces_puppet_idea_event2_2:0 "Administratio Imperii"
+ces_puppet_idea_event2_3:0 "Administratio Imperii"
+ces_puppet_idea_under_rome:0 "Під Римом"
+ces_puppet_idea_decimatio:0 "Децимація"
+ces_puppet_idea_unity:0 "Розбещені Об’єднані"
+ces_puppet_idea_collars:0 "Залізні Нашийники"
+ces_puppet_idea_disenfranchisement:0 "Позбавлення Прав"
+ces_puppet_idea_separate_children:0 "Дитячі Солдати"
+ces_puppet_idea_war:0 "Para Pax Bellum"
+ces_puppet_idea_technology_bad:0 "Відмова від Автоматизації"
+ces_puppet_idea_peace:0 "Pax Romana"
+ces_puppet_slaves:0 "Свіжі Раби"
+ces_puppet_overlord_slaves_yipee:0 "Свіжі Раби"
+
+#BOS
+bos_puppet_idea_research:0 "Освіта Братства"
+bos_puppet_idea_research_1:0 "Освіта Писарів"
+bos_puppet_idea_drill:0 "Вишкіл"
+bos_puppet_idea_drill_1:0 "Більше Вишколу"
+bos_puppet_idea_drill_2:0 "Ще Більше Вишколу"
+bos_puppet_idea_scribe:0 "Посвята Писарів"
+bos_puppet_idea_knight:0 "Посвята Лицарів"
+bos_puppet_idea_paladin:0 "Посвята Паладинів"
+bos_puppet_idea_weapons:0 "Обслуговування Зброї"
+bos_puppet_idea_new_chapter:0 "Новий Розділ"
+bos_puppet_propaganda:0 "Пропаганда Братства"
+
+#VLT
+vlt_puppet_idea_event_1:0 "Комфортне Населення"
+vlt_puppet_idea_event_2:0 "Продуктивне Населення"
+vlt_puppet_idea_event_3:0 "Покірне Населення"
+vlt_puppet_settler_idea:0 "Якість Життя"
+vlt_puppet_tribal_idea:0 "Перевиховання Племен"
+vlt_puppet_raider_idea:0 "Покірні Рейдери"
+vlt_puppet_idea_science_tfv:0 "Наука!"
+vlt_puppet_idea_city_tfv:0 "Місто!"
+vlt_puppet_idea_humanity_tfv:0 "Людство!"
+vlt_puppet_idea_science_method:0 "Науковий Метод"
+vlt_puppet_idea_peta:0 "CETW"
+vlt_puppet_idea_security:0 "Підготовка Охорони Сховища"
+vlt_puppet_idea_building:0 "Будуємо Утопію"
+vlt_puppet_idea_repurposed_assets:0 "Повторне Використання Активів"
+vlt_puppet_idea_repurposed_assets_overlord:0 "Повторне Використання Активів"
+
+#TRL
+trl_puppet_idea_event_1:0 "Нескінченна Призовна Кампанія"
+trl_puppet_idea_event_2:0 "Майстерні Без Кінця"
+trl_puppet_idea_event_3:0 "Досвід Партизанської Тактики"
+trl_puppet_idea_end_of_man:0 "Кінець Людства"
+trl_puppet_idea_end_of_man_1:0 "Кінець Людства"
+trl_puppet_idea_end_of_man_2:0 "Кінець Людства"
+trl_puppet_idea_servitude:0 "Прийняття Рабства"
+trl_puppet_idea_death_of_family:0 "Смерть Сім’ї"
+trl_puppet_idea_breeding_duties:0 "Смерть Сім’ї"
+trl_puppet_idea_feeding_duties:0 "Кінець Людства"
+trl_puppet_idea_slave:0 "Раби з Нор"
+trl_puppet_idea_slave_1:0 "Раби з Нор"
+trl_puppet_idea_slave_2:0 "Раби з Нор"
+trl_puppet_idea_age_of_mutant:0 "Ера Мутантів"
+trl_puppet_idea_age_of_mutant_1:0 "Ера Мутантів"
+trl_puppet_idea_age_of_mutant_2:0 "Ера Мутантів"
+trl_puppet_idea_mutant_mastery:0 "Влада Мутантів"
+trl_puppet_idea_mutant_mastery_1:0 "Влада Мутантів"
+trl_puppet_idea_mutant_idealism:0 "Ідеалізм Мутантів"
+trl_puppet_idea_mutant_pragmatism:0 "Прагматизм Мутантів"
+trl_puppet_idea_research_debuff:0 "Прощання з Минулим"
+po_trl_technology_bad_idea:0 "Втрачена Технологія"
+
+#RRG
+rrg_puppet_idea_vision:0 "Велике Бачення"
+rrg_puppet_idea_ranch:0 "Нова Модель Ранчо"
+rrg_puppet_idea_support:0 "Економічна Підтримка"
+rrg_puppet_idea_support_1:0 "Економічна Підтримка"
+rrg_puppet_idea_hand:0 "Тверда Рука"
+rrg_puppet_idea_republic:0 "Заради Республіки"
+rrg_puppet_idea_mind:0 "Блискучий Розум"
+rrg_puppet_idea_best_and_brightest:0 "Найкращі й Найрозумніші"
+rrg_puppet_idea_fortifications:0 "Прикордонні Укріплення"
+rrg_puppet_idea_war:0 "Будуємо Естадо"
+rrg_puppet_idea_peace:0 "Будуємо Естадо"
+
+po_border_patrol:0 "Прикордонний Патруль"
