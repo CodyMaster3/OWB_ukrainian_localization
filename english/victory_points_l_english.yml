@@ -2,100 +2,167 @@
 VICTORY_POINTS_TOOLTIP:0 "§G$NAME$§! переможні очки = §Y$POINTS$§!"
 VICTORY_POINTS_239:0 "Карантинний центр Белден"
 VICTORY_POINTS_451:0 "Аеропорт Кат-Бенк"
+VICTORY_POINTS_673:0 "Абсерокі"
 VICTORY_POINTS_687:0 "Громова Річка"
 VICTORY_POINTS_733:0 "Ла Лагуна"
-VICTORY_POINTS_885:0 "Віккенбург"
+VICTORY_POINTS_744:0 "Ciudad Bandido" # (!)
+VICTORY_POINTS_764:0 "Punta Abreojos" # (!)
+VICTORY_POINTS_865:0 "Mt Graham" # (!)
+VICTORY_POINTS_871:0 "Kofa Station" # (!)
+VICTORY_POINTS_887:0 "Whiteriver Lumbermill" # (!)
 VICTORY_POINTS_909:0 "Звалище"
-VICTORY_POINTS_920:0 "Буллгед-Сіті"
-VICTORY_POINTS_946:0 "Слоняча Гора"
+VICTORY_POINTS_924:0 "Riverview" # (!)
+VICTORY_POINTS_940:0 "Steady Victory" # (!)
+VICTORY_POINTS_958:0 "Dolan Springs" # (!)
 VICTORY_POINTS_965:0 "Серчлайт"
-VICTORY_POINTS_971:0 "Станція Рейнджерів Ехо"
+VICTORY_POINTS_968:0 "Malpais" # (!)
+VICTORY_POINTS_971:0 "Mountain Camp" # (!)
+VICTORY_POINTS_1021:0 "Virgin" # (!)
+VICTORY_POINTS_1025:0 "Rancho Modesto" # (!)
 VICTORY_POINTS_1154:0 "Бенкелмен"
-VICTORY_POINTS_1259:0 "Форт Макдермітт"
+VICTORY_POINTS_1264:0 "Pierre Border Post" # (!)
 VICTORY_POINTS_1330:0 "Дамба Оахі"
-VICTORY_POINTS_1354:0 "Варта Стієнс"
 VICTORY_POINTS_1386:0 "Терретон"
-VICTORY_POINTS_1389:0 "Прикордонний пост П’єр"
 VICTORY_POINTS_1395:0 "Дюбуа"
 VICTORY_POINTS_1402:0 "Форт Сент-Ентоні"
-VICTORY_POINTS_1428:0 "Гейзел"
+VICTORY_POINTS_1421:0 "Philips" # (!)
+VICTORY_POINTS_1428:0 "Hazeltown" # (!)
 VICTORY_POINTS_1451:0 "Додж"
-VICTORY_POINTS_1458:0 "Ловелл"
+VICTORY_POINTS_1456:0 "Superior" # (!)
+VICTORY_POINTS_1458:0 "Darion" # (!)
 VICTORY_POINTS_1500:0 "Ричленд"
-VICTORY_POINTS_1543:0 "Габбелл"
-VICTORY_POINTS_1613:0 "Віллоу-Спрінгс"
-VICTORY_POINTS_1621:0 "Леапп"
-VICTORY_POINTS_1650:0 "Деніо"
-VICTORY_POINTS_1691:0 "Великий Мідленд-Сіті"
+VICTORY_POINTS_1532:0 "Berry Junction" # (!)
+VICTORY_POINTS_1540:0 "Supai" # (!)
+VICTORY_POINTS_1613:0 "Tuba City" # (!)
+VICTORY_POINTS_1623:0 "Weather Monitoring Station" # (!)
+VICTORY_POINTS_1636:0 "Ibapah" # (!)
+VICTORY_POINTS_1644:0 "Camp Wilson" # (!)
+VICTORY_POINTS_1650:0 "Форт Макдермітт"
+VICTORY_POINTS_1678:0 "Port Poston" # (!)
 VICTORY_POINTS_1738:0 "Сховище Едену"
 VICTORY_POINTS_1748:0 "Бендон"
-VICTORY_POINTS_1767:0 "Фусан"
-VICTORY_POINTS_1803:0 "Уейкфілд"
+VICTORY_POINTS_1803:0 "Wellfleet" # (!)
+VICTORY_POINTS_1835:0 "New Rose" # (!)
+VICTORY_POINTS_1850:0 "Living Hope" # (!)
 VICTORY_POINTS_1855:0 "Скелі"
-VICTORY_POINTS_1902:0 "Кончо"
+VICTORY_POINTS_1865:0 "Dry Wells" # (!)
+VICTORY_POINTS_1868:0 "Wikieup" # (!)
+VICTORY_POINTS_1873:0 "Peach Springs" # (!)
+VICTORY_POINTS_1902:0 "Remains of the Hidebarks Camp" # (!)
+VICTORY_POINTS_1908:0 "McNary Lumbermill" # (!)
+VICTORY_POINTS_1912:0 "Fort Apache" # (!)
 VICTORY_POINTS_1938:0 "Заповідник Еквідеї"
 VICTORY_POINTS_1946:0 "Святилище Юди"
-VICTORY_POINTS_1952:0 "Центр Портленда"
+VICTORY_POINTS_1952:0 "Downtown Portland" # (!)
 VICTORY_POINTS_1963:0 "Порт Ельберні"
-VICTORY_POINTS_2096:0 "Святилище"
-VICTORY_POINTS_2103:0 "Проміжний опірний табір"
+VICTORY_POINTS_1977:0 "Camp Sisters" # (!)
 VICTORY_POINTS_1994:0 "Ахсака"
-VICTORY_POINTS_2123:0 "Вишневий струмок"
+VICTORY_POINTS_1996:0 "Oxnard" # (!)
+VICTORY_POINTS_2002:0 "Dana Point" # (!)
+VICTORY_POINTS_2031:0 "Salt Ford" # (!)
+VICTORY_POINTS_2048:0 "Escondilo" # (!)
+VICTORY_POINTS_2096:0 "Святилище"
+VICTORY_POINTS_2099:0 "Ashen" # (!)
+VICTORY_POINTS_2103:0 "Old Alliance" # (!)
+VICTORY_POINTS_2113:0 "Lakeside" # (!)
+VICTORY_POINTS_2123:0 "Minuteman Museum" # (!)
 VICTORY_POINTS_2134:0 "Лак-ла-Хаш"
 VICTORY_POINTS_2135:0 "Пайн-Крік"
 VICTORY_POINTS_2143:0 "Термополіс"
 VICTORY_POINTS_2151:0 "Пором Гіксон"
 VICTORY_POINTS_2154:0 "Лісове Озеро"
+VICTORY_POINTS_2157:0 "Deadman's Land" # (!)
+VICTORY_POINTS_2203:0 "The Monument" # (!)
 VICTORY_POINTS_2215:0 "Станція Чемулт"
+VICTORY_POINTS_2248:0 "Presidentville" # (!)
 VICTORY_POINTS_2278:0 "Хрест"
-VICTORY_POINTS_2301:0 "Фресно"
+VICTORY_POINTS_2282:0 "Monohams" # (!)
+VICTORY_POINTS_2283:0 "Jungle Junction" # (!)
+VICTORY_POINTS_2297:0 "Phebus Ranch" # (!)
+VICTORY_POINTS_2327:0 "Casa Grande" # (!)
+VICTORY_POINTS_2301:0 "Фреско"
 VICTORY_POINTS_2317:0 "Блайт"
-VICTORY_POINTS_2327:0 "Арізола"
 VICTORY_POINTS_2334:0 "Антилоп-Уеллс"
 VICTORY_POINTS_2351:0 "Медфорд"
 VICTORY_POINTS_2354:0 "Місто Ловчих"
 VICTORY_POINTS_2366:0 "Шлюз"
+VICTORY_POINTS_2392:0 "Fort Elise" # (!)
+VICTORY_POINTS_2397:0 "Dana Point" # (!)
+VICTORY_POINTS_2398:0 "Riverside" # (!)
+VICTORY_POINTS_2402:0 "New Adytum" # (!)
+VICTORY_POINTS_2404:0 "Angel's Boneyard" # (!)
 VICTORY_POINTS_2419:0 "Сан-Хосе"
 VICTORY_POINTS_2487:0 "Пентіктон"
 VICTORY_POINTS_2509:0 "Долина Камас"
 VICTORY_POINTS_2592:0 "Пором Два Потоки"
 VICTORY_POINTS_2593:0 "Вороняче Серце"
+VICTORY_POINTS_2610:0 "Antioch" # (!)
+VICTORY_POINTS_2620:0 "The Glow" # (!)
+VICTORY_POINTS_2636:0 "Bird Springs" # (!)
+VICTORY_POINTS_2646:0 "Tijuana" # (!)
+VICTORY_POINTS_2647:0 "Fort Coronado" # (!)
 VICTORY_POINTS_2652:0 "Денне сяйво"
+VICTORY_POINTS_2657:0 "Aguanga Ranger Depot" # (!)
+VICTORY_POINTS_2676:0 "Fort Smith" # (!)
 VICTORY_POINTS_2712:0 "Табір Гончаків"
-VICTORY_POINTS_2798:0 "Лордсбург"
+VICTORY_POINTS_2751:0 "Himona Abina" # (!)
+VICTORY_POINTS_2768:0 "Castrum Quadrivium" # (!)
+VICTORY_POINTS_2828:0 "Sunspawn" # (!)
+VICTORY_POINTS_2847:0 "Mentown" # (!)
 VICTORY_POINTS_2850:0 "Кратер Скорпіона"
-VICTORY_POINTS_2878:0 "Сан-Бернардіно"
+VICTORY_POINTS_2877:0 "Mule Mountains" # (!)
+VICTORY_POINTS_2885:0 "Mt Chiricahua" # (!)
+VICTORY_POINTS_2897:0 "Bull's Eye" # (!)
 VICTORY_POINTS_2898:0 "Боус"
 VICTORY_POINTS_2912:0 "Торк"
+VICTORY_POINTS_2913:0 "WS Missile Range" # (!)
+VICTORY_POINTS_2925:0 "Mt Lemmon" # (!)
+VICTORY_POINTS_2958:0 "The Everclock" # (!)
+VICTORY_POINTS_2972:0 "Bells Ranch" # (!)
 VICTORY_POINTS_2987:0 "Пофарбована Скеля"
-VICTORY_POINTS_3045:0 "Бріджвелл"
+VICTORY_POINTS_3029:0 "The Quoin" # (!)
+VICTORY_POINTS_3085:0 "Pinedale" # (!)
+VICTORY_POINTS_3098:0 "Bloody Shore" # (!)
+VICTORY_POINTS_3177:0 "Elephant Hill" # (!)
 VICTORY_POINTS_3180:0 "Площа Норт-Вегаса"
 VICTORY_POINTS_3182:0 "Вест-Сайд"
-VICTORY_POINTS_3188:0 "Фрісайд"
 VICTORY_POINTS_3186:0 "Прімм"
+VICTORY_POINTS_3188:0 "Фрісайд"
 VICTORY_POINTS_3204:0 "Полігон РЕПКОНН"
 VICTORY_POINTS_3207:0 "Новак"
 VICTORY_POINTS_3211:0 "Нельсон"
-VICTORY_POINTS_3217:0 "Мальпаїс"
+VICTORY_POINTS_3217:0 "Willow Beach" # (!)
 VICTORY_POINTS_3238:0 "Ніптон"
-VICTORY_POINTS_3290:0 "Оук-Крік"
-VICTORY_POINTS_3302:0 "Анза-Боррего"
-VICTORY_POINTS_3628:0 "Сяючі Ворота"
-VICTORY_POINTS_3707:0 "Торговий пост Перехрестя"
-VICTORY_POINTS_3724:0 "Норфолк"
-VICTORY_POINTS_3731:0 "Валентайн"
+VICTORY_POINTS_3241:0 "Mountain Springs" # (!)
+VICTORY_POINTS_3274:0 "Kettle Junction" # (!)
+VICTORY_POINTS_3302:0 "Outpost Julian" # (!)
 VICTORY_POINTS_3329:0 "Ґестаун"
+VICTORY_POINTS_3356:0 "Tippet Ranch" # (!)
 VICTORY_POINTS_3410:0 "Кальєнте"
+VICTORY_POINTS_3483:0 "Welcome Sign" # (!)
 VICTORY_POINTS_3548:0 "Бартертаун"
-VICTORY_POINTS_3622:0 "Старе Перехрестя"
-VICTORY_POINTS_3634:0 "Аркадія"
 VICTORY_POINTS_3568:0 "Деламар"
+VICTORY_POINTS_3611:0 "Camp Brothers" # (!)
+VICTORY_POINTS_3615:0 "Unity City" # (!)
+VICTORY_POINTS_3622:0 "Старе Перехрестя"
+VICTORY_POINTS_3624:0 "Northern Winners" # (!)
+VICTORY_POINTS_3628:0 "Сяючі Ворота"
+VICTORY_POINTS_3634:0 "Аркадія"
 VICTORY_POINTS_3637:0 "Восс"
+VICTORY_POINTS_3639:0 "The Lion's Place" # (!)
 VICTORY_POINTS_3682:0 "Рокпорт"
+VICTORY_POINTS_3697:0 "Wailing Waster Cave" # (!)
+VICTORY_POINTS_3707:0 "Торговий пост Перехрестя"
 VICTORY_POINTS_3711:0 "Порт-Роял"
+VICTORY_POINTS_3724:0 "Норфолк"
+VICTORY_POINTS_3725:0 "Croix Manor" # (!)
 VICTORY_POINTS_3736:0 "Лодж МакКелвайна"
 VICTORY_POINTS_3742:0 "Метроцентр"
 VICTORY_POINTS_3743:0 "Карантинний центр Су-Сіті"
+VICTORY_POINTS_3748:0 "Fort Coronado" # (!)
+VICTORY_POINTS_3750:0 "Whitless Grove" # (!)
+VICTORY_POINTS_3760:0 "Валентайн"
+VICTORY_POINTS_3766:0 "Lamppost" # (!)
 VICTORY_POINTS_3772:0 "Бріджпортський Монастир"
 VICTORY_POINTS_3777:0 "Остання Надія"
 VICTORY_POINTS_3802:0 "Табір Татук"
@@ -110,8 +177,8 @@ VICTORY_POINTS_3897:0 "Сховище 6"
 VICTORY_POINTS_3902:0 "Гора Сент-Геленс"
 VICTORY_POINTS_3926:0 "Східний Веначі"
 VICTORY_POINTS_3945:0 "Нельсон"
-VICTORY_POINTS_3977:0 "Оелрікс"
 VICTORY_POINTS_3969:0 "Квінел"
+VICTORY_POINTS_3977:0 "Оелрікс"
 VICTORY_POINTS_3992:0 "Озеро Стамп"
 VICTORY_POINTS_3998:0 "Два Піки"
 #VICTORY_POINTS_3998:0 "Metaline Falls"
@@ -120,209 +187,354 @@ VICTORY_POINTS_4032:0 "Гудські поселення"
 VICTORY_POINTS_4049:0 "Дьогтярні Ферми"
 VICTORY_POINTS_4067:0 "Небесна Брама"
 VICTORY_POINTS_4070:0 "Пік Петра"
-VICTORY_POINTS_4088:0 "Табір Сестер"
 VICTORY_POINTS_4115:0 "Милий дім"
+VICTORY_POINTS_4162:0 "Wagontire" # (!)
 VICTORY_POINTS_4169:0 "Старий Чемулт"
 VICTORY_POINTS_4178:0 "Курорт Пасс"
 VICTORY_POINTS_4200:0 "Руїни Юджина"
+VICTORY_POINTS_4206:0 "Vale" # (!)
+VICTORY_POINTS_4240:0 "Hebgen" # (!)
+VICTORY_POINTS_4246:0 "Sula" # (!)
 VICTORY_POINTS_4253:0 "Безумство Варнави"
-VICTORY_POINTS_4422:0 "Руїни Об'єкту"
 VICTORY_POINTS_4266:0 "Аеропорт Грайндстоун"
 VICTORY_POINTS_4269:0 "Грасмір"
-VICTORY_POINTS_4319:0 "Якамаґілл"
+VICTORY_POINTS_4287:0 "Leadville" # (!)
+VICTORY_POINTS_4311:0 "Daytown" # (!)
+VICTORY_POINTS_4319:0 "Якамагілл"
 VICTORY_POINTS_4326:0 "Процвітаюче Перехрестя"
 VICTORY_POINTS_4329:0 "Містечко Паско"
 VICTORY_POINTS_4337:0 "Північний Портленд"
-VICTORY_POINTS_4342:0 "Припливи"
+VICTORY_POINTS_4342:0 "Tidewater" # (!)
 VICTORY_POINTS_4396:0 "Нінтл-Мус-Чін"
-VICTORY_POINTS_4402:0 "Порт Вічної Зими"
+VICTORY_POINTS_4402:0 "Port Permafrost" # (!)
 VICTORY_POINTS_4436:0 "Гарбор-Сіті"
+VICTORY_POINTS_4408:0 "Snake Creek"
 VICTORY_POINTS_4440:0 "Кемпбелл-Рівер"
+VICTORY_POINTS_4445:0 "Lellen" # (!)
 VICTORY_POINTS_4449:0 "Данкан"
 VICTORY_POINTS_4453:0 "Комокс"
 VICTORY_POINTS_4454:0 "Контрольний Пункт Альфа"
 VICTORY_POINTS_4489:0 "Пара"
-VICTORY_POINTS_4521:0 "Затока Колтер"
-VICTORY_POINTS_4539:0 "Давна Брама"
+VICTORY_POINTS_4494:0 "Fort Snake" # (!)
+VICTORY_POINTS_4521:0 "Teton Valley" # (!)
+VICTORY_POINTS_4539:0 "Anceney Gateway" # (!)
 VICTORY_POINTS_4554:0 "Небесна Брама"
 VICTORY_POINTS_4561:0 "Мей"
 VICTORY_POINTS_4573:0 "Брама Ґалатіна"
 VICTORY_POINTS_4575:0 "Вапіті"
 VICTORY_POINTS_4576:0 "Кастер"
 VICTORY_POINTS_4582:0 "Кук-Сіті"
-VICTORY_POINTS_4620:0 "Ріджкрест"
+VICTORY_POINTS_4586:0 "Codv Ruins" # (!)
+VICTORY_POINTS_4588:0 "Hardin" # (!)
+VICTORY_POINTS_4617:0 "Gunderson Ranch" # (!)
+VICTORY_POINTS_4622:0 "Scrapheap" # (!)
+VICTORY_POINTS_4648:0 "San Quintín" # (!)
+VICTORY_POINTS_4652:0 "Bahía de los Ángeles" # (!)
+VICTORY_POINTS_4657:0 "Guerrero Negro" # (!)
+VICTORY_POINTS_4659:0 "Bahía Tortugas" # (!)
+VICTORY_POINTS_4661:0 "Isla de Cedros" # (!)
+VICTORY_POINTS_4667:0 "San Ignacio" # (!)
+VICTORY_POINTS_4671:0 "Isla Ángel de la Guardia" # (!)
 VICTORY_POINTS_4682:0 "Ла-Пуріфікасьйон"
 VICTORY_POINTS_4701:0 "Мулехе"
-VICTORY_POINTS_4848:0 "Вальехо"
+VICTORY_POINTS_4760:0 "Santa Rosa" # (!)
+VICTORY_POINTS_4808:0 "Flynn Ranch" # (!)
+VICTORY_POINTS_4976:0 "Ranger Station Baja" # (!)
+VICTORY_POINTS_4867:0 "Tumbledown Ranch" # (!)
+VICTORY_POINTS_4870:0 "Marysville Ranch" # (!)
+VICTORY_POINTS_4873:0 "Rancho Chico" # (!)
+VICTORY_POINTS_4881:0 "Sierra Valley" # (!)
+VICTORY_POINTS_4747:0 "Fusang" # (!)
+VICTORY_POINTS_4899:0 "Alder Springs" # (!)
+VICTORY_POINTS_4928:0 "Rancho Tehema" # (!)
 VICTORY_POINTS_4994:0 "Шаста"
 VICTORY_POINTS_5017:0 "Йосеміті"
-VICTORY_POINTS_5116:0 "Кінґ"
-VICTORY_POINTS_5148:0 "Космічний Центр Блумфілд"
+VICTORY_POINTS_5066:0 "Oak Creek" # (!)
+VICTORY_POINTS_5105:0 "Quernado" # (!)
+VICTORY_POINTS_5116:0 "Kung" # (!)
 VICTORY_POINTS_5123:0 "Массет"
+VICTORY_POINTS_5124:0 "Site Y" # (!)
 VICTORY_POINTS_5132:0 "Янктон"
+VICTORY_POINTS_5148:0 "Космічний Центр Блумфілд"
+VICTORY_POINTS_5175:0 "Newt" # (!)
+VICTORY_POINTS_5189:0 "San Carlos" # (!)
+VICTORY_POINTS_5216:0 "Sierra San José" # (!)
 VICTORY_POINTS_5218:0 "Ель-Беррендо"
 VICTORY_POINTS_5238:0 "Уайт-Сігнал"
 VICTORY_POINTS_5246:0 "Білий Замок"
+VICTORY_POINTS_5284:0 "Severed Finger" # (!)
+VICTORY_POINTS_5290:0 "Huachuca Mountains" # (!)
+VICTORY_POINTS_5301:0 "Caborca" # (!)
 VICTORY_POINTS_5310:0 "Пуерто-Пеньяско"
+VICTORY_POINTS_5315:0 "Ruins of San Luis" # (!)
 VICTORY_POINTS_5325:0 "Три Сонця"
-VICTORY_POINTS_5448:0 "Пайн-Спрінгс"
-VICTORY_POINTS_5615:0 "Руїни Таємного Сховища"
+VICTORY_POINTS_5516:0 "Queenpoint"
+VICTORY_POINTS_5560:0 "Camp Key" # (!)
+VICTORY_POINTS_5571:0 "Avondale" # (!)
+VICTORY_POINTS_5615:0 "Corporate Vault Ruins" # (!)
 VICTORY_POINTS_5616:0 "Лос-Бріджуей"
-VICTORY_POINTS_5728:0 "Команчі"
-VICTORY_POINTS_5772:0 "Живий вузол"
+VICTORY_POINTS_5618:0 "Totem" # (!)
+VICTORY_POINTS_5648:0 "Fort Abandon" # (!)
+VICTORY_POINTS_5666:0 "Richfield" # (!)
+VICTORY_POINTS_5728:0 "Whiterock Crossing" # (!)
+VICTORY_POINTS_5772:0 "Desert Center" # (!)
+VICTORY_POINTS_5807:0 "Paymaster's Landing" # (!)
 VICTORY_POINTS_5935:0 "Барстоу"
-VICTORY_POINTS_6370:0 "Сідар-Сіті"
-VICTORY_POINTS_6381:0 "Табір Білих Кігтів"
-VICTORY_POINTS_6404:0 "Б.О.М.Б 002"
+VICTORY_POINTS_6404:0 "Bomb Station 002" # (!)
 VICTORY_POINTS_6408:0 "Великі Племена"
-VICTORY_POINTS_6531:0 "Заправка П’ятдесят"
+VICTORY_POINTS_6456:0 "Outpost Brimstone" # (!)
+VICTORY_POINTS_6476:0 "Outpost Firewall" # (!)
+VICTORY_POINTS_6482:0 "New Nero" # (!)
 VICTORY_POINTS_6542:0 "Моаб"
-VICTORY_POINTS_6566:0 "Блумфілдс"
 VICTORY_POINTS_6582:0 "Ядерний Випробувальний Центр"
-VICTORY_POINTS_6590:0 "Гірські Джерела"
+VICTORY_POINTS_6591:0 "Sandy Valley" # (!)
 VICTORY_POINTS_6608:0 "Форпост Мохаве"
+VICTORY_POINTS_6642:0 "Ninaview" # (!)
+VICTORY_POINTS_6659:0 "Salton City" # (!)
+VICTORY_POINTS_6683:0 "Silvethorne" # (!)
+VICTORY_POINTS_6695:0 "Aspen" # (!)
+VICTORY_POINTS_6698:0 "Креммлінг"
+VICTORY_POINTS_6717:0 "Highridge" # (!)
 VICTORY_POINTS_6735:0 "Місто Резервація"
-VICTORY_POINTS_6683:0 "Креммлінг"
-VICTORY_POINTS_6824:0 "Сховище 27"
-VICTORY_POINTS_6700:0 "Курорт Гарячих Сірчаних Джерел"
+VICTORY_POINTS_6760:0 "Old Vegas" # (!)
 VICTORY_POINTS_6785:0 "Стілтаун"
 VICTORY_POINTS_6800:0 "Контактний Табір"
 VICTORY_POINTS_6811:0 "Затока Табору"
 VICTORY_POINTS_6812:0 "Південний Табір"
-VICTORY_POINTS_6814:0 "Форпост Під Горою"
+VICTORY_POINTS_6814:0 "Gore Outpost" # (!)
+VICTORY_POINTS_6817:0 "Walden" # (!)
 VICTORY_POINTS_6821:0 "Форпост Бакстера"
-VICTORY_POINTS_6826:0 "Молитаун"
-VICTORY_POINTS_6828:0 "Судно"
+VICTORY_POINTS_6824:0 "Сховище 27"
+VICTORY_POINTS_6826:0 "Судно"
+VICTORY_POINTS_6832:0 "Moletown" # (!)
 VICTORY_POINTS_6845:0 "Форпост Колумбуса"
+VICTORY_POINTS_6865:0 "Scotts' Bluff" # (!)
+VICTORY_POINTS_6924:0 "Shrine of the Eternal Glow" # (!)
+VICTORY_POINTS_6956:0 "Gunbarrel Ruins" # (!)
 VICTORY_POINTS_6959:0 "Медичне Містечко"
 VICTORY_POINTS_6978:0 "Лос-Ламентос"
 VICTORY_POINTS_6989:0 "Табір МакКарран"
-VICTORY_POINTS_7064:0 "Майрепорт"
-VICTORY_POINTS_7082:0 "Міст Росс-Айленд"
-VICTORY_POINTS_7386:0 "Два Піки"
+VICTORY_POINTS_7015:0 "Adriantown" # (!)
+VICTORY_POINTS_7021:0 "Dalhart" # (!)
+VICTORY_POINTS_7064:0 "Майрпорт"
 VICTORY_POINTS_7070:0 "Бівертон"
 VICTORY_POINTS_7075:0 "Ілвака"
-VICTORY_POINTS_7246:0 "Яма Запчастин"
-VICTORY_POINTS_7296:0 "Готель "/Зламаний Лук"/"
-VICTORY_POINTS_7301:0 "Доусон-Крік"
-VICTORY_POINTS_7305:0 "Притулок Теслі"
-VICTORY_POINTS_7306:0 "Історія в Камені"
+VICTORY_POINTS_7082:0 "Міст Росс-Айленд"
+#VICTORY_POINTS_7082:0 "Ross Island Bridge"
 VICTORY_POINTS_7083:0 "Клан Скані"
 VICTORY_POINTS_7084:0 "Лонгв’ю"
 VICTORY_POINTS_7097:0 "Порт-Сісайд"
 VICTORY_POINTS_7105:0 "Західна Пащека"
 VICTORY_POINTS_7111:0 "Бей-Сіті"
+VICTORY_POINTS_7163:0 "Susanville" # (!)
 VICTORY_POINTS_7188:0 "Прерія Каймас"
 VICTORY_POINTS_7196:0 "Озеро Сілі"
 VICTORY_POINTS_7211:0 "Глибока Бухта"
 VICTORY_POINTS_7215:0 "Пором Акалі"
+VICTORY_POINTS_7246:0 "Яма Запчастин"
+VICTORY_POINTS_7272:0 "Western Bridge" # (!)
+VICTORY_POINTS_7278:0 "Grazelands" # (!)
+VICTORY_POINTS_7283:0 "Laurence Homestead" # (!)
+VICTORY_POINTS_7296:0 "Готель /"Зламаний Лук/""
+VICTORY_POINTS_7301:0 "Доусон-Крік"
+VICTORY_POINTS_7305:0 "Притулок Теслі"
+VICTORY_POINTS_7306:0 "Історія в Камені"
 VICTORY_POINTS_7307:0 "Сад Чарелія"
-VICTORY_POINTS_7320:0 "Порт-Фрейзер"
+VICTORY_POINTS_7320:0 "Port Frasner" # (!)
 VICTORY_POINTS_7333:0 "Форт-Сент-Джон"
 VICTORY_POINTS_7337:0 "Міка-Крік"
 VICTORY_POINTS_7340:0 "Аеропорт Ґрейт-Фоллс"
 VICTORY_POINTS_7349:0 "Останній Редут"
+VICTORY_POINTS_7350:0 "Quivira, the Ruined City" # (!)
+VICTORY_POINTS_7352:0 "The Crescent Lake" # (!)
 VICTORY_POINTS_7376:0 "Порт Ріппл-Рок"
 VICTORY_POINTS_7379:0 "Руїни Плотини Пріста-Репідс"
-VICTORY_POINTS_7384:0 "Гребля Гранд-Кулі"
+VICTORY_POINTS_7384:0 "Granogan" # (!)
+VICTORY_POINTS_7386:0 "Два Піки"
 VICTORY_POINTS_7391:0 "Велика Печатка"
 VICTORY_POINTS_7397:0 "Святилище"
-VICTORY_POINTS_7400:0 "Станція Рятувальників 'Омаха'"
+VICTORY_POINTS_7399:0 "Shattered Battlement" # (!)
+VICTORY_POINTS_7400:0 "Site X" # (!)
 VICTORY_POINTS_7413:0 "Блакитна Річка"
+VICTORY_POINTS_7465:0 "Canyon Mouth" # (!)
+VICTORY_POINTS_7466:0 "Rifle" # (!)
 VICTORY_POINTS_7516:0 "Старий Міжштатний міст"
 VICTORY_POINTS_7517:0 "Міст Юматілла"
 VICTORY_POINTS_7518:0 "Канатний міст"
-VICTORY_POINTS_7519:0 "Вантажний Міст"
+VICTORY_POINTS_7519:0 "Vantage Bridge" # (!)
 VICTORY_POINTS_7547:0 "Пуерто-Тібурон"
 VICTORY_POINTS_7568:0 "Ла-Кабіна"
+VICTORY_POINTS_7599:0 "Marfa" # (!)
+VICTORY_POINTS_7613:0 "Drywells" # (!)
+VICTORY_POINTS_7630:0 "Port Ofentry" # (!)
+VICTORY_POINTS_7633:0 "Longtry" # (!)
 VICTORY_POINTS_7815:0 "Ред-Уіллоу"
 VICTORY_POINTS_7831:0 "МакКук"
-VICTORY_POINTS_7870:0 "Спрінгфілд"
-VICTORY_POINTS_7896:0 "Швидка Перемога"
-VICTORY_POINTS_7953:0 "Седона"
-VICTORY_POINTS_7964:0 "Перехід 99"
+VICTORY_POINTS_7870:0 "Buy Some Trades West" # (!)
+VICTORY_POINTS_7894:0 "Show Low" # (!)
+VICTORY_POINTS_7896:0 "Wilted Path" # (!)
+VICTORY_POINTS_7911:0 "Kachina Lumbermill" # (!)
+VICTORY_POINTS_7921:0 "Bedrock City Lumbermill" # (!)
 VICTORY_POINTS_7932:0 "Вікіап"
+VICTORY_POINTS_7946:0 "Municipium Publicanus" # (!)
+VICTORY_POINTS_7953:0 "Седона"
+VICTORY_POINTS_7955:0 "Седона"
+VICTORY_POINTS_7958:0 "Roosevelt Fields" # (!)
+VICTORY_POINTS_7964:0 "99 Junction" # (!)
+VICTORY_POINTS_7978:0 "Tusayan" # (!)
+VICTORY_POINTS_8002:0 "Estes Park" # (!)
+VICTORY_POINTS_8011:0 "Grant's Pass" # (!)
+VICTORY_POINTS_8014:0 "Second Mesa" # (!)
+VICTORY_POINTS_8018:0 "Pinon Junction" # (!)
+VICTORY_POINTS_8019:0 "Chinle" # (!)
+VICTORY_POINTS_8043:0 "Ganado" # (!)
+VICTORY_POINTS_8048:0 "Na Ah Tee" # (!)
 VICTORY_POINTS_8066:0 "Торговий Пост"
-VICTORY_POINTS_8011:0 "Перевал Ґранта"
-VICTORY_POINTS_8089:0 "Пост Техно"
+VICTORY_POINTS_8069:0 "Farmertown" # (!)
+VICTORY_POINTS_8151:0 "Julesburg" # (!)
 VICTORY_POINTS_8171:0 "Форт-Ларамі"
-VICTORY_POINTS_8241:0 "Табір Озера Сів’єр"
+VICTORY_POINTS_8194:0 "Пост Техно"
+VICTORY_POINTS_8241:0 "Milford City" # (!)
+VICTORY_POINTS_8272:0 "Filltown" # (!)
+VICTORY_POINTS_8274:0 "New Jericho" # (!)
+VICTORY_POINTS_8297:0 "Aragornite" # (!)
+VICTORY_POINTS_8304:0 "The Dugway" # (!)
+VICTORY_POINTS_8312:0 "Abandoned Gas Station '93'" # (!)
 VICTORY_POINTS_8315:0 "Одинока Сторожова Вежа"
+VICTORY_POINTS_8351:0 "The Refuge" # (!)
+VICTORY_POINTS_8360:0 "Camp Bone Marrow" # (!)
+VICTORY_POINTS_8384:0 "The Old Glassworks" # (!)
+VICTORY_POINTS_8413:0 "New Contact" # (!)
+VICTORY_POINTS_8459:0 "Round Mountain" # (!)
 VICTORY_POINTS_8512:0 "Стара Брама Елко"
 VICTORY_POINTS_8518:0 "Сейглпоінт"
-VICTORY_POINTS_8851:0 "Перевал Меркурія"
+VICTORY_POINTS_8554:0 "Loreto" # (!)
+VICTORY_POINTS_8557:0 "San Carlos" # (!)
 VICTORY_POINTS_8567:0 "Грешем"
 VICTORY_POINTS_8574:0 "Західний Сейлем"
 VICTORY_POINTS_8627:0 "Весінґтон-Спрінґс"
 VICTORY_POINTS_8635:0 "Форт-Бентон"
+VICTORY_POINTS_8643:0 "Morebridge" # (!)
+VICTORY_POINTS_8654:0 "Redfield" # (!)
 VICTORY_POINTS_8809:0 "Стайні"
-VICTORY_POINTS_8818:0 "П'єдрас-Неграс"
+VICTORY_POINTS_8818:0 "Cruce Peaje" # (!)
+VICTORY_POINTS_8851:0 "Перевал Меркурія"
 VICTORY_POINTS_8863:0 "Зупинка Караванів"
 VICTORY_POINTS_8880:0 "Глухий Кут"
+VICTORY_POINTS_8886:0 "Heizer City" # (!)
 VICTORY_POINTS_8937:0 "Чандлер"
 VICTORY_POINTS_8943:0 "Сан-Тан-Веллі"
+VICTORY_POINTS_8980:0 "Vault EX-1" # (!)
+VICTORY_POINTS_9018:0 "Aurora" # (!)
+VICTORY_POINTS_9034:0 "Englewood" # (!)
+VICTORY_POINTS_8985:0 "Kon" # (!)
+VICTORY_POINTS_8998:0 "Wallburg" # (!)
 VICTORY_POINTS_9067:0 "Кар'єрна Переправа"
-VICTORY_POINTS_9091:0 "Тарілка"
+VICTORY_POINTS_9087:0 "Mt Carmel Junction" # (!)
 VICTORY_POINTS_9130:0 "Карсон-Сіті"
-VICTORY_POINTS_9163:0 "Джорджатаун"
+VICTORY_POINTS_9163:0 "George's Town" # (!)
+VICTORY_POINTS_9167:0 "Ruins of South Park" # (!)
 VICTORY_POINTS_9212:0 "Фрімонт"
 VICTORY_POINTS_9231:0 "Острів Вашон"
-VICTORY_POINTS_9257:0 "Острів Лопес"
-VICTORY_POINTS_9258:0 "Острів Сан-Хуан"
 VICTORY_POINTS_9234:0 "Бельв’ю"
 VICTORY_POINTS_9239:0 "Капітолій"
 VICTORY_POINTS_9250:0 "Еверетт"
+VICTORY_POINTS_9257:0 "Острів Лопес"
+VICTORY_POINTS_9258:0 "Острів Сан-Хуан"
+VICTORY_POINTS_9259:0 "Osh-Kosh" # (!)
 VICTORY_POINTS_9260:0 "Острів Оркас"
 VICTORY_POINTS_9262:0 "Новий Єрихон"
+VICTORY_POINTS_9277:0 "Ciudad del Maíz" # (!)
+VICTORY_POINTS_9590:0 "El Mezquital" # (!)
 VICTORY_POINTS_9595:0 "Матаморос"
 VICTORY_POINTS_9600:0 "Сьюдад-Камарго"
 VICTORY_POINTS_9625:0 "Дві Гавані"
+VICTORY_POINTS_9627:0 "Thousand Oaks" # (!)
+VICTORY_POINTS_9632:0 "Benton" # (!)
 VICTORY_POINTS_9707:0 "Річка Ріо"
 VICTORY_POINTS_9714:0 "Авіабаза Лафлін"
 VICTORY_POINTS_9725:0 "Валь-Верде"
+VICTORY_POINTS_11301:0 "Brownsville Seaport" # (!)
+VICTORY_POINTS_11317:0 "Zapata Bay" # (!)
+VICTORY_POINTS_11325:0 "Cino" # (!)
 VICTORY_POINTS_11362:0 "Місто Аттіса"
+VICTORY_POINTS_11386:0 "Matagorda" # (!)
 VICTORY_POINTS_11528:0 "Млин Матрони"
+VICTORY_POINTS_11544:0 "Hillsboro" # (!)
+VICTORY_POINTS_11548:0 "Lometa" # (!)
+VICTORY_POINTS_11615:0 "New Eden" # (!)
 VICTORY_POINTS_11634:0 "Емпоріум Діна"
+VICTORY_POINTS_11747:0 "Freeport" # (!)
+VICTORY_POINTS_11759:0 "Marsh Island Ferry" # (!)
 VICTORY_POINTS_11771:0 "Порт-Кіперморт"
+VICTORY_POINTS_11809:0 "Lake Charles" # (!)
+VICTORY_POINTS_11840:0 "The College" # (!)
+VICTORY_POINTS_11842:0 "Opelousas" # (!)
+VICTORY_POINTS_11909:0 "Nacogdoches" # (!)
+VICTORY_POINTS_12080:0 "Kiamichi" # (!)
+VICTORY_POINTS_12083:0 "Waurika" # (!)
 VICTORY_POINTS_12110:0 "Сардіс Флетс"
 VICTORY_POINTS_12215:0 "Каплиця"
-VICTORY_POINTS_12277:0 "Пшеничний Луг"
-VICTORY_POINTS_12365:0 "Таунсенд"
-VICTORY_POINTS_12369:0 "Велика Долина Елен"
+VICTORY_POINTS_12238:0 "Waynoka Crossing" # (!)
+VICTORY_POINTS_12257:0 "Camp Stillwater" # (!)
+VICTORY_POINTS_12277:0 "Wheat City" # (!)
+VICTORY_POINTS_12293:0 "Camp Marbliss" # (!)
+VICTORY_POINTS_12351:0 "Livingstone" # (!)
+VICTORY_POINTS_12365:0 "Maudlaw" # (!)
+VICTORY_POINTS_12369:0 "Велика Долина Гелени"
 VICTORY_POINTS_12402:0 "Індіан-Спрінґс"
-VICTORY_POINTS_12404:0 "Утішення"
+VICTORY_POINTS_12404:0 "Ootischenia" # (!)
 VICTORY_POINTS_12406:0 "Фарквіт"
 VICTORY_POINTS_12421:0 "Брама Кананаскіс"
 VICTORY_POINTS_12426:0 "Перехрестя Саскачевану"
 VICTORY_POINTS_12433:0 "Брама Клайн"
 VICTORY_POINTS_12447:0 "Білі Сірчані Джерела"
+VICTORY_POINTS_12451:0 "Fort Logan" # (!)
 VICTORY_POINTS_12457:0 "Авіабаза Малмстром"
 VICTORY_POINTS_12468:0 "Форт Стіл"
 VICTORY_POINTS_12487:0 "Руїни Фарсона"
-VICTORY_POINTS_12565:0 "Нью-Касл"
+VICTORY_POINTS_12565:0 "New Start" # (!)
 VICTORY_POINTS_12609:0 "Сонна Лощина"
 VICTORY_POINTS_12613:0 "Аптаун"
+VICTORY_POINTS_12654:0 "Decker" # (!)
 VICTORY_POINTS_12662:0 "484-й"
-VICTORY_POINTS_12667:0 "Берні"
-VICTORY_POINTS_12676:0 "Торгівельна Компанія Ду́нана"
+VICTORY_POINTS_12676:0 "Doonan Gulch Outfitters" # (!)
 VICTORY_POINTS_12677:0 "Ешленд"
 VICTORY_POINTS_12699:0 "Бродв’ю"
+VICTORY_POINTS_12722:0 "Medora" # (!)
 VICTORY_POINTS_12733:0 "Водопій Ґвіна"
-VICTORY_POINTS_12739:0 "Вілла Картера"
+VICTORY_POINTS_12739:0 "Carter's Ville" # (!)
 VICTORY_POINTS_12743:0 "Мелстоун"
+VICTORY_POINTS_12780:0 "Winnett" # (!)
 VICTORY_POINTS_12861:0 "Міддлмарк Стор 0"
-VICTORY_POINTS_12888:0 "Університет"
 VICTORY_POINTS_12887:0 "Могила Мамони"
+VICTORY_POINTS_12888:0 "Університет"
 VICTORY_POINTS_12893:0 "Шервудський кратер"
 VICTORY_POINTS_12901:0 "Табір Маленької Змії"
+VICTORY_POINTS_12914:0 "Newell" # (!)
+VICTORY_POINTS_12954:0 "Marksville" # (!)
 VICTORY_POINTS_12955:0 "Літл Буффало"
 VICTORY_POINTS_12972:0 "Ладлоу"
-VICTORY_POINTS_12976:0 "Місто Стежок"
-VICTORY_POINTS_13066:0 "Генслер"
-VICTORY_POINTS_13122:0 "Парламент"
-VICTORY_POINTS_13145:0 "Абердин"
+VICTORY_POINTS_12981:0 "Скай-Ранч"
+VICTORY_POINTS_13009:0 "Willbow" # (!)
+VICTORY_POINTS_13025:0 "New Salem" # (!)
+VICTORY_POINTS_13054:0 "Grassy Buttes" # (!)
+VICTORY_POINTS_13059:0 "Killdeer" # (!)
+VICTORY_POINTS_13060:0 "Trolltown" # (!)
+VICTORY_POINTS_13072:0 "Singer" # (!)
+VICTORY_POINTS_13122:0 "The Legislature" # (!)
+VICTORY_POINTS_13134:0 "Napoleon" # (!)
+VICTORY_POINTS_13145:0 "Edgeley" # (!)
+VICTORY_POINTS_13153:0 "Tappen" # (!)
+VICTORY_POINTS_13155:0 "Menoken" # (!)
+VICTORY_POINTS_13187:0 "Вудворт"
+VICTORY_POINTS_13188:0 "Pingree" # (!)
 VICTORY_POINTS_13212:0 "Нью-Рокфорд"
-VICTORY_POINTS_13257:0 "Єдність"
+VICTORY_POINTS_13218:0 "MAF Foxtrot-Three" # (!)
+VICTORY_POINTS_13220:0 "Майнот"
+VICTORY_POINTS_13226:0 "Webster" # (!)
+VICTORY_POINTS_13230:0 "Summiton" # (!)
+VICTORY_POINTS_13257:0 "Unicity" # (!)
 VICTORY_POINTS_13290:0 "Парк-заповідник Стердж-Бей"
 VICTORY_POINTS_13296:0 "Форпост Нортґард"
 VICTORY_POINTS_13322:0 "Гребля Ґранд-Рапідс"
@@ -333,22 +545,20 @@ VICTORY_POINTS_13757:0 "Склади Міддлмарку"
 VICTORY_POINTS_13678:0 "Комплекс Робомізків"
 VICTORY_POINTS_13870:0 "Останній Рубіж"
 VICTORY_POINTS_13939:0 "Червоний Аеродром"
-VICTORY_POINTS_14032:0 "Королівський Флот"
+VICTORY_POINTS_14032:0 "Royal Marina" # (!)
 VICTORY_POINTS_14078:0 "Американський Шрам"
 VICTORY_POINTS_14149:0 "Нью-Ураніум-Сіті"
-VICTORY_POINTS_14153:0 "Меморіальний Комплекс Томпсона"
 VICTORY_POINTS_14257:0 "Резерв CPF 02"
 VICTORY_POINTS_14308:0 "Руїни Кінґслі"
 VICTORY_POINTS_14369:0 "Швидка Течія"
-VICTORY_POINTS_14576:0 "Велика Ріка"
 VICTORY_POINTS_14690:0 "Королівський Ліс"
 VICTORY_POINTS_14849:0 "Меморіал Великої Зимової Війни"
 VICTORY_POINTS_14875:0 "МАНІФЕСТ Саскачеван"
 VICTORY_POINTS_14959:0 "Рама"
-VICTORY_POINTS_14694:0 "Треґерн"
+VICTORY_POINTS_14694:0 "Трегерн"
 VICTORY_POINTS_14699:0 "Сент-Есташ"
-VICTORY_POINTS_14828:0 "Руїни Гудзонової Затоки"
-VICTORY_POINTS_15026:0 "Дубова скеля"
+VICTORY_POINTS_14828:0 "Hudson Bay City Ruins" # (!)
+VICTORY_POINTS_15026:0 "Oak Bluff" # (!)
 VICTORY_POINTS_15032:0 "Вінклер"
 VICTORY_POINTS_15034:0 "Альтона"
 VICTORY_POINTS_15128:0 "Альбатрос"
@@ -363,11 +573,11 @@ VICTORY_POINTS_19361:0 "Таллахассі"
 VICTORY_POINTS_19380:0 "Перрі"
 VICTORY_POINTS_19672:0 "Лейк-Сіті"
 VICTORY_POINTS_19620:0 "Джексонвілл"
-VICTORY_POINTS_19683:0 "Сент-Огастін"
+VICTORY_POINTS_19683:0 "Сент-Оґастін"
 VICTORY_POINTS_19745:0 "Ґейнсвілл"
 VICTORY_POINTS_19720:0 "Чіфленд"
 VICTORY_POINTS_19739:0 "Спрінг-Гілл"
-VICTORY_POINTS_19699:0 "Селища"
+VICTORY_POINTS_19699:0 "Села"
 VICTORY_POINTS_19707:0 "Дайтона-Біч"
 VICTORY_POINTS_19704:0 "Делтона"
 VICTORY_POINTS_19735:0 "Палм-Кост"
@@ -380,7 +590,7 @@ VICTORY_POINTS_19773:0 "Мельбурн"
 VICTORY_POINTS_19783:0 "Сент-Клауд"
 VICTORY_POINTS_19817:0 "Лейкленд"
 VICTORY_POINTS_19814:0 "Тампа"
-VICTORY_POINTS_19815:0 "Кліруотер"
+VICTORY_POINTS_19815:0 "Murkwater" # (!)
 VICTORY_POINTS_19808:0 "Сент-Пітерсберг"
 VICTORY_POINTS_19848:0 "Маямі"
 VICTORY_POINTS_19863:0 "Форт-Лодердейл"
@@ -398,7 +608,7 @@ VICTORY_POINTS_19905:0 "Порт-Шарлотт"
 VICTORY_POINTS_19916:0 "Аркадія"
 VICTORY_POINTS_19881:0 "Кейп-Корал"
 VICTORY_POINTS_19874:0 "Форт-Маєрс"
-VICTORY_POINTS_19859:0 "Неаполь"
+VICTORY_POINTS_19859:0 "Naples" # (!)
 VICTORY_POINTS_19854:0 "Марко-Айленд"
 VICTORY_POINTS_19880:0 "ЛаБелль"
 VICTORY_POINTS_19865:0 "Імокалі"
@@ -441,7 +651,7 @@ VICTORY_POINTS_21257:0 "Рочестер"
 VICTORY_POINTS_21252:0 "Вінона"
 VICTORY_POINTS_21216:0 "Рашфорд"
 VICTORY_POINTS_21316:0 "Міннеаполіс"
-VICTORY_POINTS_21325:0 "Мейпл-Гров"
+VICTORY_POINTS_21325:0 "Мейпл-Ґроув"
 VICTORY_POINTS_21329:0 "Сент-Пол"
 VICTORY_POINTS_21319:0 "Вудбері"
 VICTORY_POINTS_21356:0 "Кембридж"
@@ -455,21 +665,21 @@ VICTORY_POINTS_21438:0 "Брейнерд"
 VICTORY_POINTS_21407:0 "Літтл-Фоллз"
 VICTORY_POINTS_21475:0 "Клоке"
 VICTORY_POINTS_21414:0 "Сендстоун"
-VICTORY_POINTS_21449:0 "Мус-Лейк"
+VICTORY_POINTS_21449:0 "Муз-Лейк"
 VICTORY_POINTS_21072:0 "Дулут"
 VICTORY_POINTS_21500:0 "Ту-Гарборс"
 VICTORY_POINTS_21533:0 "Сілвер-Бей"
 VICTORY_POINTS_21573:0 "Елі"
 VICTORY_POINTS_21529:0 "Ґранд-Репідс"
-VICTORY_POINTS_21523:0 "Ґіббінґ"
+VICTORY_POINTS_21523:0 "Гіббінґ"
 VICTORY_POINTS_21551:0 "Вірджинія"
 VICTORY_POINTS_21619:0 "Інтернешнл-Фоллз"
 VICTORY_POINTS_21549:0 "Блекдак"
 VICTORY_POINTS_21629:0 "Бодетт"
-VICTORY_POINTS_21632:0 "Дорога Війни"
+VICTORY_POINTS_21632:0 "Warroad" # (!)
 VICTORY_POINTS_21310:0 "Гатчинсон"
 VICTORY_POINTS_21308:0 "Ґленко"
-VICTORY_POINTS_21320:0 "Монтовідео"
+VICTORY_POINTS_21320:0 "Монтевідео"
 VICTORY_POINTS_21327:0 "Уіллмар"
 VICTORY_POINTS_21333:0 "Літчфілд"
 VICTORY_POINTS_21337:0 "Бенсон"
@@ -480,7 +690,6 @@ VICTORY_POINTS_21390:0 "Ферґус-Фоллз"
 VICTORY_POINTS_21366:0 "Морріс"
 VICTORY_POINTS_21394:0 "Александрія"
 VICTORY_POINTS_21370:0 "Сок-Сентр"
-VICTORY_POINTS_21436:0 "Вадена"
 VICTORY_POINTS_21436:0 "Вадена"
 VICTORY_POINTS_21446:0 "Детройт-Лейкс"
 VICTORY_POINTS_21466:0 "Мурхед"
@@ -513,7 +722,7 @@ VICTORY_POINTS_21693:0 "Блек-Рівер-Фоллс"
 VICTORY_POINTS_21665:0 "Ла-Кросс"
 VICTORY_POINTS_21675:0 "Спарта"
 VICTORY_POINTS_21646:0 "Прері-дю-Ш'єн"
-VICTORY_POINTS_21659:0 "Віро́куа"
+VICTORY_POINTS_21659:0 "Вірокуа"
 VICTORY_POINTS_21653:0 "Ричленд-Сентер"
 VICTORY_POINTS_21655:0 "Сок-Сіті"
 VICTORY_POINTS_21670:0 "Мостон"
@@ -533,143 +742,369 @@ VICTORY_POINTS_14800:0 "Лігво Усміхненого Джека"
 VICTORY_POINTS_14871:0 "Університет Чейз"
 VICTORY_POINTS_14883:0 "Ґернсі"
 VICTORY_POINTS_13278:0 "Ферфорд"
-VICTORY_POINTS_13290:0 "Стерджен-Бей"
-VICTORY_POINTS_14802:0 "Уайлдкет-Гілс"
-VICTORY_POINTS_14625:0 "Кодетт"
-VICTORY_POINTS_14780:0 "Зенон-Парк"
-VICTORY_POINTS_14646:0 "Доусон-Бей"
-VICTORY_POINTS_14825:0 "Рів'єр-де-Прері"
-VICTORY_POINTS_14410:0 "Лакадена"
-VICTORY_POINTS_14177:0 "Флін-Флон"
-VICTORY_POINTS_14153:0 "Пойнт-Аррайвал"
-VICTORY_POINTS_14547:0 "Ніпавін"
-VICTORY_POINTS_14186:0 "Ла-Ронж"
-VICTORY_POINTS_14582:0 "Спіріт-Вуд"
-VICTORY_POINTS_14576:0 "Фронт"
-VICTORY_POINTS_14932:0 "Зала"
-VICTORY_POINTS_14988:0 "Бенк-Енд"
-VICTORY_POINTS_16331:0 "Форт-Кап-Гелл"
-VICTORY_POINTS_14095:0 "Нойдорф"
 VICTORY_POINTS_13308:0 "Пелікан-Рапідс"
-VICTORY_POINTS_14831:0 "Березовий Струмок"
-VICTORY_POINTS_15117:0 "Норкуей"
-VICTORY_POINTS_14836:0 "Порк'юпайн-Гіллс"
-VICTORY_POINTS_14857:0 "Боґґі-Крік"
-VICTORY_POINTS_14617:0 "Берч-Гіллс"
-VICTORY_POINTS_14767:0 "Бруно"
-VICTORY_POINTS_15210:0 "Ебенізер"
-VICTORY_POINTS_14668:0 "Бараґар"
-VICTORY_POINTS_14744:0 "Роузвуд"
-VICTORY_POINTS_14541:0 "Дак-Лейк"
-VICTORY_POINTS_14538:0 "Воїн"
-VICTORY_POINTS_14742:0 "Аллан-Гіллс"
-VICTORY_POINTS_14723:0 "Девідсон"
-VICTORY_POINTS_14914:0 "Янсен"
-VICTORY_POINTS_14878:0 "Озеро Ленор"
-VICTORY_POINTS_14875:0 "Мелт-Форд"
-VICTORY_POINTS_14895:0 "Анагайм"
-VICTORY_POINTS_14956:0 "Ґрінуотер-Парк"
-VICTORY_POINTS_14968:0 "Рокфорд"
-VICTORY_POINTS_14531:0 "Уаймарк"
+VICTORY_POINTS_13322:0 "Гребля Ґранд-Рапідс"
+#VICTORY_POINTS_13325:0 "Форт 60"
+VICTORY_POINTS_13330:0 "Moreton" # (!)
+VICTORY_POINTS_13335:0 "New Lisbon" # (!)
+VICTORY_POINTS_13342:0 "Siblingtown" # (!)
+VICTORY_POINTS_13350:0 "Valley City" # (!)
+VICTORY_POINTS_13369:0 "Coppertown" # (!)
+VICTORY_POINTS_13383:0 "Finley" # (!)
+VICTORY_POINTS_13399:0 "Larimore" # (!)
+VICTORY_POINTS_13442:0 "Drayton" # (!)
+VICTORY_POINTS_13448:0 "Bottineau" # (!)
+VICTORY_POINTS_13450:0 "Belcourt" # (!)
+VICTORY_POINTS_13490:0 "Langdon" # (!)
 VICTORY_POINTS_13500:0 "Морґан"
-VICTORY_POINTS_14330:0 "Іст-Уейл"
-VICTORY_POINTS_14521:0 "Мейпл-Крік"
-VICTORY_POINTS_14352:0 "Боумантон"
+VICTORY_POINTS_13545:0 "Craw Point" # (!)
+VICTORY_POINTS_13571:0 "Bull Ford" # (!)
+VICTORY_POINTS_13587:0 "Dry Junction" # (!)
+VICTORY_POINTS_13657:0 "Fort MacLeod" # (!)
+VICTORY_POINTS_13660:0 "Летбридж"
+VICTORY_POINTS_13678:0 "Комплекс Робомізків"
+VICTORY_POINTS_13688:0 "Вапіті"
+VICTORY_POINTS_13694:0 "Ґрувдейл"
+VICTORY_POINTS_13706:0 "Фосетт"
+VICTORY_POINTS_13743:0 "Уолкертон"
+VICTORY_POINTS_13757:0 "Склади Міддлмарку"
+VICTORY_POINTS_13765:0 "Блек-Крік"
+VICTORY_POINTS_13788:0 "Морлі"
+VICTORY_POINTS_13792:0 "Кокрейн"
+VICTORY_POINTS_13804:0 "Грентем"
+VICTORY_POINTS_13808:0 "Сіксіка"
+VICTORY_POINTS_13844:0 "Дженнер"
+VICTORY_POINTS_13845:0 "Монарк"
+VICTORY_POINTS_13856:0 "Бассано"
+VICTORY_POINTS_13859:0 "Стратмор"
+VICTORY_POINTS_13864:0 "Делберн"
+VICTORY_POINTS_13870:0 "Останній Рубіж"
+VICTORY_POINTS_13880:0 "Трошу"
+VICTORY_POINTS_13885:0 "Лінден"
+VICTORY_POINTS_13888:0 "Ердрі"
+VICTORY_POINTS_13909:0 "Блекфолдс"
+VICTORY_POINTS_13916:0 "Кемроуз"
+VICTORY_POINTS_13935:0 "Ветасківін"
+VICTORY_POINTS_13939:0 "Червоний Аеродром"
+VICTORY_POINTS_13986:0 "Rand" # (!)
+VICTORY_POINTS_13989:0 "Ентвісл"
+VICTORY_POINTS_13991:0 "Маєрторп"
+VICTORY_POINTS_14007:0 "Пайпстоун"
+VICTORY_POINTS_14010:0 "Горбурґ"
+VICTORY_POINTS_14020:0 "Гінтон"
+VICTORY_POINTS_14032:0 "Royal Marina" # (!)
+VICTORY_POINTS_14037:0 "Ґрін-Корт"
+VICTORY_POINTS_14049:0 "Синтія"
+VICTORY_POINTS_14054:0 "Маскег"
+VICTORY_POINTS_14067:0 "Марлборо"
+VICTORY_POINTS_14078:0 "Американський Шрам"
+VICTORY_POINTS_14090:0 "Амбер-Веллі"
+VICTORY_POINTS_14095:0 "Нойдорф"
+VICTORY_POINTS_14098:0 "Барргед"
+VICTORY_POINTS_14118:0 "Смоукі-Лейк"
+VICTORY_POINTS_14125:0 "Лейксленд"
+VICTORY_POINTS_14130:0 "Елізабет"
+VICTORY_POINTS_14149:0 "Нью-Ураніум-Сіті"
+VICTORY_POINTS_14153:0 "Пойнт-Аррайвал"
+VICTORY_POINTS_14177:0 "Флін-Флон"
+VICTORY_POINTS_14186:0 "Ла-Ронж"
+VICTORY_POINTS_14192:0 "Кліруотер"
+VICTORY_POINTS_14221:0 "Марвейн"
+VICTORY_POINTS_14232:0 "Тоулфілд"
+VICTORY_POINTS_14237:0 "Вайкінг"
+VICTORY_POINTS_14239:0 "Веґревіль"
+#VICTORY_POINTS_14239:0 "Веґревіль"
+VICTORY_POINTS_14247:0 "Уілдемір"
+VICTORY_POINTS_14250:0 "Ірма"
+VICTORY_POINTS_14257:0 "Резерв CPF 02"
 VICTORY_POINTS_14271:0 "Парадайс-Гілл"
 VICTORY_POINTS_14279:0 "Пайкс-Пік"
-VICTORY_POINTS_14125:0 "Лейкленд"
-VICTORY_POINTS_14130:0 "Елізабет"
-VICTORY_POINTS_14247:0 "Уілдемір"
-VICTORY_POINTS_14221:0 "Марвейн"
-VICTORY_POINTS_14714:0 "Нівер"
-VICTORY_POINTS_15051:0 "Оук-Банк"
-VICTORY_POINTS_13590:0 "Мальта"
-VICTORY_POINTS_673:0 "Абсерокі"
-VICTORY_POINTS_12981:0 "Скай-Ранч"
-VICTORY_POINTS_14250:0 "Ірма"
-VICTORY_POINTS_14403:0 "Мейдстоун"
 VICTORY_POINTS_14299:0 "Саннінгдейл"
-VICTORY_POINTS_14419:0 "Розтаун"
+VICTORY_POINTS_14308:0 "Руїни Кінґслі"
+VICTORY_POINTS_14330:0 "Іст-Вейл"
+VICTORY_POINTS_14335:0 "Sage Bay" # (!)
+VICTORY_POINTS_14352:0 "Боумантон"
+VICTORY_POINTS_14369:0 "Швидка Течія"
+VICTORY_POINTS_14403:0 "Мейдстоун"
+VICTORY_POINTS_14410:0 "Лакадена"
+VICTORY_POINTS_14419:0 "Роузтаун"
 VICTORY_POINTS_14439:0 "Велика Скеля"
-VICTORY_POINTS_14453:0 "Кзар"
+VICTORY_POINTS_14453:0 "Czar" # (!)
 VICTORY_POINTS_14455:0 "Ганна"
 VICTORY_POINTS_14467:0 "Естер"
 VICTORY_POINTS_14468:0 "Консорт"
-VICTORY_POINTS_14475:0 "Меріда"
-VICTORY_POINTS_13187:0 "Вудворт"
-VICTORY_POINTS_13220:0 "Майнот"
-VICTORY_POINTS_13660:0 "Курган"
-VICTORY_POINTS_13844:0 "Дженнер"
-VICTORY_POINTS_13657:0 "Гніздо"
-VICTORY_POINTS_13808:0 "Сіксіква"
-VICTORY_POINTS_13765:0 "Блек-Крік"
-VICTORY_POINTS_13804:0 "Грентем"
-VICTORY_POINTS_13845:0 "Монарх"
-VICTORY_POINTS_13856:0 "Бассано"
-VICTORY_POINTS_13859:0 "Стратмор"
-VICTORY_POINTS_13885:0 "Лінден"
-VICTORY_POINTS_13880:0 "Трошу"
-VICTORY_POINTS_13888:0 "Ердрі"
-VICTORY_POINTS_13788:0 "Морлі"
-VICTORY_POINTS_13792:0 "Кокрейн"
-VICTORY_POINTS_14020:0 "Гінтон"
-VICTORY_POINTS_14049:0 "Синтія"
-VICTORY_POINTS_13909:0 "Блекфолдс"
-VICTORY_POINTS_13864:0 "Делберн"
-VICTORY_POINTS_14010:0 "Горбурґ"
-VICTORY_POINTS_13743:0 "Уолкертон"
-VICTORY_POINTS_14054:0 "Маскег"
-VICTORY_POINTS_13706:0 "Фосетт"
-VICTORY_POINTS_16397:0 "Фокс-Крік"
-VICTORY_POINTS_14067:0 "Марлборо"
-VICTORY_POINTS_13694:0 "Ґрувдейл"
-VICTORY_POINTS_13688:0 "Вапіті"
-VICTORY_POINTS_14090:0 "Амбер-Веллі"
-VICTORY_POINTS_14118:0 "Смоукі-Лейк"
-VICTORY_POINTS_14232:0 "Тоулфілд"
-VICTORY_POINTS_14237:0 "Уайкінг"
-VICTORY_POINTS_14098:0 "Барргед"
-VICTORY_POINTS_13991:0 "Маєрторп"
-VICTORY_POINTS_13989:0 "Ентвісл"
-VICTORY_POINTS_14007:0 "Пайпстоун"
-VICTORY_POINTS_13916:0 "Кемроуз"
-VICTORY_POINTS_14037:0 "Ґрін-Корт"
-VICTORY_POINTS_13935:0 "Ветасківін"
-VICTORY_POINTS_16347:0 "Рейк'явік"
+VICTORY_POINTS_14475:0 "Merid" # (!)
+VICTORY_POINTS_14520:0 "Federal Disposal Field SK-23/24"
+VICTORY_POINTS_14521:0 "Мейпл-Крік"
+VICTORY_POINTS_14531:0 "Уаймарк"
+VICTORY_POINTS_14538:0 "Warman" # (!)
+VICTORY_POINTS_14541:0 "Дак-Лейк"
+VICTORY_POINTS_14547:0 "Ніпавін"
+VICTORY_POINTS_14576:0 "Фронт"
+VICTORY_POINTS_14582:0 "Спіріт-Вуд"
+VICTORY_POINTS_14617:0 "Берч-Гіллс"
+VICTORY_POINTS_14625:0 "Кодетт"
+VICTORY_POINTS_14646:0 "Доусон-Бей"
+VICTORY_POINTS_14668:0 "Бараґар"
+VICTORY_POINTS_14690:0 "Королівський Ліс"
+VICTORY_POINTS_14694:0 "Трегерн"
+VICTORY_POINTS_14699:0 "Сент-Есташ"
+VICTORY_POINTS_14714:0 "Нівер"
+VICTORY_POINTS_14723:0 "Девідсон"
+VICTORY_POINTS_14742:0 "Аллан-Гіллс"
+VICTORY_POINTS_14744:0 "Роузвуд"
+VICTORY_POINTS_14767:0 "Бруно"
+VICTORY_POINTS_14780:0 "Зенон-Парк"
+VICTORY_POINTS_14800:0 "Лігво Усміхненого Джека"
+VICTORY_POINTS_14802:0 "Уайлдкет-Гілс"
+VICTORY_POINTS_14825:0 "Prairie River" # (!)
+VICTORY_POINTS_14828:0 "Hudson Bay City Ruins" # (!)
+VICTORY_POINTS_14831:0 "Birch River" # (!)
+VICTORY_POINTS_14836:0 "Порк'юпайн-Гіллс"
+VICTORY_POINTS_14849:0 "Меморіал Великої Зимової Війни"
+VICTORY_POINTS_14857:0 "Боґґі-Крік"
+VICTORY_POINTS_14871:0 "Університет Чейз"
+VICTORY_POINTS_14875:0 "МАНІФЕСТ Саскачеван"
+VICTORY_POINTS_14875:0 "Мелт-Форд"
+VICTORY_POINTS_14878:0 "Озеро Ленор"
+VICTORY_POINTS_14883:0 "Ґернсі"
+VICTORY_POINTS_14895:0 "Анагайм"
+VICTORY_POINTS_14914:0 "Янсен"
+VICTORY_POINTS_14932:0 "Зала"
+VICTORY_POINTS_14948:0 "Burgess Junction"
+VICTORY_POINTS_14956:0 "Ґрінуотер-Парк"
+VICTORY_POINTS_14959:0 "Рама"
+VICTORY_POINTS_14968:0 "Рокфорд"
+VICTORY_POINTS_14988:0 "Бенк-Енд"
+VICTORY_POINTS_15002:0 "Coderre" # (!)
+VICTORY_POINTS_15004:0 "Hodge-and-Podge" # (!)
+VICTORY_POINTS_15017:0 "Assiniboia" # (!)
+VICTORY_POINTS_15026:0 "Oak Bluff" # (!)
+VICTORY_POINTS_15027:0 "Гуп-енд-Галлер-Бенд"
+VICTORY_POINTS_15032:0 "Вінклер"
+VICTORY_POINTS_15034:0 "Альтона"
+VICTORY_POINTS_15051:0 "Оук-Банк"
+VICTORY_POINTS_15117:0 "Норкуей"
+VICTORY_POINTS_15128:0 "Альбатрос"
+VICTORY_POINTS_15210:0 "Ебенізер"
 VICTORY_POINTS_15225:0 "Парк Райдинг-Маунтін"
+VICTORY_POINTS_15241:0 "Фоксворрен"
 VICTORY_POINTS_15242:0 "Солсґірт"
-VICTORY_POINTS_15253:0 "Ніпава"
+VICTORY_POINTS_15253:0 "Kneepaw" # (!)
 VICTORY_POINTS_13230:0 "Лейк-Траверс"
 VICTORY_POINTS_14192:0 "Кліруотер"
 VICTORY_POINTS_13162:0 "Таппен"
 VICTORY_POINTS_15027:0 "Гуп-енд-Галлер-Бенд"
-VICTORY_POINTS_14699:0 ""
 VICTORY_POINTS_13489:0 "Калліо"
 VICTORY_POINTS_15092:0 "Рок-Лейк"
 VICTORY_POINTS_12914:0 "Ньюелл"
 VICTORY_POINTS_12613:0 "Аптон"
 VICTORY_POINTS_14239:0 "Веґревіль"
+VICTORY_POINTS_1021:0 "Virgin" # (!)
+VICTORY_POINTS_9087:0 "Mt Carmel Junction" # (!)
+VICTORY_POINTS_15684:0 "Fraser" # (!)
+VICTORY_POINTS_16331:0 "Форт-Кап-Гелл"
+VICTORY_POINTS_16347:0 "Рейк'явік"
+VICTORY_POINTS_16397:0 "Фокс-Крік"
+VICTORY_POINTS_13590:0 "Мальта"
+VICTORY_POINTS_16427:0 "Лощина Пророка"
+VICTORY_POINTS_16438:0 "Розлом"
+VICTORY_POINTS_16452:0 "Даунтаун"
+VICTORY_POINTS_16455:0 "Форпост Лаплас"
+VICTORY_POINTS_16462:0 "Гальяно"
+VICTORY_POINTS_16492:0 "Старий Річковий Шлюз"
+VICTORY_POINTS_16868:0 "Germantown" # (!)
+VICTORY_POINTS_16927:0 "Kisatchie" # (!)
+VICTORY_POINTS_16929:0 "Marksville" # (!)
+VICTORY_POINTS_17821:0 "Де-Мойн"
+VICTORY_POINTS_17821:0 "Des Moines"
+VICTORY_POINTS_19361:0 "Таллахассі"
+VICTORY_POINTS_19380:0 "Перрі"
+VICTORY_POINTS_19620:0 "Джексонвілл"
+VICTORY_POINTS_19672:0 "Лейк-Сіті"
+VICTORY_POINTS_19683:0 "Сент-Оґастін"
+VICTORY_POINTS_19699:0 "Села"
+VICTORY_POINTS_19704:0 "Делтона"
+VICTORY_POINTS_19707:0 "Дайтона-Біч"
+VICTORY_POINTS_19720:0 "Чіфленд"
+VICTORY_POINTS_19735:0 "Палм-Кост"
+VICTORY_POINTS_19739:0 "Спрінг-Гілл"
+VICTORY_POINTS_19745:0 "Ґейнсвілл"
+VICTORY_POINTS_19758:0 "Мис Канаверал"
+VICTORY_POINTS_19760:0 "Зібрання"
+VICTORY_POINTS_19765:0 "Лейк-Уейлс"
+VICTORY_POINTS_19773:0 "Мельбурн"
+VICTORY_POINTS_19774:0 "Гейнс-Сіті"
+VICTORY_POINTS_19783:0 "Сент-Клауд"
+VICTORY_POINTS_19787:0 "Епкот"
+VICTORY_POINTS_19792:0 "Чарівне Королівство"
+VICTORY_POINTS_19793:0 "Orlando"
+VICTORY_POINTS_19793:0 "Орландо"
+VICTORY_POINTS_19814:0 "Тампа"
+VICTORY_POINTS_19815:0 "Кліруотер"
+VICTORY_POINTS_19817:0 "Лейкленд"
+VICTORY_POINTS_19830:0 "Кі-Вест"
+VICTORY_POINTS_19834:0 "Кі-Ларго"
+VICTORY_POINTS_19848:0 "Маямі"
+VICTORY_POINTS_19854:0 "Марко-Айленд"
+VICTORY_POINTS_19859:0 "Naples" # (!)
+VICTORY_POINTS_19863:0 "Форт-Лодердейл"
+VICTORY_POINTS_19865:0 "Імокалі"
+VICTORY_POINTS_19874:0 "Форт-Маєрс"
+VICTORY_POINTS_19880:0 "ЛаБелль"
+VICTORY_POINTS_19881:0 "Кейп-Корал"
+VICTORY_POINTS_19884:0 "Палм-Біч"
+VICTORY_POINTS_19886:0 "Белл-Ґлейд"
+VICTORY_POINTS_19904:0 "Веніс"
+VICTORY_POINTS_19905:0 "Порт-Шарлотт"
+VICTORY_POINTS_19916:0 "Аркадія"
+VICTORY_POINTS_19917:0 "Порт-Сент-Люсі"
+VICTORY_POINTS_19918:0 "Сарасота"
+VICTORY_POINTS_19921:0 "Окічобі"
+VICTORY_POINTS_19933:0 "Брейдентон"
+VICTORY_POINTS_19942:0 "Ейвон-Парк"
+VICTORY_POINTS_19945:0 "Їхо-Джанкшн"
+VICTORY_POINTS_19963:0 "Торнтон"
+VICTORY_POINTS_19983:0 "Вайт-Касл"
+VICTORY_POINTS_20273:0 "Форт Александер"
+VICTORY_POINTS_21072:0 "Дулут"
+VICTORY_POINTS_21084:0 "Су-Сіті"
+VICTORY_POINTS_21088:0 "Вермільйон"
+VICTORY_POINTS_21097:0 "Су-Сентер"
+VICTORY_POINTS_21103:0 "Гаррісбург"
+VICTORY_POINTS_21108:0 "Луверн"
+VICTORY_POINTS_21109:0 "Вортінгтон"
+VICTORY_POINTS_21114:0 "Су-Фоллс"
+VICTORY_POINTS_21116:0 "Александрія"
+VICTORY_POINTS_21117:0 "Гартфорд"
+VICTORY_POINTS_21118:0 "Брендон"
+VICTORY_POINTS_21156:0 "Нью-Ульм"
+VICTORY_POINTS_21163:0 "Медісон"
+VICTORY_POINTS_21173:0 "Буклінґс"
+VICTORY_POINTS_21188:0 "Уотертаун"
+VICTORY_POINTS_21191:0 "Clarkton" # (!)
+VICTORY_POINTS_21202:0 "Альберт-Лі"
+VICTORY_POINTS_21205:0 "Фермонт"
+VICTORY_POINTS_21206:0 "Блю-Ерт"
+VICTORY_POINTS_21216:0 "Рашфорд"
+VICTORY_POINTS_21217:0 "Остін"
+VICTORY_POINTS_21252:0 "Вінона"
+VICTORY_POINTS_21254:0 "Оватонна"
+VICTORY_POINTS_21257:0 "Рочестер"
+VICTORY_POINTS_21262:0 "Манкато"
+VICTORY_POINTS_21272:0 "Фарібо"
+VICTORY_POINTS_21277:0 "Ла-Сюр"
+VICTORY_POINTS_21281:0 "Сент-Пітер"
+VICTORY_POINTS_21283:0 "Маршалл"
+VICTORY_POINTS_21292:0 "Ред-Уінг"
+VICTORY_POINTS_21296:0 "Іган"
+VICTORY_POINTS_21298:0 "Шакопі"
+VICTORY_POINTS_21308:0 "Ґленко"
+VICTORY_POINTS_21310:0 "Гатчинсон"
+VICTORY_POINTS_21316:0 "Міннеаполіс"
+VICTORY_POINTS_21317:0 "Стілвотер"
+VICTORY_POINTS_21319:0 "Вудбері"
+VICTORY_POINTS_21320:0 "Монтевідео"
+VICTORY_POINTS_21325:0 "Мейпл-Ґроув"
+VICTORY_POINTS_21327:0 "Уіллмар"
+VICTORY_POINTS_21329:0 "Сент-Пол"
+VICTORY_POINTS_21333:0 "Літчфілд"
+VICTORY_POINTS_21334:0 "Монтіселло"
+VICTORY_POINTS_21337:0 "Бенсон"
+VICTORY_POINTS_21342:0 "Елк-Рівер"
+VICTORY_POINTS_21350:0 "Норт-Бренч"
+VICTORY_POINTS_21355:0 "Прінстон"
+VICTORY_POINTS_21356:0 "Кембридж"
+VICTORY_POINTS_21359:0 "Сент-Клауд"
+VICTORY_POINTS_21361:0 "Сок-Репідс"
+VICTORY_POINTS_21366:0 "Морріс"
+VICTORY_POINTS_21370:0 "Сок-Сентр"
+VICTORY_POINTS_21383:0 "Мілака"
+VICTORY_POINTS_21390:0 "Ферґус-Фоллз"
+VICTORY_POINTS_21392:0 "Лонґ-Прері"
+VICTORY_POINTS_21394:0 "Александрія"
+VICTORY_POINTS_21407:0 "Літтл-Фоллз"
+VICTORY_POINTS_21414:0 "Сендстоун"
+VICTORY_POINTS_21436:0 "Вадена"
+VICTORY_POINTS_21437:0 "Бакстер"
+VICTORY_POINTS_21438:0 "Брейнерд"
+VICTORY_POINTS_21438:0 "Брейнерд"
+VICTORY_POINTS_21446:0 "Детройт-Лейкс"
+VICTORY_POINTS_21449:0 "Муз-Лейк"
+VICTORY_POINTS_21462:0 "Косбі"
+VICTORY_POINTS_21466:0 "Мурхед"
+VICTORY_POINTS_21467:0 "Парк-Рапідс"
+VICTORY_POINTS_21472:0 "Піко Лейкс"
+VICTORY_POINTS_21475:0 "Клоке"
+VICTORY_POINTS_21500:0 "Ту-Гарборс"
+VICTORY_POINTS_21523:0 "Гіббінґ"
+VICTORY_POINTS_21529:0 "Ґранд-Репідс"
+VICTORY_POINTS_21533:0 "Сілвер-Бей"
+VICTORY_POINTS_21539:0 "Беміджи"
+VICTORY_POINTS_21549:0 "Блекдак"
+VICTORY_POINTS_21551:0 "Вірджинія"
+VICTORY_POINTS_21564:0 "Крукстон"
+VICTORY_POINTS_21573:0 "Елі"
+VICTORY_POINTS_21602:0 "Тіф-Рівер-Фоллз"
+VICTORY_POINTS_21619:0 "Інтернешнл-Фоллз"
+VICTORY_POINTS_21629:0 "Бодетт"
+VICTORY_POINTS_21631:0 "Розо"
+VICTORY_POINTS_21632:0 "Warroad" # (!)
+VICTORY_POINTS_21646:0 "Прері-дю-Ш'єн"
+VICTORY_POINTS_21653:0 "Ричленд-Сентер"
+VICTORY_POINTS_21655:0 "Сок-Сіті"
+VICTORY_POINTS_21660:0 "Лейк-Делтон"
+VICTORY_POINTS_21660:0 "Lake Delton"
+VICTORY_POINTS_21662:0 "Рідсберґ"
+VICTORY_POINTS_21665:0 "Ла-Кросс"
+VICTORY_POINTS_21670:0 "Мостон"
+VICTORY_POINTS_21675:0 "Спарта"
+VICTORY_POINTS_21676:0 "Томах"
+VICTORY_POINTS_21687:0 "Некуса"
+VICTORY_POINTS_21689:0 "Аркадія"
+VICTORY_POINTS_21693:0 "Блек-Рівер-Фоллс"
+VICTORY_POINTS_21708:0 "Оссіо"
+VICTORY_POINTS_21712:0 "Маршфілд"
+VICTORY_POINTS_21714:0 "Мондові"
+VICTORY_POINTS_21719:0 "Гадсон"
+VICTORY_POINTS_21725:0 "Меномоні"
+VICTORY_POINTS_21729:0 "Восау"
+VICTORY_POINTS_21732:0 "Абботсфорд"
+VICTORY_POINTS_21736:0 "Стенлі"
+VICTORY_POINTS_21739:0 "Чіппева-Фоллс"
+VICTORY_POINTS_21740:0 "Нью-Річмонд"
+VICTORY_POINTS_21746:0 "Медфорд"
+VICTORY_POINTS_21752:0 "Сент-Круа-Фоллс"
+VICTORY_POINTS_21758:0 "Райс-Лейк"
+VICTORY_POINTS_21761:0 "Ледісміт"
+VICTORY_POINTS_21778:0 "Ґрантсберг"
+VICTORY_POINTS_21785:0 "Спунер"
+VICTORY_POINTS_21798:0 "Хейворд"
+VICTORY_POINTS_21807:0 "О-Клер"
+VICTORY_POINTS_21821:0 "Ешленд"
+VICTORY_POINTS_21827:0 "Вашборн"
 
 
 ## Перейменування переможних пунктів
-
   # Alamo Chapter
   VICTORY_POINTS_11427_ACH:0 "Аламо"
   VICTORY_POINTS_11429_ACH:0 "Рубіж"
 
   # BRA - Королівство Манітоби
-  VICTORY_POINTS_16342_BRA:0 "Цитадель Арборг"
   VICTORY_POINTS_13262_BRA:0 "Меморіал Стоунволл"
   VICTORY_POINTS_14795_BRA:0 "Біла Земля"
+  VICTORY_POINTS_16342_BRA:0 "Цитадель Арборг"
 
   # CES - Легіон Цезаря
-  VICTORY_POINTS_8599_CES:0 "Цезарея Мексиканорум"
   VICTORY_POINTS_2746_CES:0 "Тривіїс"
+  VICTORY_POINTS_8599_CES:0 "Цезарея Мексиканорум"
+  CES_VICTORY_POINTS_5648:0 "Fort Abandon" # (!)
+  CES_VICTORY_POINTS_968:0 "Malpais Camp" # (!)
 
   # CHC - Скована Хора
   VICTORY_POINTS_11964_CHC:0 "Палац Матріархині"
-  VICTORY_POINTS_12237_CHC:0 "Форт Надія"
   VICTORY_POINTS_12185_CHC:0 "Храм Гаї"
+  VICTORY_POINTS_12237_CHC:0 "Форт Надія"
 
   # CHO - Нація Чокто
   VICTORY_POINTS_12110_CHO:0 "Місто Гулів"
@@ -758,6 +1193,7 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_4102_MDT:0 "Ахерон"
   VICTORY_POINTS_4115_MDT:0 "Печера Ґоргама"
   VICTORY_POINTS_4101_MDT:0 "Океан"
+  VICTORY_POINTS_1437_MDT:0 "Chronos" # (!)
   VICTORY_POINTS_1451_MDT:0 "Ладон"
   VICTORY_POINTS_3611_MDT:0 "Піфон"
   VICTORY_POINTS_4164_MDT:0 "Хірон"
@@ -824,9 +1260,11 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_4635_NCR:0 "Нью Некрополь"
   VICTORY_POINTS_1776_NCR:0 "Благословення Дгарми"
   VICTORY_POINTS_2409_NCR:0 "Церква Зоряного Батька"
+  MOT_VICTORY_POINTS_971:0 "Станція Рейнджерів Ехо"
+  NCR_VICTORY_POINTS_971:0 "Станція Рейнджерів Ехо"
 
   # NEW - New Reno
-  VICTORY_POINTS_8481_NEW:0 "Новий андеграунд"
+  VICTORY_POINTS_8481_NEW:0 "The New Underground" # (!)
 
   # OLY - Olympus Tribe
   VICTORY_POINTS_7111_OLY:0 "Амфітритополіс"
@@ -859,7 +1297,7 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_12359_STM:0 "Гніздо Орла"
 
   # TEX - Texan Republic
-  VICTORY_POINTS_11964_TEX:0 "Рімські"
+  VICTORY_POINTS_11964_TEX:0 "Rimsky" # (!)
   VICTORY_POINTS_11666_TEX:0 "Тоддсбург"
 
   # THN - Thunderbirds
@@ -882,7 +1320,8 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_9523_TTM:0 "Меморіальний Парк Тлалокан"
 
   # UNB - Unbound
-  VICTORY_POINTS_13528_UNB_CRAWTOWN:0 "Кравтаун"
+  VICTORY_POINTS_13571_UNB:0 "Craw Ford" # (!)
+  VICTORY_POINTS_13524_UNB_CRAWTOWN:0 "Craw Town" # (!)
   VICTORY_POINTS_13528_UNB_KLEPTOMANIA:0 "Клептоманія"
 
   # VIP - Vipers
@@ -893,11 +1332,14 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_12222_VLT:0 "Дослідницький Форпост Рубрум"
   VICTORY_POINTS_3351_VLT:0 "Дослідницький Форпост Домус"
 
+  # LAP - Lakota
+  VICTORY_POINTS_3024_LAP:0 "Wounded Knee"
+
   ## Shared Renames
   # CAN - Canadian
   VICTORY_POINTS_12890_CAN:0 "Південний Едмонтон"
   VICTORY_POINTS_12892_CAN:0 "Північний Едмонтон"
-  VICTORY_POINTS_14828_CAN:0 "Гудзонова Затока Таун"
+  VICTORY_POINTS_14828_CAN:0 "Hudson Bay City" # (!)
 
   # USA - American
   VICTORY_POINTS_4047_USA:0 "Три-Міста"
@@ -916,6 +1358,11 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_5615_VAULT:0 "Корпоративне Сховище"
   VICTORY_POINTS_12892_VAULT:0 "Сховище Редмонда"
 
+  # EXE
+  VICTORY_POINTS_6760_EXE:0 "Vault E37" # (!)
+  VICTORY_POINTS_11615_EXE:0 "Vault E245" # (!)
+  VICTORY_POINTS_12215_EXE:0 "Vault E14" # (!)
+  VICTORY_POINTS_11964_EXE:0 "Vault E213" # (!)
 
   ## April Fools Renames
   # CAR - Russian BBQ Republic
@@ -949,3 +1396,13 @@ VICTORY_POINTS_14239:0 "Веґревіль"
   VICTORY_POINTS_1985_VAR:0 "Північний Новий Морґуракс"
   VICTORY_POINTS_1977_VAR:0 "Шерманія"
   VICTORY_POINTS_4109_VAR:0 "Шахта Калп-Крік"
+
+  # CSM - Crescent MOON
+  VICTORY_POINTS_3634_CSM:0 "Vault 53 Memorial" # (!)
+
+  # WHD - Withered Dogs
+  VICTORY_POINTS_6865_WHD:0 "Union Square" # (!)
+  VICTORY_POINTS_8160_WHD:0 "Smelting Yard" # (!)
+
+  #Blue Rose
+  VICTORY_POINTS_5246_EDA:0 "Santa Modesta" # (!)
