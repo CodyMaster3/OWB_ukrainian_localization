@@ -1,0 +1,101 @@
+﻿l_english:
+  # Brotherhood
+hayden_sky:0 "Гейден Скай"
+hayden_sky_desc:0 ""
+
+lars_mundo:0 "Ларс Мундо"
+lars_mundo_desc:0 ""
+
+arthur_morrigan:0 "Артур Морріган"
+arthur_morrigan_desc:0 ""
+
+markus_elliot:0 "Маркус Елліот"
+markus_elliot_desc:0 ""
+
+ewan_wan:0 "Юен Ван"
+ewan_wan_desc:0 ""
+
+edward_j_rusk:0 "Едвард Джефферсон Раск"
+edward_j_rusk_desc:0 ""
+
+charles_sturgon:0 "Чарльз Стерджон"
+charles_sturgon_desc:0 ""
+
+emily_strong:0 "Емілі Стронг"
+emily_strong_desc:0 ""
+
+ledroc_walker:0 "Ледрок Волкер"
+ledroc_walker_desc:0 ""
+
+kathrine_torni:0 "Катрін Торні"
+kathrine_torni_desc:0 ""
+
+steffan_keith:0 "Стеффан Кіт"
+steffan_keith_desc:0 ""
+
+sebastian_keith:0 "Себастіан Кіт"
+sebastian_keith_desc:0 ""
+
+sidney_mcdonald:0 "Сідні Макдоналд"
+sidney_mcdonald_desc:0 ""
+
+knight_swallows:0 "Лицар Свеллоуз"
+knight_swallows_desc:0 ""
+
+scribe_hubertus:0 "Писар Губертус"
+scribe_hubertus_desc:0 ""
+
+paladin_mcdert:0 "Паладин МакДерт"
+paladin_mcdert_desc:0 ""
+
+river_young:0 "Рівер Янг"
+river_young_desc:0 "Рівер Янг очолює економічну дорадчу групу Lone Star у нашій столиці, надаючи нам себе і свою команду з великим досвідом у питаннях економіки. Протягом останнього десятиліття вона допомагала відновлювати промислові райони Далласу, і її ефективний та уважний розум готовий до планування повернення інших міст."
+
+ariel_horne:0 "Аріель Горн"
+ariel_horne_desc:0 "Аріель Горн — суперечлива постать у нашому уряді. Хоча вона має багато ідей щодо використання і розподілу наших обмежених ресурсів, її ненависть до надмірностей зробила її ворогом серед еліт."
+
+LNS_senior_name:0 "Ділан Барретт"
+LNS_senior_army_chief_desc:0 ""
+
+LNS_naval_name:0 "Капітан Торнес"
+LNS_naval_navy_chief_desc:0 ""
+
+LNS_heritage_name:0 "Захарія Ламей"
+LNS_heritage_air_chief_desc:0 ""
+
+LNS_paladin_hancock_name:0 "Паладин Генкок"
+LNS_paladin_hancock_high_command_desc:0 "Паладин Генкок — старший офіцер у Збройних силах Техаського Братства і очолює їхню військову дорадчу місію в нашій країні. Прихильник силової броні та оборонної тактики, Генкок вважається ідеальним командиром для охорони траси I-20."
+
+LNS_scribe_duran_name:0 "Писар Дуран"
+LNS_scribe_duran_high_command_desc:0 "Старший писар Братства та заступник паладина Генкока, Дуран володіє вражаючими знаннями у складних військових тактиках і технологіях. Завдяки його терплячим і ґрунтовним порадам ми змогли значно розширити наші технічні знання."
+
+LNS_Generic_Research_name:0 "Армійський стратег"
+LNS_Generic_Research_theorist_desc:0 ""
+
+LNS_Brotherhood_Research_name:0 "Стратег Братства"
+LNS_Brotherhood_Research_theorist_desc:0 ""
+
+LNS_daisy_roth_name:0 "Дейзі Рот"
+LNS_daisy_roth_economic_advisor_desc:0 "Дейзі Рот — дитина з нетрів, яка змушена була самотужки виживати з найменшого віку. Завдяки ініціативі, що допомагала дітям із бідних районів, вона отримала базову освіту і змогла забезпечити себе. Її вчителі швидко помітили її обдарованість і номінували на навчання в університеті. Там вона вивчала економіку Старого Світу і розробила нові революційні підходи для Нового."
+
+LNS_trader_name:0 "Джин Таннер"
+LNS_trader_economic_advisor_desc:0 ""
+
+LNS_expedition_name:0 "Чарлі Морган"
+LNS_expedition_economic_advisor_desc:0 ""
+
+LNS_finance_name:0 "Арчі Мосс"
+LNS_finance_economic_advisor_desc:0 ""
+
+LNS_pride_name:0 "Прайс Ярборо"
+LNS_pride_cultural_advisor_desc:0 ""
+
+LNS_powerhouse_name:0 "Морріс Гамільтон"
+LNS_powerhouse_cultural_advisor_desc:0 ""
+
+LNS_sufficient_name:0 "Ллойд Тауер"
+LNS_sufficient_cultural_advisor_desc:0 ""
+
+LNS_clouds_name:0 "Томас Ленкфорд"
+LNS_clouds_cultural_advisor_desc:0 ""
+
