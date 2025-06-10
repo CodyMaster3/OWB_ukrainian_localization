@@ -1,136 +1,136 @@
 ﻿l_english:
   STATE_1:0 "Хаб"
-  STATE_2:0 "Whyajo" # (!)
-  STATE_3:0 "Ticaboo" # (!)
-  STATE_4:0 "San Felipe" # (!)
+  STATE_2:0 "Уайахо"
+  STATE_3:0 "Тикабу"
+  STATE_4:0 "Сан Феліпе"
   STATE_5:0 "Кастра Соль Рубрум"
   STATE_6:0 "Твідсмур"
   STATE_7:0 "Рейнерв'ю"
-  STATE_8:0 "The Hunting Grounds" # (!)
+  STATE_8:0 "Мисливські угіддя"
   STATE_9:0 "Грамшар"
   STATE_10:0 "Південна палатка"
-  STATE_11:0 "Goldfield" # (!)
+  STATE_11:0 "Ґолдфілд"
   STATE_12:0 "Північний прохід"
   STATE_13:0 "Гоупвілль"
   STATE_14:0 "Гавань Аріста"
   STATE_15:0 "Лос-Бахіос"
   STATE_16:0 "Рожева гора"
-  STATE_17:0 "Kitessing Territory" # (!)
-  STATE_18:0 "Innocence Lost" # (!)
-  STATE_19:0 "New Caster" # (!)
+  STATE_17:0 "Територія Кітессінґ"
+  STATE_18:0 "Втрачена Невинність"
+  STATE_19:0 "Нью-Кастер"
   STATE_20:0 "Західний берег"
   STATE_21:0 "Кувер"
   STATE_22:0 "Пуерто Лібертад"
   STATE_23:0 "Західний Портленд"
   STATE_24:0 "Козячий каньон"
   STATE_25:0 "Плацдарм"
-  STATE_26:0 "Otter Creek" # (!)
+  STATE_26:0 "Оттер-Крік"
   STATE_27:0 "Верхній Нікола"
-  STATE_28:0 "Sacred Cloud" # (!)
-  STATE_29:0 "Paulina Shield" # (!)
+  STATE_28:0 "Священна Хмара"
+  STATE_29:0 "Щит Пауліна"
   STATE_30:0 "Високі парафії"
-  STATE_31:0 "Pandale" # (!)
+  STATE_31:0 "Пандейл"
   STATE_32:0 "Шістки"
-  STATE_33:0 "New Pai" # (!)
-  STATE_34:0 "Oelrichs" # (!)
-  STATE_35:0 "Salt-Bearer" # (!)
+  STATE_33:0 "Нью-Пай
+  STATE_34:0 "Олрикс"
+  STATE_35:0 "Солт-Берер"
   STATE_36:0 "Турнефф К'ал'гаал А'-ха'"
   STATE_37:0 "Східний Портленд"
-  STATE_38:0 "Paradise" # (!)
+  STATE_38:0 "Парадайз"
   STATE_39:0 "Арката"
   STATE_40:0 "Золота гора"
   STATE_41:0 "Колонет"
   STATE_42:0 "Острів Ромба"
   STATE_43:0 "Зайон"
-  STATE_44:0 "Fort Wagenburg" # (!)
+  STATE_44:0 "Форт Ваґенбурґ"
   STATE_45:0 "Долина Смерті"
   STATE_46:0 "Гідден-Веллі"
   STATE_47:0 "Ніптон"
   STATE_48:0 "Беллінгем"
-  STATE_49:0 "Wickedburg" # (!)
+  STATE_49:0 "Вікедбурґ"
   STATE_50:0 "Туелле"
   STATE_51:0 "Валла-Валла"
-  STATE_52:0 "Dworshak Reservoir" # (!)
-  STATE_53:0 "Baker City" # (!)
-  STATE_54:0 "Dried Oasis" # (!)
-  STATE_55:0 "Grand Encampment" # (!)
+  STATE_52:0 "Водосхвище Дворшака"
+  STATE_53:0 "Бейкер-Сіті"
+  STATE_54:0 "Висушена оаза"
+  STATE_55:0 "Великий Табір"
   STATE_56:0 "Техама"
   STATE_57:0 "Діра"
-  STATE_58:0 "Little Cedar Mountain" # (!)
+  STATE_58:0 "Гора Літтл-Сідар"
   STATE_59:0 "Дорріс"
-  STATE_60:0 "Ранчо Гундерсона"
+  STATE_60:0 "Ранчо Ґандерсона"
   STATE_61:0 "Білий розсип"
-  STATE_62:0 "Sierra Vista" # (!)
+  STATE_62:0 "Сьєрра-Віста"
   STATE_63:0 "Велике Сяяння Дня"
   STATE_64:0 "Санта-Марія"
   STATE_65:0 "Кенневік"
   STATE_66:0 "Гора Сент-Геленс"
   STATE_67:0 "Бухта Коттонвуд"
-  STATE_68:0 "Lidatown" # (!)
+  STATE_68:0 "Лідатаун"
   STATE_69:0 "Форт Спокан"
   STATE_70:0 "Некрополь"
-  STATE_71:0 "Crowshaven" # (!)
-  STATE_72:0 "St. George" # (!)
-  STATE_73:0 "US-93" # (!)
+  STATE_71:0 "Кроусгейвен"
+  STATE_72:0 "Сень-Джордж"
+  STATE_73:0 "США-93"
   STATE_74:0 "Твін-Фолс"
-  STATE_75:0 "Delamar Badlands" # (!)
+  STATE_75:0 "Деламарська пустка"
   STATE_76:0 "Маунт Даттон"
   STATE_77:0 "15-я траса"
   STATE_78:0 "Берем-Спрінгс"
   STATE_79:0 "Форт Нельсон"
   STATE_80:0 "Північний хребет лагуни"
   STATE_81:0 "Голлоумен"
-  STATE_82:0 "Burlington" # (!)
+  STATE_82:0 "Берлінґтон"
   STATE_83:0 "Валле-де-Сарагоса"
   STATE_84:0 "Сіетл"
-  STATE_85:0 "Kayenta" # (!)
+  STATE_85:0 "Каєнта"
   STATE_86:0 "Леневе"
-  STATE_87:0 "Snowmass Pass" # (!)
-  STATE_88:0 "Hatchitas" # (!)
-  STATE_89:0 "Douglass Pass" # (!)
+  STATE_87:0 "Перевал Сноумасс"
+  STATE_88:0 "Гатчитас"
+  STATE_89:0 "Перевал Даґласс"
   STATE_90:0 "Уроборос"
-  STATE_91:0 "New Jicarilla" # (!)
-  STATE_92:0 "Adaven" # (!)
-  STATE_93:0 "Tonto Swidden" # (!)
-  STATE_94:0 "Three-Roads" # (!)
+  STATE_91:0 "Нова Хікарілья"
+  STATE_92:0 "Адавен"
+  STATE_93:0 "Тонто-Свідден"
+  STATE_94:0 "Три-Роудс"
   STATE_95:0 "Сьюдад-Куаутемок"
   STATE_96:0 "Храм Випробовувань"
   STATE_97:0 "Ла-Пас"
   STATE_98:0 "Тевапути"
-  STATE_99:0 "The Riverside" # (!)
-  STATE_100:0 "Getchell Mines" # (!)
-  STATE_101:0 "Tierra City" # (!)
+  STATE_99:0 "Ріверсайд"
+  STATE_100:0 "Копальні Ґетчелл"
+  STATE_101:0 "Тьєрра-Сіті"
   STATE_102:0 "Глен-Каньйон"
   STATE_103:0 "Перша народна розв'язка"
   STATE_104:0 "Сан-Хосе"
   STATE_105:0 "Прохід Соквалмі"
   STATE_106:0 "Біттер-Спрінгс"
   STATE_107:0 "Лос-Альгодонес"
-  STATE_108:0 "Hellford" # (!)
-  STATE_109:0 "Fort Morgen" # (!)
+  STATE_108:0 "Геллфорд"
+  STATE_109:0 "Форт Морґен"
   STATE_110:0 "Беніто Хуарес"
   STATE_111:0 "Тантун Кузаміл"
-  STATE_112:0 "Sheridan Lake" # (!)
+  STATE_112:0 "Озеро Шеридан"
   STATE_113:0 "Зламаний верх"
-  STATE_114:0 "Animas Plains" # (!)
+  STATE_114:0 "Рівнини Анімас"
   STATE_115:0 "Вітальня"
-  STATE_116:0 "Eastern Passage" # (!)
-  STATE_117:0 "Jagueyes" # (!)
+  STATE_116:0 "Східний прохід"
+  STATE_117:0 "Хагуеєс"
   STATE_118:0 "Честер"
   STATE_119:0 "Охінага"
   STATE_120:0 "Табалоапа"
-  STATE_121:0 "Narrow Walls" # (!)
+  STATE_121:0 "Нерроу-Уоллс"
   STATE_122:0 "Чіуауа"
   STATE_123:0 "Роккі Форд"
-  STATE_124:0 "White Mesa" # (!)
+  STATE_124:0 "Уайт-Меса"
   STATE_125:0 "Принц Джордж"
-  STATE_126:0 "Antelope Reservation" # (!)
+  STATE_126:0 "Резервація Антелоуп"
   STATE_127:0 "Західний Гранд-Каньйон"
-  STATE_128:0 "Bear Wastefill" # (!)
-  STATE_129:0 "Cheyenne Ruins" # (!)
-  STATE_130:0 "Havasu City" # (!)
-  STATE_131:0 "Lucin" # (!)
-  STATE_132:0 "New Tracy" # (!)
+  STATE_128:0 "Звалище Беар"
+  STATE_129:0 "Руїни Шаєнна"
+  STATE_130:0 "Хавасу-Сіті"
+  STATE_131:0 "Лусін"
+  STATE_132:0 "Ньб-Трейсі"
   STATE_133:0 "Turn Around" # (!)
   STATE_134:0 "The Lakeline" # (!)
   STATE_135:0 "Сак-Сіті"
@@ -143,80 +143,80 @@
   STATE_142:0 "Lower Brule" # (!)
   STATE_143:0 "Ла Хунта"
   STATE_144:0 "Голубиний струмок"
-  STATE_145:0 "Blacksun" # (!)
-  STATE_146:0 "Gran Desierto de Altar" # (!)
-  STATE_147:0 "Blythe" # (!)
+  STATE_145:0 "Блексан"
+  STATE_146:0 "Ґран-Десьєрто-де-Альтар"
+  STATE_147:0 "Блайт"
   STATE_148:0 "Сечет"
   STATE_149:0 "Warm Springs" # (!)
   STATE_150:0 "Араго"
-  STATE_151:0 "Dependence" # (!)
+  STATE_151:0 "Депенденс"
   STATE_152:0 "Каструм Салтус"
-  STATE_153:0 "Scartop" # (!)
+  STATE_153:0 "Скартоп"
   STATE_154:0 "Авіабаза Неліс"
   STATE_155:0 "Хартські пустки"
-  STATE_156:0 "Gawa" # (!)
+  STATE_156:0 "Ґава"
   STATE_157:0 "Бункер Лост-Гіллз"
-  STATE_158:0 "Newton" # (!)
+  STATE_158:0 "Ньютон"
   STATE_159:0 "Армійський склад Сьєрра"
   STATE_160:0 "Boneguard Bastion" # (!)
   STATE_161:0 "Cleft Sanctuary" # (!)
-  STATE_162:0 "Red Bluff" # (!)
+  STATE_162:0 "Ред-Блафф"
   STATE_163:0 "Сан-Франциско"
-  STATE_164:0 "Canyon de Chelly" # (!)
-  STATE_165:0 "Coaldale" # (!)
-  STATE_166:0 "Carcass Wastes" # (!)
+  STATE_164:0 "Каньйон-де-Шей"
+  STATE_165:0 "Коалдейл"
+  STATE_166:0 "Пустка туш"
   STATE_167:0 "Хребет Невада"
   STATE_168:0 "Перекинуте ранчо"
-  STATE_169:0 "Fort Pierre" # (!)
+  STATE_169:0 "Форт П'єр"
   STATE_170:0 "Нью-Гаммонд"
-  STATE_171:0 "Kobe" # (!)
+  STATE_171:0 "Кобе"
   STATE_172:0 "Медоуополіс"
   STATE_173:0 "Vital Junction" # (!)
   STATE_174:0 "Ель-Маррон"
-  STATE_175:0 "Painted Desert" # (!)
+  STATE_175:0 "Кольорова пустеля"
   STATE_176:0 "Ла Які"
   STATE_177:0 "Камло"
   STATE_178:0 "Кінгслі"
   STATE_179:0 "Електромісто"
-  STATE_180:0 "Valley of the Bear" # (!)
+  STATE_180:0 "Долиня Ведмедя"
   STATE_181:0 "Ель Муель"
-  STATE_182:0 "Happy Camp" # (!)
+  STATE_182:0 "Веселий Табір"
   STATE_183:0 "Джиггз"
   STATE_184:0 "Лавлок"
-  STATE_185:0 "Lakewood" # (!)
+  STATE_185:0 "Лейквуд"
   STATE_186:0 "Канібальські території"
   STATE_187:0 "Рейчел"
   STATE_188:0 "Замерзлі острови"
   STATE_189:0 "Каструм Марс"
   STATE_190:0 "Стоктон"
-  STATE_191:0 "Alcova" # (!)
+  STATE_191:0 "Алкова"
   STATE_192:0 "Тілламук"
   STATE_193:0 "Межа Вейла"
   STATE_194:0 "Хенгмен Саунд"
   STATE_195:0 "Крісдейл"
   STATE_196:0 "Старий Шафтсон"
   STATE_197:0 "Ultimate Price" # (!)
-  STATE_198:0 "Southern Gate" # (!)
-  STATE_199:0 "Post Falls" # (!)
-  STATE_200:0 "New Pecos" # (!)
+  STATE_198:0 "Південна Брама"
+  STATE_199:0 "Пост-Фолс"
+  STATE_200:0 "Нью-Пейкос"
   STATE_201:0 "Кришталеві джерела"
   STATE_202:0 "Срібний трон"
   STATE_203:0 "Новий Навахо"
   STATE_204:1 "Незаселена пустка"
-  STATE_205:0 "Anza-Borrego" # (!)
+  STATE_205:0 "Анса-Боррего"
   STATE_206:0 "Лас-Колінас-дель-Конфлікто"
-  STATE_207:0 "Oracle" # (!)
-  STATE_208:0 "New Syracuse" # (!)
+  STATE_207:0 "Оракл"
+  STATE_208:0 "Нью-Сирак'юз"
   STATE_209:0 "Platte Crossings" # (!)
   STATE_210:0 "Цитадель Вартових"
   STATE_211:0 "Нью-Вегас"
-  STATE_212:0 "Holbrook" # (!)
+  STATE_212:0 "Голбрук"
   STATE_213:0 "Єрихон"
   STATE_214:0 "Visalia" # (!)
   STATE_215:0 "Розуелл"
   STATE_216:0 "Бодега"
   STATE_217:0 "The Deepmines" # (!)
-  STATE_218:0 "Augusta" # (!)
+  STATE_218:0 "Оґаста"
   STATE_219:0 "Duckwater" # (!)
   STATE_220:0 "Heizer Desert" # (!)
   STATE_221:0 "Ілвіканська ділянка"
@@ -230,23 +230,23 @@
   STATE_229:0 "Басерак"
   STATE_230:0 "Пахто"
   STATE_231:0 "Paisley Pit" # (!)
-  STATE_232:0 "Petrified Forest" # (!)
+  STATE_232:0 "Скам'янілий Ліс"
   STATE_233:0 "Найнфінгерс"
-  STATE_234:0 "The Pass" # (!)
+  STATE_234:0 "Ель-Пасо"
   STATE_235:0 "The Warren" # (!)
-  STATE_236:0 "Northern Reaches" # (!)
+  STATE_236:0 "Північні області"
   STATE_237:0 "Рубі-Веллі"
   STATE_238:0 "Витік озера"
   STATE_239:0 "Півмісяць"
   STATE_240:0 "Прово"
-  STATE_241:0 "Copperopolis" # (!)
-  STATE_242:0 "Grand Canyon City" # (!)
-  STATE_243:0 "Bartown" # (!)
+  STATE_241:0 "Копперополіс"
+  STATE_242:0 "Ґранд-Каньйон-Сіті"
+  STATE_243:0 "Бартаун"
   STATE_244:0 "New Ramah-Zuni" # (!)
   STATE_245:0 "Мексон"
   STATE_246:0 "Пангіч"
-  STATE_247:0 "Tombstone" # (!)
-  STATE_248:0 "Hachita Point" # (!)
+  STATE_247:0 "Тумстоун"
+  STATE_248:0 "Хачита-Пойнт"
   STATE_249:0 "Чагуотер"
   STATE_250:0 "Belden" # (!)
   STATE_251:0 "Кратерне озеро"
@@ -255,15 +255,15 @@
   STATE_254:0 "Суакуай Гранде"
   STATE_255:0 "Терлінгва"
   STATE_256:0 "Голіок"
-  STATE_257:0 "Milford Wasteland" # (!)
+  STATE_257:0 "Пустка Мілфорд"
   STATE_258:0 "Санта-Барбара"
-  STATE_259:0 "Gore Range" # (!)
+  STATE_259:0 "Хребет Ґор"
   STATE_260:0 "Ермосільйо"
-  STATE_261:0 "Winnemucca" # (!)
+  STATE_261:0 "Віннемукка"
   STATE_262:0 "Біль Тантала"
-  STATE_263:0 "Flynn Ranch" # (!)
+  STATE_263:0 "Ранчо Флінна"
   STATE_264:0 "The Circuit" # (!)
-  STATE_265:0 "Pecos Ruins" # (!)
+  STATE_265:0 "Руїни Пейкоса"
   STATE_266:0 "Новий Єрусалим"
   STATE_267:0 "Роанське плато"
   STATE_268:0 "Bend Ralley" # (!)
@@ -272,7 +272,7 @@
   STATE_271:0 "Кінгстонський хребет"
   STATE_272:0 "Пуебло-де-ла-Гарро"
   STATE_273:0 "Баттл-Маунтін"
-  STATE_274:0 "The Maw" # (!)
+  STATE_274:0 "Паща"
   STATE_275:0 "10 знаків"
   STATE_276:0 "Стагліп"
   STATE_277:0 "Кларкстон"
@@ -298,36 +298,36 @@
   STATE_297:0 "Планта Групп"
   STATE_298:0 "Steens' Watch" # (!)
   STATE_299:0 "Старий Ремо"
-  STATE_300:0 "Coulee City" # (!)
-  STATE_301:0 "Joshua Tree" # (!)
+  STATE_300:0 "Коулі-Сіті"
+  STATE_301:0 "Джошуа-Трі"
   STATE_302:0 "Печери динозаврів"
   STATE_303:0 "Мерто"
-  STATE_304:0 "Black Mesa Farms" # (!)
-  STATE_305:0 "Westfall" # (!)
-  STATE_306:0 "Sevier Desert" # (!)
-  STATE_307:0 "Outpost Dyer" # (!)
+  STATE_304:0 "Ферми Блек-Меси"
+  STATE_305:0 "Уестфолл"
+  STATE_306:0 "Пустеля Сев'єр"
+  STATE_307:0 "Аванпост Даєр"
   STATE_308:0 "Нью-Монтроуз"
-  STATE_309:0 "Schell's Shadow" # (!)
+  STATE_309:0 "Шеллова Тінь"
   STATE_310:0 "Ларамі"
   STATE_311:0 "Тамблер-Рідж"
   STATE_312:0 "Salinas" # (!)
   STATE_313:0 "Джейкобстаун"
   STATE_314:0 "Джосо"
   STATE_315:0 "McCook Line" # (!)
-  STATE_316:0 "Valemount Cache" # (!)
-  STATE_317:0 "Parker" # (!)
-  STATE_318:0 "New Apache" # (!)
+  STATE_316:0 "Схованка Вейлмаунт"
+  STATE_317:0 "Паркер"
+  STATE_318:0 "Нью-Апачі"
   STATE_319:0 "Коулвілль"
   STATE_320:0 "Ескаланте"
   STATE_321:0 "Equidae Bite" # (!)
-  STATE_322:0 "Greenhorn" # (!)
+  STATE_322:0 "Ґрінгорн"
   STATE_323:0 "Unity Devastion" # (!)
   STATE_324:0 "Еванстон"
   STATE_325:0 "Casa de Guaycura" # (!)
-  STATE_326:0 "New Atlanta" # (!)
+  STATE_326:0 "Нью-Атланта"
   STATE_327:0 "Гніздо Гадюк"
   STATE_328:0 "Хребет"
-  STATE_329:0 "Amargosa Valley" # (!)
+  STATE_329:0 "Долина Амарґоса"
   STATE_330:0 "Сагуаро"
   STATE_331:0 "Беквудс"
   STATE_332:0 "Спокан"
@@ -339,26 +339,26 @@
   STATE_338:0 "Колвілл"
   STATE_339:0 "Гекко"
   STATE_340:0 "Клеоне"
-  STATE_341:0 "Park Valley" # (!)
-  STATE_342:0 "Mammoth Sinkholes" # (!)
+  STATE_341:0 "Парк-Веллі"
+  STATE_342:0 "Мамутові воронки"
   STATE_343:0 "Джордан-Веллі"
   STATE_344:0 "Рубі-Гілл"
   STATE_345:0 "Тайг-Веллі"
-  STATE_346:0 "New Moscow" # (!)
-  STATE_347:0 "Owens' Lake" # (!)
-  STATE_348:0 "Henry Mountains" # (!)
+  STATE_346:0 "Нью-Москау"
+  STATE_347:0 "Оуенс-Лейк"
+  STATE_348:0 "Гори Генрі"
   STATE_349:0 "Прескотт"
   STATE_350:0 "Могильник"
   STATE_351:0 "Кув"
   STATE_352:0 "Старий Бригам"
   STATE_353:0 "Орик"
-  STATE_354:0 "America Falls" # (!)
-  STATE_355:0 "Fort Collins" # (!)
-  STATE_356:0 "Omaha City" # (!)
+  STATE_354:0 "Америка-Фоллс"
+  STATE_355:0 "Форт Коллінз"
+  STATE_356:0 "Омага-Сіті"
   STATE_357:0 "Avenal" # (!)
   STATE_358:0 "Кроулендс"
-  STATE_359:0 "Dolan Springs" # (!)
-  STATE_360:0 "Alpaugh" # (!)
+  STATE_359:0 "Долан-Спрінґс"
+  STATE_360:0 "Алпо"
   STATE_361:0 "Cottonwood Canyon" # (!)
   STATE_362:0 "Apache Deforestation" # (!)
   STATE_363:0 "Райська Долина"
@@ -367,13 +367,13 @@
   STATE_366:0 "Broke Wheel Pass" # (!)
   STATE_367:0 "Маунтін-Сіті"
   STATE_368:0 "Східний Карбон"
-  STATE_369:0 "O'Brien" # (!)
+  STATE_369:0 "О'Браєн"
   STATE_370:0 "Золоті вершини"
-  STATE_371:0 "Safe Springs"
+  STATE_371:0 "Safe Springs" # (!)
   STATE_372:0 "Кербі"
-  STATE_373:0 "Cedar City" # (!)
-  STATE_374:0 "Paxton" # (!)
-  STATE_375:0 "Examp" # (!)
+  STATE_373:0 "Сідар-Сіті"
+  STATE_374:0 "Пакстон"
+  STATE_375:0 "Екзамп"
   STATE_376:0 "Кріаг"
   STATE_377:0 "Ель Мескіте"
   STATE_378:0 "Пейсон"
@@ -383,37 +383,37 @@
   STATE_382:0 "Ghost Farm" # (!)
   STATE_383:0 "Kanab" # (!)
   STATE_384:0 "The Exodus" # (!)
-  STATE_385:0 "Broadwater" # (!)
-  STATE_386:0 "Kofa Desert" # (!)
-  STATE_387:0 "Enumclaw" # (!)
+  STATE_385:0 "Бродуотер"
+  STATE_386:0 "Пустеля Кофа"
+  STATE_387:0 "Інамкло"
   STATE_388:0 "Kendrick Deforestation" # (!)
   STATE_389:0 "Зона 51"
   STATE_390:0 "Червона гора"
   STATE_391:0 "Руїни Манті"
-  STATE_392:0 "Nageezi" # (!)
-  STATE_393:0 "Invermere" # (!)
+  STATE_392:0 "Наґізі"
+  STATE_393:0 "Інвермір"
   STATE_394:0 "Ла Гаріта"
-  STATE_395:0 "Tacna" # (!)
+  STATE_395:0 "Такна"
   STATE_396:0 "Таузанд-Окс"
-  STATE_397:0 "Haugan" # (!)
+  STATE_397:0 "Гоґан"
   STATE_398:0 "Морес"
-  STATE_399:0 "Redmond" # (!)
+  STATE_399:0 "Редмонд"
   STATE_400:0 "Ecologist's Rest" # (!)
-  STATE_401:0 "Rockriver" # (!)
-  STATE_402:0 "New Hopi" # (!)
-  STATE_403:0 "The Fountain" # (!)
-  STATE_404:0 "Whackpala" # (!)
+  STATE_401:0 "Рокривер"
+  STATE_402:0 "Нью-Гопі"
+  STATE_403:0 "Фонтан"
+  STATE_404:0 "Вакпала"
   STATE_405:0 "Старий Стерлінг"
   STATE_406:0 "Hot Sulphur Springs Resort" # (!)
   STATE_407:0 "Осоюс"
   STATE_408:0 "Храм Діани"
   STATE_409:0 "Білі піски"
   STATE_410:0 "Лонгкнайф"
-  STATE_411:0 "Cibola" # (!)
+  STATE_411:0 "Сібола"
   STATE_412:0 "Бункер Мексона"
-  STATE_413:0 "Glass Desert" # (!)
+  STATE_413:0 "Скляна пустеля"
   STATE_414:0 "Last Hound" # (!)
-  STATE_415:0 "Cheyenne Mountain" # (!)
+  STATE_415:0 "Гора Шаєнн"
   STATE_416:0 "Гіксон"
   STATE_417:0 "Геліос Один"
   STATE_418:0 "Кер д'Ален"
@@ -427,21 +427,21 @@
   STATE_426:0 "Adel" # (!)
   STATE_427:0 "Pagechee" # (!)
   STATE_428:0 "Grand Staircase" # (!)
-  STATE_429:0 "Sierra Diablo" # (!)
+  STATE_429:0 "Сьєрра-Дьябло"
   STATE_430:0 "Новий Стерлінг"
-  STATE_431:0 "Globe" # (!)
+  STATE_431:0 "Ґлоуб"
   STATE_432:0 "Чіллва"
-  STATE_433:0 "Monterey" # (!)
+  STATE_433:0 "Монтерей"
   STATE_434:0 "Пендлтон"
   STATE_435:0 "Блейн"
   STATE_436:0 "Берлі"
   STATE_437:0 "Зона нагулу"
-  STATE_438:0 "Willow Beach" # (!)
+  STATE_438:0 "Віллоу-Біч"
   STATE_439:0 "Naschitti" # (!)
   STATE_440:0 "Криваві солі"
   STATE_441:0 "Санта-Роза"
-  STATE_442:0 "Sandpoint" # (!)
-  STATE_443:0 "Kimball" # (!)
+  STATE_442:0 "Сендпойнт"
+  STATE_443:0 "Кімболл"
   STATE_444:0 "Ультімо"
   STATE_445:0 "Bighorner Woodland" # (!)
   STATE_446:0 "Rock Crossing" # (!)
@@ -455,15 +455,15 @@
   STATE_454:0 "Кламат"
   STATE_455:0 "The Lane" # (!)
   STATE_456:0 "Дед Горс Пойнт"
-  STATE_457:0 "Farfield" # (!)
+  STATE_457:0 "Ферфілд"
   STATE_458:0 "Беоваве"
   STATE_459:0 "Deep Creek Range" # (!)
   STATE_460:0 "Колорадо-Спрінгс"
   STATE_461:0 "Зимня гавань"
   STATE_462:0 "Кресцент-Веллі"
-  STATE_463:0 "Rainier Mesa" # (!)
-  STATE_464:0 "Logans-Fall" # (!)
-  STATE_465:0 "Clear Creek" # (!)
+  STATE_463:0 "Меса Рейнір"
+  STATE_464:0 "Лоґанс-Фолл"
+  STATE_465:0 "Клір-Крік"
   STATE_466:0 "Mt Calowahcan" # (!)
   STATE_467:0 "Seth Detention Center" # (!)
   STATE_468:0 "Бедал"
@@ -480,13 +480,13 @@
   STATE_479:0 "Корралітос"
   STATE_480:0 "Acri's Place" # (!)
   STATE_481:0 "Санта Розалія"
-  STATE_482:0 "White Rock" # (!)
+  STATE_482:0 "Уайт-Рок"
   STATE_483:0 "Коконіно"
-  STATE_484:0 "Idaho Falls" # (!)
+  STATE_484:0 "Айдахо-Фоллс"
   STATE_485:0 "Еврика"
   STATE_486:0 "Млин Матрони"
-  STATE_487:0 "The Cradle" # (!)
-  STATE_488:0 "Frisco City" # (!)
+  STATE_487:0 "Колиска"
+  STATE_488:0 "Фриско-Сіті"
   STATE_489:0 "Джанктаун"
   STATE_490:0 "A-Crone Plains" # (!)
   STATE_491:0 "Condon" # (!)
@@ -495,21 +495,21 @@
   STATE_494:0 "Каспер Маунтін"
   STATE_495:0 "Гори Уінта"
   STATE_496:0 "Сховище 24"
-  STATE_497:0 "Caineville" # (!)
-  STATE_498:0 "Shiprock" # (!)
+  STATE_497:0 "Кейнвілл"
+  STATE_498:0 "Шипрок"
   STATE_499:0 "Парован"
   STATE_500:0 "Dead Mountains" # (!)
   STATE_501:0 "Ель Мальпаїс"
   STATE_502:0 "Sandlake Tolani" # (!)
   STATE_503:0 "Тьєрра-Амарілья"
   STATE_504:0 "The Bull Pen" # (!)
-  STATE_505:0 "The Quarantine Zone" # (!)
+  STATE_505:0 "Карантинна зона"
   STATE_506:0 "Белкнап Спрінгс"
   STATE_507:0 "Кліруотер"
   STATE_508:0 "Східний Гранд-Каньйон"
   STATE_509:0 "Веначі"
-  STATE_510:0 "Briggsdale" # (!)
-  STATE_511:0 "Vallejo" # (!)
+  STATE_510:0 "Бриґґсдейл"
+  STATE_511:0 "Вальєхо"
   STATE_512:0 "Оазис"
   STATE_513:0 "Bull Mountain" # (!)
   STATE_514:0 "Yanktown Convergence" # (!)
@@ -521,44 +521,44 @@
   STATE_520:0 "Флагстафф"
   STATE_521:0 "МакГілл"
   STATE_522:0 "Місто Червоного Сонця"
-  STATE_523:0 "Whiterock Wasteland" # (!)
+  STATE_523:0 "Пустка Уайтрок"
   STATE_524:0 "Робот-Сіті"
   STATE_525:0 "Місто Псів"
-  STATE_526:0 "Camp Monte Cristo" # (!)
+  STATE_526:0 "Табір Монте-Крісто"
   STATE_527:0 "Гленвуд-Спрінгс"
-  STATE_528:0 "Juárez City" # (!)
+  STATE_528:0 "Сьюдад-Хуарес"
   STATE_529:0 "Freztown" # (!)
-  STATE_530:0 "Grouse Creek" # (!)
-  STATE_531:0 "Mt Evans" # (!)
-  STATE_532:0 "Vault 27" # (!)
+  STATE_530:0 "Ґрауз-Крік"
+  STATE_531:0 "Гора Еванс"
+  STATE_532:0 "Сховище 27"
   STATE_533:0 "Ель-Ріо-дель-Дістрібуїдор"
-  STATE_534:0 "Pine Springs" # (!)
+  STATE_534:0 "Пайн-Спрінґс"
   STATE_535:0 "Алтона"
-  STATE_536:0 "Romemarch" # (!)
+  STATE_536:0 "Роуммарч"
   STATE_537:0 "Frogmen" # (!)
-  STATE_538:0 "Rio Rancho" # (!)
+  STATE_538:0 "Ріо-Ранчо"
   STATE_539:0 "Санта-Крус"
   STATE_540:0 "Якама"
-  STATE_541:0 "Caprock" # (!)
+  STATE_541:0 "Капрок"
   STATE_542:0 "Брайс"
   STATE_543:0 "Ранчо Мерісвілля"
   STATE_544:0 "Честна гра"
-  STATE_544:0 "Castle Rock" # (!)
+  STATE_544:0 "Касл-Рок"
   STATE_546:0 "Форт Саммерс"
-  STATE_547:0 "Beaver City" # (!)
+  STATE_547:0 "Бівер-Сіті"
   STATE_548:0 "Наварро"
   STATE_549:0 "Гора Сіон"
   STATE_550:0 "Земля воронів"
   STATE_551:0 "Нью-Ханаан"
   STATE_552:0 "Гудспрінгс"
-  STATE_553:0 "Willow Beach" # (!)
+  STATE_553:0 "Віллоу-Біч"
   STATE_554:0 "Twin Mothers" # (!)
   STATE_555:0 "Уачінера"
   STATE_556:0 "База Кадьяк"
   STATE_557:0 "Вістлер"
-  STATE_558:0 "Camp Ria" # (!)
+  STATE_558:0 "Табір Ріа"
   STATE_559:0 "Ель Терреро"
-  STATE_560:0 "Esterbrook" # (!)
+  STATE_560:0 "Естербрук"
   STATE_561:0 "Ерлс Коув"
   STATE_562:0 "Чічан Беліз"
   STATE_563:0 "Старе Сонце"
@@ -574,13 +574,13 @@
   STATE_573:0 "Чорна гора"
   STATE_574:0 "Ласт-Чанс"
   STATE_575:0 "Gold Bar" # (!)
-  STATE_576:0 "Pocatello" # (!)
-  STATE_577:0 "Rowley" # (!)
+  STATE_576:0 "Покателло"
+  STATE_577:0 "Роулі"
   STATE_578:0 "Абердін"
   STATE_579:0 "Нуева Галеана"
-  STATE_580:0 "New Chemult" # (!)
-  STATE_581:0 "Chiefs' Place"
-  STATE_582:0 "Grey Mountain"
+  STATE_580:0 "Нью-Чемулт"
+  STATE_581:0 "Chiefs' Place" # (!)
+  STATE_582:0 "Grey Mountain" # (!)
   STATE_583:0 "Мехікалі"
   STATE_584:0 "Ранчо Алігаторів"
   STATE_585:0 "Модок"
@@ -591,20 +591,20 @@
   STATE_590:0 "Єллоустоун"
   STATE_591:0 "Дана Пойнт"
   STATE_592:0 "Ештон"
-  STATE_593:0 "Brewster" # (!)
+  STATE_593:0 "Брюстер"
   STATE_594:0 "Bloomfield Expanse" # (!)
   STATE_595:0 "Свята долина"
-  STATE_596:0 "Kingman" # (!)
+  STATE_596:0 "Кінґмен"
   STATE_597:0 "Nosebreaker" # (!)
-  STATE_598:0 "The Burrows" # (!)
+  STATE_598:0 "Нори"
   STATE_599:0 "Табір"
-  STATE_600:0 "Diamond Peak" # (!)
+  STATE_600:0 "Даймонд-Пік"
   STATE_601:0 "Саліда"
   STATE_602:0 "Блекуеллз"
-  STATE_603:0 "Hollow Hills" # (!)
-  STATE_604:0 "Williams" # (!)
+  STATE_603:0 "Голлоу-Гіллс"
+  STATE_604:0 "Вільямс"
   STATE_605:0 "Modest Town" # (!)
-  STATE_606:0 "Coaltopia" # (!)
+  STATE_606:0 "Коалтопія"
   STATE_607:0 "Plankinton" # (!)
   STATE_608:0 "Blackfoot" # (!)
   STATE_609:0 "Makah Territory" # (!)
@@ -622,12 +622,12 @@
   STATE_621:0 "Гора Делано"
   STATE_622:0 "Junction Range" # (!)
   STATE_623:0 "Мінеральні гори"
-  STATE_624:0 "Mount Catherine" # (!)
+  STATE_624:0 "Гора Кетрін"
   STATE_625:0 "Дельта-Рідж"
   STATE_626:0 "Брюїн Пойнт"
   STATE_627:0 "Храмова гора"
   STATE_628:0 "Логан Рок"
-  STATE_629:0 "Loa Range" # (!)
+  STATE_629:0 "Хребет Лоа"
   STATE_630:0 "Кругове Перехрестя"
   STATE_631:0 "Лисий пік"
   STATE_632:0 "Гори Галло"
@@ -639,17 +639,17 @@
   STATE_638:0 "Таємні печери"
   STATE_639:0 "Fort Lyon" # (!)
   STATE_640:0 "Заборонені землі"
-  STATE_641:0 "Santa Fe Ruins" # (!)
-  STATE_642:0 "Longs Peak" # (!)
+  STATE_641:0 "Руїни Санта-Фе"
+  STATE_642:0 "Лонґс-Пік"
   STATE_643:0 "Маунт-Пауелл"
   STATE_644:0 "Crystal Daggers" # (!)
   STATE_645:0 "The Village" # (!)
   STATE_646:0 "Medicine Bow" # (!)
   STATE_647:0 "Пік Тручас"
   STATE_648:0 "Jemez Mountains" # (!)
-  STATE_649:0 "Baxter Peak" # (!)
+  STATE_649:0 "Бакстер-Пік"
   STATE_650:0 "Південний хребет Лагуна" 
-  STATE_651:0 "San Felipe" # (!)
+  STATE_651:0 "Сан Феліпе"
   STATE_652:0 "Лінкольн"
   STATE_653:0 "Грейт-Фолс"
   STATE_654:0 "Браунінг"
@@ -658,19 +658,19 @@
   STATE_657:0 "Dupuyer" # (!)
   STATE_658:0 "Конрад"
   STATE_659:0 "Драммонд"
-  STATE_660:0 "Highwood" # (!)
+  STATE_660:0 "Гайвуд"
   STATE_661:0 "Абердін"
   STATE_662:1 "Незаселена пустка"
   STATE_663:1 "Незаселена пустка"
-  STATE_664:2 "Akimiski Island"
-  STATE_665:2 "Door"
+  STATE_664:2 "Akimiski Island" # (!)
+  STATE_665:2 "Door" # (!)
   STATE_666:1 "Незаселена пустка"
   STATE_667:1 "Незаселена пустка"
-  STATE_668:0 "Geraldine"
-  STATE_669:2 "Centerville"
+  STATE_668:0 "Geraldine" # (!)
+  STATE_669:2 "Centerville" # (!)
   STATE_670:1 "Незаселена пустка"
   STATE_671:1 "Незаселена пустка"
-  STATE_672:0 "Pryor Mountain"
+  STATE_672:0 "Pryor Mountain" # (!)
   STATE_673:1 "Незаселена пустка"
   STATE_674:1 "Незаселена пустка"
   STATE_675:1 "Незаселена пустка"
@@ -678,7 +678,7 @@
   STATE_677:0 "Лос"
   STATE_678:0 "Горний дім"
   STATE_679:0 "Ель-Запе"
-  STATE_680:0 "Parral" # (!)
+  STATE_680:0 "Парраль"
   STATE_681:0 "Колмена-дель-Дістрібуїдор"
   STATE_682:0 "Вінатеріас"
   STATE_683:0 "Гуамучіль"
@@ -688,9 +688,9 @@
   STATE_687:0 "Лос Мочіс"
   STATE_688:0 "Навохоа"
   STATE_689:0 "Йекора"
-  STATE_690:1 "Panasonica" # (!)
+  STATE_690:1 "Панасоніка"
   STATE_691:1 "Незаселена пустка"
-  STATE_692:0 "Meseta de Cacaxtla" # (!)
+  STATE_692:0 "Месета де Какаштла"
   STATE_693:1 "Незаселена пустка"
   STATE_694:1 "Незаселена пустка"
   STATE_695:1 "Незаселена пустка"
@@ -700,7 +700,7 @@
   STATE_699:1 "Незаселена пустка"
   STATE_700:0 "Elk Ridge" # (!)
   STATE_701:1 "Незаселена пустка"
-  STATE_702:0 "Niagara" # (!)
+  STATE_702:0 "Ніаґара"
   STATE_703:1 "Незаселена пустка"
   STATE_704:1 "Незаселена пустка"
   STATE_705:1 "Незаселена пустка"
@@ -724,7 +724,7 @@
   STATE_723:1 "Незаселена пустка"
   STATE_724:1 "Незаселена пустка"
   STATE_725:1 "Незаселена пустка"
-  STATE_726:2 "Anticosti Island" # (!)
+  STATE_726:2 "Острів Антікості"
   STATE_727:1 "Незаселена пустка"
   STATE_728:1 "Незаселена пустка"
   STATE_729:1 "Незаселена пустка"
@@ -739,7 +739,7 @@
   STATE_738:0 "Острови Сан-Хуан"
   STATE_739:0 "Мазатлан"
   STATE_740:0 "Дуранго"
-  STATE_741:0 "Nuevo Ideal" # (!)
+  STATE_741:0 "Нуево-Ідеаль"
   STATE_742:0 "Сталеве Серце Ріо"
   STATE_743:0 "Ранчо Просперо"
   STATE_744:0 "Вергуенса де ла Лехіон"
@@ -749,7 +749,7 @@
   STATE_748:0 "Армагеддон Естасьйон"
   STATE_749:0 "Єрро Пуебло"
   STATE_750:0 "Торреон"
-  STATE_751:0 "Desierto Floral" # (!)
+  STATE_751:0 "Десьєрто-Флораль"
   STATE_752:0 "Зруйноване депо"
   STATE_753:0 "Монтеррей"
   STATE_754:0 "Сан-Карлос"
@@ -774,12 +774,12 @@
   STATE_773:0 "Супутникове кладовище"
   STATE_774:0 "Гауджимік"
   STATE_775:0 "Старі укріплення"
-  STATE_776:0 "The Refinery" # (!)
+  STATE_776:0 "Переробний завод"
   STATE_777:0 "Кма' Су'тал Маскаб Хацик"
   STATE_778:0 "Таміауа"
   STATE_779:0 "Камніо-а-лос-Астекас"
   STATE_780:0 "Ель Форо"
-  STATE_781:0 "Vigilia" # (!)
+  STATE_781:0 "Віґілія"
   STATE_782:0 "Агуаскальєнтес"
   STATE_783:0 "Тепік"
   STATE_784:0 "Святилище"
@@ -794,8 +794,8 @@
   STATE_793:0 "Орлиний перевал"
   STATE_794:0 "Кристальне місто"
   STATE_795:0 "Увальде"
-  STATE_796:0 "T.A.A. Estate" # (!)
-  STATE_797:0 "Howitzer's Plateau" # (!)
+  STATE_796:0 "Маєток ТАЗ"
+  STATE_797:0 "Плато Гаубіца"
   STATE_798:0 "Армстронг"
   STATE_799:0 "Порт Лавака"
   STATE_800:0 "Мансанільйо"
@@ -864,26 +864,26 @@
   STATE_863:0 "Шочікалько"
   STATE_864:0 "Меріда Каах"
   STATE_865:0 "Кармен Каах"
-  STATE_866:0 "Ensenada" # (!)
+  STATE_866:0 "Енсенада"
   STATE_867:0 "Шауні"
-  STATE_868:0 "Oak City" # (!)
+  STATE_868:0 "Оук-Сіті"
   STATE_869:0 "Пото"
   STATE_870:0 "Консервна фабрика"
   STATE_871:0 "Шрівпорт"
   STATE_872:0 "Тексаркана"
-  STATE_873:0 "Natch" # (!)
+  STATE_873:0 "Натч"
   STATE_874:0 "Александрія"
   STATE_875:0 "Лафаєт"
-  STATE_876:0 "Moss Bluff" # (!)
+  STATE_876:0 "Мосс-Блафф"
   STATE_877:0 "Ідабел"
-  STATE_878:0 "Paris" # (!)
+  STATE_878:0 "Перис"
   STATE_879:0 "Монт"
   STATE_880:0 "Г'юстон"
-  STATE_881:0 "Sulphurtown" # (!)
+  STATE_881:0 "Сулфуртаун"
   STATE_882:0 "Ліберсіті"
   STATE_883:0 "The Big Spend" # (!)
   STATE_884:0 "Carthage" # (!)
-  STATE_885:0 "Jasper" # (!)
+  STATE_885:0 "Джаспер"
   STATE_886:0 "Clear Skies" # (!)
   STATE_887:0 "Проржавілі поля"
   STATE_888:0 "Чікаша"
@@ -893,11 +893,11 @@
   STATE_892:0 "Даллас"
   STATE_893:0 "Форт-Уорт"
   STATE_894:0 "Гантсвілл"
-  STATE_895:0 "Athens" # (!)
-  STATE_896:0 "The Center" # (!)
+  STATE_895:0 "Атенс"
+  STATE_896:0 "Центр"
   STATE_897:0 "Крекетт"
   STATE_898:0 "Вернон"
-  STATE_899:0 "Matador City" # (!)
+  STATE_899:0 "Матадор-Сіті"
   STATE_900:0 "Станція KXII"
   STATE_901:0 "Tubehead Studios" # (!)
   STATE_902:0 "Lodgehouse Falls" # (!)
@@ -919,7 +919,7 @@
   STATE_918:0 "Mutie Plains" # (!)
   STATE_919:0 "Гондо"
   STATE_920:0 "Керрвілль"
-  STATE_921:0 "Lone Star" # (!)
+  STATE_921:0 "Лоун-Стар"
   STATE_922:0 "Браунвуд"
   STATE_923:0 "Коулман"
   STATE_924:0 "Сан-Саба"
