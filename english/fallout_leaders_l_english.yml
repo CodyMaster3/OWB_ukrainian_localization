@@ -564,6 +564,11 @@ MOS_ULYSSES_DESC: "Досвідчений воїн і розвідник, Улі
 MOS_BENJAMIN_TAYLOR_NAME: "Бенжамін Тейлор"
 MOS_MATTHEW_KERSHAW_NAME: "Меттью Кершоу"
 MOS_FRANCIS_POSEY_NAME: "Френсіс Поузі"
+# MOT
+ MOT_GENERAL_LEE_OLIVER_NAME: "Лі Олівер"
+ MOT_GENERAL_LEE_OLIVER_DESC: ""
+ MOT_JOSH_HANLON_LEADER_NAME: "Джош Генлон"
+ MOT_JOSH_HANLON_DESC: ""
 # MRA
 MRA_RAIDER_COUNCIL_NAME: "Рейдерська Рада"
 MRA_RAIDER_COUNCIL_DESC: ""

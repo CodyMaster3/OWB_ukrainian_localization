@@ -1,6 +1,20 @@
 ﻿l_english:
- DR_LICENSE_ACCEPTANCE:1 "§Y$THEM|U$§! скорше всього не приймутт §Yпропозицію стосовно зброї§! від §Y$US$§!: "
- DR_US_DEMOCRATIC:1 "§Y$US|U$§! Народ: "
- DR_US_NEUTRAL:1 "§Y$US|U$§! Правитель: "
- DR_US_COMMUNIST:1 "§Y$US|U$§! Інтелектуали: "
- DR_US_FASCIST:1 "§Y$US|U$§! Еліта: "
+ DR_LICENSE_ACCEPTANCE: "§Y$THEM|U$§! з меншою ймовірністю прийматиме §Yзапити на вирбоничі ліцензії§! від держави §Y$US$§!: " # (&)
+ DR_US_DEMOCRATIC: "§Y$US|U$§! — народ: "
+ DR_US_NEUTRAL: "§Y$US|U$§! — правитель: "
+ DR_US_COMMUNIST: "§Y$US|U$§! — інтелектуали: "
+ DR_US_FASCIST: "§Y$US|U$§! — еліти: "
+
+### АЛЬЯНС ###
+ # Invite to faction
+ DIPLOMACY_OFFER_JOIN_FACTION_TITLE: "Запросити до альянсу"
+ DIPLOMACY_OFFER_JOIN_FACTION_DESC:1 "Invite $COUNTRY|UH$ to join $FACTION|H$. This will allow you to call each other to war. The faction leader is $LEADER|H$.\nIf any volunteers have been sent or received between the faction members, they will be sent back."
+ DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DESC:0 "Invite them to join our faction."
+ DIPLOMACY_OFFER_JOIN_FACTION_ACTION_DETAILED_DESC:0 "Staged coups between you and them will automatically cancel if they join your faction"
+ DIPLOMACY_OFFER_JOIN_FACTION_KICKED_BY_YOU_RECENTLY:1 "$COUNTRY|UY$ has been kicked from the faction recently. You can't reinvite them back before $DATE|Y$"
+
+ # Join faction
+ DIPLOMACY_JOIN_FACTION_TITLE: "Попросити приєднатися до альянсу"
+ DIPLOMACY_JOIN_FACTION_ACTION_DESC:0 "By joining a faction, we will have the option to join their wars, and they have the option to join our wars. We will then fight together!"
+ DIPLOMACY_JOIN_FACTION_REQUEST_DESC:2 "$COUNTRY|UY$ wants to join our faction $FACTION|Y$.\nIf any volunteers have been sent or received between the faction members, they will be sent back."
+ DIPLOMACY_JOIN_FACTION_NO_FACTION:1 "$COUNTRY|UH$ is not in a faction."
