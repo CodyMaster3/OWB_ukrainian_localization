@@ -24,64 +24,64 @@
  fallout_war_support_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! має станом на зараз §Y[?From.Controller:has_war_support|2%]§! підтримки війни."
  fallout_war_support_map_mode_tooltip_delayed: "[From.Controller.GetFalloutWarSupportMapModeTooltipDelayed]"
 
+ #fallout_mil_factories_map_mode: "$arms_factory_plural$"
+ #MAPMODE_FALLOUT_MIL_FACTORIES_MAP_MODE: "$fallout_mil_factories_map_mode$§! $MAPMODE_CONSTANT$"
+ #MAPMODE_FALLOUT_MIL_FACTORIES_MAP_MODE_NAME: "$fallout_mil_factories_map_mode$"
+ #MAPMODE_FALLOUT_MIL_FACTORIES_MAP_MODE_DESCRIPTION: "Colours each state depending on the state's $arms_factory$ level."
+ #fallout_mil_factories_map_mode_tooltip: "§Y[From.GetName]§! currently holds §Y[?From.building_level@arms_factory|0]§! £mil_factory£ $arms_factory_plural$."
+ #fallout_mil_factories_map_mode_tooltip_delayed: "Owner: §Y[From.Owner.GetNameWithFlag]§! \nController: §Y[From.Controller.GetNameWithFlag]§!"
 
+ #fallout_civ_factories_map_mode: "$industrial_complex_plural$"
+ #MAPMODE_FALLOUT_CIV_FACTORIES_MAP_MODE: "§Y$fallout_civ_factories_map_mode$§! $MAPMODE_CONSTANT$"
+ #MAPMODE_FALLOUT_CIV_FACTORIES_MAP_MODE_NAME: "$fallout_civ_factories_map_mode$"
+ #MAPMODE_FALLOUT_CIV_FACTORIES_MAP_MODE_DESCRIPTION: "Colours each state depending on the state's $industrial_complex$ level."
+ #fallout_civ_factories_map_mode_tooltip: "§Y[From.GetName]§! currently holds §Y[?From.building_level@industrial_complex|0]§! £civ_factory£ $industrial_complex_plural$."
+ #fallout_civ_factories_map_mode_tooltip_delayed: "Owner: §Y[From.Owner.GetNameWithFlag]§! \nController: §Y[From.Controller.GetNameWithFlag]§!"
 
-
-
-
-
-
-
-
-
-
-
-
-
- fallout_diplomatic_range_map_mode: "Дипломатический радиус"
+ fallout_diplomatic_range_map_mode: "Diplomatic Range"
  MAPMODE_FALLOUT_DIPLOMATIC_RANGE_MAP_MODE: "§Y$fallout_diplomatic_range_map_mode$§! $MAPMODE_CONSTANT$"
  MAPMODE_FALLOUT_DIPLOMATIC_RANGE_MAP_MODE_NAME: "$fallout_diplomatic_range_map_mode$"
- MAPMODE_FALLOUT_DIPLOMATIC_RANGE_MAP_MODE_DESCRIPTION: "Окрашивает страны в пределах дипломатического радиуса в жёлтый, Окрашивает страны вне досягаемости в красный."
+ MAPMODE_FALLOUT_DIPLOMATIC_RANGE_MAP_MODE_DESCRIPTION: "Colours countries within our diplomatic range yellow and countries out of range in red."
  fallout_diplomatic_range_map_mode_tooltip: "[From.Controller.GetFalloutDiplomaticRangeMapModeTooltip]"
  fallout_diplomatic_range_map_mode_tooltip_delayed: "[From.Controller.GetFalloutDiplomaticRangeMapModeTooltipDelayed]"
 
- fallout_caps_income_map_mode: "Доход"
+ fallout_caps_income_map_mode: "Caps Income"
  MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE: "§Y$fallout_caps_income_map_mode$§! $MAPMODE_CONSTANT$"
  MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE_NAME: "$fallout_caps_income_map_mode$"
- MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE_DESCRIPTION: "Показывает доход каждой страны."
- fallout_caps_income_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! имеет на данный момент [?From.Controller:caps_daily_modified|3+] дохода."
+ MAPMODE_FALLOUT_CAPS_INCOME_MAP_MODE_DESCRIPTION: "Shows how much caps income each country has."
+ fallout_caps_income_map_mode_tooltip: "§Y[From.Controller.GetNameWithFlag]§! currently has a [From.Controller.GetCapType] income of [?From.Controller:caps_net|3+]."
  fallout_caps_income_map_mode_tooltip_delayed: ""
 
- fallout_core_creation_map_mode: "Национализация"
+ fallout_core_creation_map_mode: "Core Creation"
  MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE: "§Y$fallout_core_creation_map_mode$§! $MAPMODE_CONSTANT$"
  MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE_NAME: "$fallout_core_creation_map_mode$"
- MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE_DESCRIPTION: "Показывает, какие из принадлежащих вам и контролируемых территорий вы можете использовать в настоящее время."
+ MAPMODE_FALLOUT_CORE_CREATION_MAP_MODE_DESCRIPTION: "Shows which of your owned and controlled states you can currently core."
  fallout_core_creation_map_mode_tooltip: "[From.GetFalloutCoreCreationMapModeTooltip]"
  fallout_core_creation_map_mode_tooltip_delayed: "[From.GetFalloutCoreCreationMapModeTooltipDelayed]"
 
-  # Scripted Localisation:
- fallout_stability_map_mode_tt: "Изменяется на [?temp|2%=+] в неделю."
+ # Scripted Localisation:
+ fallout_stability_map_mode_tt: "It changes by [?temp|2%=+] per week."
 
  fallout_war_support_map_mode_tt: "$fallout_stability_map_mode_tt$"
 
- fallout_diplomatic_range_map_mode_tt_us: "Мы - §Y[From.Controller.GetNameWithFlag]§!."
- fallout_diplomatic_range_map_mode_tt_in_range: "§YГосударство [From.Controller.GetNameWithFlag]§! в пределах нашего дипломатического радиуса."
- fallout_diplomatic_range_map_mode_tt_not_in_range: "§RГосударство [From.Controller.GetNameWithFlag]§! вне досягаемости."
- fallout_diplomatic_range_map_mode_tt_delayed_neighbor: "Чтобы находиться в пределах нашей дипломатической зоны действия, они должны контролировать §Gдомашнюю территорию§! §Yгосударство§! в пределах §Y[?distance|2] км§! любого из наших §Gдомашней области§! §Yсостояний§!.\nПоскольку они наши соседи, расстояние не имеет значения, и они считаются пределами нашей дипломатической сферы."
- fallout_diplomatic_range_map_mode_tt_delayed: "Чтобы быть в пределах нашего дипломатического радиуса, они должны контролировать §Gнациональный§! §Yрегион§! в пределах §Y[?distance|2] км§! от наших  §Gнациональных§! §Yрегионов§!.\nНа данный момент расстояние между нами §Y[?closest_distance_to_controller|2] км§!."
+ fallout_diplomatic_range_map_mode_tt_us: "We are §Y[From.Controller.GetNameWithFlag]§!."
+ fallout_diplomatic_range_map_mode_tt_in_range: "§Y[From.Controller.GetNameWithFlag]§! is within our diplomatic range."
+ fallout_diplomatic_range_map_mode_tt_not_in_range: "§R[From.Controller.GetNameWithFlag]§! is not within our diplomatic range."
+ fallout_diplomatic_range_map_mode_tt_delayed_neighbor: "In order to be within our diplomatic range they must control a §Ghome-area§! §Ystate§! within §Y[?distance|2] km§! of any of our §Ghome-area§! §Ystates§!.\nBecause they are our neighbour, distance is of no concern and they are considered within our diplomatic range."
+ fallout_diplomatic_range_map_mode_tt_delayed: "In order to be within our diplomatic range they must control a §Ghome-area§! §Ystate§! within §Y[?distance|2] km§! of any of our §Ghome-area§! §Ystates§!.\nThe current distance between us is §Y[?closest_distance_to_controller|2] km§!."
 
- fallout_core_map_mode_tt_core: "§Y[From.GetName]§! - наш национальный регион."
- fallout_core_map_mode_tt_owned: "§Y[From.GetName]§! - ненациональный регион."
- fallout_core_map_mode_tt_occupied: "§Y[From.GetName]§! - оккупированный нами регион."
- fallout_core_map_mode_tt_occupied_by_enemy: "§Y[From.GetName]§! оккупирован государством §R[From.Controller.GetNameWithFlag]§!."
- fallout_core_map_mode_tt_core_not_owned_but_controlled: "§Y[From.GetName]§! оккупирован нами, но всё ещё принадлежит государству §R[From.Owner.GetNameWithFlag]§!."
- fallout_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! во владении государства §Y[From.Owner.GetNameWithFlag]§!."
- fallout_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! изначально владелся государством §R[From.Owner.GetNameWithFlag]§!."
- fallout_core_map_mode_tt_can_core: "Мы можем превратить §Y[From.GetName]§! в §Cнациональный регион§!."
+ fallout_core_map_mode_tt_core: "§Y[From.GetName]§! is our core state."
+ fallout_core_map_mode_tt_owned: "§Y[From.GetName]§! is a non-core state of us."
+ fallout_core_map_mode_tt_occupied: "§Y[From.GetName]§! is occupied by us."
+ fallout_core_map_mode_tt_occupied_by_enemy: "§Y[From.GetName]§! is currently occupied by §R[From.Controller.GetNameWithFlag]§!."
+ fallout_core_map_mode_tt_core_not_owned_but_controlled: "§Y[From.GetName]§! is currently occupied by us, but it is still owned by §R[From.Owner.GetNameWithFlag]§!."
+ fallout_core_map_mode_tt_core_not_owned: "§Y[From.GetName]§! is owned by §Y[From.Owner.GetNameWithFlag]§!."
+ fallout_core_map_mode_tt_occupied_info: "§Y[From.GetName]§! is originally owned by §R[From.Owner.GetNameWithFlag]§!."
+ fallout_core_map_mode_tt_can_core: "We are currently able to make §Y[From.GetName]§! to a §Ccore state§!."
 
- fallout_core_creation_map_mode_tt_is_core: "§Y[From.GetName]§! это уже наш национальный реион."
- fallout_core_creation_map_mode_tt_can_core: "§GМы можем сделать §Y[From.GetName]§! нашим национальным реионом.§W"
- fallout_core_creation_map_mode_tt: "§RВ настоящее время мы не можем сделать §Y[From.GetName]§! нашим национальным реионом.§W"
- fallout_core_creation_map_mode_tt_delayed: "§HНац. регион§! £pol_power [?coring_var_coring_cost] \n--------------\n$ADD_CORE_TT_DELAYED$"
+ fallout_core_creation_map_mode_tt_is_core: "§Y[From.GetName]§! is already our core state."
+ fallout_core_creation_map_mode_tt_can_core: "§GWe can make §Y[From.GetName]§! our core state.§W"
+ fallout_core_creation_map_mode_tt: "§RWe currently cannot make §Y[From.GetName]§! our core state.§W"
+ fallout_core_creation_map_mode_tt_delayed: "§HCore state§! £pol_power [?coring_var_coring_cost] \n--------------\n$ADD_CORE_TT_DELAYED$"
  fallout_core_creation_map_mode_tt_delayed_tlaloc: "$ADD_CORE_TLALOC_TT$ \n--------------\n$ADD_CORE_TLALOC_TT_DELAYED$"
  fallout_core_creation_map_mode_tt_delayed_two: "$ADD_CORE_TWO_TT$ \n--------------\n$ADD_CORE_TWO_TT_DELAYED$"

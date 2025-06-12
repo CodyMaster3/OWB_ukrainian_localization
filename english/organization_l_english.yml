@@ -6,7 +6,7 @@
  organization_add_already_present_tt:0 "[GetOrganizationNameTT] уже присутній в [This.GetName]\n"
  organization_add_influence_tt:0 "Змінити відносини [GetOrganizationName] на [?org_influence_amount|+0]\n"
  ### Flash Sale GUI
- caps_market_tt:0 "Крышковий ринок"
+ caps_market_tt:0 "Кришковий ринок"
  market_title_tt:0 "Чорний ринок"
  back_button_tt:0 "Повернутися на попередній екран."
  gun_runner_open_tt:0 "Чорний ринок Зброярів"

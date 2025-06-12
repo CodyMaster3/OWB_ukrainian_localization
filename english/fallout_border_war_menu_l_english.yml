@@ -33,8 +33,8 @@
   string_border_war_select_state_tt_disabled_impassable_states: "§RЛандшафт між §Y[?Root.selected_own_state_for_border_war.GetName]§! і §Y[This.GetName]§! непрохідний.§!"
   string_border_war_select_state_tt: "§GКлацніть§!, щоби вибрати цю область. \n§GПравий клац§!, щоби центрувати карту на §Y[This.GetName]§!."
   
-  string_border_war_select_state_tt_delayed_own_state: "Тут ви можете вибрати з якої вашої області ви хочете почати прикордонну війну. \nВибравши цю область ви побачите всі доступні для прикордонної війни сусідні області справа."
-  string_border_war_select_state_tt_delayed_enemy_state: "Тут ви можете выбрати на якій ворожій області будеі проходит прикордонна війна. \nВибравши цю область - на ній і почнеться прикордонна війна."
+  string_border_war_select_state_tt_delayed_own_state: "Тут ви можете вибрати, з якої вашої області ви хочете почати прикордонну війну. \nВибравши цю область, ви побачите всі доступні для прикордонної війни сусідні області справа."
+  string_border_war_select_state_tt_delayed_enemy_state: "Тут ви можете вибрати, на якій ворожій області буде проходити прикордонна війна. \nВибравши цю область, на ній і почнеться прикордонна війна."
   
   string_border_war_select_leader_tt_disabled_in_border_war: "§R[This.GetBorderWarMenuLeaderName] уже залучений в прикордонну війну.§!"
   string_border_war_select_leader_tt_disabled_in_combat: "§R[This.GetBorderWarMenuLeaderName] уже залучений в бій.§!"

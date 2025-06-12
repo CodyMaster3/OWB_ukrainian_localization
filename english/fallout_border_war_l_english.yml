@@ -25,7 +25,7 @@
  border_conflict_won_defender.1.a:0 "Ми показали їм свою силу!"
  border_conflict_lost_attacker.1.t:0 "Поразка в [our_state.GetName]"
  border_conflict_lost_attacker.1.d:0 "Сили під командуванням [their_country.GetLeader] вибили наші війська зі спірного району між [our_state.GetName] і [their_state.GetName]. Наші війська відступили, щоби перегрупуватися и мати можливість вибити ворога в майбутньому."
- border_conflict_lost_attacker.1.a:0 "Мы должны контратаковать как можно быстрей! "
+ border_conflict_lost_attacker.1.a:0 "Ми мусимо контратакувать якомога швидше! "
  border_conflict_lost_defender.1.t:0 "Поразка в [our_state.GetName]"
  border_conflict_lost_defender.1.d:0 "Сили під командуванням [their_country.GetLeader] вибили наші війська зі спірного району між [our_state.GetName] і [their_state.GetName]. Наші війська відступили, щоби перегрупуватися и мати можливість вибити ворога в майбутньому."
  border_conflict_lost_defender.1.a:0 "Ми повинні контратакувати якомога скорше! "

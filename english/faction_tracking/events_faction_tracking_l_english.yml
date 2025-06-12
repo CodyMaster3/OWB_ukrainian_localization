@@ -31,7 +31,7 @@
   chosen_ones_faction_events.4.d:0 "[From.From.GetName] приєднався до Вибранних!"
   chosen_ones_faction_events.4.a:0 "Интересно."
   chosen_ones_faction_events.5.t:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися до них"
-  chosen_ones_faction_events.5.d:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися до Избранным. Як зреагуємо?"
+  chosen_ones_faction_events.5.d:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися до Обраних. Як зреагуємо?"
   chosen_ones_faction_events.5.a:0 "Сила в кількості."
   chosen_ones_faction_events.5.b:0 "Ми граємо в соло."
 
@@ -205,7 +205,7 @@
   daughters_of_hecate_faction_events.2.d:0 "Дочки Гекати вітають нас як союзників!"
   daughters_of_hecate_faction_events.2.a:0 "Прекрасно!"
   daughters_of_hecate_faction_events.3.t:0 "Відмова!"
-  daughters_of_hecate_faction_events.3.d:0 "Доньки Гекаты відхилили наше прохання."
+  daughters_of_hecate_faction_events.3.d:0 "Доньки Гекати відхилили наше прохання."
   daughters_of_hecate_faction_events.3.a:0 "Мде..."
   daughters_of_hecate_faction_events.4.t:0 "Зміни в альянсах"
   daughters_of_hecate_faction_events.4.d:0 "[From.From.GetName] приєднався до Доньок Гекати!"

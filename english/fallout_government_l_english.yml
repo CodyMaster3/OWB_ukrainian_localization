@@ -6,8 +6,8 @@
  coring_raider_infantry_equipment_per_infrastructure_mod:0 "Infantry Equipment from Coring (per Infrastructure)"
  coring_raider_command_power_per_infrastructure_mod:0 "Command Power from Coring (per Infrastructure)"
  coring_raider_caps_per_infrastructure_mod:0 "Caps from Coring (per Infrastructure)"
- disables_the_ransack_coring_mechanic:0 "Disables the Raider §Y"Ransack\"§! Coring Mechanic."
- enables_the_ransack_coring_mechanic:0 "Enables the Raider §Y"Ransack\"§! Coring Mechanic."
+ disables_the_ransack_coring_mechanic:0 "Disables the Raider §Y\"Ransack\"§! Coring Mechanic."
+ enables_the_ransack_coring_mechanic:0 "Enables the Raider §Y\"Ransack\"§! Coring Mechanic.\n\n(When §GCoring§! a state, damages existing §YInfrastructure§! to gain §YCaps§!, §YInfantry Equipment§!, and §YCommand Power§!.)"
 
  ruler:0 "Абсолютна влада"
  ruler_noun:0 "Абсолютна влада"
@@ -283,11 +283,19 @@
   ## Drug Laws
 
  drug_laws:0 "Наркотичні речовини"
- chems_banned:0 "Наркотики заборонені"
- chems_banned_desc:0 "У людей багато вад, але найстрашнішою з них є залежність від наркотиків. У найрізноманітніших формах, розмірах і кольорах, ефекти від хімікатів можуть зламати майже будь-кого. Чи то для покращення себе, чи то для задоволення, наркотики показують свою справжню небезпеку лише з появою залежності. Ми повинні зробити правильний вибір."
- chems_legalised:0 "Наркотики дозволені"
- chems_legalised_desc:0 "У Пустки багато чого можна зробити, але навряд чи в цей список потрапляє можливість вибрати, як хтось інший житиме своїм життям. Деякі просто хочуть покайфувати, і це їхня справа. Хтось скаже, що "наркотики небезпечні", «вони повільно вб'ють тебе» та інші дурниці, але це не має значення. Нехай люди самі вибирають погані рішення!"
- bans_drugs:0 "Наркотики заборонені"
+ chems_all_substances_banned:0 "Complete Prohibition"
+ chems_all_substances_banned_desc:0 "Intoxicants and foreign substances are poison in the veins of our soldiers and citizens alike. This applies to more than just chems like Jet and Psycho but also to other addictions in waiting like Alcohol and Tobacco. There will be no allowances made for how ubiquitous they are in other weaker parts of the wasteland. Our society is strong and pure and we will keep it that way."
+ chems_banned:0 "Chems Banned"
+ chems_banned_desc:0 "Man has many vices, and of them, few are more fearful than chem addiction. Coming in all sorts of shapes, sizes and colours, the effects of chems can prove to be a considerable draw to the uninformed. Be it physical enhancement or simple pleasure, chems often don’t show their dangers until the user is trapped in addiction. We must make the correct choice for our people on their behalf."
+ chems_partial_legalizaion:0 "Softer Chems Allowed"
+ chems_partial_legalizaion_desc:0 "Chems can be scary sure, mess your life up even, but there's something to be said for a relaxing evening with some Daddy-O. Not every chem is made equal, and some are less dangerous than others. Picking and choosing what to legalize is the best way to guide our people towards good outlets and away from the worst ones. We'd rather not have any psychos on Psycho wandering around."
+ chems_in_warfare:0 "Battle Chems"
+ chems_in_warfare_desc:0 "The average citizen is too irresponsible to be trusted with chems, and their effects can be too dire to endorse using them for recreational purposes at all. The place of chems is on the battlefield, where they can give our soldiers an edge over more restrained forces and allow us to keep up with those who use them freely. Many of these substances were made for the express purpose of waging war after all and we're in no position to refuse their utility."
+ chems_as_culture:0 "Chems As A Fact Of Life"
+ chems_as_culture_desc:0 "One or more chems are an important part of our traditions and rituals. We are wise enough to use them as they should be and it makes us stronger as a people. Whether we use med-x to dull the pain of ritual scarification, partake of hallucinogens to glimpse the future or simply celebrate every victory with a night of sharing Jet inhalers you'll have to take them from our cold dead fingers."
+ chems_legalised:0 "Chems Legalised"
+ chems_legalised_desc:0 "There’s a lot of things that you can do in the wasteland, but choosing how someone else lives their life isn’t one of ‘em. Some people just wanna feel good, and that should be their right. There’s a lot that can be said about how dangerous chems are and all that, but it doesn’t affect anything. Let people make their own bad decisions!"
+ bans_drugs:0 "Bans Drugs"
 
   ## Slavery Laws
 
@@ -379,28 +387,25 @@
  has_unique_mutant_recruitment_laws:0 "Володіє унікальними законами з вербування мутантів"
 
 
- # Chichen Itza #
- # Tzotzil
- # Aztlan
- # AoM
- #Bone Dancers
- #### Laws #####
- # Military Law Categories
- ## Outsider Recruitment
- ## Brotherhood Outsider Laws
- ## Undesirable Recruitment Law
- ## Mutant Normal Law
- ## Mutant Recruitment Law
- ## Officer Training Laws
+ # CHC
 
-## Mutant Officer Training Laws
+ CHC_people_party:0 "The Hummingbird"
+ CHC_people_party_long:0 "The Hummingbirds"
+ CHC_elites_party:0 "The Chained Choir"
+ CHC_elites_party_long:0 "The Chained Choir"
+ CHC_intellectuals_party:0 "The Chained Choir"
+ CHC_intellectuals_party_long:0 "The Chained Choir"
+ CHC_ruler_party:0 "Ambrose's Order"
+ CHC_ruler_party_long:0 "The Knightly Order of Saint Ambrose Armistead, Protector Of All That Is Good, Well Intentioned, And Satisfactory With The World And Greater Universe"
 
+ # LOI
+ LOI_ruler_party:0 "Freemont Guard"
+ LOI_elites_party:0 "The Bourgeoisie"
+ LOI_intellectuals_party:0 "The Ministry"
+ LOI_people_party:0 "The Tank Brigades"
 
- ## Military Training Law
- # RRG
-
-  # ASS
- ASS_people_party_long:0 "Кубинський зв'язок"
- ASS_elites_party_long:0 "Пурпурова помста"
- ASS_intellectuals_party_long:0 "Мертві Кеннеди"
- ASS_ruler_party_long:0 "Змова"
+ # OST
+ OST_ruler_party:0 "Violent Nephilim"
+ OST_elites_party:0 "The Order"
+ OST_intellectuals_party:0 "The Jury"
+ OST_people_party:0 "Peaceable Nephilim"

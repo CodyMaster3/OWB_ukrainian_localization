@@ -49,7 +49,7 @@
  node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках і головним центром торгівлі для §Y[THIS.GetName]§!!"
  node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках!"
  puppet_taxation_popup_tooltip:0 "[GetPuppetTaxPopup]"
- puppet_taxation_popup_tooltip_tt:0 "Налоги могут взиматься с §Y[?puppet.GetName]§!. \n  В настоящее время мы облагаем налогом: [?taxes_var_for_overlord|2=+] [GetCapType] от §Y[?puppet.GetName]§!\n  Їх поточний оподатковуваний дохід становить [PrecalculateTaxableIncome]\n    §gПодатки можна підвищувати, знижувати й оновлювати в книзі обліку маріонеток у вкладці 'Різне' на верхній панелі."
+ puppet_taxation_popup_tooltip_tt:0 "Податки можуть стягатися з держави §Y[?puppet.GetName]§!. \n  Наразі ми стягаємо податком: [?taxes_var_for_overlord|2=+] [GetCapType] від держави §Y[?puppet.GetName]§!\n  Їх поточний оподатковуваний дохід становить [PrecalculateTaxableIncome]\n    §gПодатки можна підвищувати, знижувати й оновлювати в книзі обліку маріонеток у вкладці 'Різне' на верхній панелі."
  node_new_org_popup_tt:0 "[GetNodeNewOrgPopup]"
  puppet_taxation_popup_icon:0 "GFX_puppet_tax_icon"
  node_new_org_popup_tooltip_tt:0 "§Y[?org_state.GetName]§! став домом для §G[GetOrganizationName]§!\nТепер ми можемо торгувати товарами і будувати з ними ділові відносини!"

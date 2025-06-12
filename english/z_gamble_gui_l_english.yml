@@ -2,7 +2,7 @@
  
  gamble_header_text: "Ласкаво просимо в казино OWB!"
  gamble_amount_text: "Скільки кришок ви бажаєте поставити?"
- current_pot_text: "Вы поставили £bottle_cap_20x20_texticon §Y[?pot]§!"
+ current_pot_text: "Ви поставили £bottle_cap_20x20_texticon §Y[?pot]§!"
  game_over_text: "Гру закінчено. Клацніть тут, щоб продовжити"
  
  prev_loss: "GFX_previous_lost"
