@@ -1,5 +1,5 @@
 ﻿l_english:
-  spellcheck_ignore: "усі"
+  #spellcheck_ignore: all
   SUPPLYAREA_1:0 "Зона постачання"
   SUPPLYAREA_2:0 "Зона постачання"
   SUPPLYAREA_3:0 "Зона постачання"

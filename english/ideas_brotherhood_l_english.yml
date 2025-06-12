@@ -20,11 +20,11 @@
   bos_state_influence: "Присутність братства"
   bos_state_influence_desc: "Братство має деяку незначну присутність у цьому регіоні."
   bos_state_influence_effect_tt: "§YПідземна присутність§!: Якщо §YЛост-Гіллз§! вступає у війну з власником цього регіону, контроль над цим регіоном негайно переходить до §YЛост-Гіллз§!."
-  bos_saviour_of_mankind:0 "Спаситель людства""
-  generic_bos_scribes:0 "Писарі засновники""
+  bos_saviour_of_mankind:0 "Спаситель людства"
+  generic_bos_scribes:0 "Писарі-засновники"
   generic_bos_scribes_desc:0 ""
 
-  generic_bos_paladins:0 "Паладини засновники"
+  generic_bos_paladins:0 "Паладини-засновники"
   generic_bos_paladins_desc:0 ""
 
   genericbossteellegions:0 "Сталеві легіони"
