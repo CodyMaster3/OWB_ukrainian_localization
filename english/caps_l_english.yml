@@ -106,7 +106,7 @@ caps_ncr_start_modifier:0 "Економічний застій"
 
 
 ### Кепси – підказки для дизайнера
-caps_recruit_tt:0 "Оцінка вартості дивізій у черзі на підготовку.\n   Загальна вартість модифікована на [?modifier@caps_expense_modifier|-%]\n\n   §gМодифікатор роботів:§! [?modifier@evolution_unit_modifier_robots|%0]\n   §gМодифікатор ополчення:§! [?modifier@evolution_unit_modifier_militia|%0]\n   §gМодифікатор допоміжних рот:§! [?modifier@evolution_unit_modifier_support|%0]\n   §gМодифікатор танків:§! [?modifier@evolution_unit_modifier_tanks|%0]\n   §gМодифікатор силової броні:§! [?modifier@evolution_unit_modifier_pa|%0]\n   §gМодифікатор спецназу:§! [?modifier@evolution_unit_modifier_spec_ops|%0]\n §gМодифікатор істот:§! [?modifier@evolution_unit_modifier_creature|%0]\n §gМодифікатор комах:§! [?modifier@evolution_unit_modifier_insect|%0]"
+caps_recruit_tt:0 "Оцінка вартості дивізій у черзі на підготовку.\n   Загальна вартість модифікована на [?modifier@caps_expense_modifier|-%]\n\n   §gМодифікатор роботів:§! [?modifier@evolution_unit_modifier_robots|%0]\n   §gМодифікатор ополчення:§! [?modifier@evolution_unit_modifier_militia|%0]\n   §gМодифікатор допоміжних рот:§! [?modifier@evolution_unit_modifier_support|%0]\n   §gМодифікатор танків:§! [?modifier@evolution_unit_modifier_tanks|%0]\n   §gМодифікатор силової броні:§! [?modifier@evolution_unit_modifier_pa|%0]\n   §gМодифікатор ССО:§! [?modifier@evolution_unit_modifier_spec_ops|%0]\n §gМодифікатор істот:§! [?modifier@evolution_unit_modifier_creature|%0]\n §gМодифікатор комах:§! [?modifier@evolution_unit_modifier_insect|%0]"
 
 ### Загальні підказки по кепсах
 transaction_caps_tt:0 "[GetTransactionCapTT]"

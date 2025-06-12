@@ -40,7 +40,7 @@
   modifier_experience_gain_power_armour_combat_factor:0 "Отриманий бойовий досвід силової броні"
   modifier_experience_gain_ghoul_paratrooper_combat_factor:0 "Отриманий бойовий досвід гулів-парашутистів"
   modifier_experience_gain_super_mutant_nightkin_combat_factor:0 "Отриманий бойовий досвід тіней"
-  modifier_experience_gain_spec_ops_combat_factor:0 "Отриманий бойовий досвід спецназу"
+  modifier_experience_gain_spec_ops_combat_factor:0 "Отриманий бойовий досвід спецпризначенців"
   modifier_experience_gain_power_armour_fireteam_infantry_combat_factor:0 "Отриманий бойовий досвід силових кулеметників"
   modifier_experience_gain_power_armour_demolitions_infantry_combat_factor:0 "Отриманий бойовий досвід силових підривників"
   modifier_experience_gain_alamo_defenders_combat_factor:0 "Отриманий бойовий досвід захисників Аламо"
