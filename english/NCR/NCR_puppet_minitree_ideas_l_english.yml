@@ -52,8 +52,8 @@ bjs_puppet_defending_the_river:0 "Оборона Берегів"
 bjs_puppet_defending_the_river_desc:0 "Загроза може прийти звідусіль через воду. Пильність — ключ."
 bjs_puppet_organized_navy:0 "ВМС Баха"
 bjs_puppet_organized_navy_desc:0 "Багато місцевих вміють керувати суднами. Але їм ще треба навчитися основам військово-морської справи, щоб уникнути несподіванок."
-bjs_puppet_contain_gente:0 "Вбити Дель Соля"
-bjs_puppet_contain_gente_desc:0 "Хенераліссімо привів значні сили в ім’я Легіону. Ми утримаємо лінію, поки авангард готує контратаку на землях Генте."
+bjs_puppet_contain_gente:0 "Вбити Дель Соль"
+bjs_puppet_contain_gente_desc:0 "Хенераліссімо привів значні сили в ім’я Легіону. Ми утримаємо лінію, поки авангард готує контратаку на землях Хенте."
 
 #Skyreavers / Area 51
 nevada_survey_corp:0 "§LЗона 51: Група Розвідки§!"

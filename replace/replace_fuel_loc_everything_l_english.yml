@@ -62,7 +62,7 @@
   MODIFIER_BASE_FUEL_GAIN_FACTOR:0 "Приріст енергоносіїв"
   MODIFIER_BASE_FUEL_GAIN_ADD:0 "Приріст енергоносіїв"
   MODIFIER_FUEL_COST:0 "Вартість енергоносія"
-  RESOURCE_DETAILS_FUEL:2 "У нас $TOTAL|H$ одиниць $RESOURCE|H$ для користування.\n\nПоточне споживання: $ACTIVE_FUEL|H$\nМаксималье споживання: $POTENTIAL_FUEL|H$"
+  RESOURCE_DETAILS_FUEL:2 "У нас $TOTAL|H$ одиниць $RESOURCE|H$ для користування.\n\nПоточне споживання: $ACTIVE_FUEL|H$\nМаксимальне споживання: $POTENTIAL_FUEL|H$"
   OOS_50:1 "Запас енергоносіїв нації"
   TRIGGER_FUEL_RATIO:0 "Співвідношення енергоносіїв: "
   FLEET_HAS_FUEL_INEFFICIENT_SHIP_FOR_MISSION:0 "£mapicon_unit_invalid_orders  Цей флот не може виконувати завдання через нестачу енергоносіїв."
