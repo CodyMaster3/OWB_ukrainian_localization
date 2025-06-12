@@ -49,7 +49,7 @@
   category_capital_ship:0 "Лінкор"
   category_carrier_ship:0 "Вантажний корабель"
 
-  category_all_infantry:0 "Уся піхота та мотопіхота»
+  category_all_infantry:0 "Уся піхота та мотопіхота"
 
  # Групи (категорії конструктору підрозділів)
   group_robot_group_title:0 "Взводи роботів"

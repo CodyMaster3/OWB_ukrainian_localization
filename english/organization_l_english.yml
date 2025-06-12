@@ -81,7 +81,7 @@
  caps_organization_events.1.c:0 "Подарунок"
 
  caps_organization_events.11.t:0 "[GetOrganizationName] повернули борг"
- caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationName] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву.»
+ caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationName] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву."
  caps_organization_events.11.a:0 "Союзник, який нам колись знадобиться"
 
  caps_organization_events.12.t:0 "[GetOrganizationName] затримують виплати"
@@ -144,7 +144,7 @@
  gun_runner_equip_6:0 "СОП"
  gun_runner_equip_7:0 "Легкий кулемет"
  gun_runner_equip_8:0 "Протитанкова зброя"
- gun_runner_amount_tt:0 "[?global.gun_runner_inventory]»
+ gun_runner_amount_tt:0 "[?global.gun_runner_inventory]"
  organization_floor_modifier_1:0 "Думка Зброярів"
   ###Motorized Runner Data
  buy_infantry_equipment:0 "Закупівля піхотного спорядження"
