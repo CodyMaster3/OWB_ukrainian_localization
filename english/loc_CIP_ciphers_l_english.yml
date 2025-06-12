@@ -257,7 +257,7 @@ CIP_Nemonik_schematics_category:0 "Відтворення знайдених с�
 CIP_Nemonik_schematics_category_desc:0 "Немонік з обережністю ставиться до технологій минулого, та сучасні випробування вимагають рішучих дій. Якщо ретельно відтворити обладнання за кресленнями наших предків — до останньої лінії, — ми зможемо повторити їхні здобутки.\n\n§YЗверніть увагу: ми не зможемо отримати все, що існує, лише за кілька років. Використовуйте наші Схеми обдумано!§!\n\nЗараз у нас є [?CIP_variable_schematics] £cipher_schematic_texticon Схем для відтворення."
 
 Neomonik_copies_settler_infantry:0 "Відтворити схеми вогнепальної зброї"
-Neomonik_copies_settler_armor:0 "Відтворити схеми екіпірування заворушень"
+Neomonik_copies_settler_armor:0 "Відтворити схеми захисного спорядження"
 Neomonik_copies_settler_special:0 "Відтворити схеми спецпідрозділів"
 Neomonik_copies_settler_special_2:0 "Відтворити знайдені схеми Гекати"
 Neomonik_copies_settler_defensive:0 "Відтворити схеми оборонного озброєння"
