@@ -1,435 +1,445 @@
 ﻿l_english:
 
-  attis_1:0 "Remnants of the Attis Army"
-  attis_1_desc:0 "Attis, more then any other mutant, was ambitious."
-  attis_2:0 "Our Assignment"
-  attis_2_desc:0 "The mission he assigned us, to him, was the most important."
-  attis_3:0 "Our Legacy"
-  attis_3_desc:0 "We have accomplished much since his end."
+  attis_1:0 "Залишки Армії Аттіса"
+  attis_1_desc:0 "Аттіс, як ніхто інший з мутантів, був амбітним."
+  attis_2:0 "Наше Завдання"
+  attis_2_desc:0 "Місія, яку він нам доручив, була для нього найважливішою."
+  attis_3:0 "Наша Спадщина"
+  attis_3_desc:0 "Ми досягли багато чого з часу його загибелі."
 
-  mutant_industry:0 "Mutant Industry"
-  mutant_industry_desc:0 "One of the first and most important aspects of a modern state —especially in the wasteland— is the ability to organize a cohesive and directed industrial effort. Being a nation of giant green people does nothing to change this fact."
+  mutant_industry:0 "Промисловість Мутантів"
+  mutant_industry_desc:0 "Одним із перших і найважливіших аспектів сучасної держави — особливо в пустці — є здатність організовувати цілісні та керовані промислові зусилля. Те, що ми — нація велетенських зелених істот, нічого не змінює."
 
-  mutant_fortifications_teams:0 "Fortification Battalions"
-  mutant_fortifications_teams_desc:0 "Organizing groups of able bodied mutants into fortification battalions will allow us to fasttrack the construction of outposts along our more troublesome borders, with the added bonus being that these souls can be conscripted into general service."
+  mutant_fortifications_teams:0 "Батальйони Укріплень"
+  mutant_fortifications_teams_desc:0 "Організація груп працездатних мутантів у батальйони для укріплень дозволить нам пришвидшити зведення форпостів уздовж найпроблемніших кордонів. До того ж, ці душі можна призвати до загальної служби."
 
-  mutant_not_a_drop_to_drink:0 "Not a Drop to Drink"
-  mutant_not_a_drop_to_drink_desc:0 "Though access to the coast brings us ample access to water, almost none of it is fit for drinking. However, with the construction of naval dockyards and ports we can maintain a standing fleet."
+  mutant_not_a_drop_to_drink:0 "І Краплі Не Напитися"
+  mutant_not_a_drop_to_drink_desc:0 "Хоча вихід до узбережжя забезпечує нас водою, майже вся вона — непридатна для пиття. Але з будівництвом портів і верфей ми зможемо підтримувати флот."
 
-  mutant_red_ones_go_faster:0 "The Red Ones Go Faster"
-  mutant_red_ones_go_faster_desc:0 "It would be negligent to not consider out capability for assembling and housing aircraft of all kinds, the paving of airfield and construction of hangers coupled with the christening of new military factories will help us cover our aerial bases."
+  mutant_red_ones_go_faster:0 "Червоні Літають Швидше"
+  mutant_red_ones_go_faster_desc:0 "Ігнорувати авіацію — необачно. Облаштування злітних смуг, ангарів і запуск нових військових заводів дозволить нам охопити небо й не втратити панування в повітрі."
 
-  mutant_workshops:0 "Mutant Workshops"
-  mutant_workshops_desc:0 "Super Mutant factory workers have a unique set of needs and strengths, the construction of civilian industries in which these people can produce both new buildings and consumer goods will create a solid steel backbone for which our industry can rest upon."
+  mutant_workshops:0 "Мутантські Майстерні"
+  mutant_workshops_desc:0 "Фабричні робітники-мутанти мають унікальні потреби й переваги. Побудова цивільної інфраструктури, де вони можуть виготовляти будівлі та споживчі товари, створить сталевий хребет нашої економіки."
 
-  mutant_sized_tools:0 "Mutant Sized Tools"
-  mutant_sized_tools_desc:0 "Tools built for regular people have a tendency to break and become unwieldy in mutant hands; with a bit of design work and standardization across our factories will equip workers with tools they can depend on, and use to build a better future."
+  mutant_sized_tools:0 "Інструменти Під Розмір Мутантів"
+  mutant_sized_tools_desc:0 "Інструменти для звичайних людей часто ламаються у наших руках. Злегка змінені проєкти й стандартизація дозволять нашим працівникам отримати надійні засоби для побудови кращого майбутнього."
 
-  mutant_arms_factories:0 "Mutant Arms Factories"
-  mutant_arms_factories_desc:0 "Old World assembly lines aren't really fit to construct weapons of the proper size and scope for a super mutant. This shortcoming means that we should shore up our own military industry with new arms factories that can keep pace with the needs of an FEV improved army."
+  mutant_arms_factories:0 "Збройові Заводи Мутантів"
+  mutant_arms_factories_desc:0 "Збройні лінії Старого Світу не пристосовані для зброї належного розміру. Ми повинні створити свої заводи, які зможуть задовольнити потреби армії, вдосконаленої ВПЕ."
 
-  mutant_air_defense:0 "Clear Sky Construction"
-  mutant_air_defense_desc:0 "We can build all the factories, roads, and docks we want; but even just a single bomb can knock out a workshop for days if not weeks. A blanket of anti-air guns will ensure that enemy pilots have a hard time damaging industrial targets even if they maintain air superiority."
+  mutant_air_defense:0 "Будівництво Проти Повітря"
+  mutant_air_defense_desc:0 "Можна будувати все, що завгодно, але одна бомба здатна знищити майстерню на тижні. Сітка зеніток забезпечить захист наших об’єктів навіть без переваги в небі."
 
-  mutant_mining_operations:0 "Mutant Mining Operations"
-  mutant_mining_operations_desc:0 "Mutants have an excellent physique for mining. Strong back, tall, can carry a ton of weight without even breaking a sweat. With even minimal effort we could crack the Texas soil open and begin to plunder its mineral riches for ourselves."
+  mutant_mining_operations:0 "Гірничі Операції Мутантів"
+  mutant_mining_operations_desc:0 "Мутанти мають ідеальну статуру для шахт: сильні спини, високі, тягають вагу без поту. Ми з легкістю розколемо техаський ґрунт і добудемо його скарби."
 
-  mutant_power:0 "Green Energy"
-  mutant_power_desc:0 "Electricity is an important resource. To ensure more people can have their homes and workplaces powered, we should commission the construction of wind farms and refurbish old fusion generators. It's no Hoover Dam, but it'll keep the lights on and the toaster working."
+  mutant_power:0 "Зелена Енергія"
+  mutant_power_desc:0 "Електрика — критичний ресурс. Щоб забезпечити живлення для осель і підприємств, ми маємо будувати вітропарки й відновити старі реактори. Не Гуверська дамба, але світло й тостер будуть працювати."
 
-  mutant_wells:0 "All's Well That Wells Well"
-  mutant_wells_desc:0 "Irradiated water from either the gulf or its tributaries generally isn't safe to drink. But water dug out from hundred year old aquifers is almost entirely cured of its radioactive kiss. Though normal mutants generally don't mind a bit of spicy water, for the purposes of managing humies and trading it's better to start digging out the clean stuff."
+  mutant_wells:0 "Добре Там, Де Колодязь"
+  mutant_wells_desc:0 "Вода з узбережжя й річок — радіоактивна. Але артезіанська з глибин — майже чиста. Мутантам «гостра» вода не шкодить, але для торгівлі й нормалів краще копати чисту."
 
-  mutant_manufacturing:0 "Electronics Manufacturing"
-  mutant_manufacturing_desc:0 "Unlike electricity, water, and metal, electronics are not the kind of resource that can be drawn from the land itself; producing even simple electronic circuits and components requires specialized factories that are suited to small scale manufacturing, recent plans draw up just such a set of facilities"
+  mutant_manufacturing:0 "Електронне Виробництво"
+  mutant_manufacturing_desc:0 "На відміну від води й металу, електроніку не витягти з ґрунту. Навіть прості схеми потребують спецфабрик — нові проєкти якраз на це і спрямовані."
 
-  mutant_behemoths_of_industry:0 "Behemoths of Industry"
-  mutant_behemoths_of_industry_desc:0 "We've finally achieved a modern and varied economy, between extraction and the production of both civilian and war materials; any rival wasteland stand should find themselves both green with envy (Not as green as us) and afraid of our capability."
+  mutant_behemoths_of_industry:0 "Велетні Індустрії"
+  mutant_behemoths_of_industry_desc:0 "Ми нарешті створили сучасну економіку — від видобутку до виробництва цивільного й воєнного. Наші суперники позеленіють... ще більше, ніж ми."
 
-  mutant_scavenging:0 "Mutant Scavenging"
-  mutant_scavenging_desc:0 "There's a lot to be found in the remnants of the Old World, things far more advanced than we can produce; even just a little bit of study can yield insight in how to recreate these relics"
+  mutant_scavenging:0 "Мутантський Скарбошук"
+  mutant_scavenging_desc:0 "У руїнах Старого Світу — безліч артефактів, складніших за все, що ми робимо. Навіть коротке дослідження допоможе зрозуміти, як це відтворити."
 
-  mutant_scavconstructionvehicles:0 "Study Construction Vehicles"
-  mutant_scavconstructionvehicles_desc:0 "One of the things that made construction and manufacturing so advanced in the past was the advent of specialized industrial vehicles, by trying to reverse engineer them we can come closer to assembling our own metallic beasts of burden."
+  mutant_scavconstructionvehicles:0 "Вивчити Будтехніку"
+  mutant_scavconstructionvehicles_desc:0 "Секрет старосвітського будівництва — у спеціалізованих машинах. Якщо ми їх розберемо, зможемо створити власних металевих тяглових коней."
 
-  mutant_scavtanks:0 "Improvise Improved Armored Vehicles"
-  mutant_scavtanks_desc:0 "Just about anything can be made into an armored vehicle if you're willing to weld enough metal plates to it. Using a little bit of our own knowhow, and studying the designs of our neighbors and predecessors, we can fashion bigger and badder tanks."
+  mutant_scavtanks:0 "Імпровізовані Танки"
+  mutant_scavtanks_desc:0 "Будь-що можна перетворити на бронетехніку, якщо навісити на нього досить броні. Трохи кмітливості й чужих креслень — і ми змайструємо великі та страшні танки."
 
-  mutant_scavenging_2:0 "Expand the Scavenging Program"
-  mutant_scavenging_2_desc:0 "So far our initiative towards scavenging the wastes has born fruit! We now have greater access to vehicles, both for the purpose of warmaking and industry; and with the promise of dangerous weapons to be found lost amongst the rubble, more mutants are drawn away from the front and into the ruins."
+  mutant_scavenging_2:0 "Розширити Скарбошук"
+  mutant_scavenging_2_desc:0 "Наші скарбошуки вже дають плоди! Більше транспорту, більше матеріалів. І з обіцянкою небезпечної зброї серед руїн — ще більше мутантів кидають фронт заради знахідок."
 
-  mutant_scavenging_support:0 "Study Specialized Equipment"
-  mutant_scavenging_support_desc:0 "The Wasteland is filled with hundreds specialized pieces of equipment that hint at the intricacies of warfare before the bombs, while there isn't enough of any one type to supply an army's worth of specialists, there is enough to study, and refurbish into general support equipment"
+  mutant_scavenging_support:0 "Вивчити Спецобладнання"
+  mutant_scavenging_support_desc:0 "У пустці сотні унікальних речей, що показують складність воєн Старого Світу. Хоч їх і недостатньо для масового постачання, їх вистачить для дослідження та використання як загальне спорядження."
 
-  mutant_scavenging_weapons:0 "Reclaim Disused Dakka"
-  mutant_scavenging_weapons_desc:0 "One thing the Wasteland is full of, and we like more than anything else, is Dakka. Big ones, little ones, automatic ones, explosive ones, we can't get enough of them! While being both the backbone of our army and the main incentive for muties to pick through the rubble, shiny new shooters are truly a prize to behold."
+  mutant_scavenging_weapons:0 "Повернути Покинуту Дакку"
+  mutant_scavenging_weapons_desc:0 "Чим багата пустка, і що ми любимо найбільше — дакка. Великі, малі, автоматичні, вибухові — нам усе підходить! Вони — хребет армії і причина копирсатися в руїнах. Новенька блискуча пушка — справжній трофей."
 
-  mutant_scavenging_3:0 "Formalize the Scavenging Program"
-  mutant_scavenging_3_desc:0 "While highly beneficial to us, our efforts in the wasteland have been mostly ad hoc, and without any set standard or procedure. As we continue to draw prospectors and pull technological marvels out of the rubble, we should make at least some effort to organizing the riley bands of scavengers in a meaningful way."
+  mutant_scavenging_3:0 "Формалізувати Скарбошук"
+  mutant_scavenging_3_desc:0 "Попри всю користь, наші пошуки в пустці досі залишались стихійними — без стандартів і процедур. Тепер, коли ми притягуємо шукачів і дістаємо технологічні дива з руїн, настав час упорядкувати ці зграї ривучих скарбошукачів у щось цілісне й дієве."
 
-  mutant_scavenging_navy:0 "Pull Wrecks Ashore"
-  mutant_scavenging_navy_desc:0 "While Attis wasn't known for making mutants a very navally inclined people, by resurfacing old wrecks and trying to put together what we can from their water-ravaged hulks we can design bigger, badder boats that'll surely rule the waves."
+  mutant_scavenging_navy:0 "Витягнути Кораблі"
+  mutant_scavenging_navy_desc:0 "Аттіс ніколи не вважав мутантів морською нацією, та ми можемо підняти старі корабельні уламки і відновити з них бодай щось. Із їхніх роз’їдених остовів ми навчимось будувати більші й зліші човни — здатні панувати на хвилях."
 
-  mutant_scavenging_air:0 "Scour Airfields"
-  mutant_scavenging_air_desc:0 "Airplane engineering is complicated for normal humans, but without any specialists, and pilots that are about twice as big in every aspect it really starts to become a Sisyphean science; though a nation with active and effective airpower is one that can win wars with far greater is than one without, so we should endeavor to use what we can from older designs to build our own planes."
+  mutant_scavenging_air:0 "Обчистити Аеродроми"
+  mutant_scavenging_air_desc:0 "Авіація — складна річ навіть для звичайних людей, а для мутантів, що вдвічі більші — й поготів. Та нація, що має повітряні сили, має й перевагу у війні. Ми повинні розібрати старі зразки літаків і використати це знання для створення власних."
 
-  mutant_scavenging_4:0 "Finalize the Mutant Scavenging Program"
-  mutant_scavenging_4_desc:0 "Our efforts to find knowledge and resources in the wastes has given us insight into just about all of the scientific fields. It's taken us to new heights and deeper depths than anything ever before. The Scavenger is a new and proud caste of mutant society, and makes excellent time in bringing us fabled treasures of the Old World."
+  mutant_scavenging_4:0 "Завершити Програму Скарбошуку"
+  mutant_scavenging_4_desc:0 "Наші зусилля з пошуку знань і ресурсів у пустках дали результати у всіх наукових галузях. Ми досягли висот і глибин, небачених раніше. Скарбошукач став новою, гордою кастою мутантського суспільства, що несе нам легендарні скарби Старого Світу."
 
-  mutant_scavenging_6_civ:0 "Civilian Specialization"
-  mutant_scavenging_6_civ_desc:0 "Now that we've fostered an effective and eager force for scouring the wastes, the question remains if its primary focus should be technologies for rebuilding the world, or conquering it; the answer is simple, we should focus our efforts on rebuilding the world as we see fit."
+  mutant_scavenging_6_civ:0 "Цивільна Спеціалізація"
+  mutant_scavenging_6_civ_desc:0 "Тепер, коли ми маємо ефективну силу для обшуку пусток, постає питання — будувати світ чи підкорювати? Відповідь проста — ми повинні спрямувати зусилля на відбудову світу згідно нашого бачення."
 
-  mutant_scavenging_5_war:0 "Hawkish Specialization"
-  mutant_scavenging_5_war_desc:0 "Now that we've fostered an effective and eager force for scouring the wastes, the question remains if its primary focus should be technologies for rebuilding the world, or subjugating it; the answer is simple, we should focus our efforts on conquering the world as we see fit!"
+  mutant_scavenging_5_war:0 "Войовнича Спеціалізація"
+  mutant_scavenging_5_war_desc:0 "Маючи дієву силу скарбошукачів, ми мусимо вирішити: зцілення чи підкорення? Відповідь очевидна — ми використаємо здобуте, щоб підкорити цей світ!"
 
-  shale_follow_in_attis_footsteps:0 "Follow in Attis's Footsteps"
-  shale_follow_in_attis_footsteps_desc:0 "Attis was a legend among mutants. One of the great generals who served under the Master himself - a titan of a figure who led his army east in hopes of finding a future for human kind. Ultimately, he met his end somewhere within the Corporate Vault - but that just means he ended his campaign in honour.\nShale wants nothing more in life than to emulate his predecessor and become just as great of a hero as he was."
+  shale_follow_in_attis_footsteps:0 "Стежкою Аттіса"
+  shale_follow_in_attis_footsteps_desc:0 "Аттіс був легендою серед мутантів. Один із великих генералів Майстра — титан, що повів армію на схід у пошуках майбутнього для людства. Він загинув у Корпоративному Сховищі — та завершив свій похід із честю.\nШейл прагне одного: стати таким же героєм, яким був Аттіс."
 
-  shale_garb_fit_for_a_general:0 "Garb Fit for a General"
-  shale_garb_fit_for_a_general_desc:0 "We have some caps laying around, lets spend them on getting our armor refit.\nOne should always dress for the job they want, not the job they have."
+  shale_garb_fit_for_a_general:0 "Обмундирування Генерала"
+  shale_garb_fit_for_a_general_desc:0 "У нас є трохи кришок — витратимо їх на оновлення броні.\nЗрештою, вдягатися слід не на ту роботу, що маєш, а на ту, яку хочеш."
 
-  shale_attis_era_training:0 "Attis Era Training"
-  shale_attis_era_training_desc:0 "By serving under Attis we have learned of some of the unique training regimens he would hold. With his soldiers Attis would often hold month long "Boot Camps" deep in isolation in the darkest of caves. There, Mutants would be forced to eat whatever they could find. Those that went against the group were weeded out and when the training was done what was left would be more the loyal army for it."
+  shale_attis_era_training:0 "Тренування Часів Аттіса"
+  shale_attis_era_training_desc:0 "Служба під Аттісом дала нам знання про його методи. Він проводив «буткемпи» на місяці — глибоко в печерах. Там мутанти їли все, що знайдуть. Тих, хто противився, відсівали. Коли все закінчувалося — залишалися лише найвірніші."
 
-  shale_the_attis_born:0 "The "Attis Born""
-  shale_the_attis_born_desc:0 "Attis brought with him from the west a small amount of Mariposa FEV. With this, he was able to create "Behemoths", titans of flesh and strength to conquer his enemies. We don't have much of this FEV left - but we should put it to use!"
+  shale_the_attis_born:0 "«Народжені Аттісом»"
+  shale_the_attis_born_desc:0 "Аттіс привіз із заходу трохи маріпозької ВПЕ. Завдяки їй він створював «велетнів» — титанів з м’яса для завоювань. У нас залишилось її небагато — та ми маємо використати її!"
 
-  shale_a_curious_purchase:0 "A Curious Purchase"
-  shale_a_curious_purchase_desc:0 "We have some caps laying around, lets spend them on.. a curiosity. A merchant from Los is willing to sell us a rather peculier "Shop-Tec" vending terminal - of which he claims is from the Corporate Vault itself! -... Curious."
+  shale_a_curious_purchase:0 "Дивна Купівля"
+  shale_a_curious_purchase_desc:0 "Є трохи кришок — витратимо їх на цікавинку. Один торговець з Лоса пропонує нам апарат «Shop-Tec» — каже, зі Сховища! — Дивно..."
 
-  shale_purchase_weapon_schematics:0 "Purchase Weapon Schematics"
-  shale_purchase_weapon_schematics_desc:0 "Within this Shop-Tec terminal are some old weapon schematics we can purchase to put to use in our army!"
+  shale_purchase_weapon_schematics:0 "Купити Креслення Зброї"
+  shale_purchase_weapon_schematics_desc:0 "У терміналі Shop-Tec є старі креслення зброї — ми можемо їх купити й використати у нашій армії!"
 
-  shale_purchase_fev:0 "Purchase FEV"
-  shale_purchase_fev_desc:0 "Not only can we purchase information stored within the terminal - but also purchase "services" from it. It is willing to extrapolate the location of more FEV for us if we were to purchase such a task from it."
+  shale_purchase_fev:0 "Купити ВПЕ"
+  shale_purchase_fev_desc:0 "Крім інформації, термінал також пропонує «послуги». Він може знайти для нас більше ВПЕ — якщо ми оплатимо таку послугу."
 
-  shale_the_path_of_glory:0 "The Path of Glory"
-  shale_the_path_of_glory_desc:0 "The Path of Glory was what Attis called the fate of the Super Mutants - a one way road of conquest, death and victory. Many mutants accept this fate - that their kind is numbered and ultimately doomed to extinction.. Yet Attis always seemed to be contemplative of this fate - as if somewhere near the end of this road would be the true fate of mutant-kind - one not of oblivion, but of evolution..."
+  shale_the_path_of_glory:0 "Шлях Слави"
+  shale_the_path_of_glory_desc:0 "Шлях Слави — це доля супер-мутантів: завоювання, смерть і перемога. Багато хто приймає, що наша раса — приречена. Але Аттіс... він ніби бачив щось інше — еволюцію замість небуття."
 
-  sha_taking_a_piece_of_the_pie:0 "A Lucrative Opportunity"
-  sha_taking_a_piece_of_the_pie_desc:0 "The TAA has found themselves in a vulnerable position. Perhaps we can take a bite out of them while they are busy?"
+  sha_taking_a_piece_of_the_pie:0 "Прибуткова Можливість"
+  sha_taking_a_piece_of_the_pie_desc:0 "ТАЗ зараз у вразливому стані. Чому б не вкусити шматок, поки вони зайняті?"
 
-  shale_put_the_kibosh_on_los:0 "Put the Kibosh on Los"
-  shale_put_the_kibosh_on_los_desc:0 "Los is where Attis met his end, ultimately. A dark city of deranged, crazy ghouls who preach a faith of insanity and oblivion. If Attis was alive they would never have been around to today - lets fix that."
+  shale_put_the_kibosh_on_los:0 "Покінчити з Лосом"
+  shale_put_the_kibosh_on_los_desc:0 "Лос — місце смерті Аттіса. Темне місто божевільних гуль-єретиків. Якби Аттіс жив — їх би вже не було. Виправимо це."
 
-  shale_conquering_carbon:0 "Conquering Carbon"
-  shale_conquering_carbon_desc:0 "Carbon was always a modest little town - a sinful place where humans linger about at the end of the world. This place has been destroyed once before - lets do it again."
+  shale_conquering_carbon:0 "Підкорення Карбона"
+  shale_conquering_carbon_desc:0 "Карбон — невелике грішне містечко, де люди животіють. Його вже знищували — зробимо це знову."
 
-  shale_revive_the_raider_matrons:0 "Revive the "Matrons""
-  shale_revive_the_raider_matrons_desc:0 "In the past, there was a group of raiders who were more willing to work with Attis in his plans then most - a cutthroat group known as the "Matrons". We can revive this group if we wish - perhaps they will be easier to work with then Carbon was."
+  shale_revive_the_raider_matrons:0 "Відродити «Матрон»"
+  shale_revive_the_raider_matrons_desc:0 "Колись була група рейдерів, які підтримали Аттіса — жорстока зграя «Матрони». Ми можемо їх відродити — вони, може, кращі союзники, ніж Карбон."
 
-  shale_sell_off_the_spoils_of_war:0 "Sell Off the Spoils of War"
-  shale_sell_off_the_spoils_of_war_desc:0 "The mistake Attis made when he destroyed this place was that he underestimated the tenacity of these people to reinhabit here. We need to get the people out of here if we are to ensure this town cant come back again - lets sell off the population into slavery - destroy their culture from the bottom up."
+  shale_sell_off_the_spoils_of_war:0 "Продати Трофеї Війни"
+  shale_sell_off_the_spoils_of_war_desc:0 "Помилкою Аттіса було те, що він не знищив дух цього міста. Ми повинні вигнати людей, продати їх у рабство й стерти їхню культуру з коріння."
 
-  shale_sanctify_the_city:0 "Sanctify the City"
-  shale_sanctify_the_city_desc:0 "The people of Los have absolutely no business working with us - they are lunatics, after all. Lets do what we can to make this place -OURS-."
+  shale_sanctify_the_city:0 "Освятити Місто"
+  shale_sanctify_the_city_desc:0 "Люди Лоса — не союзники. Вони божевільні. Ми повинні зробити це місце —НАШИМ—."
 
-  shale_puppet_the_church_of_the_lost:0 "Puppet the Church of the Lost"
-  shale_puppet_the_church_of_the_lost_desc:0 "Of course, there was a time that this city was more.. negotiable to our cause. Blake was his name, the leader of their ranks before now - they were willing to work 'with' us mutants, submit to us. Lets ensure that this new leadership is just as willing to agree to our demands."
+  shale_puppet_the_church_of_the_lost:0 "Маріонетка Церкви Загублених"
+  shale_puppet_the_church_of_the_lost_desc:0 "Колись це місто було більш... зговірливим. Їхній колишній лідер Блейк готовий був підкоритися. Ми повинні зробити так, щоб нові теж погоджувались на наші умови."
 
-  shale_the_secret_vault_ruins:0 "The Corporate Vault Ruins"
-  shale_the_secret_vault_ruins_desc:0 "We are finally here, Attis's final resting place. It is -...\nIt is a complete mess, nearly the entire facility is in ruins! Still, there is some wreckage here that might prove useful to us.."
+  shale_the_secret_vault_ruins:0 "Руїни Корпоративного Сховища"
+  shale_the_secret_vault_ruins_desc:0 "Ми нарешті тут — місце останнього спочинку Аттіса. І це —...\nЦе повний безлад. Вся споруда в руїнах. Але щось корисне все ж залишилось..."
 
-  shale_encrypted_information:0 "Encrypted Information"
-  shale_encrypted_information_desc:0 "Sadly, not all of the stuff we found here is really usable - a lot of it is heavily encrypted pre-war business information that has feasibly no use to us in our current age. However, trying to hack into that information is actually pretty good practice for our encryption skills - even if we don't need the information itself."
+  shale_encrypted_information:0 "Зашифрована Інформація"
+  shale_encrypted_information_desc:0 "На жаль, не все, що ми знайшли тут, дійсно корисне — більшість це зашифрована довоєнна корпоративна інформація, що не має практичного значення в наш час. Та спроби її зламати — чудове тренування навичок шифрування. Навіть якщо дані нам непотрібні — користь залишається."
 
-  shale_automated_training_holograms:0 "Automated Training Holograms"
-  shale_automated_training_holograms_desc:0 "What luck! We found a hologram emitter used for training the vault security personnel! We can train our troops with this."
+  shale_automated_training_holograms:0 "Автоматизовані Тренувальні Голограми"
+  shale_automated_training_holograms_desc:0 "Неймовірна знахідка! Ми виявили голографічний передавач для тренування охорони сховища. Тепер можемо тренувати власні війська!"
 
-  shale_partial_supply_recovery:0 "Weapons from the Last Operation"
-  shale_partial_supply_recovery_desc:0 "We have found a small number of weapons clearly of super mutant design - weapons from the last contingent Attis brought with him before he met his end."
+  shale_partial_supply_recovery:0 "Зброя з Останньої Операції"
+  shale_partial_supply_recovery_desc:0 "Ми знайшли невелику кількість зброї — явно створеної для супер мутантів. Ймовірно, це залишки останнього загону Аттіса перед його загибеллю."
 
-  shale_bobbleheads_galore:0 "Bobbleheads Galore!"
-  shale_bobbleheads_galore_desc:0 "It feels like for every piece of rubble we pull out there are at least twenty shiny, squeaky bobbleheads in its place. Some people say these can be a "Good Luck" charm - whatever that means."
+  shale_bobbleheads_galore:0 "Навала Боблхедів!"
+  shale_bobbleheads_galore_desc:0 "Здається, на кожен уламок припадає по два десятки блискучих боблхедів. Дехто каже, що це «талісмани на вдачу» — що б це не означало."
 
-  shale_an_unfortunate_reunion:0 "An Unfortunate Reunion"
-  shale_an_unfortunate_reunion_desc:0 "It turns out that this top level facility isn't all there is to the vault - looking deeper, we can see there is clearly some sort of deeper bottom facility! Maybe there we can find what really happened to Attis - perhaps even his remains?"
+  shale_an_unfortunate_reunion:0 "Нещасна Зустріч"
+  shale_an_unfortunate_reunion_desc:0 "Цей верхній рівень — ще не вся споруда. Нижче є ще щось — якась глибша частина сховища! Можливо, саме там ми дізнаємось, що сталося з Аттісом... або навіть знайдемо його останки?"
 
-  shale_defending_against_the_monster:0 "Defending Against the Technocrat"
-  shale_defending_against_the_monster_desc:0 "We have heard word that a tyrant is heading this way - we can't let her interfere in our glorious conquests! We will have to delay our conflict against the rest of the army until we have this sorted!"
+  shale_defending_against_the_monster:0 "Оборона від Технократа"
+  shale_defending_against_the_monster_desc:0 "Нам доповіли, що сюди наближається тиран. Ми не можемо дозволити їй зірвати наші славні завоювання! Поки ми не вирішимо це — жодних битв із рештою армії!"
 
-  sha_make_three_way_war_harder_to_do:0 "§RTaking this focus will make "The Three Way War for Unity" impossible to complete until the west has been dealt with.§!"
+  sha_make_three_way_war_harder_to_do:0 "§RВибір цього фокуса зробить неможливим завершення «Тристоронньої Війни за Єдність» до завершення війни на заході.§!"
 
-  shale_planning_against_the_paladins:0 "Planning Against the Paladins"
-  shale_planning_against_the_paladins_desc:0 "Ultimately, our conquests will need to include the lands of the east - the lands of the "Paladins". Lets investigate ways that we can sucesfully win this future war."
+  shale_planning_against_the_paladins:0 "Плани Проти Паладинів"
+  shale_planning_against_the_paladins_desc:0 "Урешті-решт наші завоювання повинні охопити і схід — землі «Паладинів». Підготуємось до майбутньої війни з ними."
 
-  shale_striking_eden:0 "Eradicating Eden"
-  shale_striking_eden_desc:0 "With the matter of Attis's remains.. dealt with we can focus on continuing our conquests. Scarlet has been a pain in our side for far too long - keeping us from sucesfully reintegrating our wayward mutant brothers by standing stalwart in her mutated forest. Lets show her what it means to stand up to a titan."
+  shale_striking_eden:0 "Викорінити Едем"
+  shale_striking_eden_desc:0 "Коли справу з останками Аттіса завершено... час продовжити завоювання. Скарлет надто довго заважає нам об’єднати мутантів — стоїть вартовою в своєму мутованому лісі. Пора показати їй, що таке гнів титана."
 
-  shale_fruits_of_our_labour:0 "Fruits of our Labour"
-  shale_fruits_of_our_labour_desc:0 "They say this forest was grown by a man known as "Reese", a strange Cypher who hoped to bring the earth to paradise. Admittedly, a goal Attis shared. Let us partake in his fruit!"
+  shale_fruits_of_our_labour:0 "Плоди Нашої Праці"
+  shale_fruits_of_our_labour_desc:0 "Кажуть, цей ліс виростив «Ріс» — дивакуватий Шифр, що мріяв про рай на Землі. До речі, таку ж мрію мав і Аттіс. Скуштуємо ж його плоди!"
 
-  shale_tame_the_beasts:0 "Tame the Beasts"
-  shale_tame_the_beasts_desc:0 "Not all within this forest is so kind - Scarlet was protecting it for a reason. There are great beasts, monsters and devils within this land - let us show them the true kings of the jungle - add their strength to our own."
+  shale_tame_the_beasts:0 "Приручити Звірів"
+  shale_tame_the_beasts_desc:0 "Не все в цьому лісі — добре. Скарлет його захищала не просто так. Тут живуть чудовиська й демони. Покажемо їм справжніх королів джунглів — і додамо їхню силу до нашої."
 
-  shale_unite_the_army:0 "The Three Way War for Unity"
-  shale_unite_the_army_desc:0 "Its time we brought together this shattered army, showed our brothers who is on top."
+  shale_unite_the_army:0 "Тристороння Війна за Єдність"
+  shale_unite_the_army_desc:0 "Час зібрати розбиту армію. Показати братам — хто головний."
 
-  shale_ethos_of_the_army:0 "Ethos of the Army"
-  shale_ethos_of_the_army_desc:0 "Now that we have unified our army we can look towards improving it - let us take the best ideas of our conquered subjects and make ourselves better for it!"
+  shale_ethos_of_the_army:0 "Етос Армії"
+  shale_ethos_of_the_army_desc:0 "Тепер, коли армію об'єднано, можна працювати над її покращенням — використаємо найкраще з того, що принесли підкорені вороги."
 
-  shale_ancient_techniques_of_the_ironmongers:0 "Ancient Techniques of the Ironmongers"
-  shale_ancient_techniques_of_the_ironmongers_desc:0 "The Ironmongers have become true masters of the forge - taking Attis's order to them to secure the factories to the south far too literally. The strength they have learned in their forges will be used to push our tanks forward!"
+  shale_ancient_techniques_of_the_ironmongers:0 "Стародавні Техніки Айронмонгерів"
+  shale_ancient_techniques_of_the_ironmongers_desc:0 "Айронмонгери стали справжніми майстрами ковальської справи — надто буквально сприйнявши наказ Аттіса закріпитися в південних фабриках. Ми використаємо їхню силу для просування наших танків!"
 
-  shale_mysteries_of_the_spores:0 "Mysteries of the Spores"
-  shale_mysteries_of_the_spores_desc:0 "Sometimes, I can hear Reese whispering to me in the forest of Eden. I try not to think about it - but it can be hard to get out of your head. Those mysteries, the riddles he tells you will be something we will carry with us."
+  shale_mysteries_of_the_spores:0 "Таємниці Спор"
+  shale_mysteries_of_the_spores_desc:0 "Іноді я чую, як Ріс шепоче мені серед лісу Едему. Я намагаюся не думати про це — але голос важко витіснити. Ці загадки, ці слова — ми збережемо їх із собою."
 
-  shale_the_dreams_of_unity:0 "The Dreams of Unity"
-  shale_the_dreams_of_unity_desc:0 "Keats was a decent man - wishing to uphold the true belief of the Children of the Cathedral. There is some truth to what the Master said - let us ensure that his words are not forgotten."
+  shale_the_dreams_of_unity:0 "Мрії Єдності"
+  shale_the_dreams_of_unity_desc:0 "Кітс був гідною особою — вірив у справжню віру Дітей Кафедрали. Вчення Майстра мали зерно істини — ми не дамо їм згаснути."
 
-  shale_faith_of_the_army:0 "Faith of the Army"
-  shale_faith_of_the_army_desc:0 "We need to ensure that our army has one faith, one -belief- that carries them forward. Attis taught in the Path of Glory - what will we teach our men?"
+  shale_faith_of_the_army:0 "Віра Армії"
+  shale_faith_of_the_army_desc:0 "Армії потрібна одна віра, одна — ідея. Аттіс учив Шляху Слави. А чому навчимо ми?"
 
-  shale_strength_in_supremacy:0 "Strength in Supremacy"
-  shale_strength_in_supremacy_desc:0 "Super Mutants are meant to inherit the world. Humans wasted their chance to this place - it is ours now. We will find the secret to reproduction - we will find the secret to immortality, we will find the secret to strength and power and true rulership!"
+  shale_strength_in_supremacy:0 "Сила в Перевазі"
+  shale_strength_in_supremacy_desc:0 "Супер мутанти повинні успадкувати світ. Люди марнували свій шанс. Тепер він наш. Ми знайдемо секрет розмноження. Ми знайдемо секрет безсмертя. Ми знайдемо шлях до влади й правління!"
 
-  shale_strength_in_unity:0 "Strength in Unity"
-  shale_strength_in_unity_desc:0 "The Master's teachings will carry us forward. We should not forget what He taught us - the one that brought us into this world in the first place. This is our gift from him - let us cherish it."
+  shale_strength_in_unity:0 "Сила в Єдності"
+  shale_strength_in_unity_desc:0 "Вчення Майстра поведуть нас далі. Ми не повинні забути Його — Того, хто привів нас у цей світ. Це Його дар — бережімо його."
 
-  shale_strength_in_insanity:0 "Strength in Insanity"
-  shale_strength_in_insanity_desc:0 "Rationality, order, reason - none of it makes sense in the wasteland. Blake was right - the only truth to the world is conquest, destruction and unbriddled chaos. The world has already been destroyed - lets bring it down once again!"
+  shale_strength_in_insanity:0 "Сила в Безумстві"
+  shale_strength_in_insanity_desc:0 "Раціональність, порядок, логіка — усе це не працює в пустелі. Блейк мав рацію — єдина істина світу це завоювання, руйнування й невпинний хаос. Світ уже загинув — давайте зруйнуємо його ще раз!"
 
-  shale_the_road_of_conquest:0 "The Road of Conquest"
-  shale_the_road_of_conquest_desc:0 "It is time to test ourselves against the best Texas has to offer. This is where we show ourselves to be the true heirs to Attis's legacy - or die trying."
+  shale_the_road_of_conquest:0 "Шлях Завоювань"
+  shale_the_road_of_conquest_desc:0 "Час перевірити себе проти найкращих, кого має Техас. Ось де ми доведемо, що гідні спадщини Аттіса — або загинемо, намагаючись."
 
-  shale_cerberus_unity_unleashed:0 "§!§!§RTrue Unity§!"
+  shale_cerberus_unity_unleashed:0 "§!§!§RСправжня Єдність§!"
   shale_cerberus_unity_unleashed_desc:0 ""
 
-  shale_cerberus_mexico:0 "§!§!§RLand of Titans§!"
+  shale_cerberus_mexico:0 "§!§!§RЗемля Титанів§!"
   shale_cerberus_mexico_desc:0 ""
 
-  shale_cerberus_west:0 "§!§!§RMar's Domain§!"
+  shale_cerberus_west:0 "§!§!§RДомени Мара§!"
   shale_cerberus_west_desc:0 ""
 
-  shale_cerberus_the_masters_legacy:0 "§!§!§RThe Master's Legacy§!"
+  shale_cerberus_the_masters_legacy:0 "§!§!§RСпадщина Майстра§!"
   shale_cerberus_the_masters_legacy_desc:0 ""
 
-  shale_cerberus_the_final_flame:0 "§!§!§RThe Final Flame§!"
+  shale_cerberus_the_final_flame:0 "§!§!§RОстаннє Полум’я§!"
   shale_cerberus_the_final_flame_desc:0 ""
 
-  shale_purchase_completed_or_refused_tt:0 "Shale's final purchase much first have been either completed or refused."
+  shale_purchase_completed_or_refused_tt:0 "Остаточну покупку Шейл має бути або завершено, або відхилено."
 
-  imo_the_steelworks:0 "The Steelworks"
-  imo_the_steelworks_desc:0 "When Juggernaught's warband was given the order from Attis to seize the southern industrial heartbed of Texas he took that order diligently. It was a simple matter of fighting off those who used to live there - simple raiders and small creatures alike... What those Super Mutants wouldn't have prediced was just how much they "loved" the place they took. So much metal, so many tools and so much FUN! The Ironmongers made the Steelworks their home, their identity."
+  imo_the_steelworks:0 "Сталеварні"
+  imo_the_steelworks_desc:0 "Коли Джаггернаут отримав наказ від Аттіса захопити південне індустріальне серце Техасу — він сприйняв це дуже серйозно. Побити місцевих рейдерів було просто... Та ніхто з супер мутантів не очікував, наскільки сильно вони «закохаються» в це місце. Стільки металу! Стільки інструментів! Стільки РОЗВАГ! Айронмонгери зробили Сталеварні своїм домом — ідентичністю."
 
-  imo_iron_flyers:0 "Iron Flyers"
-  imo_iron_flyers_desc:0 "Being a creature as heavy as a mutant comes with a certain -.. fear of falling. After all - when you weigh so much you typically do more damage when you fall over. This fear goes doubly when deep in the skies! Still, some of the metal workers of the Ironmongers have made some progress in "Flyer" development - wowing their contempories!"
+  imo_iron_flyers:0 "Залізні Літуни"
+  imo_iron_flyers_desc:0 "Бути важким мутантом — це постійний страх падіння. А вже в небі — страх подвоюється! Та деякі майстри з Айронмонгерів домоглися успіхів у створенні «літунів» — чим вразили всіх!"
 
-  imo_trained_mantis_gearjocks:0 "Trained Mantis Gearjocks"
-  imo_trained_mantis_gearjocks_desc:0 "Within the deep halls of the Ironmongers factories it is difficult for large super mutants to find the tools that they need at a quick notice. This is why they use what they call "Gearjocks" - trained mantises to work as their assistants in place of slaves or indentured servants. These small, trained and loyal creatures are able to quickly navigate the desolate forges and find whatever tool their masters need - the perfect companion to the master smith."
+  imo_trained_mantis_gearjocks:0 "Навчені Мантиси-Гірджоки"
+  imo_trained_mantis_gearjocks_desc:0 "У цехах Айронмонгерів великому мутанту важко швидко знайти потрібний інструмент. Саме тому ми використовуємо «гірджоків» — натренованих богомолів, які виконують роль помічників. Швидкі, слухняні й розумні, вони блукають гарячими цехами й приносять усе, що треба майстрам-ковалям."
 
-  imo_building_the_perfect_war_machine:0 "Building the Perfect War Machine"
-  imo_building_the_perfect_war_machine_desc:0 "The Ironmongers do not tend prefer fighting on land with a dakka and choppa - no, instead they prefer their war machines - the Battlewagons! Great treaded vehicles meant to run over their foes with turrets atop their frame for additional fire support. Few can stand up to a threat so dangerous!"
+  imo_building_the_perfect_war_machine:0 "Створення Ідеальної Військової Машини"
+  imo_building_the_perfect_war_machine_desc:0 "Айронмонгери не люблять битися просто з даккою і сокирою. Їхня пристрасть — бойові машини. «Бойовагени» — величезні гусеничні монстри, які таранують ворога, маючи турелі зверху. Їм мало хто зможе протистояти!"
 
-  imo_loud_engines:0 "Loud Engines"
-  imo_loud_engines_desc:0 "By purposefully making our engines as loud as possible we can increase the intimidation factor of our army. Who needs stealth when you are working from within a metal frame three feet thick?"
+  imo_loud_engines:0 "Гучні Двигуни"
+  imo_loud_engines_desc:0 "Ми навмисно робимо наші двигуни якнайгучнішими — щоб лякати ворогів. Кому потрібна скритність, коли ти в броні в три фути завтовшки?"
 
-  imo_right_tool_for_da_job:0 "Right Tool for 'Da Job"
-  imo_right_tool_for_da_job_desc:0 "Its always important to find the right tool for work. Sometimes you need a wrench, sometimes you need a drill - sometimes you need bits of flesh to lubricate the gears..."
+  imo_right_tool_for_da_job:0 "Правильний Інструмент для 'Цієї Справи"
+  imo_right_tool_for_da_job_desc:0 "Завжди треба мати правильний інструмент. Іноді — ключ. Іноді — дриль. А іноді — трохи плоті для змазки механізмів..."
 
-  imo_the_battlewagon:0 "The Battlewagon"
-  imo_the_battlewagon_desc:0 "A new stockpile of Battlewagons has been made! Our enemies will fear us when they see these rolling across the battlefield!"
+  imo_the_battlewagon:0 "Бойоваген"
+  imo_the_battlewagon_desc:0 "Ми зібрали нову партію Бойовагенів! Ворог затремтить, коли побачить їх на полі бою!"
 
-  imo_chase_them_down:0 "Chase Them Down!"
-  imo_chase_them_down_desc:0 "Puny little Racree are good at hiding from our Battlewagons - but their stubby legs make it hard for them to run in a open field!"
+  imo_chase_them_down:0 "Впіймай Їх!"
+  imo_chase_them_down_desc:0 "Кволі Ракрі гарно ховаються від наших Бойовагенів — та їхні короткі ніжки не допоможуть їм втекти на відкритому полі!"
 
-  imo_blow_em_out_of_their_burrows:0 "Blow Em' Out of Their Burrows!"
-  imo_blow_em_out_of_their_burrows_desc:0 "Racree, unlike other smallies do not live on the ground! Instead they dig holes and live inside of the dirt itself.\nOne of our work-smiths came up with a good idea... why dont we just toss boom-sticks into their holes to blow em out?"
 
-  imo_raccoon_killin_guns:0 "Raccoon Killin' Guns"
-  imo_raccoon_killin_guns_desc:0 "Soft Racree hides are easy to pierce with the right bullet. We can shoot em from a fair distance away before they even see us!"
+  imo_blow_em_out_of_their_burrows:0 "Вибий Їх з Нір!"
+  imo_blow_em_out_of_their_burrows_desc:0 "На відміну від інших дрібноти, Ракрі не живуть на поверхні! Вони риють нори й ховаються в землі.\nОдин із наших майстрів запропонував ідею... а що як кинути бум-палицю прямо в нору й виштовхати їх вибухом?"
 
-  imo_target_practice_against_the_taa:0 "Target Practice Against the TAA"
-  imo_target_practice_against_the_taa_desc:0 "Normally its always been so difficult to get together a war party to invade into the western human lands... Recently however there has been some sort of change in power - perhaps this is a good time to launch a raid?"
+  imo_raccoon_killin_guns:0 "Гвинтівки Проти Ракрі"
+  imo_raccoon_killin_guns_desc:0 "М’яка шкура Ракрі легко пробивається потрібною кулею. Можемо стріляти здалеку — ще до того, як вони нас побачать!"
 
-  imo_crystal_city_ammo_factory:0 "Crystal City Ammo Factory"
-  imo_crystal_city_ammo_factory_desc:0 "We found a ammo factory! Sadly the bullets here are a bit too small mostly to use with our dakka's - but there are some that fit the chamber fine!"
+  imo_target_practice_against_the_taa:0 "Тренування на ТАЗ"
+  imo_target_practice_against_the_taa_desc:0 "Зазвичай зібрати бойову групу для нападу на західні людські землі — складно... Але останнім часом там щось змінилось. Може, саме час здійснити рейд?"
 
-  imo_huajillo_honey:0 "Huajillo Honey"
-  imo_huajillo_honey_desc:0 "We found some strange, preserved sap inside of some jars. Our Gearjocks absolutely "love" the taste - it seems to encourage them to work faster if we feed them it!"
+  imo_crystal_city_ammo_factory:0 "Боєприпасний Завод Кристал-Сіті"
+  imo_crystal_city_ammo_factory_desc:0 "Ми знайшли завод з виготовлення набоїв! Шкода, що більшість із них надто дрібні для наших дакк... Але деякі якраз підходять!"
 
-  imo_flames_of_the_forge:0 "Flames of the Forge"
-  imo_flames_of_the_forge_desc:0 "The heat of the forge is a tough thing for any mutant to stand, yet when one stands strong and withstands it they become all the stronger for it."
+  imo_huajillo_honey:0 "Мед Хуахільйо"
+  imo_huajillo_honey_desc:0 "Ми знайшли дивний, збережений сік у банках. Нашим гірджокам він дуже «смакує» — наче стимулює їх працювати швидше!"
 
-  imo_flesh_shredding_bullets:0 "Flesh Shredding Bullets"
-  imo_flesh_shredding_bullets_desc:0 "By lining our bullets with a rusty, acidic compound we can improve their effectiveness in hitting soft targets!"
+  imo_flames_of_the_forge:0 "Полум’я Горна"
+  imo_flames_of_the_forge_desc:0 "Жар у горні — випробування для будь-якого мутанта. Але хто витримає — той стає сильнішим."
 
-  imo_heavy_duty_weapons:0 "Heavy Duty Weapons"
-  imo_heavy_duty_weapons_desc:0 "Larger weapons made of denser materials will last longer!"
+  imo_flesh_shredding_bullets:0 "М’якорвущі Кулі"
+  imo_flesh_shredding_bullets_desc:0 "Обробивши кулі іржаво-кислотним покриттям, ми збільшуємо їхню ефективність проти м’яких цілей!"
 
-  imo_improved_shielding:0 "Improved Shielding"
-  imo_improved_shielding_desc:0 "More plates! More! More! MORE!"
+  imo_heavy_duty_weapons:0 "Важке Озброєння"
+  imo_heavy_duty_weapons_desc:0 "Більші, важчі, щільніші — така зброя служить довше!"
 
-  imo_slimmed_chasis:0 "Slimmed Chasis"
-  imo_slimmed_chasis_desc:0 "Just a few plates is good too though. Don't want to go too slow."
+  imo_improved_shielding:0 "Покращене Бронювання"
+  imo_improved_shielding_desc:0 "Більше плит! Ще! ЩЕ! ЩЕ!"
 
-  imo_ach_tbh_puppet:0 "A Fun Challenge"
-  imo_ach_tbh_puppet_desc:0 "Metal-men think they are strong! We will show them!"
+  imo_slimmed_chasis:0 "Полегшене Шасі"
+  imo_slimmed_chasis_desc:0 "Хоча, декілька плит теж достатньо. Не хочемо стати повільними."
 
-  imo_ach_no_shale:0 "Now's Our Chance!"
-  imo_ach_no_shale_desc:0 "With Shale gone we don't have to fear an attack from the north - let's go east and try our toys on someone new!"
+  imo_ach_tbh_puppet:0 "Цікавий Виклик"
+  imo_ach_tbh_puppet_desc:0 "Металеві люди думають, що вони сильні? Ми їм покажемо!"
 
-  imo_unification_wars:0 "Unification Wars"
-  imo_unification_wars_desc:0 "To the north the other remnants of the Attis Army have mostly left us alone.. yet that wont always be the case. Eventually they will try to call us back - take away this identity we have made for ourselves. We will never surrender the forge - even if it means having to unify the army ourselves to do so!"
+  imo_ach_no_shale:0 "Наш Шанс!"
+  imo_ach_no_shale_desc:0 "Тепер, коли Шейл зник — північ не загрожує. Час йти на схід і випробувати наші іграшки на нових ворогах!"
 
-  imo_fort_stockton:0 "Fort Stockton"
-  imo_fort_stockton_desc:0 "Fort Stockton has some very useful materials in it for our needs, Shale having stockpiled it with all sorts of Attis-Era weaponry."
+  imo_unification_wars:0 "Війни за Об’єднання"
+  imo_unification_wars_desc:0 "Інші залишки армії Аттіса на півночі поки нас не чіпають... Але це не триватиме вічно. Вони захочуть повернути нас до старого. Ми не здамо ковальні. Якщо потрібно — об'єднаємо армію самі!"
 
-  imo_roads_through_the_forest:0 "Roads Through the Forest"
-  imo_roads_through_the_forest_desc:0 "The forest to the north is keeping us from getting all of the supplies we need! We need to get through it!"
+  imo_fort_stockton:0 "Форт Стоктон"
+  imo_fort_stockton_desc:0 "Форт Стоктон має безліч ресурсів, потрібних нам. Шейл накопичив тут чимало зброї ще з часів Аттіса."
 
-  imo_austin_city_labs:0 "Austin City Labs"
-  imo_austin_city_labs_desc:0 "Keats had some useful stuff stored within these labs. Lets see if we can put any of it to use in our Battlewagons!"
+  imo_roads_through_the_forest:0 "Дороги Через Ліс"
+  imo_roads_through_the_forest_desc:0 "Ліс на півночі заважає нам доставляти припаси! Треба пробити шлях крізь нього!"
 
-  imo_trying_out_our_new_toys:0 "Trying Out Our New Toys"
-  imo_trying_out_our_new_toys_desc:0 "Now that we have proved our weapons against the remnants of the Attis Army we can look south without worry. It is time we push through the Rio Grande!"
+  imo_austin_city_labs:0 "Лабораторії Остіна"
+  imo_austin_city_labs_desc:0 "Кітс зберіг чимало корисного у цих лабораторіях. Можливо, щось підійде для наших Бойовагенів!"
 
-  imo_attack_arm:0 "Destroy the Droidy Boys"
-  imo_attack_arm_desc:0 "The Army of Mexico always did confuse the Ironmongers. Their War Machines were so tiny - who could ever sit inside of one of those "Robots" to pilot it? It was insane!"
+  imo_trying_out_our_new_toys:0 "Випробування Іграшок"
+  imo_trying_out_our_new_toys_desc:0 "Ми перевірили свою зброю на залишках армії Аттіса. Тепер можемо сміливо йти на південь. Настав час перейти через Ріо-Ґранде!"
 
-  imo_attack_taa:0 "Full Conquest of the TAA"
-  imo_attack_taa_desc:0 "Before we took a few bites out of the TAA. Now it is time for a full conquest outright!"
+  imo_attack_arm:0 "Знищити Дроїдних Хлопців"
+  imo_attack_arm_desc:0 "Армія Мексики завжди бентежила Айронмонгерів. Їхні бойові машини такі малі — хто взагалі міг керувати тими «роботами»? Це божевілля!"
 
-  imo_attack_rrg:0 "The Great Southern War!"
-  imo_attack_rrg_desc:0 "Our warpath knows no end!"
+  imo_attack_taa:0 "Повне Завоювання ТАЗ"
+  imo_attack_taa_desc:0 "Раніше ми відгризали шматки від ТАЗ. Тепер — час на повне завоювання!"
 
-  uoa_fulfilling_campaign_promises:0 "Fulfilling Our Campaign Promises"
-  uoa_fulfilling_campaign_promises_desc:0 "The Unity of Austin is hardly a dictatorship. We value principles of democracy! That is why Keats', every few years has to remind people why he is the best pick for the leader of the city through running a election! Of course, other candidates tend to avoid running - its hard to go up against someone like Keats'!\nStill, we made many campaign promises during this last run. We best not go back on them."
+  imo_attack_rrg:0 "Велика Південна Війна!"
+  imo_attack_rrg_desc:0 "Наш шлях війни не має кінця!"
 
-  uoa_volunteers_for_lonestar:0 "Volunteers for Lonestar"
-  uoa_volunteers_for_lonestar_desc:0 "Lonestar is in need! Lets send them one of our generals to help them out!"
+  uoa_fulfilling_campaign_promises:0 "Виконання Передвиборчих Обіцянок"
+  uoa_fulfilling_campaign_promises_desc:0 "Єдність Остіна — не диктатура. Ми поважаємо демократію! Саме тому Кітс що кілька років проводить вибори, щоб нагадати всім — чому він найкращий. Звісно, конкуренти зазвичай не ризикують виступати — важко тягатись із Кітсом!\nАле обіцянки були. І їх слід дотриматись."
 
-  uoa_volunteers_for_dallas:0 "Volunteers for Dallas"
-  uoa_volunteers_for_dallas_desc:0 "Dallas is in need! Lets send them one of our generals to help them out!"
+  uoa_volunteers_for_lonestar:0 "Добровольці для Лоун Стара"
+  uoa_volunteers_for_lonestar_desc:0 "Лоун Стару потрібна допомога! Надішлемо їм одного з наших генералів."
 
-  uoa_invest_into_sterility_research:0 "Invest Into Sterility Research"
-  uoa_invest_into_sterility_research_desc:0 "For Super Mutants, the idea that their race is on a biological clock is something that haunts those with greater minds - finding the answer to mutant sterility was the original reason Attis came to Texas in the first place, after all. We made some promises to see if we could fund some research into this direction - lets follow up on those promises!"
+  uoa_volunteers_for_dallas:0 "Добровольці для Далласа"
+  uoa_volunteers_for_dallas_desc:0 "Даллас потребує підтримки! Відрядимо туди нашого генерала."
 
-  uoa_experimental_hormones:0 "Experimental Hormone Research"
-  uoa_experimental_hormones_desc:0 "Mutant bodies do not produce the necessary hormones needed for child rearing - nearly all such bodily functions are rendered innert through the inherent process of mutation. If we ever hope to fix the issue of mutant sterility it will likely be through some sort of gene therapy and hormone supplements."
+  uoa_invest_into_sterility_research:0 "Інвестувати в Дослідження Стерильності"
+  uoa_invest_into_sterility_research_desc:0 "Проблема стерильності мутантів — тяжкий тягар для всіх із розумом. Саме тому Аттіс і прийшов до Техасу. Ми обіцяли шукати вирішення — тож виконаймо ці обіцянки!"
 
-  uoa_study_pre_war_holotapes:0 "Study Pre-War Holotapes"
-  uoa_study_pre_war_holotapes_desc:0 "Pre-War America had a ridiculous amount of information on the exact scientific nature of child birth. We can use some of this research!"
+  uoa_experimental_hormones:0 "Дослідження Гормональної Терапії"
+  uoa_experimental_hormones_desc:0 "Організми мутантів не виробляють потрібних гормонів для народження дітей — мутація знищує ці функції. Якщо хочемо подолати стерильність — нам потрібна генно-гормональна терапія."
 
-  uoa_form_the_committee_for_super_mutant_survival:0 "Form the Committee of Super Mutant Survival"
-  uoa_form_the_committee_for_super_mutant_survival_desc:0 "Keats' shouldn't be expected to helm this project forever - it would take decades to potentially crack the code on the matter of mutant sterility. Still - by delegating we can ensure that at least one group of scientists is working on this for the forseeable future!"
+  uoa_study_pre_war_holotapes:0 "Вивчити Довоєнні Голотейпи"
+  uoa_study_pre_war_holotapes_desc:0 "Америка до війни мала масу даних про народження й біологію. Ці знання можуть допомогти нам у нашому дослідженні."
 
-  uoa_human_mutant_integration_seminars:0 "Human-Mutant Integration Seminars"
-  uoa_human_mutant_integration_seminars_desc:0 "It can be tough for Muties and Humies to get along - especially in a political climate like that in Dallas and Austin. We need to make efforts to mend the divide between the races!"
+  uoa_form_the_committee_for_super_mutant_survival:0 "Сформувати Комітет з Виживання Супер-Мутантів"
+  uoa_form_the_committee_for_super_mutant_survival_desc:0 "Кітс не повинен очолювати цей проєкт вічно — на розгадку проблеми стерильності мутантів можуть піти десятиліття. Але завдяки делегуванню ми можемо гарантувати, що принаймні одна група науковців займатиметься цим у передбачуваному майбутньому!"
 
-  uoa_putting_plants_to_use:0 "Putting the Plants to Use"
-  uoa_putting_plants_to_use_desc:0 "Scarlet has been watching the mutant plants near Reese's old G.E.C.K. for quite some time - still, we have the occasional bugger and snapper here in Austin that tends to bother the kids. Lets tame these beasts so they wont be so much of a problem!"
+  uoa_human_mutant_integration_seminars:0 "Семінари з Інтеграції Людей і Мутантів"
+  uoa_human_mutant_integration_seminars_desc:0 "Мутанти й люди не завжди ладнають — особливо в політичній атмосфері Далласа й Остіна. Ми маємо докласти зусиль, щоб подолати розкол між расами!"
 
-  uoa_fev_volunteer_pr_campaign:0 "FEV Volunteer PR Campaign"
-  uoa_fev_volunteer_pr_campaign_desc:0 "The Unity of Austin, unlike other Super Mutant groups does not practice forceful mutation - instead, they practice what is known as "Volunteer Mutation" - where those sick, weak and otherwise eager for a stronger body can willingly mutate themselves for the cause! We should really fund a PR campaign to help encourage people to become volunteers!"
+  uoa_putting_plants_to_use:0 "Використати Рослини з Користю"
+  uoa_putting_plants_to_use_desc:0 "Скарлет вже деякий час спостерігає за мутованими рослинами біля старого G.E.C.K. Різа — однак, у нас в Остіні досі трапляються шкідливі істоти, що докучають дітям. Приборкаймо ці істоти, щоб вони не стали серйозною проблемою!"
 
-  uoa_invest_into_nightkin_support_programs:0 "Invest into Nightkin Support Programs"
-  uoa_invest_into_nightkin_support_programs_desc:0 "This election we ran a platform of trying to bring the less represented of Austin's population up onto a equal level - that includes the reclusive Nightkin. Lets begin some investments and see if we can help these wayward muties live a better life here in Austin."
+  uoa_fev_volunteer_pr_campaign:0 "PR-кампанія Добровільної Мутації ВПЕ"
+  uoa_fev_volunteer_pr_campaign_desc:0 "Єдність Остіна, на відміну від інших груп супер-мутантів, не використовує примусову мутацію — ми практикуємо так звану «добровільну мутацію», де хворі, слабкі або охочі стати сильнішими можуть добровільно змінити своє тіло задля спільної справи! Ми повинні профінансувати PR-кампанію, яка заохотить людей ставати добровольцями!"
 
-  uoa_prescription_stealth_boys:0 "Prescription Stealth Boys"
-  uoa_prescription_stealth_boys_desc:0 "Nightkin really do -need- Stealth Boys to manage their sanity. By controlling the pace and flow of Stealth Boys we can ensure that everyone that needs one gets one!"
+  uoa_invest_into_nightkin_support_programs:0 "Інвестиції в Програми Підтримки Найткінів"
+  uoa_invest_into_nightkin_support_programs_desc:0 "На цих виборах ми виступали з програмою підтримки менш представлених верств Остіна — зокрема, потайних найткінів. Почнімо інвестування й подивимось, чи зможемо ми допомогти цим заблукалим мутантам жити кращим життям в Остіні."
 
-  uoa_rehabilitation_center_planning:0 "Rehabilitation Center Planning"
-  uoa_rehabilitation_center_planning_desc:0 "Not all Nightkin make it out okay. Some have already worsened mentally to the point of insanity. Rather then write these muties off as a lost cause lets begin plans to make a place of rehabilitation for them - maybe one day they will be fit enough to rejoin us!"
+  uoa_prescription_stealth_boys:0 "Стелс-Бої за Рецептом"
+  uoa_prescription_stealth_boys_desc:0 "Найткіни — справді — потребують Стелс-Боїв для підтримання психічної стабільності. Контролюючи кількість та доступ до Стелс-Боїв, ми забезпечимо, щоб кожен, хто потребує, їх отримав!"
 
-  uoa_form_the_bureau_of_austin_affairs:0 "Form the Bureau of Austin Affairs"
-  uoa_form_the_bureau_of_austin_affairs_desc:0 "Lets create a agency build around protecting Nightkin rights! Those whom rely on Stealth Boys, those insane and those out in the wild all need to be accounted for, monitored and given enough tools where they can live their lives without harming others or themselves."
+  uoa_rehabilitation_center_planning:0 "Планування Центру Реабілітації"
+  uoa_rehabilitation_center_planning_desc:0 "Не всі найткіни можуть впоратись. Деякі з них уже втратили глузд. Але замість того, щоб відмахнутись від них, як від безнадійних — давайте розпочнемо проєкт створення центру реабілітації. Можливо, одного дня вони знову зможуть приєднатись до нас!"
 
-  uoa_calls_for_unity:0 "Calls for Unity"
-  uoa_calls_for_unity_desc:0 "Recently there has been some calls that perhaps it's time to bring together the remnants of the Attis Army together! After all - if we don't do something eventually one of those states will try to take 'us' over. Better to attack first then never at all, right?"
+  uoa_form_the_bureau_of_austin_affairs:0 "Створити Бюро Справ Остіна"
+  uoa_form_the_bureau_of_austin_affairs_desc:0 "Створімо агентство, покликане захищати права найткінів! Тих, хто залежить від Стелс-Боїв, тих, хто збожеволів, і тих, хто блукає в дикій місцевості, слід врахувати, контролювати та забезпечити інструментами, які дозволять їм жити без загрози для себе чи інших."
 
-  uoa_texan_integration_act:0 "The Texan Integration Act"
-  uoa_texan_integration_act_desc:0 "Now that we have unified the remnants of the Attis Army we can look towards integrating Austin into Texas proper. From within Texas we can better spread our ideals of mutant and human friendship as well as ensure the survival and protection of Austin."
+  uoa_calls_for_unity:0 "Заклики до Єдності"
+  uoa_calls_for_unity_desc:0 "Останнім часом лунають голоси, що настав час знову об’єднати залишки Армії Аттіса! Зрештою, якщо ми нічого не зробимо — одна з тих держав обов’язково захоче нас поглинути. Краще бити першим, ніж не бити взагалі, чи не так?"
 
-  uoa_failure_of_the_union:0 "The \"Failure of the Union\" Speech"
-  uoa_failure_of_the_union_desc:0 "Great people of Austin! Tell me today - why has the Texan Economic Union failed us so? We should be equal members, yet still we are treated as second class citizens by the people of Texas! Its time we break off, form our own state separate from Texas!"
-  some_stuff_for_leaving_fucking_texas_or_something:0 "By having our scientists leave the Texan Economic Union we can better put them towards things that matter!\n"
+  uoa_texan_integration_act:0 "Акт Інтеграції до Техасу"
+  uoa_texan_integration_act_desc:0 "Тепер, коли ми об’єднали залишки Армії Аттіса, настав час інтегрувати Остін до складу Техасу. Зсередини штату ми зможемо краще поширювати наші ідеали дружби між мутантами та людьми, а також забезпечити виживання і безпеку Остіна."
 
-  attis_crusher:0 "Crusher Revolt"
-  attis_crusher_desc:0 "Keats is an idiot, who wants to side with normies and will lead us into nowhere. He has no right to rule over us!"
+  uoa_failure_of_the_union:0 "Промова «Провал Союзу»"
+  uoa_failure_of_the_union_desc:0 "Великі мешканці Остіна! Скажіть мені — чому Техаський Економічний Союз нас підвів? Ми маємо бути рівними, але нас досі вважають громадянами другого сорту! Настав час відділитися й створити власну державу — незалежну від Техасу!"
+  some_stuff_for_leaving_fucking_texas_or_something:0 "Якщо наші науковці залишать Техаський Економічний Союз, ми зможемо спрямувати їхні зусилля на дійсно важливі справи!\n"
 
-  draft_loyalists:0 "Draft Loyalists"
-  draft_loyalists_desc:0 "Rise up, my brothers and sisters, against this traitor of mutantkind!"
+  attis_crusher:0 "Повстання Crusher'а"
+  attis_crusher_desc:0 "Кітс — ідіот, який хоче об'єднатися з нормалами та заведе нас у глухий кут. Він не має права правити нами!"
 
-  open_stashes:0 "Open Weapons Stashes"
-  open_stashes_desc:0 "We have thoroughly prepared for this revolt. There are many supply caches scattered throughout our territory. At the onset of hostilities, we'll put each and every one of them to good use."
+  draft_loyalists:0 "Мобілізувати Лоялістів"
+  draft_loyalists_desc:0 "Повстаньте, брати та сестри, проти цього зрадника мутантського роду!"
 
-  plea_for_help:0 "Plea For Help"
-  plea_for_help_desc:0 "Shale is fond of our cause and has helped us before. As Keats' troops advance, we have to ask for volunteers from his camp to join our ranks."
+  open_stashes:0 "Відкрити Таємні Сховища"
+  open_stashes_desc:0 "Ми ретельно підготувалися до цього повстання. По всій нашій території розташовані численні тайники з припасами. Із початком бойових дій, ми скористаємось кожним із них."
 
-  seize_resources:0 "Seize resources"
-  seize_resources_desc:0 "During wartime, our army has to to squeeze every last drop out of what our lands and people have to offer. To do so, we'll need to...requisition additional 'funds' from our population."
+  plea_for_help:0 "Заклик про Допомогу"
+  plea_for_help_desc:0 "Шейл підтримував нас раніше й симпатизує нашій справі. Поки війська Кітса наступають, ми мусимо звернутись до його прихильників за добровольцями."
 
-  battle_cry:0 "Battle Cry"
-  battle_cry_desc:0 "Come, my warriors! It's time to put Keats' destructive rule to end."
+  seize_resources:0 "Захопити Ресурси"
+  seize_resources_desc:0 "Під час війни наша армія повинна витиснути максимум із того, що можуть дати наші землі та народ. Для цього нам доведеться… 'реквізувати' додаткові ресурси в населення."
 
-  crusher_victory:0 "Sweet Victory"
-  crusher_victory_desc:0 "We have emerged victorious in this long and bloody war. As we speak, Keats' remaining supporters are running to Texan Brotherhood and Lone Star, their tails between their legs. But there is no time to rest; much still needs to be done, and Crusher must first cement his rule over Austin."
+  battle_cry:0 "Бойовий Клич"
+  battle_cry_desc:0 "Воїни! Настав час покласти край руйнівному правлінню Кітса!"
 
-  crushing_the_remnants:0 "Crushing The Remnants"
-  crushing_the_remnants_desc:0 "It seems Crushers triumph is not shared by some of our citizens. Moreover, some question alliance with Shale and even Crusher himself! We need to put an end to this. Every disloyal coward will be publicly executed."
+  crusher_victory:0 "Солодка Перемога"
+  crusher_victory_desc:0 "Ми вийшли переможцями з цієї довгої й кривавої війни. Прихильники Кітса тікають до Техаського Братства та Лоун Стару, піджавши хвости. Але відпочивати зарано — попереду ще багато справ, а Crusher має зміцнити свою владу в Остіні."
 
-  turning_normies:0 "Turning Normies"
-  turning_normies_desc:0 "Keats wanted to live together with those degenerates. A lot of them fled, but some were foolish enough to stay. Bad for them."
+  crushing_the_remnants:0 "Придушення Залишків"
+  crushing_the_remnants_desc:0 "Здається, не всі наші громадяни поділяють тріумф Crusher’а. Дехто ставить під сумнів союз із Шейлом та самого Crusher’а! Ми мусимо покінчити з цим. Кожен зрадник буде публічно страчений."
 
-  returning_the_favor:0 "Returning The Favor"
-  returning_the_favor_desc:0 "Shale helped us a lot during our revolt, we are indebted to him. It's time to pay back"
+  turning_normies:0 "Звільнити Нормалів"
+  turning_normies_desc:0 "Кітс хотів жити поруч із цими виродками. Багато з них утекли, але деякі були достатньо дурними, щоб залишитись. Їм не пощастило."
 
-  plants_what_to_do:0 "Angry Plants..."
-  plants_what_to_do_desc:0 "Some of our land is occupied by dangerous mutant plants. We have to decide, what to do with them. Cleaning them up will give us more space to work with. However, some mutants suggest we tame them and use for the good of our citizens."
+  returning_the_favor:0 "Відплатити Добром"
+  returning_the_favor_desc:0 "Шейл дуже допоміг нам під час повстання. Ми йому винні. Настав час віддати борг."
 
-  eradicate_plants:0 "...And Angry Mutants"
-  eradicate_plants_desc:0 "There can be no question. Those plants will be wiped out and new manufactures will be built on new lands."
+  plants_what_to_do:0 "Злі Рослини..."
+  plants_what_to_do_desc:0 "Частина нашої території зайнята небезпечними мутованими рослинами. Ми маємо вирішити, що з ними робити. Якщо очистимо територію — отримаємо більше простору. Але деякі мутанти вважають, що їх можна приручити й використати на благо громадян."
 
-  use_plants:0 "...Will Come to Use"
-  use_plants_desc:0 "One of our newly turned advisers claims to know how to tame those plants and put them to good use. If this works, our living conditions may improve significantly."
+  eradicate_plants:0 "...І Злі Мутанти"
+  eradicate_plants_desc:0 "Це не обговорюється. Ці рослини буде знищено, а на вивільненій території побудують нові заводи."
 
-  nightkin_future:0 "Darker Than The Night"
-  nightkin_future_desc:0 "Keats promised nightkins equal rights. So a lot of them fled to Austin seeking a better future. Now we have to decide, what do do with them"
+  use_plants:0 "...Знайдуть Своє Застосування"
+  use_plants_desc:0 "Один із наших нових радників каже, що знає, як приручити ці рослини й використати їх із користю. Якщо це спрацює — наші умови життя значно покращаться."
 
-  scatter_among_the_army:0 "Nightkins Among Us"
-  scatter_among_the_army_desc:0 "If they want equal rights, we will give them those. We can spread nightkins among our division. Their stealth skills will increase our intelligence of the enemy greatly."
+  nightkin_future:0 "Темніше за Ніч"
+  nightkin_future_desc:0 "Кітс обіцяв найткінам рівні права. Багато з них утекли до Остіна, шукаючи кращого майбутнього. Тепер нам треба вирішити, що з ними робити."
 
-  assemble_nightkin:0 "Nighkins...Assemble!"
-  assemble_nightkin_desc:0 "Nightkins potential is too great to be wasted in regular divisions. They will be brought together and serve as a backbone of our special operatives focres."
+  scatter_among_the_army:0 "Найткіни Серед Нас"
+  scatter_among_the_army_desc:0 "Якщо вони хочуть рівних прав — вони їх отримають. Ми можемо розподілити найткінів по наших дивізіях. Їхні навички маскування значно підвищать нашу розвідку противника."
 
-  united_warband:0 "Unity in The Warband"
-  united_warband_desc:0 "We have finally settled all major problems and brought the entire Austin together. It is time to settle down and focus on our future."
+  assemble_nightkin:0 "Найткіни... До Збору!"
+  assemble_nightkin_desc:0 "Потенціал найткінів занадто великий, щоб витрачати його на звичайні дивізії. Ми об’єднаємо їх і зробимо основою наших сил спеціальних операцій."
 
-  loyal_commander:0 "The Unity"
-  loyal_commander_desc:0 "We are forever indebted to Shale, as without him we would have never succeeded. We'll join Shale and fight alongside our brothers to bring back Unity."
+  united_warband:0 "Єдність У Військовій Орді"
+  united_warband_desc:0 "Ми нарешті вирішили всі основні проблеми й об’єднали увесь Остін. Настав час зосередитися на майбутньому."
 
-  separate_way:0 "Crusher Ambitions"
-  separate_way_desc:0 "We have repaid our debt to Shale. Our future is in our hands, and we will decide, what s best for mutantkind."
+  loyal_commander:0 "Єдність"
+  loyal_commander_desc:0 "Ми навіки в боргу перед Шейлом — без нього нам би не вдалося перемогти. Ми приєднаємось до нього й будемо битися пліч-о-пліч із братами за повернення Єдності."
 
-  cru_calls_for_unity:0 "The Three Way War for Unity"
-  cru_calls_for_unity_desc:0 "Its time we brought together this shattered army under the guidance of Crusher!"
+  separate_way:0 "Амбіції Crusher'а"
+  separate_way_desc:0 "Ми сплатили борг перед Шейлом. Наше майбутнє — у наших руках, і лише ми вирішимо, що найкраще для мутантського роду."
 
-  crusher_ethos_of_the_army:0 "Ethos of the Army"
-  crusher_ethos_of_the_army_desc:0 "We have a lot of experience at dealing with different problems and conflicts (ask any human on our land). We can apply them to other warbands as well."
+  cru_calls_for_unity:0 "Тристороння Війна за Єдність"
+  cru_calls_for_unity_desc:0 "Настав час об’єднати цю роздроблену армію під проводом Crusher’а!"
 
-  crusher_ancient_techniques_of_the_ironmongers:0 "Iron Foundaries"
-  crusher_ancient_techniques_of_the_ironmongers_desc:0 "Ironmongers creations are truly amazing. We will rebuild their factories and launch those death machines once more, know, on our side."
+  crusher_ethos_of_the_army:0 "Етос Армії"
+  crusher_ethos_of_the_army_desc:0 "Ми маємо багатий досвід у вирішенні конфліктів (запитайте будь-якого людського поселенця на наших землях). Ми можемо застосувати ці знання до інших військових угруповань."
 
-  crusher_mysteries_of_the_spores:0 "Burn Down the Jungle"
-  crusher_mysteries_of_the_spores_desc:0 "We have encountered those mutant plants once more. But now we know how to deal with them."
+  crusher_ancient_techniques_of_the_ironmongers:0 "Залізні Ливарні"
+  crusher_ancient_techniques_of_the_ironmongers_desc:0 "Творіння Залізоварів справді вражають. Ми відновимо їхні заводи й знову запустимо ці машини смерті — тепер на нашому боці."
 
-  crusher_the_dreams_of_unity:0 "The True Successor of Attis"
-  crusher_the_dreams_of_unity_desc:0 "Even though our ways diverged, Shale still was a wise general and a fierce warrior. We will remember him."
- #Tooltips
-  attis_army_no_justify_tt:0 "§RCountries with the idea §Y"Attis Army Remnants"§! §Rcannot justify on one another manually and must use war goals given through national focuses.§!"
-  attis_army_no_justify_idea_tt:0 "\nCountries with this idea cannot justify on one another manually and must use war goals given through national focuses."
-  imo_raid_armageddon_station:0 "Raid Armageddon Station"
-  imo_raid_armageddon_station_desc:0 "Now that we control Armageddon Station we can blast it open! Let us use the scrap and metals to further enhance our battlewagons!"
-  has_at_least_1_unit_leader_tt:0 "Has at least §Y1§! unit leader."
-  attis_unlock_border_war:0 "Unlock §YBorder War§! decisions to take the state."
-  every_mexican_state:0 "Every §YMexican§! State"
-  every_new_mexican_state:0 "Every §YNew Mexican§! State"
-  uoa_cant_join_tt:0 "§RWe cannot reasonably ask our soldiers to fight alongside Super Mutants. Keats is going to have to win this on his own.§!"
-  uoa_cant_call_tt:0 "§RThe Brotherhood's cultural stigma against Super Mutants prevents them from joining us in this conflict!§!"
-  shale_reunite_the_army_tt:0 "We break the truce we once formed with the other remnants of the §YAttis Army§! and begin hostilities once again! This will immediately start a three way war between us, §Ythe Ironmongers§! and §YUnity of Austin§!\n\n"
-  every_texan_state:0 "Every §YTexan§! State"
-  shale_path_of_glory_tt:0 "\nUnlock the use of the focus branches §Y"Mutant Industry"§! and §Y"Mutant Scavenging"§!."
-  attis_army_taa_raids:0 "TAA Border Wars"
-  attis_taa_border_war:0 "Conquest of the TAA"
-  attis_taa_border_war_desc:0 "Now that the TAA is no longer protected by the Republic of the Rio Grande we can finally take a few chunks out of them!"
+  crusher_mysteries_of_the_spores:0 "Спалити Джунглі"
+  crusher_mysteries_of_the_spores_desc:0 "Ми знову зіткнулися з цими мутованими рослинами. Але тепер ми знаємо, як з ними впоратись."
+
+  crusher_the_dreams_of_unity:0 "Справжній Наступник Аттіса"
+  crusher_the_dreams_of_unity_desc:0 "Хоч наші шляхи й розійшлися, Шейл залишився мудрим генералом і лютим воїном. Ми збережемо про нього пам’ять."
+
+  attis_army_no_justify_tt:0 "§RКраїни з ідеєю §Y«Залишки Армії Аттіса»§! §Rне можуть оголошувати війну одна одній вручну й повинні використовувати цілі війни, отримані через національні фокуси.§!"
+  attis_army_no_justify_idea_tt:0 "\nКраїни з цією ідеєю не можуть вручну виправдовувати війни одна проти одної та повинні використовувати цілі війни з національних фокусів."
+
+  imo_raid_armageddon_station:0 "Рейд на Станцію Армагеддон"
+  imo_raid_armageddon_station_desc:0 "Тепер, коли ми контролюємо Станцію Армагеддон, ми можемо прорвати її захист! Використаємо брухт і метал, щоб вдосконалити наші бойові машини!"
+
+  has_at_least_1_unit_leader_tt:0 "Є щонайменше §Y1§! командир підрозділу."
+  attis_unlock_border_war:0 "Відкриває рішення §YПрикордонної Війни§! за контроль над штатом."
+
+  every_mexican_state:0 "Кожен §YМексиканський§! штат"
+  every_new_mexican_state:0 "Кожен §YНовомексиканський§! штат"
+
+  uoa_cant_join_tt:0 "§RМи не можемо розраховувати, що наші солдати битимуться пліч-о-пліч із супер-мутантами. Кітс має виграти цю битву сам.§!"
+
+  uoa_cant_call_tt:0 "§RКультурні упередження Братства проти супер-мутантів заважають їм приєднатися до нашої війни!§!"
+
+  shale_reunite_the_army_tt:0 "Ми порушуємо перемир’я з іншими залишками §YАрмії Аттіса§! і поновлюємо воєнні дії! Це негайно почне тристоронню війну між нами, §YЗалізоварами§! і §YЄдністю Остіна§!\n\n"
+
+  every_texan_state:0 "Кожен §YТехаський§! штат"
+
+  shale_path_of_glory_tt:0 "\nВідкриває доступ до гілок фокусів §Y«Мутантська Промисловість»§! і §Y«Мутантське Скарбництво»§!."
+
+  attis_army_taa_raids:0 "Прикордонні Війни з ТАЗ"
+  attis_taa_border_war:0 "Завоювання ТАЗ"
+  attis_taa_border_war_desc:0 "Тепер, коли ТАЗ більше не захищає Республіка Ріо-Ґранде, ми нарешті можемо урвати від них кілька шматків!"
