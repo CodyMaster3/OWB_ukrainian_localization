@@ -321,7 +321,7 @@
  UNKNOWN_1: "НЕВІДОМО 1"
  UNKNOWN_2: "НЕВІДОМО 2"
  
- GREATER_YELLOWSTONE: "Великий Єллостоун"
+ GREATER_YELLOWSTONE: "Великий Єллоустоун"
  
  T_LAS_VEGAS: "Північний Вегас" 
  B_LAS_VEGAS: "Південний Вегас"
@@ -376,8 +376,8 @@
  COLORADO_NEW_MEXICO_RIVER:0 "Приток Арканзаса"
  COLORADO_WYOMING_RIVER: "Приток Платта"
  UTAH_RIVER: "Велике Солоне Озеро"
- IDAHO_WEST_RIVER: "Західний приток Єллостоуна"
- IDAHO_EAST_RIVER: "Східний приток Єллостоуна"                 
+ IDAHO_WEST_RIVER: "Західний приток Єллоустоуна"
+ IDAHO_EAST_RIVER: "Східний приток Єллоустоуна"                 
  LOWER_SNAKE_RIVER:0 "Нижній Снейк"
  UPPER_SNAKE_RIVER:0 "Верхній Снейк"
  GREAT_SALT_LAKE:0 "Велике Солоне Озеро"
