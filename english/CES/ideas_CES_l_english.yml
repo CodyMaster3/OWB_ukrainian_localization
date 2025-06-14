@@ -3,7 +3,7 @@
   national_spirit_rejection_of_automation_desc:0 "Цезар уявляє суспільство, яке працює як єдине ціле. Повернення машин та інших довоєнних інструментів зашкодить прагненню, яке Цезар прищеплює своїм підданим."
 
   cultofmars:0 "Культ Марса"
-  cultofmars_desc:0 "Легіон вірить, що Цезар — Син Марса, бога війни, який приніс очищувальний вогонь на землю, щоб його син міг завоювати її. Вони віддані Цезарю до фанатизму."
+  cultofmars_desc:0 "Легіон вірить, що Цезар — Син Марса, бога війни, який приніс очисний вогонь на землю, щоб його син міг завоювати її. Вони віддані Цезарю до фанатизму."
 
   cultofmars1:0 "Подих єресі"
   cultofmars2:0 "Брат Бога — Вулкан"
@@ -242,7 +242,7 @@
   ces_vulpes_guard_idea:0 "Що ми робимо в тіні"
   ces_legionary_inger_idea:0 "Ангели милосердя"
   ces_inger_funding_idea:0 "Місце жінки"
-  ces_legionary_support_idea:0 "Очищувальний вогонь"
+  ces_legionary_support_idea:0 "Очисий вогонь"
   CES_vulcan_legion_idea:0 "Легіон Вулкана"
   CES_vulcan_legion_idea_2:0 "Легіон Вулкана"
   CES_vulcan_legion_idea_3:0 "Легіон Вулкана"
@@ -255,7 +255,7 @@
   ces_biding_our_time_idea:0 "Чекаємо слушного моменту"
   CES_modern_triarii_idea:0 "Сучасні триарії"
   ces_auxiliary_supremacy_idea:0 "Перевага ауксилій"
-  CES_legionary_support_idea:0 "Очищувальне полум’я"
+  CES_legionary_support_idea:0 "Очисне полум’я"
   CES_fire_fuel_idea:0 "Вогні Тартару"
   CES_malpais_power_support:0 "Горе грішникам"
   CES_ghoul_dogs:0 "Пекельні пси"
