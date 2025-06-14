@@ -3,7 +3,10 @@
 CAPS_TOOLTIP:0 "У вас є [?caps_number_display|+]k [GetCapType]. \nВи отримуєте [GetCapsNetTotal] [GetCapType] щокварталу. \n  \n"
 CAPS_TOOLTIP_delayed:0 "Натисніть, щоб переглянути §YКнигу Кришок§!"
 caps_to_overlord_tt:0 "\n     -Податки до [OVERLORD.GetName]: [?taxes_to_overlord|+=2]"
-CAPS_MAIN_0dp:0 "[?caps_number_display|0]k"
+#CAPS_MAIN_0dp: "[?caps_number_display|0] тис."
+CAPS_MAIN_0dp: "[GetCapsMain]"
+CAPS_MAIN_0dp_normal: "[?caps_number_display|1] тис."
+CAPS_MAIN_0dp_red: "§R[?caps_number_display|1] тис.§!"
 gross_income_header:0 "Загальний прибуток:"
 quaterly_expenses_header:0 "Квартальні витрати:"
 quarterly_profit_header:0 "Квартальний прибуток:"
@@ -17,6 +20,7 @@ caps_trigger_negative:0 "Вам потрібно ще [GetCapTxt] [?caps_trigger
 caps_trigger_positive:0 "Потрібно: [GetCapTxt] [?caps_transaction_temp|+]k [GetCapType]."
 caps_trigger_tt:0 "[GetCapCostTrigger]"
 caps_opinion_tt:0 "Думка надає знижку [?opinion_var_temp|%+].\n"
+caps_decision_balance_tt:0 "Currently banked amount. \nSpend on decisions and unit upkeep." # (!)
 caps_decision_balance_tt:0 "Накопичена сума. \nВикористовується для рішень та утримання юнітів."
 caps_decision_income_tt:0 "Дохід [GetCapType].[GetPuppetIncome]\n   Модифіковано на [?modifier@caps_income_modifier|+%]\n   Фіксований дохід: [?modifier@caps_flat_income_modifier|+=]"
 caps_decision_expense_tt:0 "Щоквартальні витрати складаються з утримання армії. \nКожен новий батальйон дорожчий за попередній.\n   Модифіковано на [?modifier@caps_expense_modifier|-%] (Максимум §G-90%§!)"
@@ -27,22 +31,24 @@ recuit_pop_calc_tt:0 "Вартість набору: [?temp_expense_calc|=+2]"
 evo_income_source_1:0 "Інший дохід"
 evo_income_source_1_1:0 "Монетний двір"
 evo_income_source_1_2:0 "Репарації"
+evo_income_source_1_3: "Експорт"
 evo_income_source_2:0 "Торгові вузли"
 evo_income_source_3:0 "Маріонетки"
 evo_income_source_4:0 "Виплати армії"
+evo_income_source_5: "Імпорт"
 
 ### Модифікатори джерел
-evo_income_source_modifier_1_tt:0 "[?modifier@evolution_income_source_modifier_1|1=%+]"
-evo_income_source_modifier_2_tt:0 "[?modifier@evolution_income_source_modifier_2|1=%+]"
-evo_income_source_modifier_3_tt:0 "[?modifier@evolution_income_source_modifier_3|1=%+]"
-evo_income_source_modifier_4_tt:0 "[?modifier@evolution_income_source_modifier_4|1=%+]"
+evo_income_source_modifier_1_tt: "[?modifier@evolution_income_source_modifier_1|1=%+]"
+evo_income_source_modifier_2_tt: "[?modifier@evolution_income_source_modifier_2|1=%+]"
+evo_income_source_modifier_3_tt: "[?modifier@evolution_income_source_modifier_3|1=%+]"
+evo_income_source_modifier_4_tt: "[?modifier@evolution_income_source_modifier_4|1=%+]"
 
-evo_income_base_modifier:0 "[?modifier@caps_income_modifier|1=%+]"
+evo_income_base_modifier: "[?modifier@caps_income_modifier|1=%+]"
 evo_income_base_modifier_tt:0 "Базовий модифікатор доходу: [?modifier@caps_income_modifier|1=%+]"
-evo_expense_base_modifier:0 "[?modifier@caps_expense_modifier|1=%-]"
+evo_expense_base_modifier: "[?modifier@caps_expense_modifier|1=%-]"
 evo_expense_base_modifier_tt:0 "Базовий модифікатор витрат: [?modifier@caps_expense_modifier|1=%-]"
 
-evo_caps_net_income_tt:0 "[?caps_net|+=2]k"
+evo_caps_net_income_tt: "[?caps_net_temp|+=2] тис."
 
 ### Книга обліку
 evo_caps_ledger_title:0 "Книга Кришок"
@@ -59,13 +65,13 @@ evo_ledger_progress_bar_tt:0 "[GetCurrentCapPeriod]"
 evo_ledger_progress_bar_tt_mech:0 "[?current_period|0G] днів до зарахування."
 evo_ledger_progress_bar_tt_delayed:0 "Кепси підраховуються кожні [?global.caps_income_period|0G] днів."
 evo_ledger_sort_button_tt:0 "Змінити спосіб сортування"
-CapsLedgerAmountKey:0 "[?temp_caps_amount|+=2][GetCapTxt]"
-CapsManpowerCostKey:0 "[?manpower_cost|=+2]"
-CapsIncomeAmountKey:0 "[?caps_ledger_array_amount^i|=+2]"
-CapsNodeValueKey:0 "[?temp_node_value|+=]"
-CapsNodeTradeValueKey:0 "[?temp_node_trade|+=]"
-CapsTradeReceivedKey:0 "[?trade_value_received_from_target|+=]"
-CapsTradeSentKey:0 "[?trade_value_sent_to_target|+=]"
+CapsLedgerAmountKey: "[?temp_caps_amount|+=2][GetCapTxt]"
+CapsManpowerCostKey: "[?manpower_cost|=+2]"
+CapsIncomeAmountKey: "[?caps_ledger_array_amount^i|=+2]"
+CapsNodeValueKey: "[?temp_node_value|+=]"
+CapsNodeTradeValueKey: "[?temp_node_trade|+=]"
+CapsTradeReceivedKey: "[?trade_value_received_from_target|+=]"
+CapsTradeSentKey: "[?trade_value_sent_to_target|+=]"
 
 caps_army_wages_lockout_tt:0 "Нещодавно не змінювались виплати"
 caps_lockout_set_tt:0 "§RЗаборонити§! зміну виплат на 140 днів"
@@ -78,7 +84,7 @@ family_stipend:0 "Стипендії для родин"
 lifetime_pension:0 "Пожиттєва пенсія"
 mutant_wages_law:0 "Мутантські басейни"
 brotherhood_wages_law:0 "Централізовані запаси"
-URA_wages_law:0 "Орди Фералів"
+URA_wages_law:0 "Дикі орди"
 
 ### Модифікатори
 caps_income_modifier:0 "Дохід кришок"
@@ -95,11 +101,12 @@ caps_gift_puppet_tt:0 "Нещодавно отримана економічна 
 caps_payment_dynamic_modifier:0 "Модифікатор військової зарплати"
 caps_raider_sure_defense_dynamic_modifier:0 "Надійна оборона штатів"
 caps_trade_expedition_dynamic_modifier:0 "Дохід від торгової експедиції"
-recruit_manpower_cost_tt:0 "Вартість набору живої сили"
+recruit_manpower_cost_tt:0 "Вартість набору людських ресурсів"
 
 ### Ідеї
 caps_bos_idea:0 "Державні склади постачання"
 caps_supermutant_idea:0 "Кола металу для гладкошкірих"
+###Debug Ideas
 caps_base_income_5:0 "Базовий дохід кришок"
 caps_economy_modifier_1:0 "Налагодження доходу кришок"
 caps_ncr_start_modifier:0 "Економічний застій"
@@ -109,32 +116,32 @@ caps_ncr_start_modifier:0 "Економічний застій"
 caps_recruit_tt:0 "Оцінка вартості дивізій у черзі на підготовку.\n   Загальна вартість модифікована на [?modifier@caps_expense_modifier|-%]\n\n   §gМодифікатор роботів:§! [?modifier@evolution_unit_modifier_robots|%0]\n   §gМодифікатор ополчення:§! [?modifier@evolution_unit_modifier_militia|%0]\n   §gМодифікатор допоміжних рот:§! [?modifier@evolution_unit_modifier_support|%0]\n   §gМодифікатор танків:§! [?modifier@evolution_unit_modifier_tanks|%0]\n   §gМодифікатор силової броні:§! [?modifier@evolution_unit_modifier_pa|%0]\n   §gМодифікатор ССО:§! [?modifier@evolution_unit_modifier_spec_ops|%0]\n §gМодифікатор істот:§! [?modifier@evolution_unit_modifier_creature|%0]\n §gМодифікатор комах:§! [?modifier@evolution_unit_modifier_insect|%0]"
 
 ### Загальні підказки по кепсах
-transaction_caps_tt:0 "[GetTransactionCapTT]"
+transaction_caps_tt: "[GetTransactionCapTT]"
 transaction_caps_positive_tt:0 "Отримати оплату в розмірі [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
 transaction_caps_negative_tt:0 "Сплатити [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
-add_caps_tt:0 "[GetAddCapTT]"
+add_caps_tt: "[GetAddCapTT]"
 add_caps_positive_tt:0 "Отримати [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
 add_caps_negative_tt:0 "Втратити [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
 create_new_node_effect_tt:0 "стає економічним вузлом.\n"
 army_wages_disabled:0 "Нестандартна зарплата армії"
 
-caps_puppet_taxation_short_tt:0 "[GetTaxationTooltipShort]"
-caps_puppet_ledger_tax_tooltip:0 "[GetTaxationTooltip]"
+caps_puppet_taxation_short_tt: "[GetTaxationTooltipShort]"
+caps_puppet_ledger_tax_tooltip: "[GetTaxationTooltip]"
 caps_puppet_ledger_tax_tooltip_taxing:0 "Ми наразі збираємо: [?temp_amount_from_source|2=+] [GetCapType] з §Y[THIS.GetName]§! \n\n Їхній поточний дохід, який підлягає оподаткуванню: [PrecalculateTaxableIncome]"
 caps_puppet_ledger_tax_tooltip_non_taxing:0 "Ми не стягуємо податки. \n\n Їхній поточний дохід, який підлягає оподаткуванню: [PrecalculateTaxableIncome]"
 
-TaxationShortTTKey:0 "[?temp_amount_from_source|2+=] [GetCapTxt]"
-TaxationPreCalcKey:0 "[?puppet_income|2+=] [GetCapType]"
-TaxationAmountKey:0 "[?temp_amount_from_source|2+=] [GetCapType]"
+TaxationShortTTKey: "[?temp_amount_from_source|2+=] [GetCapTxt]"
+TaxationPreCalcKey: "[?puppet_income|2+=] [GetCapType]"
+TaxationAmountKey: "[?temp_amount_from_source|2+=] [GetCapType]"
 
 ### Фокуси
 continuous_increase_caps_income:0 "Підтримати валюту"
 continuous_caps_trigger_tt:0 "Має позитивний чистий дохід"
 continuous_increase_caps_income_desc:0 "Посилимо нашу цивільну економіку, щоб підвищити наш квартальний дохід у [GetCapType]!"
 caps_continuous_tt:0 "Надає бонус §G+50%§! до приросту [GetCapType]"
-more_than_50_caps_focus_tt:0 "Має більше ніж §G50§!k [GetCapType] доступних"
-more_than_25_caps_focus_tt:0 "Має більше ніж §G25§!k [GetCapType] доступних"
-more_than_10_caps_focus_tt:0 "Має більше ніж §G10§!k [GetCapType] доступних"
+more_than_50_caps_focus_tt:0 "Має більше ніж §G50§! тис. [GetCapType] доступних"
+more_than_25_caps_focus_tt:0 "Має більше ніж §G25§! тис. [GetCapType] доступних"
+more_than_10_caps_focus_tt:0 "Має більше ніж §G10§! тис. [GetCapType] доступних"
 
 ### Рішення по кепсах
 caps_base_category:0 "Економіка [GetCapType]"
@@ -187,42 +194,42 @@ organization_request_mission_tariff_request_tt:0 "Подія: Запит на з
 organization_request_mission_bolster_production_tt:0 "Подія: Посилення виробництва"
 organization_request_mission_scavenging_mission_tt:0 "Подія: Місія збору ресурсів"
 
-kryshky_send_caravan:0 "Надіслати караван до §Y[From.GetName]§!"
-kryshky_send_caravan_effect_tt:0 "\nНадіслати караван з товарами вартістю [?caravan_trade_value_sent_temp|1G]k [ROOT.GetCapType] до §Y[From.GetName]§!.\nОтримувати [?caravan_trade_value_received_temp|1G]k [ROOT.GetCapType] щокварталу протягом 275 днів."
-kryshky_send_caravan_cancel_tt:0 "Знищити маршрут каравану"
+caps_send_caravan:0 "Надіслати караван до §Y[From.GetName]§!"
+caps_send_caravan_effect_tt:0 "\nНадіслати караван з товарами вартістю [?caravan_trade_value_sent_temp|1G]k [ROOT.GetCapType] до §Y[From.GetName]§!.\nОтримувати [?caravan_trade_value_received_temp|1G]k [ROOT.GetCapType] щокварталу протягом 275 днів."
+caps_send_caravan_cancel_tt:0 "Знищити маршрут каравану"
 
 ### Розблокування ефектів
-kryshky_unlock_mining_decisions:0 "Розблокує рішення: §YПридбати кращі бурильні установки§!"
-kryshky_unlock_industry_decisions:0 "Розблокує рішення: §YПодаткові пільги для фабрик§!"
-kryshky_unlock_dockyard_decisions:0 "Розблокує рішення: §YРозширити верфі§!"
-kryshky_unlock_farming_decisions:0 "Розблокує рішення: §YЗакупка зерна§!"
-kryshky_unlock_academy_decisions:0 "Розблокує рішення: §YІнвестувати у військову академію§!"
-kryshky_unlock_recycling_decisions:0 "Розблокує рішення: §YПереробити використані елементи живлення§!"
-kryshky_unlock_sanitation_decisions:0 "Розблокує рішення: §YПідтримати розвиток санітарії§!"
-kryshky_unlock_factory_research_decisions:0 "Розблокує рішення: §YФінансування професійних навчальних закладів§!"
-kryshky_unlock_radio_decisions:0 "Розблокує рішення: §YДержавне радіомовлення§!"
+caps_unlock_mining_decisions:0 "Розблокує рішення: §YПридбати кращі бурильні установки§!"
+caps_unlock_industry_decisions:0 "Розблокує рішення: §YПодаткові пільги для фабрик§!"
+caps_unlock_dockyard_decisions:0 "Розблокує рішення: §YРозширити верфі§!"
+caps_unlock_farming_decisions:0 "Розблокує рішення: §YЗакупка зерна§!"
+caps_unlock_academy_decisions:0 "Розблокує рішення: §YІнвестувати у військову академію§!"
+caps_unlock_recycling_decisions:0 "Розблокує рішення: §YПереробити використані елементи живлення§!"
+caps_unlock_sanitation_decisions:0 "Розблокує рішення: §YПідтримати розвиток санітарії§!"
+caps_unlock_factory_research_decisions:0 "Розблокує рішення: §YФінансування професійних навчальних закладів§!"
+caps_unlock_radio_decisions:0 "Розблокує рішення: §YДержавне радіомовлення§!"
 
 ### Пояснення
-kryshky_base_category_desc:0 "Керуйте економікою [GetCapType] за допомогою цих рішень. Більше варіантів відкривається через §Yдослідження§! або здобуття нових §Gвузлів§!."
-kryshky_node_category:0 "Рішення для економічних центрів"
-kryshky_development_decisions:0 "Інвестувати стимули в §Y[From.GetName]§!"
-kryshky_development_node_tt:0 "Економічний стимул доступний для поточного рівня вузла"
+caps_base_category_desc:0 "Керуйте економікою [GetCapType] за допомогою цих рішень. Більше варіантів відкривається через §Yдослідження§! або здобуття нових §Gвузлів§!."
+caps_node_category:0 "Рішення для економічних центрів"
+caps_development_decisions:0 "Інвестувати стимули в §Y[From.GetName]§!"
+caps_development_node_tt:0 "Економічний стимул доступний для поточного рівня вузла"
 
-enable_country_debugger:0 "enabled_debugger_[FROM.GetName]"
+enable_country_debugger: "enabled_debugger_[FROM.GetName]"
 
 # Графіка відображення валюти
-kryshky_get_cap_type:0 "[GetCapType]"
-capdisplayncr:0 "GFX_bottle_cap_display_ncr"
-capdisplaylegion:0 "GFX_bottle_cap_display_legion"
-capdisplaycad:0 "GFX_bottle_cap_display_cad"
-capdisplayusd:0 "GFX_bottle_cap_display_usd"
-capdisplaypeso:0 "GFX_bottle_cap_display_peso"
-capdisplaygeneric:0 "GFX_bottle_cap_display"
-capdisplaytexdollar:0 "GFX_tex_dollar_display"
-capdisplaydriedcacaobean:0 "GFX_bottle_cap_display_driedcacaobean"
-capdisplaycomputerchip:0 "GFX_bottle_cap_display_computerchip"
-capdisplaybawlsguarana:0 "GFX_bottle_cap_display_bawlsguarana"
-capdisplaychargecard:0 "GFX_bottle_cap_display_card"
+caps_get_cap_type: "[GetCapType]"
+capdisplayncr: "GFX_bottle_cap_display_ncr"
+capdisplaylegion: "GFX_bottle_cap_display_legion"
+capdisplaycad: "GFX_bottle_cap_display_cad"
+capdisplayusd: "GFX_bottle_cap_display_usd"
+capdisplaypeso: "GFX_bottle_cap_display_peso"
+capdisplaygeneric: "GFX_bottle_cap_display"
+capdisplaytexdollar: "GFX_tex_dollar_display"
+capdisplaydriedcacaobean: "GFX_bottle_cap_display_driedcacaobean"
+capdisplaycomputerchip: "GFX_bottle_cap_display_computerchip"
+capdisplaybawlsguarana: "GFX_bottle_cap_display_bawlsguarana"
+capdisplaychargecard: "GFX_bottle_cap_display_card"
 
 # Закони валюти
 currency_laws:0 "Закон про валюту"
@@ -242,8 +249,10 @@ usdollar_desc:0 "Долар США після Великої війни став
 genericcap:0 "Кришки від пляшок"
 
 # Стани банкрутства
-kryshky_economic_bankrupcy:0 "Банкрутство!"
-kryshky_economic_bankrupcy_desc:0 "У нас немає грошей, ми приречені. Допоможіть."
+caps_economic_bankrupcy:0 "Банкрутство!"
+caps_economic_bankrupcy_desc:0 "У нас немає грошей, ми приречені. Допоможіть."
+caps_economic_instabillity: "Економічний крах"
+caps_economic_instabillity_desc:0 "Following a prolonged period of fiscal crisis, our nation's economy has completely and utterly collapsed. Inflation runs rampant, research is impossible, and most new construction has ceased. It will take a long time for our economy to recover..." # (!)
 
 # Формати назв валют для інтерфейсу
 currencyncrdollar:0 "Долари НКР"
@@ -264,7 +273,7 @@ accept_denarius:0 "Зв’язки з Легіоном"
 accept_texdollar:0 "Зв’язки з Техасом"
 
 ##Flavor
-currency_get_icon_tt:0 "[GetCapCurrencyInfo]"
+currency_get_icon_tt: "[GetCapCurrencyInfo]"
 
 currencyncrdollar_info:0 "Модифікатори:\n   Стабільність: §G+5%§!\n   Пасивні кришки: §G+7§!\n   Торгові тарифи: §G+10%§!\n\nНКР запровадила власну валюту на межі 23-го століття, почавши з монет, викарбуваних із золота. До 2241 року економіка НКР домінувала на Західному узбережжі, і монети стали загальноприйнятою валютою, яку використовували три великі сили: НКР, Місто-Сховище та Нью-Ріно. У ті часи кришки від пляшок стали сміттям в цих регіонах."
 
@@ -289,18 +298,18 @@ currencychargecard_info:0 "Модифікатори:\n   Пасивні криш
 currencygenericcap_info:0 "Модифікатори:\n   Пасивні кришки: §G+10§!\n\nУ Новій Каліфорнії кришки стали зручною валютою через свою рідкість — технології виготовлення були втрачені під час Великої війни, що унеможливило підробку. Їх вартість прив’язана до вартості води. Також використовуються на Східному узбережжі. Найперші згадки — Аппалачі, 2106 рік."
 
 
-capdisplayncrtxt:0 "£currency_NCR_text_icon"
-capdisplaylegiontxt:0 "£currency_legion_text_icon"
-capdisplaygenerictxt:0 "£currency_cap_text_icon"
-capdisplaypesotxt:0 "£currency_peso_text_icon"
-capdisplayusdtxt:0 "£currency_USD_text_icon"
-capdisplaycadtxt:0 "£currency_CAD_text_icon"
-capdisplaytexdollartxt:0 "£currency_tex_text_icon"
-capdisplaydriedcacaobeantxt:0 "£currency_driedcacaobean_text_icon"
-capdisplaycomputerchiptxt:0 "£currency_computerchip_text_icon"
-capdisplaybawlsguaranatxt:0 "£currency_bawlsguarana_text_icon"
-capdisplaychargecardtxt:0 "£currency_ROS_text_icon"
-capsdisplaypp:0 "£pol_power"
+capdisplayncrtxt: "£currency_NCR_text_icon"
+capdisplaylegiontxt: "£currency_legion_text_icon"
+capdisplaygenerictxt: "£currency_cap_text_icon"
+capdisplaypesotxt: "£currency_peso_text_icon"
+capdisplayusdtxt: "£currency_USD_text_icon"
+capdisplaycadtxt: "£currency_CAD_text_icon"
+capdisplaytexdollartxt: "£currency_tex_text_icon"
+capdisplaydriedcacaobeantxt: "£currency_driedcacaobean_text_icon"
+capdisplaycomputerchiptxt: "£currency_computerchip_text_icon"
+capdisplaybawlsguaranatxt: "£currency_bawlsguarana_text_icon"
+capdisplaychargecardtxt: "£currency_ROS_text_icon"
+capsdisplaypp: "£pol_power"
 
 ### TUTORIAL EVENT LOC ###
 tutorial_caps.1.t:0 "§cТуторіал системи кришок§!"
@@ -391,7 +400,7 @@ bankrupt_events.7.t:0 "Економічне відновлення"
 bankrupt_events.7.d:0 "Наші економісти доповідають, що фінансова ситуація покращилася настільки, що можна скасувати тимчасове жорстке скорочення зарплат для військових. Це варто зробити якомога швидше — чим швидше ми повернемось до нормального стану, тим скоріше забудемо цей затяжний кошмар."
 bankrupt_events.7.a:0 "Платіть — і війську, і людям — усе, що вони заслужили."
 
-
+#### Flavor Event Loc ####
 caps_bad_investment_idea:0 "Провалене вкладення"
 caps_natural_disaster_idea:0 "Нещодавнє стихійне лихо"
 caps_molerat_damage_modifier:0 "Пошкодження кротокрисами"
@@ -454,7 +463,7 @@ caps_flavor_events.12.d:0 "Наші розвідники натрапили на
 caps_flavor_events.12.a:0 "Достатньо, щоб у ванні плавати."
 caps_flavor_events.12.b:0 "У друзки!"
 caps_pre_war_stash_idea:0 "Довоєнна інфляція запасу"
-kaboom_scripted_tt:0 "§RKABOOM§!"
+kaboom_scripted_tt:0 "§RБАБАХ§!"
 
 caps_flavor_events.13.t:0 "Нестабільний ринок халуп"
 caps_flavor_events.13.d:0 "У пустці з’явилась нова професія — 'ріелтори'. Вони скуповують і продають халупи, без жодної логіки.\n\nЦе викликало невелике занепокоєння в регіоні, але, можливо, це непоганий спосіб витягнути з селян їхні кришки."
@@ -506,16 +515,16 @@ RULE_CAPS_DEBUG_TOGGLE_DISABLED_DESC:0 "Вимикає логер. Жодног�
 
 # Hints
 DECISION_BALANCE_TRIGGER:0 "[GetDecisionBalanceTTHint]"
-DECISION_BALANCE_HINT_TT:0 "§gЩокварталу §!§Cчистий прибуток§!§g країни додається до її скарбниці.§!"
+DECISION_BALANCE_HINT_TT:0 "§gЩокварталу §Cчистий прибуток§! країни додається до її скарбниці.§!"
 
 DECISION_INCOME_TRIGGER:0 "[GetDecisionIncomeTTHint]"
-DECISION_INCOME_HINT_TT:0 "§CДохід§!§g надходить з торгових вузлів та від модифікатора '§!§CПлоский дохід кришок§!§g'. Дохід від вузлів модифікується через '§!§CМодифікатор доходу кришок§!§g', але §Cплоский дохід§! — ні.§!"
+DECISION_INCOME_HINT_TT:0 "§g§CДохід§! надходить з торгових вузлів та від модифікатора '§CПлоский дохід кришок§!'. Дохід від вузлів модифікується через '§CМодифікатор доходу кришок§!', але §Cплоский дохід§! — ні.§!"
 
 DECISION_EXPENSE_TRIGGER:0 "[GetDecisionExpenseTTHint]"
-DECISION_EXPENSE_HINT_TT:0 "§CВитрати§!§g формуються залежно від кількості батальйонів. Деякі типи дорожчі за інші. Кожен новий батальйон коштує більше за попередній.§!"
+DECISION_EXPENSE_HINT_TT:0 "§g§CВитрати§! формуються залежно від кількості батальйонів. Деякі типи дорожчі за інші. Кожен новий батальйон коштує більше за попередній.§!"
 
 DECISION_ARMY_WAGES_TRIGGER:0 "[GetDecisionArmyWagesTTHint]"
-DECISION_ARMY_WAGES_HINT_TT:0 "§CВійськова зарплата§!§g дозволяє змінювати оплату солдатам. Збільшення зарплати посилює всі дивізії, зменшення — послаблює. Можна змінювати лише раз на 120 днів у будь-якому напрямку.§!"
+DECISION_ARMY_WAGES_HINT_TT:0 "§g§CВійськова зарплата§! дозволяє змінювати оплату солдатам. Збільшення зарплати посилює всі дивізії, зменшення — послаблює. Можна змінювати лише раз на 120 днів у будь-якому напрямку.§!"
 
-TOPBAR_MISC_BUTTON_HINT_TT:0 "§gЦей розділ містить: '§!§CКарту торговельних маршрутів§!§g' та '§!§CОрганізаційний ринок§!§g'. Через карту можна керувати торгівлею, а ринок дозволяє купувати спорядження в організацій.§!"
+TOPBAR_MISC_BUTTON_HINT_TT:0 "§gЦей розділ містить: '§CКарту торговельних маршрутів§!' та '§CОрганізаційний ринок§!'. Через карту можна керувати торгівлею, а ринок дозволяє купувати спорядження в організацій.§!"
 
