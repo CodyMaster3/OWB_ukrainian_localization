@@ -359,6 +359,20 @@
   dogs_equipment_3_short:0 "Кіберпес"
   dogs_equipment_3_desc:0 "Наші кібернетичні досягнення другого покоління в поєднанні з довоєнними кресленнями модернізованих одиниць K9 дають нам змогу розводити і модифікувати наших собак, щоб вони були лютими бійцями із загостреними почуттями. Їхні фізичні можливості поліпшуються ще більше завдяки металевій щелепі, заточеним зубам зі сплаву, броньованим посиленням, а також переміщенню їхнього мозку в захищений куленепробивний купол."
  
+ #Railway Gun # (!)
+  railway_gun_equipment_1:0 "Brahmin-Drawn Siege Engines"
+  railway_gun_equipment_1_short:0 "Siege Engines"
+  railway_gun_equipment_1_desc:0 "Composed of scrapped together materials, we can construct a variety of functional ranged weapons built to tear down fortifications: cast metal cannons, catapults, ballistas, hwachas, trebuchets and more. While a central set of brahmin caravans can carry all the supplies, the weapons will need to be assembled each time we want to bring them to bear."
+  railway_gun_equipment_2:0 "Pack Mortar"
+  railway_gun_equipment_2_short:0 "Mortar"
+  railway_gun_equipment_2_desc:0 "Specialized guns for shattering defensive structures and dug out trenches, these forged metal barrels can launch explosive shells a considerable distance. Their more standardized designs are packed up into boxes and carried via carts when they need to move locations."
+  railway_gun_equipment_3:0 "Field Howitzer"
+  railway_gun_equipment_3_short:0 "Howitzer"
+  railway_gun_equipment_3_desc:0 "Using repaired pre-war artillery pieces, these howizters have superior range and elevation to almost anything found elsewhere in the wasteland. Capable of delievering fearsome destruction upon enemy positions, the hardy wheels of their carriages permit more rapid repositioning than previous attempts at long guns."
+  railway_gun_equipment_4:0 "Nuclear Artillery"
+  railway_gun_equipment_4_short:0 "Nuclear Artillery"
+  railway_gun_equipment_4_desc:0 "While not nearly as technically advanced or man portable as the M42 "Fat Man" Launcher developed before the war, these refined weapon systems are nonetheless capable of slinging nuclear rounds at distant targets (ones just far enough away to spare the crews). While they have no range advantage over our howitzers, the atomic fire they unleash is considerably more dangerous to entrenched foes."
+
  # Robot
   robot_equipment:0 "Роботи"
   robot_equipment_short:0 "Роботи"
@@ -548,28 +562,138 @@
   chariot_equipment_1_short:0 "Колісниця"
   chariot_equipment_1_desc:0 "Автомобілі розбираються на колісниці для використання в якості тимчасових транспортних засобів. Ревучи по пустці, вони трощать наших ворогів своїми колесами."
 
- # Behemoth
+ # Behemoth/monsters
   behemoth_equipment_1:0 "Супермутант-бегемот"
   behemoth_equipment_1_short:0 "Бегемот"
   behemoth_equipment_1_desc:0 "Бегемоти - це, грубо кажучи, супермутанти-переростки. Зазвичай рази в три більші за свої цілі, вони можуть абсолютно без проблем її розтрощити своєю власною зброєю на вибір. Єдиний спосіб перемогти таку гору м'язів - концетрований вогонь."
-  mirelurk_equipment_1:0 "Болотники"
-  mirelurk_equipment_1_short:0 "Болотники"
-  mirelurk_equipment_1_desc:0 "Небезпечні хижаки, яких можна використовувати для успішного ведення війни."
-  molerat_equipment_1:0 "Кротощури"
-  molerat_equipment_1_short:0 "Кротощури"
-  molerat_equipment_1_desc:0 "Кротощур може і не найкорисніша тварина в бою, але все ж вона може допомогти в досягненні перемоги."
-  
+
   gehenna_molech_equipment:0 "Геєна"
   gehenna_molech_equipment_short:0 "Геєна"
   gehenna_molech_equipment_desc:0 "Пламена чудище вашої ПОГИБЕЛІ"
-  
+
+ # Creatures
   monster_equipment:0 "Монстр-Спорядження"
   monster_equipment_desc:0 ""
-  
-  mirelurk_equipment:0 "Болотники"
-  mirelurk_equipment_desc:0 "Приручені болотники"
-  molerat_equipment:0 "Кротощури"
-  molerat_equipment_desc:0 "Так, кротощури, а чого ти ще очікував?"
+
+  burrowing_beast_equipment_1:0 "Giant Mole Rats" # (!)
+  burrowing_beast_equipment_1_short:0 "Mole Rats"
+  burrowing_beast_equipment_1_desc:0 "Mole Rats, while not the most conventional animal to use in combat, can still do what needs to be done to win the fight."
+  burrowing_beast_equipment_2:0 "Rabid Mole Rats"
+  burrowing_beast_equipment_2_short:0 "Rabid Moles"
+  burrowing_beast_equipment_2_desc:0 "Normally, rabid animals in the wasteland are immediately put down, but an exception has to be made here, as rabid molerats are the closest thing to a dog to domesticate, provided if that dog frequently tried to escape by digging into holes. It's taken some time, but a steady diet of raw meat and injections of disease cures have lessened their reactions to their handlers, if only to be told where to go and who to attack."
+  burrowing_beast_equipment_glowing:0 "Glowing Mole Rats"
+  burrowing_beast_equipment_glowing_short:0 "Glowing Moles"
+  burrowing_beast_equipment_glowing_desc:0 "Typically, molerats have to be exposed to radiation over a number of years before they display their glowing traits, and that's assuming they don't die of natural causes or radiation-induced diseases or cancers. With domestication, on the other hand, this process can be reduced to a matter of weeks, if not months, assuming their handlers are either ghoulified, or are willing to risk radiation exposure."
+  burrowing_beast_equipment_brood:0 "Mole Rat Brood Mothers"
+  burrowing_beast_equipment_brood_short:0 "Brood Mother Moles"
+  burrowing_beast_equipment_brood_desc:0 "The molerat breeding process, while considered disgusting by most, is a necessary part of ensuring a full domestication production chain. Which means that the brood mother, fed to the brim with cooked meats, fruits and vegetables, and milks of various sources, is the best means to ensure that the effective end of the breeding line has been reached, bringing it in a full circle."
+
+  insect_equipment:0 "Insect Swarms"
+  insect_equipment_desc:0 ""
+
+  insect_equipment_1:0 "Insect Swarms"
+  insect_equipment_1_short:0 "Radroaches"
+  insect_equipment_1_desc:0 "Radroaches were enlarged extensively by radioactive mutation, to the point that they are now as large as house cats. While weak individually, their strength in numbers is sure to overwhelm even the most powerful power armor clad warriors eventually."
+  insect_equipment_2:0 "Irradiated Insects"
+  insect_equipment_2_short:0 "Irradiated Radroach"
+  insect_equipment_2_desc:0 "Glowing Roaches, stronger than normal radroaches, which isn't to say much but makes swarms of them just a bit more dangerous. "
+  insect_equipment_3:0 "Giant Insects"
+  insect_equipment_3_short:0 "Giant Roach"
+  insect_equipment_3_desc:0 "Big Ol' Roaches, these are no longer cat sized but large dog, even small brahmin sized. Much more dangerous as individuals, but still capable of swarming in just as vast numbers."
+
+  amphibious_beast_equipment:0 "Amphibious Creatures"
+  amphibious_beast_equipment_desc:0 ""
+
+  amphibious_beast_equipment_1:0 "Amphibious Creatures"
+  amphibious_beast_equipment_1_short:0 "Mirelurks"
+  amphibious_beast_equipment_1_desc:0 "Born of the old world's unfettered pollution as much as it's atomic radiation, Mirelurk is a term for amphibious predators with crustacean DNA arising from the toxic soup of the American coastlines. Their hardened shells offer incredible resistance to ballistic firearms: a true boon when they're often hunted for their meat."
+  amphibious_beast_equipment_2:0 "Mirelurk Killclaws"
+  amphibious_beast_equipment_2_short:0 "Killclaws"
+  amphibious_beast_equipment_2_desc:0 "A dedicated warrior caste of the Mirelurks, it is not enough to define them by their larger claws and hardier exoskeleton. No, what truly sets them apart is their skill at ambushing, both in the water and on land. Appearing as stones or ocean refuse at a distance, they burst upwards and charge forth once prey is close enough, overwhelming the enemies of their queen."
+  amphibious_beast_equipment_armor:0 "Bloodrage Mirelurks"
+  amphibious_beast_equipment_armor_short:0 "Bloodrage Mirelurks"
+  amphibious_beast_equipment_armor_desc:0 "A variant with a darkened, nearly black carapace, the Bloodrage Mirelurk is as fearsome as it appears. Superior to even Killclaws in strength and durability, even the mightiest of warriors learns to fear the eerie red glow of their eyes peering from the rivers."
+  amphibious_beast_equipment_king:0 "Mirelurk Kings"
+  amphibious_beast_equipment_king_short:0 "Mirelurk Kings"
+  amphibious_beast_equipment_king_desc:0 "While called a Mirelurk King, these creatures have more genetic material from frogs than crabs, and are in a symbiotic relationship with the common breed. While they lack the nigh invulnerable shells, they are faster, stealthier and better adapted to fighting on land, with lungs developed for extended stays above the waterline. For unknown reasons they can command lesser Mirelurks, and with their greater intelligence, they serve not just as warriors but also as commanders on the battlefield."
+
+  deathclaw_equipment:0 "Deathclaws"
+  deathclaw_equipment_desc:0 "The legendary Apex Predator of the Wastelands."
+
+  deathclaw_equipment_1:0 "Young Deathclaws"
+  deathclaw_equipment_1_short:0 "Young Claws"
+  deathclaw_equipment_1_desc:0 "Young Deathclaws, hatched from an egg or captured from a fallen mother, are much easier to tame than full grown adults. Controlling them becomes difficult as they grow older and get more independent, but even as hatchlings they're still strong enough to disembowel a man."
+  deathclaw_equipment_2:0 "Deathclaws"
+  deathclaw_equipment_2_short:0 "Deathclaws"
+  deathclaw_equipment_2_desc:0 "Symbols of Ferocity in cultures across the wasteland, Adult Deathclaws are truly beasts to be reckoned with. Their viscious claws tear through armor and flesh alike."
+  deathclaw_equipment_3:0 "Savage Deathclaws"
+  deathclaw_equipment_3_short:0 "Savage Claws"
+  deathclaw_equipment_3_desc:0 "Larger and more powerful than the standard genus, Savage deathclaws are known for their cruelty and violence in combat. Being observed to strike their prey in a way that emphasise pain, it would appear that these Deathclaws enjoy terrorising their prey before striking the killing blow."
+
+  deathclaw_special_equipment:0 "Alpha Feed"
+  deathclaw_special_equipment_desc:0 "This food helps the Alpha's maintain their bulk and energy on long campaigns."
+
+  deathclaw_special_equipment_1:0 "Alpha Deathclaw Feed"
+  deathclaw_special_equipment_1_short:0 "Alpha Deathclaw"
+  deathclaw_special_equipment_1_desc:0 "Exceptionally powerful deathclaws eventually grow into Alphas. Bigger, stronger, and meaner than the usual deathclaw, they're easily some of the toughest mutants in the entire wasteland. Squads led by them are limited, but nigh unstoppable."
+
+  deathclaw_special_equipment_2:0 "Legendary Deathclaw Feed"
+  deathclaw_special_equipment_2_short:0 "Legendary Deathclaw"
+  deathclaw_special_equipment_2_desc:0 "There exist beasts out there that chill even the hardest killer to the bone. Our claws now hold the strength of those legends."
+
+  feral_ghoul_equipment:0 "Feral Ghouls"
+  feral_ghoul_equipment_desc:0 "Ghouls that have lost their minds to time and radiation."
+
+  feral_ghoul_equipment_1:0 "Feral Ghouls"
+  feral_ghoul_equipment_1_short:0 "Ferals"
+  feral_ghoul_equipment_1_desc:0 "Crazies, ferals, zombies. The wastes have many names for ghouls that have fallen into ferocious post-necrotic dystrophy."
+  feral_ghoul_equipment_2:0 "Feral Ghoul Roamers"
+  feral_ghoul_equipment_2_short:0 "Roamers"
+  feral_ghoul_equipment_2_desc:0 "Feral ghouls that have walked the world for decades or even centuries. Seemingly, they have been made tougher and more clever by their years of survival."
+  feral_ghoul_equipment_armored:0 "Feral Ghoul Reavers"
+  feral_ghoul_equipment_armored_short:0 "Reavers"
+  feral_ghoul_equipment_armored_desc:0 "Armoring our feral hordes will greatly increase the firepower needed to put them down."
+  feral_ghoul_equipment_glowing:0 "Glowing Ones"
+  feral_ghoul_equipment_glowing_short:0 "Glowing Ones"
+  feral_ghoul_equipment_glowing_desc:0 "Ghouls with a unique affliction that causes their body to absorb and store so much radiation they glow, even in the daytime."
+
+  beast_creature_equipment:0 "War Beasts"
+  beast_creature_equipment_desc:0 "Their are any number of creatures that could be tamed and put to war. Or at least, shackled and released near our enemies."
+
+  beast_creature_equipment_1:0 "Radstags"
+  beast_creature_equipment_1_short:0 "Radstags"
+  beast_creature_equipment_1_desc:0 "Frightful and hard to train, radstags are nonetheless plentiful and capable of effortlessly tranversing any terrain."
+  beast_creature_equipment_2:0 "Bighorners"
+  beast_creature_equipment_2_short:0 "Bighorners"
+  beast_creature_equipment_2_desc:0 "Strong herbivores, they refuse to become pack animals despite seemingly being perfect for it. With a little training however, they'll charge in any direction we point them with the titular big horns."
+  beast_creature_equipment_heavy:0 "Yao Guai"
+  beast_creature_equipment_heavy_short:0 "Yao Guai"
+  beast_creature_equipment_heavy_desc:0 "Massive creatures, with powerful claws and a terrifying bite, Yao Guai are rightfully feared across the wastes. Domesticating them is surely of symbol of our strength."
+  beast_creature_equipment_dusky:0 "Dusky Yao Guai"
+  beast_creature_equipment_dusky_short:0 "Dusky Yao Guai"
+  beast_creature_equipment_dusky_desc:0 "Relentless breeding and training has given us Yao Guai with a darker skin and larger muscles. A single sweep of their claws could kill three men in a battle line."
+  beast_creature_equipment_stalker:0 "Night Stalker"
+  beast_creature_equipment_stalker_short:0 "Night Stalker"
+  beast_creature_equipment_stalker_desc:0 "Strealthy and venomous, a trained pack of Night Stalkers can silence our enemies before the sun rises. Domesticating them is surely of symbol of our guile."
+  beast_creature_equipment_cloaked:0 "Cloaked Night Stalker"
+  beast_creature_equipment_cloaked_short:0 "Cloaked Stalker"
+  beast_creature_equipment_cloaked_desc:0 "A family of Night Stalkers chewing on some loot gathered from foreign warriors has had an unexpected result. The entire pack is invisible to the human eye! While this makes them pretty hard to herd and handle, already we're looking for more of these devices to feed to our animals."
+
+  gecko_creature_equipment:0 "Gecko Clutters"
+  gecko_creature_equipment_desc:0 "Although smaller than a human, Geckos take well to forming packs and their claws are more than capable of cutting a man open."
+
+  gecko_creature_equipment_1:0 "Geckos"
+  gecko_creature_equipment_1_short:0 "Geckos"
+  gecko_creature_equipment_1_desc:0 "Occasionally hunted for their hides and meat, some of our people have successfully trained the beasts in simple tasks."
+  gecko_creature_equipment_2:0 "Golden Geckos"
+  gecko_creature_equipment_2_short:0 "Golden Geckos"
+  gecko_creature_equipment_2_desc:0 "Famed for the color of their leather, Golden Geckos are easily bred true by filling their enclosures with a little radioactive material."
+  gecko_creature_equipment_fire:0 "Fire Geckos"
+  gecko_creature_equipment_fire_short:0 "Fire Geckos"
+  gecko_creature_equipment_fire_desc:0 "A strange mutation has given some geckos the ability to breathe fire. While there are dangers to breeding entire packs of them, their knack for scorching foes is a valuable tool."
+  gecko_creature_equipment_green:0 "Green Geckos"
+  gecko_creature_equipment_green_short:0 "Green Geckos"
+  gecko_creature_equipment_green_desc:0 "An unusual variety of Gecko was recently found. As tough as Golden Geckos, if not tougher, but also capable of spitting their saliva long distances. The poisons in their spit can bring warriors to their knees and blind the unwary."
 
  # Fighter
   
@@ -955,3 +1079,11 @@
   #supply_equipment_1_short:0 "Trade Convoys"
   #supply_equipment_1_desc:0 ""
   #Written over by technology_vehicles loc string, edit; McGebe
+
+ #Mega Gun Ammo
+  explosive_ammo_equipment: "Набої до важкої артилерії"
+  explosive_ammo_equipment_short: "Набої до важкої артилерії"
+  explosive_ammo_equipment_desc: ""
+  explosive_ammo_equipment_1: "Набої до важкої артилерії"
+  explosive_ammo_equipment_1_short: "Набої до важкої артилерії"
+  explosive_ammo_equipment_1_desc: ""
