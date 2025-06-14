@@ -1,6 +1,7 @@
 ﻿l_english:
  #-------------------------------------
  # National Focuses
+ #-------------------------------------
  legion_must_own_hangdog_territory:0 "Ви повинні контролювати провінції §YБитих Псів§!, щоби отримати цей ефект."
  legion_must_own_twin_mothers_territory:0 "Ви повинні контролювати провінції §YМатерів-близнючок§!, щоби отримати цей ефект."
  legion_must_own_two_sun_territory:0 "Ви повинні контролювати провінції §YДвох Сонць§!, щоби отримати цей ефект."
@@ -44,18 +45,35 @@
 
  # Flags
  refused_petition:0 "Відхилене прохання"
- accepted_petition:0 "Схвалене прохання"
+ accepted_petition:0 "§RAccepted the Legion's Petition§!" # (!)
+ accept_petition_tt:0 "§RWe accept the Legion's offer. This will force us to take a diplomatic stance in favor of the Legion, limiting which focuses we can take.§!" # (!)
  hoover_dam_lost:0 "Втрата дамби Гувера"
  hoover_dam_won:0 "Збереження дамби Гувера"
  battle_for_hoover_dam:0 "Битва за дамбу Гувера"
  legion_chariots:0 "Колісниці Легіона"
- sided_with_vulpus:0 "Обрано Вульпес"
- sided_with_lanius:0 "Обрано Ланий"
+ sided_with_vulpus:0 "Обрано Вульпуса"
+ sided_with_lanius:0 "Обрано Ланія"
  caesar_survived:0 "Цезар вижив"
- sided_with_lucius:0 "Обрано Луцій"
+ sided_with_lucius:0 "Обрано Луція"
  no_generic_manufacturer:0 "Не дозволяє спільних виробників"
  no_generic_advisor:0 "Не дозволяє спільних радників"
- stole_cores:0 "Претензії отримані"
+ stole_cores:0 "Rightful territorial gains stolen" # (!)
+
+ #General tooltips # (!)
+ CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ is alive."
+ CHARACTER_IS_DEAD:0 "$CHARACTER|Y$ is dead."
+ ALLIED_WITH_OR_IS_NATION:0 "Allied with or is §Y[$NATION$.GetName]§!."
+ UNLOCK_BALANCE_OF_POWER_DECISION:0 "Unlock §YBalance of Power§! Decision:\n  $DECISION|Y$"
+ UNLOCK_FOCUS:0 "Unlock National Focus: $FOCUS|Y$"
+ UPGRADE_IDEA:0 "Upgrade $IDEA|Y$"
+ REPEATABLE:0 "Repeatable"
+ COMPARATOR_X_DIFF_Y:0 "$X$ $DIFF$ $Y|Y$"
+ NUM_OF_ALLIES_OR_SUBJECT:0 "Number of allies or subjects"
+ AT_LEAST:0 "at least"
+ GREATER_THAN:0 "greater than"
+ LESS_THAN:0 "less than"
+ EQUAL_TO:0 "equal to"
+ arming_artillery:0 "Is not already Arming"
 
  #idea tooltips
  killed_off:0 "Не був убитий!"
@@ -70,11 +88,3 @@
  thelist2:0 "§RВи ВСІ в списку.§!"
  claim_the_north_tt:0 "Надає §Y[This.GetNameDef]§! §Gправа§! і §Gпретензії§! щодо основних територій кожної країни на півночі §YВашингтона§!!"
  own_the_north_tt:0 "Усі території §Yпівночі§! §YВашингтона§! під контролем §Y[This.GetNameDef]§!, їх маріонеток та союзників.\n"
- slavery_now_allowed_tt:0 "Додаткові §Rзакони по рабству§! для [This.GetNameDef]."
-
- available_army_chief: "Доступний як §Yвоєначальник§!: \n"
- #-------------------------------------"
- # National Focuses"
- # Flags"
- encalve_return:0 "Дорнан повернувся!"
- #Fuck he's here everybody get down
