@@ -45,8 +45,8 @@
 
  # Flags
  refused_petition:0 "Відхилене прохання"
- accepted_petition:0 "§RПрийнято звернення Легіону§!" # (!)
- accept_petition_tt:0 "§RМи приймаємо пропозицію Легіону. Це змусить нас зайняти дипломатичну позицію на користь Легіону, що обмежить наші можливості.§!" # (!)
+ accepted_petition:0 "§RПрийнято звернення Легіону§!"
+ accept_petition_tt:0 "§RМи приймаємо пропозицію Легіону. Це змусить нас зайняти дипломатичну позицію на користь Легіону, що обмежить наші можливості.§!"
  hoover_dam_lost:0 "Втрата дамби Гувера"
  hoover_dam_won:0 "Збереження дамби Гувера"
  battle_for_hoover_dam:0 "Битва за дамбу Гувера"
@@ -57,9 +57,9 @@
  sided_with_lucius:0 "Обрано Луція"
  no_generic_manufacturer:0 "Не дозволяє спільних виробників"
  no_generic_advisor:0 "Не дозволяє спільних радників"
- stole_cores:0 "Законні територіальні надбання вкрадені" # (!)
+ stole_cores:0 "Законні територіальні надбання вкрадені"
 
- #General tooltips # (!)
+ #General tooltips
  CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ живий."
  CHARACTER_IS_DEAD:0 "$CHARACTER|Y$ мертвий."
  ALLIED_WITH_OR_IS_NATION:0 "Союзник або є §Y[$NATION$.GetName]§!."
