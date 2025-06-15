@@ -45,8 +45,8 @@
 
  # Flags
  refused_petition:0 "Відхилене прохання"
- accepted_petition:0 "§RAccepted the Legion's Petition§!" # (!)
- accept_petition_tt:0 "§RWe accept the Legion's offer. This will force us to take a diplomatic stance in favor of the Legion, limiting which focuses we can take.§!" # (!)
+ accepted_petition:0 "§RПрийнято звернення Легіону§!" # (!)
+ accept_petition_tt:0 "§RМи приймаємо пропозицію Легіону. Це змусить нас зайняти дипломатичну позицію на користь Легіону, що обмежить наші можливості.§!" # (!)
  hoover_dam_lost:0 "Втрата дамби Гувера"
  hoover_dam_won:0 "Збереження дамби Гувера"
  battle_for_hoover_dam:0 "Битва за дамбу Гувера"
@@ -60,20 +60,20 @@
  stole_cores:0 "Rightful territorial gains stolen" # (!)
 
  #General tooltips # (!)
- CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ is alive."
- CHARACTER_IS_DEAD:0 "$CHARACTER|Y$ is dead."
- ALLIED_WITH_OR_IS_NATION:0 "Allied with or is §Y[$NATION$.GetName]§!."
- UNLOCK_BALANCE_OF_POWER_DECISION:0 "Unlock §YBalance of Power§! Decision:\n  $DECISION|Y$"
- UNLOCK_FOCUS:0 "Unlock National Focus: $FOCUS|Y$"
- UPGRADE_IDEA:0 "Upgrade $IDEA|Y$"
- REPEATABLE:0 "Repeatable"
+ CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ живий."
+ CHARACTER_IS_DEAD:0 "$CHARACTER|Y$ мертвий."
+ ALLIED_WITH_OR_IS_NATION:0 "Союзник або є §Y[$NATION$.GetName]§!."
+ UNLOCK_BALANCE_OF_POWER_DECISION:0 "Розблокує рішення §Yбалансу сил§!:\n  $DECISION|Y$"
+ UNLOCK_FOCUS:0 "Розблокує фокус: $FOCUS|Y$"
+ UPGRADE_IDEA:0 "Змінить $IDEA|Y$"
+ REPEATABLE:0 "Повторюваний"
  COMPARATOR_X_DIFF_Y:0 "$X$ $DIFF$ $Y|Y$"
- NUM_OF_ALLIES_OR_SUBJECT:0 "Number of allies or subjects"
- AT_LEAST:0 "at least"
- GREATER_THAN:0 "greater than"
- LESS_THAN:0 "less than"
- EQUAL_TO:0 "equal to"
- arming_artillery:0 "Is not already Arming"
+ NUM_OF_ALLIES_OR_SUBJECT:0 "Кількість союзників або васалів"
+ AT_LEAST:0 "принаймні"
+ GREATER_THAN:0 "більше, ніж"
+ LESS_THAN:0 "менше, ніж"
+ EQUAL_TO:0 "дорівнює"
+ arming_artillery:0 "Чи не використовується зараз"
 
  #idea tooltips
  killed_off:0 "Не був убитий!"
