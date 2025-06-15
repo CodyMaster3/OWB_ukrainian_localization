@@ -57,7 +57,7 @@
  sided_with_lucius:0 "Обрано Луція"
  no_generic_manufacturer:0 "Не дозволяє спільних виробників"
  no_generic_advisor:0 "Не дозволяє спільних радників"
- stole_cores:0 "Rightful territorial gains stolen" # (!)
+ stole_cores:0 "Законні територіальні надбання вкрадені" # (!)
 
  #General tooltips # (!)
  CHARACTER_IS_ALIVE:0 "$CHARACTER|Y$ живий."
