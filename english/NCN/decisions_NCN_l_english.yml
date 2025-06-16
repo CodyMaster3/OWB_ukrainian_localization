@@ -1,0 +1,80 @@
+﻿l_english:
+# decisions
+ncn_conversion:0 "Місії з навернення"
+ncn_conversion_desc:0 "Народи навколо нас не пізнали світло Господнє. Ми повинні послати місіонерів до цих грішників — прямо туди, де вони живуть. З часом наш вплив і вплив Господа поширяться по землі."
+
+convert_CLK:0 "Навернути [CLK.GetNameWithFlag]"
+convert_TAR:0 "Навернути [TAR.GetNameWithFlag]"
+convert_CRZ:0 "Навернути [CRZ.GetNameWithFlag]"
+convert_ANO:0 "Навернути [ANO.GetNameWithFlag]"
+convert_LON:0 "Навернути [LON.GetNameWithFlag]"
+convert_UIN:0 "Навернути [UIN.GetNameWithFlag]"
+
+# Outcasts and Misfits
+ncn_outcasts_and_misfits:0 "Вигнанці та знедолені"
+ncn_outcasts_and_misfits_desc:0 "Не всі, хто живе серед нас, прийняли наші звичаї чи віру. Проте, вони все ще наші ближні, і Господь не відвертає обличчя навіть від грішників. Ми повинні працювати з цими громадами."
+
+farfield_revolt_mission:0 "Повстання у Фарфілді!"
+farfield_revolt_mission_desc:0 "Племена й маргінали Фарфілда та околиць дедалі більше незадоволені нашим правлінням. Якщо ми нічого не зробимо, вони можуть відкрито повстати!"
+
+brigham_revolt_mission:0 "Бріґем повстає!"
+brigham_revolt_mission_desc:0 "Бріґем і північні поселення — це суміш шукачів, торговців та підприємців. Вони лише номінально підкоряються нам і не є мормонами. Якщо ми не вживемо заходів, можемо втратити їх остаточно."
+
+farfield_build_dwellings_wtt:0 "Збудувати житло у Фарфілді"
+farfield_build_dwellings_wtt_desc:0 "У Фарфілді не вистачає придатного житла. Люди живуть у зруйнованих будинках чи просто в наметах. Якщо ми спрямуємо наші споживчі потужності на розбудову — завоюємо їхню довіру."
+
+farfield_meet_local_leaders:0 "Зустрітись з лідерами Фарфілду"
+farfield_meet_local_leaders_desc:0 "Особиста зустріч [NCN.GetLeader] із південними лідерами може зняти частину напруги. Спільна молитва, хліб і діалог — наш шлях."
+
+farfield_encourage_enlistment:0 "Заохотити службу на Півдні"
+farfield_encourage_enlistment_desc:0 "Коли люди почуваються забутими, їм варто показати, що вони — частина великої справи. Служба у війську — шанс мати родину, гідність і справу Господню."
+
+farfield_build_up_consumer_industry:0 "Розбудова споживчої промисловості"
+farfield_build_up_consumer_industry_desc:0 "Перенаправивши ресурси до Фарфілду, ми отримаємо не лише вдячність мешканців, а й економічну вигоду в майбутньому."
+
+farfield_supply_local_markets:0 "Забезпечити південні ринки"
+farfield_supply_local_markets_desc:0 "У той час як столиця має доступ до всіх благ, решта територій майже нічого не бачить. Якщо розподілити деякі товари на південь, це зміцнить єдність країни."
+
+brigham_provoke_war_scare:0 "Інсценувати загрозу війни"
+brigham_provoke_war_scare_desc:0 "Ми можемо 'випадково' провести навчання поблизу Бріґема — хай вважають, що Білоногі вже на підході. Страх — могутній об'єднуючий фактор."
+
+brigham_expand_garrisons:0 "Зміцнити гарнізони на Півночі"
+brigham_expand_garrisons_desc:0 "Щоб показати, що ми не втратили контроль, варто збільшити військову присутність на дорогах і в поселеннях. Це заспокоїть найгарячіші голови."
+
+brigham_build_up_industry:0 "Розбудувати військову промисловість у Бріґемі"
+brigham_build_up_industry_desc:0 "Нехай побачать — наша сила не лише у вірі, але й у виробництві. Майстерні Бріґема знову оживуть!"
+
+brigham_conduct_training_exercises:0 "Навчальні збори на півночі"
+brigham_conduct_training_exercises_desc:0 "Проведення регулярних військових навчань у північних регіонах зміцнить авторитет армії та запевнить населення в нашій готовності до будь-якої загрози."
+
+# Corruption
+ncn_corrupt_our_neighbors:0 "Навернення сусідів... заради прибутку!"
+ncn_corrupt_our_neighbors_desc:0 "Ми справді хочемо врятувати душі мешканців Юти. Але Господь не забороняє поєднати спасіння з продажем чудового кухонного приладдя з Нового Ханаану!"
+
+corrupt_south:0 "Охопити впливом [FROM.GetNameWithFlag]"
+NCN_corrupted:0 "Під впливом [NCN.GetNameWithFlag]"
+corrupt_south_tt:0 "[From.GETName] стане вразливим до подальшого впливу..."
+
+corrupt_north:0 "Охопити впливом [FROM.GetNameWithFlag]"
+coup_north:0 "Вибити борг із [From.GetName]"
+coup_north_tt:0 "Ви встановите підконтрольний уряд, який виплачуватиме борги Новому Ханаану, але §Rгромадянам це не сподобається§!."
+
+coup_south:0 "Вибити борг із [From.GetName]"
+
+NCN_joshua_graham_threatens_all:0 "Мир через силу"
+NCN_joshua_graham_threatens_all_desc:0 "Народи Юти мають згуртуватися проти Білоногих. Джошуа Ґрем доб'ється цього — хоч би й силою."
+
+conquer_neighbors:0 "Захистити [From.GetName]"
+conquer_neighbors_desc:0 "[From.GetName] повинен зрозуміти, що йому буде безпечніше під нашою опікою."
+
+ncn_conversion_daniel:0 "Навернення Юти"
+ncn_conversion_daniel_desc:0 "\"Співайте Господу пісню нову, вся земле! Співайте Господу, благословляйте Ім’я Його, сповіщайте спасіння Його день у день.\""
+
+convert_tribes_daniel:0 "Навернути [From.GetName]"
+convert_tribes_daniel_south:0 "Навернути [From.GetName]"
+
+ncn_conversion_daniel_sack_of_new_canaan:0 "Добра Вістка"
+ncn_conversion_daniel_sack_of_new_canaan_desc:0 "Гоніння не зупиняють істину — вони лише розпалюють її полум’я. Попри наклепи й глум, старійшини Церкви несуть Євангеліє і плекають спасіння світу."
+
+convert_tribes_daniel_sack_1:0 "Навернути [From.GetName]"
+convert_tribes_daniel_sack_ally:0 "Прийняти [From.GetName] до віри"
