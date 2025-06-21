@@ -1,0 +1,128 @@
+﻿l_english:
+tribal_nation:0 "Племінна Нація"
+tribal_nation_desc:0 ""
+
+tribal_defence:0 "Племінна Оборона"
+tribal_defence_desc:0 ""
+
+tribalunity:0 "Племінна Єдність"
+tribalunity_desc:0 ""
+
+tribal_tradition:0 "Племінна Традиція"
+tribal_tradition_desc:0 ""
+tribal_tradition_tt:0 "Наші §HШукачі§! тепер мають шанс повернутися з §Hуспішних місій збору§! з додатковими одиницями знайденого §Gпіхотного спорядження§!."
+tribal_tradition_reward_tt:0 "\nЗагін також повернувся з додатковими §H35§! одиницями знайденого §Gпіхотного спорядження§!!"
+
+war_chief1:0 "Військовий Вождь I"
+war_chief1_desc:0 ""
+
+war_chief2:0 "Військовий Вождь II"
+war_chief2_desc:0 ""
+
+high_shaman:0 "Верховний Шаман"
+high_shaman_desc:0 ""
+
+elder1:0 "Старійшина I"
+elder1_desc:0 ""
+
+elder2:0 "Старійшина II"
+elder2_desc:0 ""
+
+elder3:0 "Старійшина III"
+elder3_desc:0 ""
+
+highchief1:0 "Верховний Вождь I"
+highchief1_desc:0 ""
+
+highchief2:0 "Верховний Вождь II"
+highchief2_desc:0 ""
+
+highchief3:0 "Верховний Вождь III"
+highchief3_desc:0 ""
+
+elders:0 "Шановані Старійшини"
+elders_desc:0 ""
+
+outsideragreement:0 "Угода з Чужинцями"
+outsideragreement_desc:0 ""
+
+tribal_volunteers:0 "Племінні Добровольці"
+tribal_volunteers_desc:0 ""
+
+tribal_mercenaries:0 "Племінні Найманці"
+tribal_mercenaries_desc:0 ""
+
+tribalyouth:0 "Племінна Молодь"
+tribalyouth_desc:0 ""
+
+tribalchamps:0 "Племінні Чемпіони"
+tribalchamps_desc:0 ""
+
+healingpowder:0 "Лікувальний Порох"
+healingpowder_desc:0 ""
+
+tribalsecrets:0 "Племінні Таємниці"
+tribalsecrets_desc:0 ""
+
+tribalmuster:0 "Мобілізація Племені"
+tribalmuster_desc:0 ""
+
+tribalhoundmasters:0 "Майстри Гончих"
+tribalhoundmasters_desc:0 ""
+
+tribalskirmish:0 "Племінна Тактика Сутичок"
+tribalskirmish_desc:0 ""
+
+tribalfervor:0 "Племінний Завзяття"
+tribalfervor_desc:0 ""
+
+tribalfragprod:0 "Фрагподси"
+tribalfragprod_desc:0 ""
+
+spirits:0 "Слова Духів"
+spirits_desc:0 ""
+
+sacredlands:0 "Священні Землі"
+sacredlands_desc:0 ""
+
+tribalwasteland:0 "Пустка"
+tribalwasteland_desc:0 ""
+
+tribaldrums:0 "Племінні Барабани"
+tribaldrums_desc:0 ""
+
+slipperyenemies:0 "Хиткі Вороги"
+slipperyenemies_desc:0 ""
+
+rivergods:0 "Боги Річок"
+rivergods_desc:0 ""
+
+motherearth:0 "Мати-Земля"
+motherearth_desc:0 ""
+
+sungods:0 "Боги Сонця"
+sungods_desc:0 ""
+
+mountaingods:0 "Боги Гір"
+mountaingods_desc:0 ""
+
+warlegend:0 "Легендарний Воїн"
+warlegend_desc:0 ""
+
+shamanlegend:0 "Легендарний Шаман"
+shamanlegend_desc:0 ""
+
+builderlegend:0 "Легендарний Будівничий"
+builderlegend_desc:0 ""
+
+erawar:0 "Ера Війни"
+erawar_desc:0 ""
+
+eramigration:0 "Ера Міграції"
+eramigration_desc:0 ""
+
+eraprosperity:0 "Ера Процвітання"
+eraprosperity_desc:0 ""
+
+tribalfactions:0 "Дипломатичні Угоди"
+tribalfactions_desc:0 ""

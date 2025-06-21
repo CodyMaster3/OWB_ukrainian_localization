@@ -1,0 +1,48 @@
+﻿l_english:
+  navy_xp_more_than_5:0 "£navy_experience §H5§!"
+  navy_xp_more_than_5_blocked:0 "£navy_experience §R5§!"
+  navy_xp_more_than_5_tooltip:0 "Це коштує 5£navy_experience."
+
+  air_xp_more_than_10:0 "£air_experience §H10§!"
+  air_xp_more_than_10_blocked:0 "£air_experience §R10§!"
+  air_xp_more_than_10_tooltip:0 "Це коштує 10£air_experience."
+
+  cmd_pwr_more_than_30:0 "§H30§!£command_power"
+  cmd_pwr_more_than_30_blocked:0 "§R30§!£command_power"
+  cmd_pwr_more_than_30_tooltip:0 "Це коштує 30£command_power."
+
+  caps_more_than_75:0 "§H75§! кришок"
+  caps_more_than_75_blocked:0 "§R75§! кришок"
+  caps_more_than_75_tooltip:0 "Це коштує 75 кришок."
+
+  cmd_pwr_more_than_80:0 "§H80§!£command_power"
+  cmd_pwr_more_than_80_blocked:0 "§R80§!£command_power"
+  cmd_pwr_more_than_80_tooltip:0 "Це коштує 80£command_power."
+
+  decision_cost_10AE_10CP_10PP_text:0 "£army_experience  §Y10§! £command_power  §Y10§! £pol_power  §Y10§!"
+  decision_cost_10AE_10CP_10PP_text_blocked:0 "£army_experience  §R10§! £command_power  §R10§! £pol_power  §R10§!"
+  decision_cost_10AE_10CP_10PP_text_tooltip:0 "Це коштує £army_experience  §Y10§!,  £command_power  §Y10§! та  £pol_power §Y10§!."
+
+  decision_cost_10AE_25CP_10PP_text:0 "£army_experience  §Y10§! £command_power  §Y25§! £pol_power  §Y10§!"
+  decision_cost_10AE_25CP_10PP_text_blocked:0 "£army_experience  §R10§! £command_power  §R25§! £pol_power  §R10§!"
+  decision_cost_10AE_25CP_10PP_text_tooltip:0 "Це коштує £army_experience  §Y10§!,  £command_power  §Y25§! та  £pol_power §Y10§!."
+
+  decision_cost_25AE_10PP_150MP_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £manpower_texticon  §Y150§!"
+  decision_cost_25AE_10PP_150MP_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £manpower_texticon  §R150§!"
+  decision_cost_25AE_10PP_150MP_text_tooltip:0 "Це коштує £army_experience  §Y25§!,  £pol_power §Y10§! та £manpower_texticon §Y150§!."
+
+  decision_cost_25AE_10PP_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!"
+  decision_cost_25AE_10PP_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!"
+  decision_cost_25AE_10PP_text_tooltip:0 "Це коштує £army_experience  §Y25§! та £pol_power §Y10§!."
+
+  decision_cost_25AE_10PP_10MF_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £GFX_mil_factory  §Y10§!"
+  decision_cost_25AE_10PP_10MF_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £GFX_mil_factory  §R10§!"
+  decision_cost_25AE_10PP_10MF_text_tooltip:0 "Це коштує £army_experience  §Y25§!,  £pol_power §Y10§! та £GFX_mil_factory §Y10§!."
+
+  decision_cost_25AE_10PP_NO_TRAIT_text:0 "£army_experience  §Y25§!  £pol_power  §Y10§!  £GFX_suppression_texticon  §NO§!"
+  decision_cost_25AE_10PP_NO_TRAIT_text_blocked:0 "£army_experience  §R25§!  £pol_power  §R10§!  £GFX_suppression_texticon  §RNO§!"
+  decision_cost_25AE_10PP_NO_TRAIT_text_tooltip:0 "Це коштує £army_experience  §Y25§!, £pol_power §Y10§! та вимагає §Yвідсутності§! риси §YЗахисник нешкідливої вдачі§!."
+
+  decision_cost_150IW_150MP_text:0 "£GFX_equipment_capture_texticon  §Y150§!  £manpower_texticon  §Y150§!"
+  decision_cost_150IW_150MP_text_blocked:0 "£GFX_equipment_capture_texticon  §R150§!  £manpower_texticon  §R150§!"
+  decision_cost_150IW_150MP_text_tooltip:0 "Це коштує £GFX_equipment_capture_texticon §Y150§! та £manpower_texticon §Y150§!."

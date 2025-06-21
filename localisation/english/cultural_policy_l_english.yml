@@ -1,0 +1,91 @@
+﻿l_english:
+
+#Категорії рішень
+slaver_category:0 "Рабовласницькі рішення"
+caps_category:0 "Купівля і продаж товарів"
+
+#Вартість
+slave_50_cost:0 "£prisoners_20x20_texticon  §Y50§!"
+slave_50_cost_blocked:0 "£prisoners_20x20_texticon  §R50§!"
+slaves_100_cost:0 "£prisoners_20x20_texticon  §Y100§!"
+slaves_100_cost_blocked:0 "£prisoners_20x20_texticon  §R100§!"
+
+caps_1000_cost:0 "[GetCapTxt]  §Y1000§!"
+caps_1000_cost_blocked:0 "[GetCapTxt]  §R1000§!"
+caps_1100_cost:0 "[GetCapTxt]  §Y1100§!"
+caps_1100_cost_blocked:0 "[GetCapTxt]  §R1100§!"
+caps_1200_cost:0 "[GetCapTxt]  §Y1200§!"
+caps_1200_cost_blocked:0 "[GetCapTxt]  §R1200§!"
+caps_1300_cost:0 "[GetCapTxt]  §Y1300§!"
+caps_1300_cost_blocked:0 "[GetCapTxt]  §R1300§!"
+caps_1400_cost:0 "[GetCapTxt]  §Y1400§!"
+caps_1400_cost_blocked:0 "[GetCapTxt]  §R1400§!"
+caps_1500_cost:0 "[GetCapTxt]  §Y1500§!"
+caps_1500_cost_blocked:0 "[GetCapTxt]  §R1500§!"
+caps_1600_cost:0 "[GetCapTxt]  §Y1600§!"
+caps_1600_cost_blocked:0 "[GetCapTxt]  §R1600§!"
+caps_2000_cost:0 "[GetCapTxt]  §Y2000§!"
+caps_2000_cost_blocked:0 "[GetCapTxt]  §R2000§!"
+
+#Рішення
+slaves_for_manpower_decision:0 "Служба в обмін на свободу"
+slaves_for_manpower_decision_desc:0 "Деякі раби демонструють потенціал — можливо, варто дати їм шанс у нашій армії."
+slaves_for_stability_decision:0 "Звільнити рабів"
+slaves_for_stability_decision_desc:0 "Звільнення рабів зменшить кількість проблем, даючи нам змогу зосередитись на внутрішніх справах клану."
+slaves_for_pp_decision:0 "Викуп рабів"
+slaves_for_pp_decision_desc:0 "Багато з полонених рабів — це караванники з гільдій. Є шанс, що ми зможемо викупити їх назад."
+harsh_slave_policies_decision:0 "Жорстка політика щодо рабів"
+relaxed_slave_policies_decision:0 "Пом'якшена політика щодо рабів"
+neutral_slave_policies_decision:0 "Нейтральна політика щодо рабів"
+allow_slave_trade:0 "Дозволити работоргівлю"
+ban_slave_trade:0 "Заборонити работоргівлю"
+slave_trade_is_banned:0 "Усі раби будуть звільнені, а всі дії з ними стануть недоступними."
+
+caps_for_metal_decision:0 "Обміняти [GetCapType] на метал"
+caps_for_water_decision:0 "Обміняти [GetCapType] на воду"
+caps_for_electricity_decision:0 "Обміняти [GetCapType] на генератори"
+caps_for_electronics_decision:0 "Обміняти [GetCapType] на електроніку"
+caps_for_fuel_decision:0 "Обміняти [GetCapType] на паливо"
+caps_for_aelectronics_decision:0 "Обміняти [GetCapType] на вдосконалену електроніку"
+caps_for_jet_decision:0 "Обміняти [GetCapType] на Джет"
+caps_for_psycho_decision:0 "Обміняти [GetCapType] на Псайко"
+caps_for_buffout_decision:0 "Обміняти [GetCapType] на Баффаут"
+caps_for_slaves_decision:0 "Обміняти [GetCapType] на рабів"
+caps_for_slaves_decision_tooltip:0 "Ми купуємо: £prisoners_20x20_texticon §Y100§! рабів за: [GetCapTxt]  §Y2000§!"
+caps_for_mercenaries_decision:0 "Найняти найманців"
+caps_for_mercenaries_decision_tooltip:0 "Додати £manpower_texticon 400 людських ресурсів"
+slaves_for_caps_decision:0 "Продати рабів за [GetCapType]"
+slaves_for_caps_decision_tooltip:0 "Ми продаємо: £prisoners_20x20_texticon §Y100§! рабів за: [GetCapTxt]  §Y1400§!"
+caps_gamble_decision:0 "Азартна гра на [GetCapType]"
+
+#Ідеї
+harsh_slave_policies_idea:0 "Жорстка політика щодо рабів"
+harsh_slave_policies_idea_desc:0 ""
+relaxed_slave_policies_idea:0 "М’яка політика щодо рабів"
+relaxed_slave_policies_idea_desc:0 ""
+
+caps_for_jet_idea:0 "Під дією Джету"
+caps_for_jet_idea_desc:0 "Джет — надзвичайно залежний наркотик, синтезований з гною брамінів."
+caps_for_psycho_idea:0 "Під дією Псайко"
+caps_for_psycho_idea_desc:0 "Псайко — ін'єкційний наркотик військового походження, який значно підвищує больовий поріг."
+caps_for_buffout_idea:0 "Під дією Баффауту"
+caps_for_buffout_idea_desc:0 "Баффаут — потужний стероїд, який використовували спортсмени перед Великою війною. Передозування призводить до серцевого нападу або смерті."
+
+caps_corruption_10:0 "[GetCorruptionIdeaTitle]"
+caps_corruption_10_desc:0 "[GetCorruptionIdeaDescription]"
+caps_corruption_20:0 "[GetCorruptionIdeaTitle]"
+caps_corruption_20_desc:0 "[GetCorruptionIdeaDescription]"
+caps_corruption_30:0 "[GetCorruptionIdeaTitle]"
+caps_corruption_30_desc:0 "[GetCorruptionIdeaDescription]"
+
+#Опис причин корупції
+caps_corruption_10_title_generic:0 "§RНезначна корупція§!"
+caps_corruption_20_title_generic:0 "§RСуттєва корупція§!"
+caps_corruption_30_title_generic:0 "§RБурхлива корупція§!"
+caps_corruption_NCR_title:0 "§RБюрократія у дії§!"
+
+caps_corruption_10_description_generic:0 "§RКорупція§! повільно просочується в наше суспільство, осідаючи у кишенях посадовців. Якщо не зупинити це зараз, економіка буде зруйнована."
+caps_corruption_20_description_generic:0 "§RКорупція§! швидко зростає, і уряд має терміново вжити заходів для боротьби з цією заразою."
+caps_corruption_30_description_generic:0 "§RКорупція§! досягла піку, а керівництво не зупинило її. Щодня сотні [GetCapType] зникають у кишенях чиновників. §RДІЙТЕ НЕГАЙНО§!"
+caps_corruption_NCR_description:0 "§RКорупція§! вражає Конгрес НКР, десятиліття гегемонії і довічні президенти знищили демократію. Поки не буде змін, сильні світу цього забиратимуть свою частку §Rщодня.§!"
+

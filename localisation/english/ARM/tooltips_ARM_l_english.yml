@@ -1,0 +1,27 @@
+﻿l_english:
+tampico_station_rebuilt_tt:0 "Станцію в Тампіко відновлено"
+extended_tracks_into_la_pesca_tt:0 "Колії прокладено на південь до Ла-Песка"
+extended_tracks_into_ciudad_valles_tt:0 "Колії прокладено на південь до Сьюдад-Вальєс"
+extended_tracks_into_ciudad_victoria_tt:0 "Колії прокладено на південь до Сьюдад-Вікторія"
+is_not_extending_tracks_south_tt:0 "Наразі не ведеться розширення колій на південь"
+completed_southern_railway_reconstruction_tt:0 "Завершено відновлення південних залізниць"
+
+reynosa_station_rebuilt_tt:0 "Станцію в Рейносі відновлено"
+extended_tracks_into_san_carlos_tt:0 "Колії прокладено на північ до Сан-Карлоса"
+extended_tracks_into_forlorn_slipway_tt:0 "Колії прокладено на північ до Занедбаного Сліпвею"
+is_not_extending_tracks_north_tt:0 "Наразі не ведеться розширення колій на північ"
+completed_northern_railway_reconstruction_tt:0 "Завершено відновлення північних залізниць"
+
+chose_mechanical_superiority_tt:0 "Обрано механічну перевагу над людською гнучкістю"
+chose_human_flexibility_tt:0 "Обрано людську гнучкість замість механічної переваги"
+
+choose_mechanical_superiority_tt:0 "§MВідкриває фокуси, що покращують ваші роботизовані війська.§!"
+choose_human_flexibility_tt:0 "§MВідкриває фокуси, що покращують ваші людські війська.§!"
+
+jungle_spirits_tt:0 "§YМашини-Духи Джунглів S.P.I.R.I.T.S.§! дають:\n  §YРоботи§! (Амфібія, Болото, Джунглі, Річка):\n    Атака: §G+30.00%§!\n    Захист: §G+15.00%§!\n    Швидкість пересування: §G+30.00%§!"
+
+jungle_tribal_integration_tech_tt:0 "§YТехнологія Інтеграції Джунглевих Племен§! дає:\n  §YПіхота§! (Амфібія, Болото, Джунглі, Річка):\n    Атака: §G+15.00%§!\n    Захист: §G+15.00%§!\n    Надійність: §G+10.00%§!"
+
+arm_miltia_negotiations_flag:0 "§YВедуться перемовини з міліціями§!"
+arm_cartel_negotiations_flag:0 "§YВедуться перемовини з картелями§!"
+

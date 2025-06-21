@@ -1,0 +1,27 @@
+﻿l_english:
+ABILITY_USE_ARCHIMEDES_II:0 "Вогонь АРХІМЕДІС II"
+ABILITY_USE_ARCHIMEDES_II_DESC:0 "АРХІМЕДІС II — це орбітальна енергетична артилерійська платформа, створена компанією Посейдон Energy на замовлення уряду Сполучених Штатів.\nЗалишаючись на орбіті з кінця Великої Війни, вона була неактивною доти, доки Елайджа не відкрив спосіб використати її повний потенціал — дозволивши володарю Геліос обрушити на ворогів самі сонячні списи.\n\nПісля пострілу супутнику потрібно певний час для накопичення енергії за допомогою своїх сонячних панелей, перш ніж знову стати готовим до вогню."
+
+moj_preperation_dynamic_mod:0 "§OПідготовка до Операції «Сонячний Спалах»§!"
+
+mot_preparedness_tt:0 "[MOJ.whom_has_most_preperation_scripted_loc][?MOJ.preperation_absolute_value]"
+mot_most_prep_mot:0 "£GFX_flag_MOT_texticon "
+mot_most_prep_moj:0 "£GFX_flag_MOJ_texticon "
+
+change_preperation_tt:0 "[MOJ.change_preperation_scripted_loc]"
+mot_change_prep:0 "Збільшити §OPідготовку§! держави §Y[MOT.GetName]§! на §G[?MOJ.temp_preperation_display]§!."
+moj_change_prep:0 "Збільшити §OPідготовку§! держави §Y[MOJ.GetName]§! на §G[?MOJ.temp_preperation_display]§!."
+
+mot_moj_prep_progress_bar:0 "[MOJ.moj_mot_preperation_progress_bar_scripted_loc]"
+mot_moj_progress_1:0 "£GFX_preparedness_blue_texticon"
+mot_moj_progress_2:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon "
+mot_moj_progress_3:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_4:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_5:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_6:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_7:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_8:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+mot_moj_progress_9:0 "£GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon £GFX_preparedness_blue_texticon"
+
+change_op_sun_countdown_tt:0 "Запуск §OОперації: «Сонячний Спалах»§! буде §Yнаближено§! на §G[?global.op_sun_countdown_temp]§! дн."
+

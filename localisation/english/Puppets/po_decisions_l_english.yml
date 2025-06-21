@@ -1,0 +1,44 @@
+﻿l_english:
+  po_overlord_decisions:0 "Управління васалами"
+  po_overlord_decisions_desc:0 ""
+
+  po_clamp_down_1:0 "Посилити контроль над автономією"
+  po_clamp_down_2:0 "Посилити контроль над автономією"
+  po_clamp_down_3:0 "Посилити контроль над автономією"
+  po_clamp_down_4:0 "Посилити контроль над автономією"
+
+  po_exploit_subjects:0 "Експлуатувати [From.GetName]"
+
+  po_subject_decisions:0 "Боротьба за свободу"
+  po_subject_decisions_desc:0 ""
+
+  po_night_meetings:0 "Таємні зустрічі вночі"
+
+  po_meet_needs:0 "Задовольнити їхні потреби"
+
+  po_provide_conscripts:0 "Призовні кампанії"
+  po_manpower_autonomy:0 "Надано новобранців для сюзерена"
+
+  po_fighting_for_freedom:0 "Боремося за свободу"
+
+  po_autonomy_modifier:0 "Дії підлеглого"
+
+  po_mmanpower_modifier:0 "Рекрути підлеглого"
+
+  po_exploit_running:0 "Вже триває експлуатація васала"
+
+  po_fight_for_freedom:0 "Боротись за волю"
+
+# NCR
+
+ncr_settler_arms_for_california:0 "Зброя для Каліфорнії"
+ncr_settler_arms_for_california_desc:0 "Наша люба Каліфорнія потребує зброї для захисту свободи та демократії — тож допоможемо їй."
+
+ncr_settler_men_for_california:0 "Люди для Каліфорнії"
+ncr_settler_men_for_california_desc:0 "Нашій рідній Каліфорнії потрібні сильні чоловіки для будівництва і війни. Ми зробимо все, що в наших силах."
+
+ncr_settler_paying_our_debts:0 "Сплата боргів"
+ncr_settler_paying_our_debts_desc:0 "Каліфорнійський уряд надав нам зброю, інфраструктуру і — найголовніше — свободу. Але все це має свою ціну…"
+
+ncr_tribal_sending_our_strongest:0 "Відправити найсильніших"
+ncr_tribal_sending_our_strongest_desc:0 "Тільки найсильніші... правитимуть."

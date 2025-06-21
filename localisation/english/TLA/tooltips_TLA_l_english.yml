@@ -1,0 +1,23 @@
+﻿l_english:
+  honor_tlaloc_guarantee_tt:0 "Приєднується до §Y[From.GetNameDef]§! у їхніх оборонних війнах!"
+  tlaloc_play_as_max_tt:0 "Вибір цього дасть вам керування Максиміліаном"
+  tlaloc_play_as_moc_tt:0 "Вибір цього дасть вам керування Монтесумою"
+  tlaloc_play_as_zap_tt:0 "Вибір цього дасть вам керування Сапатою"
+
+  TLALOC_MEMORY_CAPACITY_TT:0 "§YДоступна памʼять§!"
+  TLALOC_MEMORY_CAPACITY_TT_DELAYED:0 "§YTlaloc§! наразі має [?current_databanks|0] з [?max_databanks|0] доступних банків памʼяті, але щодня втрачає [?databank_loss_rate] банків через втручання його дітей. Тлалок припинить функціонування, коли всі банки памʼяті будуть вичерпані. За поточного співвідношення, він страждає від §R[?memory_stability_bonus|%]§! стабільності."
+  tla_memory_leaks_malus:0 "Згасання Памʼяті"
+
+  # Модифікатори думки
+  fatherandson:0 "Батько й Син"
+  southern_menace:0 "Південна Загроза"
+  monster_of_mexico:0 "Монстр Мексики"
+  ward_of_tlaloc:0 "Підопічний Тлалока"
+  protector_of_mexico:0 "Охоронець Мексики"
+  sins_of_mexico:0 "Гріх Мексики"
+  chiconet_invader:0 "Загарбник ChicoNet"
+  zap_cartels_plague:0 "Прокляття Робітничого Класу"
+  max_republicanists:0 "Республіканці"
+
+  TLA_guarantees_no_revoke_tt:0 "§GТлалок не може скасувати свої гарантії без провокації§!"
+  TLA_pact_no_revoke_tt:0 "§GТлалок не може скасувати пакти про ненапад без провокації§!"

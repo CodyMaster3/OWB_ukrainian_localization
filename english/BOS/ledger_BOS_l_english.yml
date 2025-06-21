@@ -1,8 +1,0 @@
-﻿l_english:
-BOS_LEDGER_INFO: "[THIS.GetNameWithFlag]\n  §YДивізії:§! [?THIS.num_divisions]\n  §YЛюдські ресурси (в тисячах):§! [?THIS.manpower_k|§1]\n  §YДосліджені технології:§! [?THIS.researched_techs]\n  §Y£resources_strip|1 Вода:§! [?resource@water]\n  §Y£resources_strip|2 Енергія:§! [?resource@energy]\n  §Y£resources_strip|3 Метал:§! [?resource@metal]\n  §Y£resources_strip|4 Композити:§! [?resource@composites]\n  §Y£resources_strip|5 Схематика:§! [?resource@circuitry]\n  §Y£resources_strip|6 Високотехнологічні матеріали:§! [?resource@advanced]\n  §YПолітична влада:§! [?THIS.political_power|§0]\n  §YКепси:§! [?THIS.caps_number_display|§1]"
-
-BOS_LEDGER_INFO_OFFMAP: "Назва: [THIS.GetName]\n$bos_not_ready_tt$"
-
-BOS_LEDGER_INFO_DESTROYED: "Назва: [THIS.GetName]\n§RЛоялісти переховуються.§!"
-
-BOS_LEDGER_INFO_CONTROLLED: "Назва: [THIS.GetName]\n§GМи інтегрували це відділення!§!"

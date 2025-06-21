@@ -1,0 +1,7 @@
+﻿l_russian:
+TRIGGER_HAS_UNIT_LEADER:0 "Командир загону ID: $ID|Y$"
+TRIGGER_HAS_NOT_UNIT_LEADER:0 "Немає командира загону ID: $ID|Y$"
+TRIGGER_ALL_UNIT_LEADER_STARTS:0 "Усі командири загонів"
+TRIGGER_ANY_UNIT_LEADER_STARTS:0 "Любий командир загону"
+TRIGGER_IS_FIELD_MARSHALL:0 "Це §Hголовнокомандувач§!"
+TRIGGER_IS_NOT_FIELD_MARSHALL:0 "Це не §Hголовнокомандувач§!"
