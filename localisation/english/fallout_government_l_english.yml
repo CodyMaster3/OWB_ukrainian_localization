@@ -1,13 +1,14 @@
 ﻿l_english:
- raider_ransack_tt:0 "§YRansack:§! As Raiders, we will also raid and plunder the state when we core it.\n  §Y*§!All of the infrastructure in the state will be §Rdamaged§!.\n  §Y*§!We will gain §G+[ROOT.equ_per_infra_from_coring_raider_tt]§! §YInfantry Equipment§! from the states old owner, §G+[ROOT.caps_per_infra_from_coring_raider_tt]k§! §YCaps§! and §G+[ROOT.cp_per_infra_from_coring_raider_tt]§! §YCommand Power§! for each infrastructure damaged."
- coring_police_div_tt: "§YPeacekeepers:§! When cored, spawn §G[?ROOT.modifier@coring_police_div]§! §YLawkeeper§! division in the state."
- coring_police_div: "Free §YLawkeeper§! division from Coring"
- pacification_system_enabled:0 "Pacification System Enabled"
- coring_raider_infantry_equipment_per_infrastructure_mod:0 "Infantry Equipment from Coring (per Infrastructure)"
- coring_raider_command_power_per_infrastructure_mod:0 "Command Power from Coring (per Infrastructure)"
- coring_raider_caps_per_infrastructure_mod:0 "Caps from Coring (per Infrastructure)"
- disables_the_ransack_coring_mechanic:0 "Disables the Raider §Y\"Ransack\"§! Coring Mechanic."
- enables_the_ransack_coring_mechanic:0 "Enables the Raider §Y\"Ransack\"§! Coring Mechanic.\n\n(When §GCoring§! a state, damages existing §YInfrastructure§! to gain §YCaps§!, §YInfantry Equipment§!, and §YCommand Power§!.)"
+raider_ransack_tt:0 "§YГрабунок:§! Як Рейдери, ми будемо грабувати та розорювати регіон під час §Gінтеграції§!.\n  §Y*§!Уся §Yінфраструктура§! в регіоні буде §Rпошкоджена§!.\n  §Y*§!Ми отримаємо §G+[ROOT.equ_per_infra_from_coring_raider_tt]§! §YПіхотного Обладнання§!, §G+[ROOT.caps_per_infra_from_coring_raider_tt]k§! §YКришок§! та §G+[ROOT.cp_per_infra_from_coring_raider_tt]§! §YОчок Командування§! за кожну одиницю пошкодженої інфраструктури."
+coring_police_div_tt: "§YМиротворці:§! Після інтеграції, у регіоні з’явиться §G[?ROOT.modifier@coring_police_div]§! дивізія §YПравоохоронців§!."
+coring_police_div: "Безкоштовна дивізія §YПравоохоронців§! після Інтеграції"
+pacification_system_enabled:0 "Система Пацифікації Активована"
+coring_raider_infantry_equipment_per_infrastructure_mod:0 "Піхотне Обладнання з Інтеграції (за Інфраструктуру)"
+coring_raider_command_power_per_infrastructure_mod:0 "Очки Командування з Інтеграції (за Інфраструктуру)"
+coring_raider_caps_per_infrastructure_mod:0 "Кришки з Інтеграції (за Інфраструктуру)"
+disables_the_ransack_coring_mechanic:0 "Вимикає рейдерську механіку §Y«Грабунку»§! під час Інтеграції."
+enables_the_ransack_coring_mechanic:0 "Активує рейдерську механіку §Y«Грабунку»§! під час Інтеграції.\n\n(Під час §GІнтеграції§! регіону, пошкоджується наявна §YІнфраструктура§! для отримання §YКришок§!, §YПіхотного Обладнання§! та §YОчок Командування§!.)"
+
 
  ruler:0 "Абсолютна влада"
  ruler_noun:0 "Абсолютна влада"
@@ -70,7 +71,7 @@
  ARM_ruler_party:0 "Каудільйо"
 
   #Bone Dancers
- BDT_people_party:0 "Паломники Небес"
+ BDT_people_party:0 "Паломники Небесної Брами"
  BDT_elites_party:0 "Люди з Колонн"
  BDT_elites_party_long:0 "Люди з Колонн"
  BDT_intellectuals_party:0 "Пурпурові Послушники"
@@ -78,7 +79,7 @@
  BDT_ruler_party:0 "Арена Краніума"
 
   #TVT-Town
- TVT_people_party:0 "бігуни"
+ TVT_people_party:0 "Бігуни"
  TVT_ruler_party:0 "Бачення режисера"
 
   #TCA
@@ -185,32 +186,32 @@
   ## Military Law Categories
 
  outsider_recruitment_laws:0 "Вербування чужинців"
- undesirables_recruitment_laws:0 "Вербування неугодних"
+ undesirables_recruitment_laws:0 "Вербування невгідних"
  mutant_recruitment_laws:0 "Вербування мутантів"
  officer_training_laws:0 "Офіцерські тренування"
  army_training_laws:0 "Армійські тренування"
 
   ## Outsider Recruitment
 
- outsider_law_none:0 "Ніяких чужаків"
+ outsider_law_none:0 "Ніяких чужинців"
  outsider_law_none_desc:0 "Коли ми завойовуємо нові землі і підкорюємо інші народи, треба вирішити що робити з тими, хто залишився після війни. Ми постійно приходитимемо до висновку, що різниця в наших культурах надто велика для їхньої служби в наших лавах."
- outsider_law_volunteers:0 "Чужаки-добровольці"
+ outsider_law_volunteers:0 "Чужинці-добровольці"
  outsider_law_volunteers_desc:0 "Ми не в змозі відповісти відмовою людині, яка хоче битися за нас, особливо після війни. Навіть якщо вони прийшли не з нашої землі, нам варто давати гвинтівку і патрони кожному, хто захоче битися за нашу справу. Але мовні та культурні бар'єри нікуди не поділися, і з ними доведеться жити."
- outsider_law_auxiliaries:0 "Підтримка чужаків"
+ outsider_law_auxiliaries:0 "Підтримка чужинців"
  outsider_law_auxiliaries_desc:0 "У нас завжди має бути повністю укомплектована солдатами армія, і в цьому нам допоможуть чужинці, яким ми призначимо відповідні ролі. І хоч на повного солдата вони не будуть схожими, вони зможуть підтримувати наших солдатів як тільки зможуть, навіть якщо це заважатиме координації."
- outsider_law_batallions:0 "Батальйони чужаків"
+ outsider_law_batallions:0 "Батальйони чужинців"
  outsider_law_batallions_desc:0 "Щоб знайти здібних солдатів, ми повинні ставитися до інтегрованого населення як до свого власного. Колишні вороги зможуть принести користь перебуваючи в наших спеціальних загонах, чи то вузькоспеціалізовані, чи то змішані. Однак, допускаючи це, ми повинні враховувати заворушення, які можуть виникнути в нашій військовій ієрархії."
 
   ## Brotherhood Outsider Laws
 
  outsider_law_brotherhood_initiates:0 "Чужаки-послушники"
- outsider_law_brotherhood_initiates_desc:0 "Братство може дозволити чужакам бути помічниками наших Паладинів."
+ outsider_law_brotherhood_initiates_desc:0 "Братство може дозволити чужинцам бути помічниками наших Паладинів."
  outsider_law_brotherhood_knights:0 "Чужаки-лицарі"
- outsider_law_brotherhood_knights_desc:0 "Враховуючи нестачу солдатів, деякі вважають, що ми повинні дозволити досвіченим чужакам ставати Лицарями. Вибраний став таким, врешті-решт."
+ outsider_law_brotherhood_knights_desc:0 "Враховуючи нестачу солдатів, деякі вважають, що ми повинні дозволити досвіченим чужинцам ставати Лицарями. Вибраний став таким, врешті-решт."
 
   ## Undesirable Recruitment Law
 
- undesirables_law_none:0 "Ніяких невгодних"
+ undesirables_law_none:0 "Ніяких невгідних"
  undesirables_law_none_desc:0 "Якщо ми хочемо зберегти згуртованість і порядок у лавах наших військових, ми повинні забезпечити певний рівень моральності та довіри серед наших людей. Дотримуючись законів нашої країни, ми подбаємо про те, щоб у наших лавах не було жодних злочинців."
  undesirables_law_petty:0 "Вербування дрібних злочинців"
  undesirables_law_petty_desc:0 "І хоч закон і порядок це основа успішної армії, скасовувати службу в нашій армії через дрібні злочини - нерозумно і контрпродуктивно. Є цілком вагомі причини, через які людина може вкрасти їжу або порушити закон, і вони не повинні перешкоджати їй у служінні."
@@ -283,19 +284,20 @@
   ## Drug Laws
 
  drug_laws:0 "Наркотичні речовини"
- chems_all_substances_banned:0 "Complete Prohibition"
- chems_all_substances_banned_desc:0 "Intoxicants and foreign substances are poison in the veins of our soldiers and citizens alike. This applies to more than just chems like Jet and Psycho but also to other addictions in waiting like Alcohol and Tobacco. There will be no allowances made for how ubiquitous they are in other weaker parts of the wasteland. Our society is strong and pure and we will keep it that way."
- chems_banned:0 "Chems Banned"
- chems_banned_desc:0 "Man has many vices, and of them, few are more fearful than chem addiction. Coming in all sorts of shapes, sizes and colours, the effects of chems can prove to be a considerable draw to the uninformed. Be it physical enhancement or simple pleasure, chems often don’t show their dangers until the user is trapped in addiction. We must make the correct choice for our people on their behalf."
- chems_partial_legalizaion:0 "Softer Chems Allowed"
- chems_partial_legalizaion_desc:0 "Chems can be scary sure, mess your life up even, but there's something to be said for a relaxing evening with some Daddy-O. Not every chem is made equal, and some are less dangerous than others. Picking and choosing what to legalize is the best way to guide our people towards good outlets and away from the worst ones. We'd rather not have any psychos on Psycho wandering around."
- chems_in_warfare:0 "Battle Chems"
- chems_in_warfare_desc:0 "The average citizen is too irresponsible to be trusted with chems, and their effects can be too dire to endorse using them for recreational purposes at all. The place of chems is on the battlefield, where they can give our soldiers an edge over more restrained forces and allow us to keep up with those who use them freely. Many of these substances were made for the express purpose of waging war after all and we're in no position to refuse their utility."
- chems_as_culture:0 "Chems As A Fact Of Life"
- chems_as_culture_desc:0 "One or more chems are an important part of our traditions and rituals. We are wise enough to use them as they should be and it makes us stronger as a people. Whether we use med-x to dull the pain of ritual scarification, partake of hallucinogens to glimpse the future or simply celebrate every victory with a night of sharing Jet inhalers you'll have to take them from our cold dead fingers."
- chems_legalised:0 "Chems Legalised"
- chems_legalised_desc:0 "There’s a lot of things that you can do in the wasteland, but choosing how someone else lives their life isn’t one of ‘em. Some people just wanna feel good, and that should be their right. There’s a lot that can be said about how dangerous chems are and all that, but it doesn’t affect anything. Let people make their own bad decisions!"
- bans_drugs:0 "Bans Drugs"
+chems_all_substances_banned:0 "Повна Заборона"
+chems_all_substances_banned_desc:0 "Інтоксиканти та сторонні речовини — це отрута у венах наших солдатів і громадян. Це стосується не лише хімікатів на кшталт Джету та Псайко, а й інших звичних залежностей — алкоголю та тютюну. Жодних поблажок не буде, навіть якщо ці речі є повсюдними у слабких частинах Пустки. Наше суспільство буде сильним і чистим — і ми його таким збережемо."
+chems_banned:0 "Препарати Заборонено"
+chems_banned_desc:0 "Людство має багато вад, і мало яка з них страшніша за хімзалежність. Препарати бувають різних форм, кольорів та дій, і можуть привабити необізнаного користувача фізичним посиленням чи простим задоволенням. Але небезпека часто проявляється лише після того, як людина вже потрапила у пастку. Ми повинні зробити правильний вибір за наш народ."
+chems_partial_legalizaion:0 "Дозволено лише легкі препарати"
+chems_partial_legalizaion_desc:0 "Препарати можуть бути небезпечними, так — навіть руйнівними. Але втомленому працівнику ввечері може допомогти трохи Дедді-О. Не всі речовини однаково шкідливі. Обережна легалізація менш небезпечних — найкращий шлях до того, аби спрямувати наших людей до безпечних засобів і відвернути від руйнівних. Краще вже хай буде Джет, ніж Псайхо."
+chems_in_warfare:0 "Бойові препарати"
+chems_in_warfare_desc:0 "Пересічному громадянину не можна довірити препарати — їх дія занадто небезпечна для мирного використання. Але на полі бою вони можуть дати нашим солдатам перевагу. Багато з цих речовин створені саме для війни — ми не в тому становищі, щоб нехтувати їх користю."
+chems_as_culture:0 "Препарати як частина культури"
+chems_as_culture_desc:0 "Деякі препарати — це важлива частина наших традицій та обрядів. Ми мудрі й користуємося ними правильно, і це робить нас сильнішими. Чи це Мед-Ікс для знеболення під час ритуального шрамування, чи галюциногени для зазирнення у майбутнє, чи Джет для святкування перемоги — забрати їх у нас можна лише з наших холодних мертвих пальців."
+chems_legalised:0 "Препарати легалізовано"
+chems_legalised_desc:0 "У Пустці є багато речей, але одна з них точно — ти не маєш права вирішувати, як інші живуть. Якщо хтось просто хоче відчути себе добре — це його право. Так, препарати небезпечні, і що з того? Люди мають право робити власні погані рішення!"
+bans_drugs:0 "Заборонено наркотики"
+
 
   ## Slavery Laws
 
@@ -364,7 +366,7 @@
 
  EFFECT_CHANGE_LAW_officer_training_laws:0 "Змінити політику тренування офіцерів на '$NAME|Y$' яка дає ($DESC$)."
  EFFECT_CHANGE_LAW_army_training_laws:0 "Змінити політику тренування армії на '$NAME|Y$' яка дає ($DESC$)."
- EFFECT_CHANGE_LAW_outsider_recruitment_laws:0 "Змінити політику вербування чужаків на '$NAME|Y$' яка дає ($DESC$)."
+ EFFECT_CHANGE_LAW_outsider_recruitment_laws:0 "Змінити політику вербування чужинців на '$NAME|Y$' яка дає ($DESC$)."
  EFFECT_CHANGE_LAW_undesirables_recruitment_laws:0 "Змінити політику вербування невгодних на '$NAME|Y$' яка дає ($DESC$)."
  EFFECT_CHANGE_LAW_mutant_recruitment_laws:0 "Змінити політику вербування мутантів на '$NAME|Y$' яка дає ($DESC$)."
  EFFECT_CHANGE_LAW_press_laws:0 "Змінити політику преси на '$NAME|Y$' яка дає ($DESC$)."
@@ -377,7 +379,7 @@
 
  has_unique_manpower_law:0 "Володіє унікальними законами з військової повинності"
  has_unique_officer_laws:0 "Володіє унікальними політиками офіцерства"
- has_unique_outsider_laws:0 "Володіє унікальними політиками чужаків"
+ has_unique_outsider_laws:0 "Володіє унікальними політиками чужинців"
  has_unique_economic_laws:0 "Володіє унікальними економічними політиками"
  has_unique_trade_laws:0 "Володіє унікальними політиками торгівлі"
  has_unique_press_laws:0 "Володіє унікальними політиками преси"
@@ -387,25 +389,26 @@
  has_unique_mutant_recruitment_laws:0 "Володіє унікальними законами з вербування мутантів"
 
 
- # CHC
+# CHC
 
- CHC_people_party:0 "The Hummingbird"
- CHC_people_party_long:0 "The Hummingbirds"
- CHC_elites_party:0 "The Chained Choir"
- CHC_elites_party_long:0 "The Chained Choir"
- CHC_intellectuals_party:0 "The Chained Choir"
- CHC_intellectuals_party_long:0 "The Chained Choir"
- CHC_ruler_party:0 "Ambrose's Order"
- CHC_ruler_party_long:0 "The Knightly Order of Saint Ambrose Armistead, Protector Of All That Is Good, Well Intentioned, And Satisfactory With The World And Greater Universe"
+CHC_people_party:0 "Колібрі"
+CHC_people_party_long:0 "Колібрі"
+CHC_elites_party:0 "Закутий Хор"
+CHC_elites_party_long:0 "Закутий Хор"
+CHC_intellectuals_party:0 "Закутий Хор"
+CHC_intellectuals_party_long:0 "Закутий Хор"
+CHC_ruler_party:0 "Орден Амброза"
+CHC_ruler_party_long:0 "Лицарський Орден Святого Амброза Армістеда, Захисника Всього Доброго, Доброзичливого Та Задовільного У Світі І Всесвіті"
 
- # LOI
- LOI_ruler_party:0 "Freemont Guard"
- LOI_elites_party:0 "The Bourgeoisie"
- LOI_intellectuals_party:0 "The Ministry"
- LOI_people_party:0 "The Tank Brigades"
+# LOI
+LOI_ruler_party:0 "Гвардія Фрімонта"
+LOI_elites_party:0 "Буржуазія"
+LOI_intellectuals_party:0 "Міністерство"
+LOI_people_party:0 "Танкові Бригади"
 
- # OST
- OST_ruler_party:0 "Violent Nephilim"
- OST_elites_party:0 "The Order"
- OST_intellectuals_party:0 "The Jury"
- OST_people_party:0 "Peaceable Nephilim"
+# OST
+OST_ruler_party:0 "Нефілеми-Насильники"
+OST_elites_party:0 "Орден"
+OST_intellectuals_party:0 "Журі"
+OST_people_party:0 "Мирні Нефілеми"
+

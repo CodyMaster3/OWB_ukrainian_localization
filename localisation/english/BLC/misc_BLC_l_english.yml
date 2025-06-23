@@ -23,7 +23,7 @@ BLC_IFD_DONATIONS_tooltip:0 "£GFX_civ_factory  §WПожертви Цивіль
 BLC_MFD_DONATIONS_tooltip:0 "£GFX_mil_factory  §WПожертви Військових Майстерень:§! [?BLC_MFD_donations|+=0]"
 
 BLC_ADD_HEADER_tooltip:0 "Змінює §YПодаток з Ресурсів від Світлячків§!:"
-BLC_CAPS_ADD_tooltip:0 "£GFX_bottlecap_texticon  Пасивний Прибуток Кепсів: [?BLC_caps_temp|+=2]"
+BLC_CAPS_ADD_tooltip:0 "£GFX_bottlecap_texticon  Пасивний Прибуток Кришок: [?BLC_caps_temp|+=2]"
 BLC_METAL_ADD_tooltip:0 "£GFX_resource_metal_small_texticon  Пожертви Металобрухту: [?BLC_metal_temp|+=0]"
 BLC_COMPOSITES_ADD_tooltip:0 "£GFX_resource_composite_small_texticon  Пожертви Композитів: [?BLC_composites_temp|+=0]"
 BLC_ADVANCED_ADD_tooltip:0 "£GFX_resource_advanced_small_texticon  Пожертви Високих Технологій: [?BLC_advanced_temp|+=0]"

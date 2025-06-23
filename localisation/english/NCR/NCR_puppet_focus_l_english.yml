@@ -137,7 +137,7 @@ NCR_shared_final_mil_desc:0 ""
 NCR_shared_final_naval:0 "§3Каліфорнійське Плавання§!"
 
 #Mil
-NCR_shared_military_start_focus:0 "“У Армії…”"
+NCR_shared_military_start_focus:0 "“У Армії...”"
 NCR_shared_military_start_focus_desc:0 ""
 
 NCR_shared_military_recruitment_1:0 "Наші Нові Патріоти"

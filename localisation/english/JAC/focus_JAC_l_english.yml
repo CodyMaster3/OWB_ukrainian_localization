@@ -119,89 +119,89 @@
   JAC_turn_the_lights_on:0 "Violently Kicking the Generator"
   JAC_turn_the_lights_on_desc:0 "I have absolutely no idea why the engineers keep saying we need to kick stuff. You would think they need some proper care, but they keep talking about \"percussive maintenance\". Well alright then, just kick it i guess. Don't stand too close to it after though."
 
-  JAC_terminals_for_all:0 "Fixing Terminals"
-  JAC_terminals_for_all_desc:0 "Apparently, terminals would really let our eggheads write down stuff easier and go way faster in their research. So i so give them terminals. So much you can fill an entire room with them. I just want a new gun."
+ # JAC_terminals_for_all:0 "Fixing Terminals"
+ # JAC_terminals_for_all_desc:0 "Apparently, terminals would really let our eggheads write down stuff easier and go way faster in their research. So i so give them terminals. So much you can fill an entire room with them. I just want a new gun."
 
-  JAC_raider_computer_logs:0 "Keeping Logs"
-  JAC_raider_computer_logs_desc:0 "Keeping logs of our previous raids and actually reading, for a change, will let us see where the big fuck up happened. Maybe throwing dynamite around support beams wasn't the best idea, but next time we'll actually know that. I hope."
+ # JAC_raider_computer_logs:0 "Keeping Logs"
+ # JAC_raider_computer_logs_desc:0 "Keeping logs of our previous raids and actually reading, for a change, will let us see where the big fuck up happened. Maybe throwing dynamite around support beams wasn't the best idea, but next time we'll actually know that. I hope."
 
-  JAC_taking_the_best:0 "Taking the Best"
-  JAC_taking_the_best_desc:0 "Pretty advanced stuff right there, P-65 personal computer, top specs, you could maybe salvage the central processor as well as the quantum lock... why do you look at me like that? Get back to work idiot, we need to get those back to the eggheads!"
+ # JAC_taking_the_best:0 "Taking the Best"
+ # JAC_taking_the_best_desc:0 "Pretty advanced stuff right there, P-65 personal computer, top specs, you could maybe salvage the central processor as well as the quantum lock... why do you look at me like that? Get back to work idiot, we need to get those back to the eggheads!"
 
-  JAC_industrial_interest:0 "Stealing Tools"
-  JAC_industrial_interest_desc:0 "Apparently some of those slaves actually knew stuff. Stuff like the location of still running factories, the entry points, and the exact moment where everyone would be in the same room so you could throw a grenade. That does sound like a plan."
+ # JAC_industrial_interest:0 "Stealing Tools"
+ # JAC_industrial_interest_desc:0 "Apparently some of those slaves actually knew stuff. Stuff like the location of still running factories, the entry points, and the exact moment where everyone would be in the same room so you could throw a grenade. That does sound like a plan."
 
-  JAC_hideout_expansion:0 "Stolen Blueprints"
-  JAC_hideout_expansion_desc:0 "Okay so, it seems like we missed some stuff on the last run. Stuff like uh... entire piles of blueprints and advanced technical documents. Don't ask me, they only talked about tools back then. Anyway, let's go back."
+ # JAC_hideout_expansion:0 "Stolen Blueprints"
+ # JAC_hideout_expansion_desc:0 "Okay so, it seems like we missed some stuff on the last run. Stuff like uh... entire piles of blueprints and advanced technical documents. Don't ask me, they only talked about tools back then. Anyway, let's go back."
 
-  JAC_slaver_settlement:0 "Slaving Hub"
-  JAC_slaver_settlement_desc:0 "Maybe we should give our slaves actual buildings. Would certainly improve morale and free up all the space the ramshackle camps occupy."
+ # JAC_slaver_settlement:0 "Slaving Hub"
+ # JAC_slaver_settlement_desc:0 "Maybe we should give our slaves actual buildings. Would certainly improve morale and free up all the space the ramshackle camps occupy."
 
-  JAC_a_weapon_to_surpass_the_other_gang:0 "Heavy Metal Men"
-  JAC_a_weapon_to_surpass_the_other_gang_desc:0 "Ever since one of the boys saw a brotherhood soldier running around and not really caring about being shot at, he keeps pestering the scientists about it. They went to complain to other raiders, and when they told them why he was bothering them, everyone else joined in on the fun. I guess that means we get tin cans now?"
+ # JAC_a_weapon_to_surpass_the_other_gang:0 "Heavy Metal Men"
+ # JAC_a_weapon_to_surpass_the_other_gang_desc:0 "Ever since one of the boys saw a brotherhood soldier running around and not really caring about being shot at, he keeps pestering the scientists about it. They went to complain to other raiders, and when they told them why he was bothering them, everyone else joined in on the fun. I guess that means we get tin cans now?"
 
-  JAC_convert_metal_armour:0 "Ramshackle Supply"
-  JAC_convert_metal_armour_desc:0 "It might not really be power armor, but it still puts a few centimetres of armour between the squishy body and the very mean bullet coming at ya. So stop complaining and put it on, it will stop weighting so much in a bit, i swear."
+ # JAC_convert_metal_armour:0 "Ramshackle Supply"
+ # JAC_convert_metal_armour_desc:0 "It might not really be power armor, but it still puts a few centimetres of armour between the squishy body and the very mean bullet coming at ya. So stop complaining and put it on, it will stop weighting so much in a bit, i swear."
 
-  JAC_power_armor_familiarity:0 "Everyone's Favourite Toys"
-  JAC_power_armor_familiarity_desc:0 "Why would anyone not want one of those? They're awesome! You can have grenades land right in front of you and not care, and the priceless look on the face of those settlers when they saw raiders in power armor was more than worth it!"
+ # JAC_power_armor_familiarity:0 "Everyone's Favourite Toys"
+ # JAC_power_armor_familiarity_desc:0 "Why would anyone not want one of those? They're awesome! You can have grenades land right in front of you and not care, and the priceless look on the face of those settlers when they saw raiders in power armor was more than worth it!"
 
-  JAC_chop_shop_shimmy:0 "The Chop Shop Shimmy"
-  JAC_chop_shop_shimmy_desc:0 "We got plenty of vehicles running around, but nothing quite standardized. They're mostly ramshackle pieces of junks, and not really worth looking into. But we could also just beat the snot out of any drivers and engineers we encounter until they give us something we can make!"
+ # JAC_chop_shop_shimmy:0 "The Chop Shop Shimmy"
+ # JAC_chop_shop_shimmy_desc:0 "We got plenty of vehicles running around, but nothing quite standardized. They're mostly ramshackle pieces of junks, and not really worth looking into. But we could also just beat the snot out of any drivers and engineers we encounter until they give us something we can make!"
 
-  JAC_gear_head_slaves:0 "Grease Monkeys"
-  JAC_gear_head_slaves_desc:0 "Having our slaves work in the garages is way better than spending time trying to fix those pieces of junks ourselves. With any luck they'll run for more than half a fuel tank before breaking something."
+ # JAC_gear_head_slaves:0 "Grease Monkeys"
+  #JAC_gear_head_slaves_desc:0 "Having our slaves work in the garages is way better than spending time trying to fix those pieces of junks ourselves. With any luck they'll run for more than half a fuel tank before breaking something."
 
-  JAC_the_magnum_opus:0 "The Magnum Opus"
-  JAC_the_magnum_opus_desc:0 "This is it boys, we'll organize a massive competition to find the magnum opus! It has to be tough, big, scary, armed with huge guns! All the gang is getting into a frenzy to try and find the next ultimate death machine!"
+ # JAC_the_magnum_opus:0 "The Magnum Opus"
+ # JAC_the_magnum_opus_desc:0 "This is it boys, we'll organize a massive competition to find the magnum opus! It has to be tough, big, scary, armed with huge guns! All the gang is getting into a frenzy to try and find the next ultimate death machine!"
 
-  JAC_prove_yourself:0 "Proving Yourself"
-  JAC_prove_yourself_desc:0 "If you want to lead our boys, you better prove you can. While that generally means that you beat someone to death with his own arm, sound tactical choices is also acceptable, i guess."
+ # JAC_prove_yourself:0 "Proving Yourself"
+ # JAC_prove_yourself_desc:0 "If you want to lead our boys, you better prove you can. While that generally means that you beat someone to death with his own arm, sound tactical choices is also acceptable, i guess."
 
-  JAC_brutal_hazing:0 "Brutal Hazing"
-  JAC_brutal_hazing_desc:0 "Why train our troops when we can just dope them to hell and have them fight each other? Whoever's left is clearly more experienced than the other after all."
+ # JAC_brutal_hazing:0 "Brutal Hazing"
+ # JAC_brutal_hazing_desc:0 "Why train our troops when we can just dope them to hell and have them fight each other? Whoever's left is clearly more experienced than the other after all."
 
-  JAC_recruit_them_young:0 "Recruiting Them Young"
-  JAC_recruit_them_young_desc:0 "That would certainly bring more troops to the frontline, yeah. Just have to make sure they can actually lift the rifle, or aim it."
+  #JAC_recruit_them_young:0 "Recruiting Them Young"
+ # JAC_recruit_them_young_desc:0 "That would certainly bring more troops to the frontline, yeah. Just have to make sure they can actually lift the rifle, or aim it."
 
-  JAC_expand_the_garage:0 "Expanding the Garage"
-  JAC_expand_the_garage_desc:0 "You can be sure that as soon as someone talked about expanding the garage, every boy in the gang was listening. Who wouldn't want a roaring monstrosity of a vehicle all for themselves? It will be done faster than expired jet usage day"
+ # JAC_expand_the_garage:0 "Expanding the Garage"
+ # JAC_expand_the_garage_desc:0 "You can be sure that as soon as someone talked about expanding the garage, every boy in the gang was listening. Who wouldn't want a roaring monstrosity of a vehicle all for themselves? It will be done faster than expired jet usage day"
 
-  JAC_kings_of_the_roads:0 "Kings of the Roads"
-  JAC_kings_of_the_roads_desc:0 "Ain't nobody as fast or as crazy as us! Roadblock, wrecks, entire blaster road, we don't care, we just ride right through full speed!"
+ # JAC_kings_of_the_roads:0 "Kings of the Roads"
+ # JAC_kings_of_the_roads_desc:0 "Ain't nobody as fast or as crazy as us! Roadblock, wrecks, entire blaster road, we don't care, we just ride right through full speed!"
 
-  JAC_custom_rides:0 "Custom Rides"
-  JAC_custom_rides_desc:0 "Custom rides, that's such a sweet thing to say. Bigger engine, better suspensions, louder exhausts, anything goes. And once in the fight, it certainly shows."
+ # JAC_custom_rides:0 "Custom Rides"
+ # JAC_custom_rides_desc:0 "Custom rides, that's such a sweet thing to say. Bigger engine, better suspensions, louder exhausts, anything goes. And once in the fight, it certainly shows."
 
-  JAC_call_in_the_warboys:0 "Calling All War boys"
-  JAC_call_in_the_warboys_desc:0 "When you call the war boys, you really toy with fire. They might be the best APC drivers in the wastes, but they also wreck themselves faster than you can ask for another jet. We can make good use of them, just don't stand too close to their rides."
+ # JAC_call_in_the_warboys:0 "Calling All War boys"
+ # JAC_call_in_the_warboys_desc:0 "When you call the war boys, you really toy with fire. They might be the best APC drivers in the wastes, but they also wreck themselves faster than you can ask for another jet. We can make good use of them, just don't stand too close to their rides."
 
-  JAC_metal_boxes:0 "Heavy Metal Boxes"
-  JAC_metal_boxes_desc:0 "Boxes! On wheels! All they need is lots of armor and lots of weapons. Anti-tank rifles, flamethrowers, grenade launchers, machine-guns, you name it and we have it! Put it on the hatches, put it in the ball mounts, let's get this show on the road!"
+ # JAC_metal_boxes:0 "Heavy Metal Boxes"
+ # JAC_metal_boxes_desc:0 "Boxes! On wheels! All they need is lots of armor and lots of weapons. Anti-tank rifles, flamethrowers, grenade launchers, machine-guns, you name it and we have it! Put it on the hatches, put it in the ball mounts, let's get this show on the road!"
 
-  JAC_roaring_machines:0 "Roaring Machines"
-  JAC_roaring_machines_desc:0 "As long as it roars, you can be sure the boys will want it. Any engine swap goes, as long as it can lift itself clean off the ground from sheer acceleration alone."
+ # JAC_roaring_machines:0 "Roaring Machines"
+ # JAC_roaring_machines_desc:0 "As long as it roars, you can be sure the boys will want it. Any engine swap goes, as long as it can lift itself clean off the ground from sheer acceleration alone."
 
-  JAC_doped_soldiers:0 "Doped Raiders"
-  JAC_doped_soldiers_desc:0 "We got our hands on something called \"super jet\", and while nobody has an idea of where it comes from, it makes the boys mad as hell. Just pump them full of the stuff and unleash them on the enemy, just make sure to wait a long while after for the withdrawal to kick in, and don't mind the body parts"
+ # JAC_doped_soldiers:0 "Doped Raiders"
+ # JAC_doped_soldiers_desc:0 "We got our hands on something called \"super jet\", and while nobody has an idea of where it comes from, it makes the boys mad as hell. Just pump them full of the stuff and unleash them on the enemy, just make sure to wait a long while after for the withdrawal to kick in, and don't mind the body parts"
 
-  JAC_lightning_raids:0 "Lightning Raids"
-  JAC_lightning_raids_desc:0 " We're in and we're out before they even know what happened. That's how it goes boys, we go in fast and hard, take their loot, take their slaves, take their lives!"
+#  JAC_lightning_raids:0 "Lightning Raids"
+#  JAC_lightning_raids_desc:0 " We're in and we're out before they even know what happened. That's how it goes boys, we go in fast and hard, take their loot, take their slaves, take their lives!"
 
-  JAC_blood_soaked_gender_equality:0 "Gender Equality through Violence"
-  JAC_blood_soaked_gender_equality_desc:0 "We don't really discriminate around here. If you can throw a grenade far enough to land it where it's funny to watch it explode, or if you can slice someone's arm off with a machete, you're in."
+#  JAC_blood_soaked_gender_equality:0 "Gender Equality through Violence"
+#  JAC_blood_soaked_gender_equality_desc:0 "We don't really discriminate around here. If you can throw a grenade far enough to land it where it's funny to watch it explode, or if you can slice someone's arm off with a machete, you're in."
 
-  JAC_take_what_you_need:0 "Taking What We Need"
-  JAC_take_what_you_need_desc:0 "Raiding, it's pretty simple business really. What's hard is seeing if it's really worth taking on that PA patrol, and how. But with some more experience against simple targets, we can improve our raiding techniques."
+#  JAC_take_what_you_need:0 "Taking What We Need"
+#  JAC_take_what_you_need_desc:0 "Raiding, it's pretty simple business really. What's hard is seeing if it's really worth taking on that PA patrol, and how. But with some more experience against simple targets, we can improve our raiding techniques."
 
-  JAC_business_booms:0 "Business Booms"
-  JAC_business_booms_desc:0 "Business booms, artillery blooms and it certainly goes kaboom. Nobody is gonna complain about having heavy ordnance on their side, except when it drops on their head by accident."
+#  JAC_business_booms:0 "Business Booms"
+#  JAC_business_booms_desc:0 "Business booms, artillery blooms and it certainly goes kaboom. Nobody is gonna complain about having heavy ordnance on their side, except when it drops on their head by accident."
 
-  JAC_short_fused_engineers:0 "Short Fuse Engineering"
-  JAC_short_fused_engineers_desc:0 "More and more explosives are required to really have an advantage over other gang. Every boy in the troop has to have his own stock of it, and for that it will take quite a bit of time. But all the screams and blown bits will make it worth it."
+#  JAC_short_fused_engineers:0 "Short Fuse Engineering"
+#  JAC_short_fused_engineers_desc:0 "More and more explosives are required to really have an advantage over other gang. Every boy in the troop has to have his own stock of it, and for that it will take quite a bit of time. But all the screams and blown bits will make it worth it."
 
-  JAC_an_explosion_in_understanding:0 "An Explosion in Understanding"
-  JAC_an_explosion_in_understanding_desc:0 "That's what you could call it anyway, one of the boys blew himself up on experimental explosives and it apparently gave the eggheads some idea. If it makes them work faster, we'll throw people on top of mines at this rate."
+#  JAC_an_explosion_in_understanding:0 "An Explosion in Understanding"
+#  JAC_an_explosion_in_understanding_desc:0 "That's what you could call it anyway, one of the boys blew himself up on experimental explosives and it apparently gave the eggheads some idea. If it makes them work faster, we'll throw people on top of mines at this rate."
 
 JAC_cannibal_question_of_cannibalism:0 "Питання канібалізму"
 JAC_cannibal_question_of_cannibalism_desc:0 "Протягом десятиліть канібалізм був серйозною проблемою серед Рейдерів-Шакалів\nТепер ми маємо вибір — намагатися відмовитися від цієї практики або прийняти її."

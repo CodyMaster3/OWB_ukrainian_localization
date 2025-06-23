@@ -19,7 +19,7 @@
  kings_way:0 "Шлях Короля"
  kings_way_desc:0 "§Y(Шлях Короля)§!\n\n\nШлях Короля — це індивідуалізм, ідея про те, що кожна людина в ньому може слідувати своїм власним шляхом, про свободу власного вибору. Зрештою, кожна людина на шляху королів — сама собі король."
  revolutionary_democracy: "Революційна демократія"
- revolutionary_democracy_desc:0 "This faction is ruled by a strong leader and their democratically elected council." # (!)
+
 
   #Intellectuals
  meritocracy:0 "Меритократія"
@@ -49,7 +49,7 @@
  triarchy:0 "Тріархія"
  triarchy_desc:0 "Досить унікальна форма правління, Тріархія являє собою рівне правління трьох особ. Теоретично зупиняючи диктатуру одного і тупикову ситуацію двох, тріахічне правління породжує безліч проблем управління."
  divine_right_ruler: "Абсолютна монархія"
- divine_right_ruler_desc:0 "This faction is ruled by a monarch that rules alone by the Divine Right of Kings." # (!)
+divine_right_ruler_desc:0 "Ця фракція керується монархом, що править одноосібно за Божим Правом Королів." 
 
   #Elite
  kritocracy:0 "Критократія"
@@ -63,12 +63,18 @@
  survivalism:0 "Сурвайвалізм"
  survivalism_desc:0 "Цією фракцією керує впливова людина або група, чия єдина мета — зберегти існування комплексу будь-якими необхідними засобами."
  divine_right: "Абсолютна монархія"
- divine_right_desc:0 "This faction is ruled by a monarch that rules alone by the Divine Right of Kings." # (!)
+
  tribalism: "Трайбалізм"
- tribalism_desc:0 "This faction is a group of like minded tribes ruled by a chief from the most influential or strongest tribe in the group." # (!)
+
  militarist_technocracy: "Войовнича технократія"
- militarist_technocracy_desc:0 "This faction is ruled in a way that is focused on using technology to advance the nation and deal with its problems but focuses more on military uses then diplomatic ones." # (!)
+
  feudalism:0 "Феодалізм"
  feudalism_desc:0 ""
  cult_leadership: "Лідерство культу"
- cult_leadership_desc:0 "This faction is ruled by the highest members of the local cult, who hold absolute sway over their members." # (!)
+######
+revolutionary_democracy_desc:0 "Цією фракцією керує сильний лідер та їхня демократично обрана рада."
+divine_right_desc:0 "Цією фракцією керує монарх, що править одноосібно за Божим Правом Королів."
+tribalism_desc:0 "Ця фракція — це група однодумних племен, якими керує вождь найвпливовішого або найсильнішого племені."
+militarist_technocracy_desc:0 "Цією фракцією керують з орієнтацією на використання технологій для розвитку нації та вирішення її проблем, з основним фокусом на військові, а не дипломатичні цілі."
+cult_leadership_desc:0 "Цією фракцією керують найвищі члени місцевого культу, що мають абсолютну владу над своїми послідовниками."
+#######
