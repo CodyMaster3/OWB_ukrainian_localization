@@ -98,7 +98,7 @@ owb_achievement_siesta_time_NAME:0 "Час для Сієсти"
 owb_achievement_siesta_time_DESC:0 "Граючи за @GDH §YGente del Sol§!, завершити будівництво §YВілли§!."
 
 owb_achievement_whats_in_the_box_NAME:0 "Що в Скриньці?"
-owb_achievement_whats_in_the_box_DESC:0 "Граючи за @HAN §YГангдогів§!, відкрити коробку."
+owb_achievement_whats_in_the_box_DESC:0 "Граючи за @HAN §YБитих Псів§!, відкрити коробку."
 
 owb_achievement_the_price_is_right_NAME:0 "Правильна Ціна"
 owb_achievement_the_price_is_right_DESC:0 "Отримати §Y600,000§! кришок з одного вузла торгівлі."
@@ -170,7 +170,7 @@ owb_achievement_a_marvel_of_modern_science_NAME:0 "Диво Сучасної Н�
 owb_achievement_a_marvel_of_modern_science_DESC:0 "Граючи за @TNK §YМислячий Танк§!, анексувати @MOJ §YМохавське Братство§!."
 
 owb_achievement_who_let_the_dogs_out_NAME:0 "Хто Випустив Псів?"
-owb_achievement_who_let_the_dogs_out_DESC:0 "Граючи за @HAN §YГангдогів§!, анексувати @LAC §YКогорту Ланія§!."
+owb_achievement_who_let_the_dogs_out_DESC:0 "Граючи за @HAN §YБитих Псів§!, анексувати @LAC §YКогорту Ланія§!."
 
 owb_achievement_emerald_of_the_west_NAME:0 "Смарагд Заходу"
 owb_achievement_emerald_of_the_west_DESC:0 "Підвищити вузол до рівня §Y10§!."
@@ -224,7 +224,7 @@ owb_achievement_flat_china_NAME:0 "Плоский Китай"
 owb_achievement_flat_china_DESC:0 "Граючи за @HST §YІсториків§!, володіти містом §YХолійок§! і переконатися, що там немає жодної цивільної або військової фабрики."
 
 owb_achievement_discrete_structures_NAME:0 "Дискретні Структури"
-owb_achievement_discrete_structures_DESC:0 "Граючи за @MXC §YЕкспедицію Максона§!, розкрити таємниці §YСховища 0§!."
+owb_achievement_discrete_structures_DESC:0 "Граючи за @MXC §YЕкспедицію Мексона§!, розкрити таємниці §YСховища 0§!."
 
 owb_achievement_fury_road_NAME:0 "Дорога Люті"
 owb_achievement_fury_road_DESC:0 "Граючи за @EHT §YВісімдесятників§!, @GDH §YХенте дель Соль§!, @IMO §YЗалізники§!, @NEW §YНью-Ріно§! або @TWO §YТу Сан§!, перемогти у §YВеликій Гонці§!."
