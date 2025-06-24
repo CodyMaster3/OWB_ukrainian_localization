@@ -50,16 +50,16 @@ owb_achievement_the_art_of_haggling_NAME:0 "Мистецтво Торгу"
 owb_achievement_the_art_of_haggling_DESC:0 "Здійснити покупку за кришки."
 
 owb_achievement_better_living_underground_NAME:0 "Краще Життя Під Землею"
-owb_achievement_better_living_underground_DESC:0 "Граючи за @VLT §YVault City§!, захопити §Y$STATE_337$§!."
+owb_achievement_better_living_underground_DESC:0 "Граючи за @VLT §YМісто-Сховище§!, захопити §Y$STATE_337$§!."
 
 owb_achievement_crossing_the_rubicon_NAME:0 "Перехід Рубікону"
-owb_achievement_crossing_the_rubicon_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, володіти §Y$STATE_211$§!."
+owb_achievement_crossing_the_rubicon_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, оволодіти §Y$STATE_211$§!."
 
 owb_achievement_the_last_oak_NAME:0 "Останній Дуб"
 owb_achievement_the_last_oak_DESC:0 "Граючи за @TIM §YЛісовий Рубіж§!, анексувати @LON §YLonetree§!."
 
 owb_achievement_et_tu_brute_NAME:0 "І ти, Бруте?"
-owb_achievement_et_tu_brute_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні під керівництвом §YВулпеса§! або §YЛаніуса§!."
+owb_achievement_et_tu_brute_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні під керівництвом §YВулпеса§! або §YЛанія§!."
 
 owb_achievement_the_bells_NAME:0 "Дзвони"
 owb_achievement_the_bells_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Гранде§!, підняти лідера до чогось більшого."
@@ -68,16 +68,16 @@ owb_achievement_till_love_do_us_apart_NAME:0 "Поки Любов Не Розл�
 owb_achievement_till_love_do_us_apart_DESC:0 "Граючи за @ATE §YNuevo Aztlán§! або @ITZ §YChichen Itza§!, одружитися з головним суперником."
 
 owb_achievement_prove_hanlon_wrong_NAME:0 "Доведи, що Ханлон Помилявся"
-owb_achievement_prove_hanlon_wrong_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§!, володіти §Y$STATE_252$§! і покласти край тиранії §YЦезаря§!."
+owb_achievement_prove_hanlon_wrong_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§!, оволодіти §Y$STATE_252$§! і покласти край тиранії §YЦезаря§!."
 
 owb_achievement_avenging_president_richardson_NAME:0 "Помста за Президента Річардсона"
 owb_achievement_avenging_president_richardson_DESC:0 "Граючи за будь-яку націю Анклаву, анексувати §Y$STATE_337$§!."
 
 owb_achievement_we_hold_these_truths_to_be_self_evident_NAME:0 "Ми Вважаємо Ці Істини Самоочевидними..."
-owb_achievement_we_hold_these_truths_to_be_self_evident_DESC:0 "Граючи за не-мексиканську націю, володіти всіма довоєнними штатами @USA §YСполучених Штатів Америки§!."
+owb_achievement_we_hold_these_truths_to_be_self_evident_DESC:0 "Граючи за не-мексиканську націю, оволодіти всіма довоєнними штатами @USA §YСполучених Штатів Америки§!."
 
 owb_achievement_fusang_NAME:0 "Фусанг"
-owb_achievement_fusang_DESC:0 "Граючи за @SHI §YShi§!, володіти §Y$STATE_157$§! та §Y$STATE_253$§!."
+owb_achievement_fusang_DESC:0 "Граючи за @SHI §YШі§!, володіти §Y$STATE_157$§! та §Y$STATE_253$§!."
 
 owb_achievement_masters_of_war_NAME:0 "Майстри Війни"
 owb_achievement_masters_of_war_DESC:0 "Завершити дерево §Y$fallout_land_doctrine_folder$§!, всі 4 §YPerk§! дерева, дерево §Y$HEADER_COMBAT_TACTICS$§!, §Y$air_doctrine$§! і §Y$naval_doctrine$§!."
@@ -86,7 +86,7 @@ owb_achievement_pew_NAME:0 "Піу!"
 owb_achievement_pew_DESC:0 "Граючи за розвинену націю, дослідити останній рівень §Yлазерної§!, §Yплазмової§! або §Yґаусової зброї§!."
 
 owb_achievement_form_provincial_texas_NAME:0 "Сформувати Провінційний Техас"
-owb_achievement_form_provincial_texas_DESC:0 "Граючи за @TBH §YБратство Техасу§! або @LNS §YОдинока Зірка§!, утворити §YПровінційну Республіку Техас§!."
+owb_achievement_form_provincial_texas_DESC:0 "Граючи за @TBH §YБратство Техасу§! або @LNS §YЛоун Стар§!, утворити §YПровінційну Республіку Техас§!."
 
 owb_achievement_legacy_of_icarus_NAME:0 "Спадщина Ікара"
 owb_achievement_legacy_of_icarus_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @CES §YЛегіон Цезаря§!, анексувати @MOJ §YМохавське Братство§! після того, як §YHELIOS One§! буде відновлено."
@@ -110,10 +110,10 @@ owb_achievement_return_to_sender_NAME:0 "Повернення Відправни
 owb_achievement_return_to_sender_DESC:0 "Граючи за @BAG §YБеггерів§!, анексувати §Y$STATE_253$§!."
 
 owb_achievement_homecoming_NAME:0 "Повернення Додому"
-owb_achievement_homecoming_DESC:0 "Граючи за @SOK §YСинів Каґи§!, володіти всіма ядрами §YАрройо§! до §Y2279§!."
+owb_achievement_homecoming_DESC:0 "Граючи за @SOK §YСинів Каґи§!, володіти всіма осердями §YАрройо§! до §Y2279§!."
 
 owb_achievement_the_master_lives_NAME:0 "Майстер Живий!"
-owb_achievement_the_master_lives_DESC:0 "Граючи за @TRL §YТрольське Сховище§!, @NEW §YНовий Ріно§! або @UTO §YШтат Утобіти§!, утворити §YНову Маріпосу§!."
+owb_achievement_the_master_lives_DESC:0 "Граючи за @TRL §YТрольське Сховище§!, @NEW §YНью-Ріно§! або @UTO §YШтат Утобіти§!, утворити §YНову Маріпосу§!."
 
 owb_achievement_joseph_smiths_legacy_NAME:0 "Спадщина Джозефа Сміта"
 owb_achievement_joseph_smiths_legacy_DESC:0 "Граючи за @NCN §YНью-Ханаан§!, утворити §YДезерет§!."
@@ -137,7 +137,7 @@ owb_achievement_unifying_the_brotherhood_NAME:0 "Об'єднання Братс�
 owb_achievement_unifying_the_brotherhood_DESC:0 "Граючи за будь-яку націю Братства, переконатись, що всі інші гілки — або ваші суб'єкти, або в одній фракції з вами."
 
 owb_achievement_highway_to_hell_NAME:0 "Шосе в Пекло"
-owb_achievement_highway_to_hell_DESC:0 "Граючи за @EHT §YEighties§!, обрати гру за £flag_THN_texticon §YГромовиків§! і володіти §Y$STATE_135$§! як ядром."
+owb_achievement_highway_to_hell_DESC:0 "Граючи за @EHT §YВісімдесятників§!, обрати гру за £flag_THN_texticon §YГромовиків§! і володіти §Y$STATE_135$§! як осердям."
 
 owb_achievement_destroying_sin_city_NAME:0 "Знищення Міста Гріхів"
 owb_achievement_destroying_sin_city_DESC:0 "Ядерним ударом знищити §Y$STATE_211$§!."
@@ -163,14 +163,14 @@ owb_achievement_baja_california_sir_DESC:0 "Граючи за @BJS §YШтат �
 owb_achievement_boom_time_NAME:0 "Час Буму!"
 owb_achievement_boom_time_DESC:0 "Застосувати ядерну зброю."
 
-owb_achievement_the_wrong_viper_NAME:0 "Той Що Не Той Гадюка"
-owb_achievement_the_wrong_viper_DESC:0 "Граючи за @DES §YНевірних Рейнджерів§!, володіти всіма ядрами @CES §YЛегіону Цезаря§!."
+owb_achievement_the_wrong_viper_NAME:0 "Не Та Гадюка"
+owb_achievement_the_wrong_viper_DESC:0 "Граючи за @DES §YНевірних Рейнджерів§!, володіти всіма осердями @CES §YЛегіону Цезаря§!."
 
 owb_achievement_a_marvel_of_modern_science_NAME:0 "Диво Сучасної Науки"
 owb_achievement_a_marvel_of_modern_science_DESC:0 "Граючи за @TNK §YМислячий Танк§!, анексувати @MOJ §YМохавське Братство§!."
 
 owb_achievement_who_let_the_dogs_out_NAME:0 "Хто Випустив Псів?"
-owb_achievement_who_let_the_dogs_out_DESC:0 "Граючи за @HAN §YГангдогів§!, анексувати @LAC §YКогорту Ланіуса§!."
+owb_achievement_who_let_the_dogs_out_DESC:0 "Граючи за @HAN §YГангдогів§!, анексувати @LAC §YКогорту Ланія§!."
 
 owb_achievement_emerald_of_the_west_NAME:0 "Смарагд Заходу"
 owb_achievement_emerald_of_the_west_DESC:0 "Підвищити вузол до рівня §Y10§!."
@@ -199,7 +199,7 @@ owb_achievement_the_canadian_royalty_DESC:0 "Граючи за @VIC §YНову 
 owb_achievement_burrying_the_ghosts_NAME:0 "Поховання Примар"
 owb_achievement_burrying_the_ghosts_DESC:0 "Граючи за @YAK §YЯкама§!, @TCA §YСправу§! або @OLY §YПлем’я Олімпу§!, знищити @WBH §YВашингтонське Братство§!."
 
-owb_achievement_the_call_of_mlulu_NAME:0 "Поклик М'лу-лу"
+owb_achievement_the_call_of_mlulu_NAME:0 "Поклик М'лулу"
 owb_achievement_the_call_of_mlulu_DESC:0 "Граючи за @MLT §YПлем’я Мірелурків§!, утворити §YМ'льєх§! і володіти всіма приморськими провінціями Тихого океану."
 
 owb_achievement_vault_delver_NAME:0 "Шукач Сховищ"
@@ -212,7 +212,7 @@ owb_achievement_land_of_steel_NAME:0 "Земля Сталі"
 owb_achievement_land_of_steel_DESC:0 "Граючи за @BOS §YЛост-Гіллс§!, володіти або контролювати через маріонеток всі провінції."
 
 owb_achievement_all_roads_lead_to_rome_NAME:0 "Всі Шляхи Ведуть до Риму"
-owb_achievement_all_roads_lead_to_rome_DESC:0 "Граючи за @CES §YЛегіон Цезаря§! або @LAC §YКогорту Ланіуса§!, володіти §Y6§! або більше вузлами."
+owb_achievement_all_roads_lead_to_rome_DESC:0 "Граючи за @CES §YЛегіон Цезаря§! або @LAC §YКогорту Ланія§!, володіти §Y6§! або більше вузлами."
 
 owb_achievement_democracy_non_negotiable_NAME:0 "Демократія — Не Підлягає Переговорам"
 owb_achievement_democracy_non_negotiable_DESC:0 "Граючи за будь-яку §Yнародну§! націю, завоювати не-народну."
@@ -227,7 +227,7 @@ owb_achievement_discrete_structures_NAME:0 "Дискретні Структур�
 owb_achievement_discrete_structures_DESC:0 "Граючи за @MXC §YЕкспедицію Максона§!, розкрити таємниці §YСховища 0§!."
 
 owb_achievement_fury_road_NAME:0 "Дорога Люті"
-owb_achievement_fury_road_DESC:0 "Граючи за @EHT §YEighties§!, @GDH §YGente Del Sol§!, @IMO §YЗалізники§!, @NEW §YНовий Ріно§! або @TWO §YТу Сан§!, перемогти у §YВеликій Гонці§!."
+owb_achievement_fury_road_DESC:0 "Граючи за @EHT §YВісімдесятників§!, @GDH §YХенте дель Соль§!, @IMO §YЗалізники§!, @NEW §YНью-Ріно§! або @TWO §YТу Сан§!, перемогти у §YВеликій Гонці§!."
 
 owb_achievement_tell_a_friend_NAME:0 "Скажи Другу"
 owb_achievement_tell_a_friend_DESC:0 "Граючи за @TOC §YСтару Батьківщину§!, відновити ім’я §YХранителів Білого§!."
@@ -251,7 +251,7 @@ owb_achievement_return_to_cache_valley_NAME:0 "Повернення до Кеш-
 owb_achievement_return_to_cache_valley_DESC:0 "Граючи за @SHO §YШошонів§!, повернутися до §YСтарого Бригама§! і відновити §YМеморіал Біля Ведмежої Ріки§!."
 
 owb_achievement_we_need_to_cook_NAME:0 "Нам Треба Варити"
-owb_achievement_we_need_to_cook_DESC:0 "Граючи за @NEW §YНовий Ріно§!, ти або твої союзники повинні контролювати всі провінції §YНью-Мексико§!."
+owb_achievement_we_need_to_cook_DESC:0 "Граючи за @NEW §YНью-Ріно§!, ти або твої союзники повинні контролювати всі провінції §YНью-Мексико§!."
 
 owb_achievement_memento_mori_NAME:0 "Memento Mori"
 owb_achievement_memento_mori_DESC:0 "Граючи за @TLA §YТлалока§!, успішно завершити своє §Yостаннє заповідання§!."
@@ -260,22 +260,22 @@ owb_achievement_well_i_didnt_vote_for_you_NAME:0 "А Я за Тебе Не Го�
 owb_achievement_well_i_didnt_vote_for_you_DESC:0 "Граючи за @IRN §YЗалізний Альянс§!, утворити §YЗалізне Королівство§!."
 
 owb_achievement_carthago_delenda_est_NAME:0 "Carthago Delenda Est"
-owb_achievement_carthago_delenda_est_DESC:0 "Граючи за @LAC §YКогорту Ланіуса§!, володіти всіма ядрами @CAR §YКарфагенців§!."
+owb_achievement_carthago_delenda_est_DESC:0 "Граючи за @LAC §YКогорту Ланія§!, володіти всіма осердями @CAR §YКарфагенців§!."
 
 owb_achievement_atom_bomb_baby_NAME:0 "Атомний Малюк"
 owb_achievement_atom_bomb_baby_DESC:0 "Граючи за будь-яку націю, підготувати §YМіні-ядерну бомбу§! до використання."
 
 owb_achievement_and_justice_for_all_NAME:0 "...І Правосуддя Для Всіх"
-owb_achievement_and_justice_for_all_DESC:0 "Граючи за @STR §YСтоунінг-Рок§!, знищити Маунт-Рашмор."
+owb_achievement_and_justice_for_all_DESC:0 "Граючи за @STR §YСтендинґ-Рок§!, знищити гору Рашмор."
 
 owb_achievement_by_the_river_shore_NAME:0 "На Березі Річки"
-owb_achievement_by_the_river_shore_DESC:0 "Граючи за @LNS §YОдиноку Зірку§!, перемогти у громадянській війні як £flag_LNS_ruler_texticon  §YВійсько Руки§! і утворити £flag_LNS_legion_texticon  §YТехаську Тиранію§!."
+owb_achievement_by_the_river_shore_DESC:0 "Граючи за @LNS §YЛоун Стар§!, перемогти у громадянській війні як £flag_LNS_ruler_texticon  §YВійсько Руки§! і утворити £flag_LNS_legion_texticon  §YТехаську Тиранію§!."
 
 owb_achievement_hostile_takeover_NAME:0 "Ворожа Купівля"
-owb_achievement_hostile_takeover_DESC:0 "Граючи за @PET §YПетро Чіко§!, володіти всіма ядрами @ARM §YМексиканської Армії§!."
+owb_achievement_hostile_takeover_DESC:0 "Граючи за @PET §YПетро Чіко§!, володіти всіма осердями @ARM §YМексиканської Армії§!."
 
 owb_achievement_the_day_of_black_sun_NAME:0 "День Чорного Сонця"
-owb_achievement_the_day_of_black_sun_DESC:0 "Граючи за @FFI §YВільних Бійців§!, розпочати Повстання Затьмарення проти @GDH §YGente Del Sol§!."
+owb_achievement_the_day_of_black_sun_DESC:0 "Граючи за @FFI §YВільних Бійців§!, розпочати Повстання Затьмарення проти @GDH §YХенте дель Соль§!."
 
 owb_achievement_speed_freeks_NAME:0 "Швидкі Маніяки"
 owb_achievement_speed_freeks_DESC:0 "Граючи за @IMO §YЗалізників§!, захопити §YАрмагеддон Естасьйон§! та пробитися у споруду."
@@ -290,10 +290,10 @@ owb_achievement_idaho_inquisition_NAME:0 "Інквізиція Айдахо? Н�
 owb_achievement_idaho_inquisition_DESC:0 "Граючи за @ANO §YОбранців Божих§! або @HGH §YВищу Церкву§!, утворити Єдиний Фронт після початку війни з @HEA §YНебесною Брамою§!."
 
 owb_achievement_nostalgia_NAME:0 "Ностальгія"
-owb_achievement_nostalgia_DESC:0 "Граючи за @CLK §YХранителів Часу§!, капітулювати @EHT §YВісімдисятників§! до кінця 2270-х."
+owb_achievement_nostalgia_DESC:0 "Граючи за @CLK §YХранителів Часу§!, капітулювати @EHT §YВісімдесятників§! до кінця 2270-х."
 
 owb_achievement_i_like_sand_NAME:0 "Мені, Наприклад, Пісок Подобається"
-owb_achievement_i_like_sand_DESC:0 "Граючи за @HAM §YНью-Гаммонд§!, перетвори свою столицю на §YПлавильню§! перед початком війни з @EHT §YВісімдисятників§!."
+owb_achievement_i_like_sand_DESC:0 "Граючи за @HAM §YНью-Гаммонд§!, перетвори свою столицю на §YПлавильню§! перед початком війни з @EHT §YВісімдесятників§!."
 
 owb_achievement_judgement_day_NAME:0 "Судний День"
 owb_achievement_judgement_day_DESC:0 "Граючи за будь-яку націю з імплантаційними технологіями, дослідити §YКібернетичні Бойові Форми§!."
@@ -302,13 +302,13 @@ owb_achievement_through_fire_flames_NAME:0 "Крізь Вогонь і Полу�
 owb_achievement_through_fire_flames_DESC:0 "Граючи за @CRZ §YБожевільні Роги§!, бути у війні з @NCN §YНью-Ханааном§! та @WHT §YБілоногими§! одночасно й перемогти обох до лікування §YСажевого Згубу§!."
 
 owb_achievement_america_is_not_a_place_NAME:0 "Америка — Це Не Місце"
-owb_achievement_america_is_not_a_place_DESC:0 "Граючи за @HVR §YКульт Свободи§!, володіти всіма ядрами @COM §YПіонерської Компанії§! і @MCA §YМакартура§!."
+owb_achievement_america_is_not_a_place_DESC:0 "Граючи за @HVR §YКульт Свободи§!, володіти всіма осердями @COM §YПіонерської Компанії§! і @MCA §YМакартура§!."
 
 owb_achievement_the_last_family_of_missoula_NAME:0 "Остання Родина Міссули"
 owb_achievement_the_last_family_of_missoula_DESC:0 "Граючи за @JCK §YДжексонів§!, повернутися до @MCA §YМакартура§! і вигнати Анклав з Монтану назавжди."
 
 owb_achievement_under_warden_occupation_NAME:0 "Під Охороною Вартових"
-owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку націю з Вартовими Білого, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§!, і @VSH §YСховище§!)."
+owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку націю з Вартовими Білого, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§! та @VSH §YСейфгейвен§!)."
 
 owb_achievement_hell_on_earth_NAME:0 "Пекло на Землі"
 owb_achievement_hell_on_earth_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні як £flag_CES_hades_texticon  §YЛегіон Аїда§!."
@@ -326,10 +326,10 @@ owb_achievement_matrix_reload_NAME:0 "Перезавантаження Матр�
 owb_achievement_matrix_reload_DESC:0 "Граючи за @PSH §YЦентр Безпеки Протектронів§!, захопити повний контроль над §Y$STATE_43$§! в @SOR §YСорроуз§!."
 
 owb_achievement_unrequited_love_NAME:0 "Невзаємне Кохання"
-owb_achievement_unrequited_love_DESC:0 "Граючи за @ROB §YМісто Роботів§!, викрасти Ланіуса."
+owb_achievement_unrequited_love_DESC:0 "Граючи за @ROB §YМісто Роботів§!, викрасти Ланія."
 
 owb_achievement_god_save_the_king_NAME:0 "Боже, Бережи Короля"
-owb_achievement_god_save_the_king_DESC:0 "Граючи за @BRA §YКоролівство Манітоби§!, оголосити війну @WPG §YТрьом Рікам§! через Порто-Прері під час Повстання @DLN §YГерцогства Ланґенбурга§! і перемогти."
+owb_achievement_god_save_the_king_DESC:0 "Граючи за @BRA §YКоролівство Манітоби§!, оголосити війну @WPG §YТрьом Річкам§! через Порто-Прері під час Повстання @DLN §YГерцогства Ланґенбурга§! і перемогти."
 
 owb_achievement_malevolent_shrine_NAME:0 "Зловісне Святилище"
 owb_achievement_malevolent_shrine_DESC:0 "Граючи за @RRR §YПрокляті Ліси§!, утворити §YБагряний Домініон§!."
@@ -356,7 +356,7 @@ owb_achievement_friends_on_the_other_side_NAME:0 "Друзі по Той Бік"
 owb_achievement_friends_on_the_other_side_DESC:0 "Граючи за @LOI §YМіністерство Лойда§!, вирушити на захід до §YРосії§!."
 
 owb_achievement_good_kid_madvillain_NAME:0 "Хороший Хлопець, Лиходій"
-owb_achievement_good_kid_madvillain_DESC:0 "Граючи за @BAD §YСтерв'ятників Кабіни§!, завоювати @STA §YВеликий Стадо§! і обрати виховати §YДжой§!."
+owb_achievement_good_kid_madvillain_DESC:0 "Граючи за @BAD §YСтерв'ятників Кабіни§!, завоювати @STA §YВелике Стадо§! і обрати виховати §YДжой§!."
 
 owb_achievement_homeward_bound_NAME:0 "Дорогою Додому"
 owb_achievement_homeward_bound_DESC:0 "Граючи за @KHA §YПівнічних Ханів§!, повернутись на §YЗахід§!."
@@ -368,22 +368,22 @@ owb_achievement_break_the_cycle_NAME:0 "Розірвати Коло"
 owb_achievement_break_the_cycle_DESC:0 "Граючи за @DLN §YГерцогство Ланґенбург§!, завершити Манітобський Проєкт §YЕлеонори§!."
 
 owb_achievement_pax_brittanica_NAME:0 "Pax Brittanica"
-owb_achievement_pax_brittanica_DESC:0 "Граючи за @BRA §YКоролівство Манітоба§!, контролювати всі ядра @MCA §YМакартура§! та @COM §YПіонерської Компанії§!."
+owb_achievement_pax_brittanica_DESC:0 "Граючи за @BRA §YКоролівство Манітоба§!, контролювати всі осердя @MCA §YМакартура§! та @COM §YПіонерської Компанії§!."
 
 owb_achievement_freedom_generally_NAME:0 "Свобода Як Така"
 owb_achievement_freedom_generally_DESC:0 "Граючи за §YГенерала Свободу§!, приєднатися до §YДругої Коаліції§! і забезпечити, щоб §YМанітоба§! не існувала."
 
 owb_achievement_great_stampede_NAME:0 "Малюк Помщений"
-owb_achievement_great_stampede_DESC:0 "Граючи за @STA §YВеликий Стадо§!, відправити §YМері Малліґан§! з @VSH §YСховища§! на дно."
+owb_achievement_great_stampede_DESC:0 "Граючи за @STA §YВелике Стадо§!, відправити §YМері Малліґан§! із @VSH §YСейфгейвена§! на дно."
 
 owb_achievement_stampede_on_cpf_NAME:0 "Наліт на CPF"
-owb_achievement_stampede_on_cpf_DESC:0 "Граючи за @STA §YВеликий Стадо§!, втрутитись у громадянську війну CPF до §Y2277§! і перемогти."
+owb_achievement_stampede_on_cpf_DESC:0 "Граючи за @STA §YВелике Стадо§!, втрутитись у громадянську війну CPF до §Y2277§! і перемогти."
 
 owb_achievement_hold_your_horses_NAME:0 "Притримай Коней!"
-owb_achievement_hold_your_horses_DESC:0 "Граючи за @STN §YСтунських Денді§!, утворити §YОрден Св. Георгія§! і перемогти @STA §YВеликий Стадо§! без союзників."
+owb_achievement_hold_your_horses_DESC:0 "Граючи за @STN §YСтунських Денді§!, утворити §YОрден Св. Георгія§! і перемогти @STA §YВелике Стадо§! без союзників."
 
 owb_achievement_the_cree_NAME:0 "Крі"
-owb_achievement_the_cree_DESC:0 "Граючи за @IRC §YЗалізну Конфедерацію§!, заявити право на всі колишні землі §YПлейнс-Крі§!."
+owb_achievement_the_cree_DESC:0 "Граючи за @IRC §YЗалізну Конфедерацію§!, заявити право на всі колишні землі §Yрівнинних крі§!."
 
 owb_achievement_the_wolfs_last_howl_NAME:0 "Останнє Завивання Вовка"
 owb_achievement_the_wolfs_last_howl_DESC:0 "Граючи за @MNC §YГолову Монтану§! або @TPA §YБанду Брами§!, перемогти §YФенріра§!."
@@ -392,7 +392,7 @@ owb_achievement_crimson_maple_leaf_NAME:0 "Багряний Кленовий Л�
 owb_achievement_crimson_maple_leaf_DESC:0 "Граючи за @STC §YСтраткомуну§!, повернути всі колишні землі §YКанадського Народного Фронту§!."
 
 owb_achievement_johnny_comes_marching_home_NAME:0 "Коли Джонні Повернеться Додому"
-owb_achievement_johnny_comes_marching_home_DESC:0 "Граючи за @CMO §YПіонерську Компанію§!, володіти авіабазою Макартура, маючи §YДжонсона§! лідером."
+owb_achievement_johnny_comes_marching_home_DESC:0 "Граючи за @CMO §YПіонерську Компанію§!, оволодіти авіабазою Макартура, маючи §YДжонсона§! лідером."
 
 owb_achievement_reconciling_the_sisters_NAME:0 "Примирення Сестер"
 owb_achievement_reconciling_the_sisters_DESC:0 "Граючи за @MNC §YГолову Монтану§!, перемогти @SOH §YМечі Геймана§! разом з §YСестрами Сталі§!."
@@ -404,7 +404,7 @@ owb_achievement_better_dead_than_red_NAME:0 "Краще Мертвий, Ніж �
 owb_achievement_better_dead_than_red_DESC:0 "Граючи за @MCA §YМакартура§!, захопити і утримувати §YРедмонд§!."
 
 owb_achievement_lone_fight_for_democracy_NAME:0 "Самотня Битва за Демократію"
-owb_achievement_lone_fight_for_democracy_DESC:0 "Граючи за @WPG §YТри Ріки§!, перемогти @BRA §YКоролівство Манітоба§! без союзників у §YДругій Коаліції§!."
+owb_achievement_lone_fight_for_democracy_DESC:0 "Граючи за @WPG §YТри Річки§!, перемогти @BRA §YКоролівство Манітоба§! без союзників у §YДругій Коаліції§!."
 
 owb_achievement_our_home_upon_the_river_NAME:0 "Наш Дім на Річці"
 owb_achievement_our_home_upon_the_river_DESC:0 "Граючи за @MTC §YКонгрес Метисів§!, утворити §YРеспубліку Червоної Ріки§!."
@@ -426,7 +426,7 @@ owb_achievement_avenging_president_richardson_tt:0 "Відомий як §YАн�
 owb_achievement_we_hold_these_truths_to_be_self_evident_tt_possible:0 "Не є нацією §YМексики§!"
 owb_achievement_we_hold_these_truths_to_be_self_evident_tt:0 "Володіє всіма можливими провінціями §YЗахідного Узбережжя§!, §YСхідного Узбережжя§!, §YПівнічних Регіонів§! та §YСереднього Заходу§!"
 owb_achievement_masters_of_war_tt_land_tech:0 "Досліджено всі технології з §Y$fallout_land_doctrine_folder$§!"
-owb_achievement_masters_of_war_tt_land:0 "Досліджено всі §YПерки§! та технології §Y$HEADER_COMBAT_TACTICS$§!"
+owb_achievement_masters_of_war_tt_land:0 "Досліджено всі §Yнавички§! та технології §Y$HEADER_COMBAT_TACTICS$§!"
 owb_achievement_masters_of_war_tt_navy:0 "Досліджено всі технології §Y$naval_doctrine$§!"
 owb_achievement_masters_of_war_tt_air:0 "Досліджено всі технології §Y$air_doctrine$§!"
 owb_achievement_pew_tt:0 "Досліджено або §Y$energy_weaponry_tech_4$§!, або §Y$gauss_weaponry_2$§!, або §Y$plasma_weaponry_2$§!"
@@ -439,26 +439,26 @@ owb_achievement_the_master_lives_tt:0 "Відомий як §YНова Марі�
 owb_achievement_joseph_smiths_legacy_tt:0 "Відомий як §YДезерет§!"
 owb_achievement_the_kingdom_of_mlyeh_tt:0 "Відомий як §YM'льє§!"
 owb_achievement_mexico_restored_tt:0 "Володіє всіма провінціями §YМексики§!"
-owb_achievement_second_times_a_charm_tt_eur:0 "Володіє всіма ядрами §Y[EUR.GetNameDef]§!"
-owb_achievement_second_times_a_charm_tt_mca:0 "Володіє всіма ядрами §Y[MCA.GetNameDef]§!"
+owb_achievement_second_times_a_charm_tt_eur:0 "Володіє всіма осердями держави §Y[EUR.GetNameDef]§!"
+owb_achievement_second_times_a_charm_tt_mca:0 "Володіє всіма осердями держави §Y[MCA.GetNameDef]§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_new_mexico:0 "Володіє всіма провінціями §YНью-Мексико§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_arizona:0 "Володіє всіма провінціями §YАризони§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_california:0 "Володіє всіма провінціями §YКаліфорнії§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_texas:0 "Володіє всіма провінціями §YТехасу§!"
 owb_achievement_unifying_the_brotherhood_tt:0 "Усі наявні філії §YБратства Сталі§! є підданими або в альянсі під нашим керівництвом"
-owb_achievement_highway_to_hell_tt:0 "Має ядро в §Y[135.GetName]§!"
+owb_achievement_highway_to_hell_tt:0 "Має осердя в області §Y[135.GetName]§!"
 owb_achievement_destroying_sin_city_tt:0 "Скинув ядерну бомбу на §Y[211.GetName]§!"
 owb_achievement_little_green_men_tt:0 "Розкрито таємницю §YЗони 51§!"
 owb_achievement_survived_the_menace_of_the_past_tt:0 "Пережив чуму"
-owb_achievement_elijah_was_right_tt:0 "Контролює всі провінції §YПівнічної§! та §YПівденної Мохави§!"
+owb_achievement_elijah_was_right_tt:0 "Контролює всі провінції §YПівнічної§! та §YПівденної Мохаве§!"
 owb_achievement_boom_time_tt:0 "Скинув ядерну бомбу"
-owb_achievement_the_wrong_viper_tt:0 "Володіє всіма ядрами §Y[CES.GetNameDef]§!"
+owb_achievement_the_wrong_viper_tt:0 "Володіє всіма осердями держави §Y[CES.GetNameDef]§!"
 owb_achievement_a_marvel_of_modern_science_tt:0 "Анексував §Y[MOJ.GetNameDef]§!"
 owb_achievement_who_let_the_dogs_out_tt:0 "Анексував §Y[LAC.GetNameDef]§!"
 owb_achievement_emerald_of_the_west_tt:0 "Покращив вузол до рівня §Y10§!"
-owb_achievement_treasure_island_tt:0 "Має ядро в §Y[211.GetName]§!"
+owb_achievement_treasure_island_tt:0 "Має осердя в області §Y[211.GetName]§!"
 owb_achievement_iron_is_better_than_steel_tt:0 "Не є філією §YБратства Сталі§!"
-owb_achievement_new_karakorum_tt:0 "Має ядро в §Y[211.GetName]§!"
+owb_achievement_new_karakorum_tt:0 "Має осердя в області §Y[211.GetName]§!"
 owb_achievement_an_early_death_tt:0 "§YСмерть Тлалока§! ще не сталася"
 owb_achievement_old_grudges_tt_no_enc:0 "Не є §YАнклавом§!"
 owb_achievement_old_grudges_tt_no_brotherhood:0 "Не є філією §YБратства Сталі§!"
@@ -480,9 +480,9 @@ owb_achievement_vault_delver_tt:0 "Досліджено щонайменше 10 
 owb_achievement_nuclear_winter_tt:0 "Був у стані війни з усіма (іншими) основними державами на §Y1 січня 2278§!"
 owb_achievement_land_of_steel_tt:0 "Всі можливі провінції належать нам або нашим підданим"
 owb_achievement_all_roads_lead_to_rome_tt:0 "Володіє щонайменше §Y6§! вузлами"
-owb_achievement_democracy_non_negotiable_tt:0 "Мав ідеологію §YPeople§! під час успішного завоювання нації без цієї ідеології"
-owb_achievement_skylines_tt:0 "Завершено щонайменше 15 рішень проектів розвитку"
-owb_achievement_flat_china_tt:0 "Історики дісталися до міста §YRaymer§! та переконались, що воно складається лише з §Yрівнин§!"
+owb_achievement_democracy_non_negotiable_tt:0 "Мав ідеологію §YНарод§! під час успішного завоювання нації без цієї ідеології"
+owb_achievement_skylines_tt:0 "Завершено щонайменше 15 рішень проєктів розвитку"
+owb_achievement_flat_china_tt:0 "Історики дісталися до міста §YРеймер§! та переконались, що воно складається лише з §Yрівнин§!"
 owb_achievement_discrete_structures_tt:0 "Досліджено всі рівні §YСховища 0§!"
 owb_achievement_fury_road_tt:0 "Виграно §YВелике Перегони§!"
 owb_achievement_tell_a_friend_tt:0 "Стражі повністю відновили свою назву"
@@ -498,19 +498,19 @@ owb_achievement_and_justice_for_all_tt:0 "Гора Рашмор була зни�
 owb_achievement_by_the_river_shore_civil_war_tt:0 "Виграно громадянську війну як £flag_LNS_ruler_texticon  §YВаргрупа Руки§!"
 owb_achievement_by_the_river_shore_texas_tyranny_tt:0 "Сформовано £flag_LNS_legion_texticon  §YТехаську Тиранію§!"
 owb_achievement_the_day_of_black_sun_tt:0 "Завершено «Схід Сонця» та розпочато §YПовстання Затемнення§!"
-owb_achievement_speed_freeks_tt:0 "Пограбовано §YArmageddon Estación§!"
-owb_achievement_edict_of_thessalonica_tt:0 "Капітулював @CES §YЛегіон Цезаря§! з Цезарем ще живим"
+owb_achievement_speed_freeks_tt:0 "Пограбовано §YАрмагеддон Естасьйон§!"
+owb_achievement_edict_of_thessalonica_tt:0 "Капітулював @CES §YЛегіон Цезаря§! з іще живим Цезарем"
 owb_achievement_idaho_inquisition_tt:0 "Сформовано §YОб'єднаний Фронт§! проти @HEA §YНебесної Брами§!"
-owb_achievement_nostalgia_tt:0 "Капітулював @EHT §YEighties§! до 2280 року"
-owb_achievement_i_like_sand_tt:0 "Завершено «Велике Місто зі скла» перед війною з @EHT §YEighties§!"
+owb_achievement_nostalgia_tt:0 "Капітулював @EHT §YВісімдесятників§! до 2280 року"
+owb_achievement_i_like_sand_tt:0 "Завершено «Велике Місто зі скла» перед війною з @EHT §YВісімдесятниками§!"
 owb_achievement_judgement_day_tt:0 "Досліджено §YКібернетичні бойові форми§!"
-owb_achievement_through_fire_flames_tt:0 "Переміг @NCN §YНовий Кеєнан§! та @WHT §YБілоногих§! у паралельних війнах до лікування §YКіптяви§!"
-owb_achievement_hell_on_earth_tt:0 "Сформував £flag_CES_hades_texticon  §YЛегіон Аїда§! під керівництвом Кая Друза та заволодів усіма ядрами @CES §YЛегіону Цезаря§!"
+owb_achievement_through_fire_flames_tt:0 "Переміг @NCN §YНью-Ханаан§! та @WHT §YБілоногих§! у паралельних війнах до лікування §YКіптяви§!"
+owb_achievement_hell_on_earth_tt:0 "Сформував £flag_CES_hades_texticon  §YЛегіон Аїда§! під керівництвом Кая Друза та заволодів усіма осердями @CES §YЛегіону Цезаря§!"
 owb_achievement_hubris_invites_nemesis_tt:0 "Усунуто Віллема Кларка від влади"
 owb_achievement_delved_too_deep_tt:0 "Пробився до «Дна» через систему рішень §YПідземне управління§!"
 owb_achievement_best_of_the_best_tt:0 "Розгорнув свого першого Паладина"
 owb_achievement_unrequited_love_tt:0 "Викрав милого покидька"
-owb_achievement_god_save_the_king_tt:0 "Переміг @WPG §YThree Rivers§! за Порто Прері"
+owb_achievement_god_save_the_king_tt:0 "Переміг @WPG §YТри Річки§! за Порто Прері"
 owb_achievement_malevolent_shrine_tt:0 "Відомий як §YБагряний Домен§!"
 owb_achievement_doctor_khan_is_in_tt:0 "Налагоджено виробництво Буффаута, Катая, Дедді-О, Фіксера, Ментатів, Рад-Авея та Стімпаків"
 owb_achievement_uncrowned_tt:0 "Є §YІмператором Манітоби§!"
@@ -518,7 +518,7 @@ owb_achievement_to_these_free_states_tt:0 "Сформовано §YРеспуб�
 owb_achievement_good_kid_madvillain_tt:0 "Виховав §YДжой§! як Ґрейгаунда"
 owb_achievement_archangel_tt:0 "Активовано §YСталеву Даму§!"
 owb_achievement_break_the_cycle_tt:0 "Завершено Манітобський Проєкт §YЕлеонори§!"
-owb_achievement_great_stampede_tt:0 "Відправив §YМері Малліґан§! з §YSafehaven§! до водяної могили"
+owb_achievement_great_stampede_tt:0 "Відправив §YМері Малліґан§! з §YСейфгейвен§! до водяної могили"
 owb_achievement_hold_your_horses_tt:0 "Відомий як §YОрден Святого Георгія§!"
 owb_achievement_the_wolfs_last_howl_tt:0 "Переміг §YФенріра§!"
 owb_achievement_crimson_maple_leaf_tt:0 "Возз'єднав §YНародний фронт Канади§!"
@@ -526,5 +526,5 @@ owb_achievement_reconciling_the_sisters_tt:0 "Помирився з §YСест�
 owb_achievement_immortal_undying_damnation_tt:0 "Відомий як §YСестри Сталі§!"
 owb_achievement_lone_fight_for_democracy_tt:0 "Не має союзників у §YДругій Коаліції§!"
 owb_achievement_the_reunited_states_tt:0 "Є §YВозз'єднаними Штатами§!"
-owb_achievement_the_reunited_states_tt_2:0 "Особисто надано ядро провінції"
+owb_achievement_the_reunited_states_tt_2:0 "Особисто надано осердя провінції"
 wardens_reunited_achievement_flag:0 "[TOC.GetNameWithFlag], [PAS.GetNameWithFlag] та [VSH.GetNameWithFlag] знаходяться у фракції §YСтражів Білого§!"

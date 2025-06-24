@@ -112,10 +112,10 @@ caps_economy_modifier_1:0 "Налагодження доходу кришок"
 caps_ncr_start_modifier:0 "Економічний застій"
 
 
-### Кепси – підказки для дизайнера
+### Кришки – підказки для дизайнера
 caps_recruit_tt:0 "Оцінка вартості дивізій у черзі на підготовку.\n   Загальна вартість модифікована на [?modifier@caps_expense_modifier|-%]\n\n   §gМодифікатор роботів:§! [?modifier@evolution_unit_modifier_robots|%0]\n   §gМодифікатор ополчення:§! [?modifier@evolution_unit_modifier_militia|%0]\n   §gМодифікатор допоміжних рот:§! [?modifier@evolution_unit_modifier_support|%0]\n   §gМодифікатор танків:§! [?modifier@evolution_unit_modifier_tanks|%0]\n   §gМодифікатор силової броні:§! [?modifier@evolution_unit_modifier_pa|%0]\n   §gМодифікатор ССО:§! [?modifier@evolution_unit_modifier_spec_ops|%0]\n §gМодифікатор істот:§! [?modifier@evolution_unit_modifier_creature|%0]\n §gМодифікатор комах:§! [?modifier@evolution_unit_modifier_insect|%0]"
 
-### Загальні підказки по кепсах
+### Загальні підказки по кришках
 transaction_caps_tt: "[GetTransactionCapTT]"
 transaction_caps_positive_tt:0 "Отримати оплату в розмірі [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
 transaction_caps_negative_tt:0 "Сплатити [GetCapTxt] [?caps_to_add|+=]k [GetCapType].\n"
@@ -143,7 +143,7 @@ more_than_50_caps_focus_tt:0 "Має більше ніж §G50§! тис. [GetC
 more_than_25_caps_focus_tt:0 "Має більше ніж §G25§! тис. [GetCapType] доступних"
 more_than_10_caps_focus_tt:0 "Має більше ніж §G10§! тис. [GetCapType] доступних"
 
-### Рішення по кепсах
+### Рішення по кришках
 caps_base_category:0 "Економіка [GetCapType]"
 current_balance_tt:0 "[?caps_number_display|+]k"
 current_income_tt:0 "[PrecalculateCapsNet]"
