@@ -40,7 +40,7 @@ BLC_utah_mining_rights_tt:0 "Ми запропонуємо §Y[NCN.GetName]§! �
 sphere_owns_boulder_dome_tt:0 "§Y[568.GetName]§!: Контролюється §Y[THIS.GetName]§!, їхніми підданими або союзниками."
 caps_has_economic_node:0 "Контролює хоча б §Yодин§! §cЕкономічний Вузол§!"
 BLC_INDUSTRUALIZATION_EFFORT:0 "Безперервна Централізація"
-jic_trail_of_tears:0 "§OДжікарілья були вигнані зі своєї прадавньої землі...§!"
+jic_trail_of_tears:0 "§OХікарілья були вигнані зі своєї прадавньої землі...§!"
 less_reserve_than_arms_factory:0 "Має більше §YВійськових Майстерень§!, ніж §YЗапасних Жетонів§!"
 
 # Reactions
