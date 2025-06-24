@@ -1,0 +1,54 @@
+﻿l_english:
+ARB_legitimacy_balance:0 "Легітимність Хунти"
+
+ARB_extremely_low_legitimacy:0 "Крайня нестача легітимності"
+ARB_very_low_legitimacy:0 "Дуже низька легітимність"
+ARB_moderate_low_legitimacy:0 "Низька легітимність"
+ARB_medium_legitimacy:0 "Помірна легітимність"
+ARB_moderate_high_legitimacy:0 "Висока легітимність"
+ARB_very_high_legitimacy:0 "Дуже висока легітимність"
+ARB_extremely_high_legitimacy:0 "Найвища легітимність"
+
+ARB_low_legitimacy:0 "Низька легітимність"
+ARB_high_legitimacy:0 "Висока легітимність"
+
+arb_initiate_raid_against_three_river:0 "Розпочати наліт на §BТри Ріки§!"
+arb_initiate_raid_against_three_river_desc:0 "Розпочавши наліт на Республіку Трьох Рік, ми зможемо довести свою силу Манітобі — і захопити трохи здобичі."
+
+arb_threaten_three_rivers:0 "Погрожувати §BТрьом Рікам§!"
+
+arb_reassure_manitoban_nobles:0 "Заспокоїти §Cманітобську§! знать"
+
+arb_offer_training_and_support:0 "Запропонувати навчання і підтримку"
+
+arb_manitoban_military_expedition:0 "§CМанітобська§! військова експедиція"
+
+arb_request_infantry_supplies:0 "Запросити §YПіхотне спорядження§!"
+
+arb_request_massive_shipment:0 "Запросити §OВеличезну поставку§!"
+
+arb_request_reinforcements:0 "Запросити §YПідкріплення§!"
+
+ARB_civil_war_profiteering_decision_category:0 "Збагачення на громадянській війні"
+ARB_civil_war_profiteering_decision_category_desc:0 "Повстання в Йорктоні дає нам цікаву нагоду. Надаючи одній або обом сторонам вигідні умови на постачання, живу силу, досвід і тренування, ми можемо нахилити терези й при цьому непогано заробити.\n\n§YПриймаючи ці рішення, ми виставляємо наші \"товари\" на продаж. Якщо будь-яка сторона обере купити, ми отримаємо плату.§!\n\n   Резерви людської сили на ринку: [?global.arb_market_manpower|G|0]\n   Найнята людська сила: [?global.arb_hired_manpower|Y|0]\n   Зброя на продажу: [?global.arb_weapons_for_sale|G|0]\n   Спорядження спецпідрозділів на продажу: [?global.arb_special_forces_for_sale|G|0]\n   Пропонований бойовий досвід: [?global.arb_experience_offered|G|0]\n   Доступні інструктори: [?global.arb_training_specialists_available|G|0]"
+
+arb_send_mercenaries_to_market:0 "Найняти найманців"
+arb_send_more_mercenaries_to_market:0 "Найняти компанію найманців"
+arb_sell_weapons:0 "Виставити зброю на продаж"
+arb_sell_more_weapons:0 "Виставити багато зброї на продаж"
+arb_sell_lots_of_weapons:0 "Виставити ящики зі зброєю на продаж"
+arb_sell_special_forces:0 "Запропонувати спецобладнання на продаж"
+arb_offer_our_experience:0 "Запропонувати наш бойовий досвід"
+arb_offer_training_advisors:0 "Підготувати інструктора"
+
+ARB_markets_are_open_decision_category:0 "Ринки Арборга"
+ARB_markets_are_open_decision_category_desc:0 "Арборг, схоже, зрозумів, що повстання — це гарна можливість для продажу спорядження. Ми отримали запрошення купити спорядження, яке Арборг мав би насправді віддати нам, але ці пройдисвіти, напевне, надіслали запрошення і нашим ворогам.\n\n   Резерви людської сили на ринку: [?global.arb_market_manpower|G|0]\n   Найнята нами людська сила: [?ROOT.arb_hired_soldiers|Y|0]\n   Зброя на продажу: [?global.arb_weapons_for_sale|G|0]\n   Спорядження спецпідрозділів на продажу: [?global.arb_special_forces_for_sale|G|0]\n   Пропонований бойовий досвід: [?global.arb_experience_offered|G|0]\n   Доступні інструктори: [?global.arb_training_specialists_available|G|0]"
+
+arb_recruit_mercenaries_from_market:0 "Найняти найманців на ринку"
+arb_recruit_mercenaries_from_market_guns:0 "Обміняти зброю на найманців"
+arb_buy_weapons_from_market:0 "Купити зброю на ринку"
+arb_buy_lots_of_weapons_from_market:0 "Купити багато зброї на ринку"
+arb_buy_special_forces:0 "Купити спорядження спецпризначення"
+arb_purchase_experience:0 "Купити бойовий досвід"
+arb_hire_training_specialists:0 "Найняти інструктора"
+arb_hire_training_specialists_guns:0 "Запропонувати зброю за інструкторів"
