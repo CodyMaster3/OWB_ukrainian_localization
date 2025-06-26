@@ -1,0 +1,68 @@
+﻿l_english:
+# Рішення
+
+MTC_research_group_category:0 "Ґабріелівський Інститут Освіти"
+MTC_research_group_category_desc:0 "Ми зможемо рухатись уперед як народ лише тоді, коли навчимось на своїх помилках і чужих успіхах."
+
+MTC_tribal_rearmament_category:0 "Ніколи Більше Різні"
+MTC_tribal_rearmament_category_desc:0 "Бути озброєним — значить бути в безпеці. Історичні страждання нашого народу дозволяють нам боротись сьогодні — і дозволять боротись нашим дітям завтра."
+
+MTC_invite_CPK_to_research:0 "Запросити Власників Шахт викладати в ҐІО"
+MTC_refuge_to_CPK:0 "Надати притулок родині Макаві"
+MTC_invite_RMT_to_research:0 "Спільне Вивчення Батькеронікону"
+MTC_refuge_to_RMT:0 "Надати релігійну свободу дітям Гріховного Батька"
+MTC_invite_KHA_to_research:0 "Основа Фолловерів у Канаді"
+MTC_refuge_to_KHA:0 "Захистити залишки Кхана від нових геноцидів"
+MTC_invite_FRG_to_research:0 "Військові Семінари Фейрі-Ґленна"
+MTC_refuge_to_FRG:0 "Дитячі біженці з Електорату"
+
+MTC_LAP_sharing_spirit:0 "Підготувати Ворону до нескінченного Стампіду"
+MTC_STR_sharing_spirit:0 "Військові Ігри Лакоти"
+MTC_NIT_sharing_spirit:0 "Передати Факел Антиамериканського Спротиву"
+MTC_TPL_sharing_spirit:0 "Так Сяє Білий Місяць"
+
+# Тренування авіації
+
+MTC_flight_training_category:0 "Навчання польотам"
+MTC_flight_training_category_desc:0 ""
+
+MTC_practice_smooth_landings:0 "§2Тренування Винищувачів§!: Відпрацювати М'які Посадки"
+MTC_practice_smooth_landings_desc:0 ""
+
+MTC_practice_ground_forces_coordination:0 "§RCAS Тренування§!: Співпраця з Наземними Військами"
+MTC_practice_ground_forces_coordination_desc:0 ""
+
+MTC_practice_long_distance_targetting:0 "§GBMB Тренування§!: Відпрацювання Далекобійного Наведення"
+MTC_practice_long_distance_targetting_desc:0 ""
+
+MTC_fighter_dogfighting:0 "§2Тактика Винищувачів§!: Майстерність у Повітряних Боях"
+MTC_fighter_dogfighting_desc:0 ""
+
+MTC_fighter_deterrence:0 "§2Тактика Винищувачів§!: Стримування в Повітрі"
+MTC_fighter_deterrence_desc:0 ""
+
+MTC_cas_assault:0 "§RCAS Тактика§!: Комбінована Атака"
+MTC_cas_assault_desc:0 ""
+
+MTC_cas_interdiction:0 "§RCAS Тактика§!: Повітряна Ізоляція"
+MTC_cas_interdiction_desc:0 ""
+
+MTC_bomber_precision:0 "§GBMB Тактика§!: Хірургічна Точність"
+MTC_bomber_precision_desc:0 ""
+
+MTC_bomber_positioning:0 "§GBMB Тактика§!: Обережне Позиціонування"
+MTC_bomber_positioning_desc:0 ""
+
+MTC_air_exercise_ongoing_flag:0 "Польотні навчання тривають"
+MTC_fighter_strategy_ready_flag:0 "Ми готові застосувати тактику винищувачів"
+MTC_fighter_strategy_ready_tt:0 "§OДозволяє використати стратегію винищувачів§!"
+
+MTC_cas_strategy_ready_flag:0 "Ми готові застосувати тактику CAS"
+MTC_cas_strategy_ready_tt:0 "§OДозволяє використати стратегію CAS§!"
+
+MTC_bomber_strategy_ready_flag:0 "Ми готові застосувати тактику бомбардувальників"
+MTC_bomber_strategy_ready_tt:0 "§OДозволяє використати стратегію бомбардувальників§!"
+
+MTC_10_cp_20_air_xp:0 "£command_power  §H10§! £air_experience  §H20§!"
+MTC_10_cp_20_air_xp_blocked:0 "£command_power  §R10§! £air_experience  §R20§!"
+MTC_10_cp_20_air_xp_tooltip:0 "Вартість рішення: $MTC_10_cp_20_air_xp_blocked$"
