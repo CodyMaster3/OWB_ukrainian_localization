@@ -1,0 +1,28 @@
+﻿l_english:
+# categories
+middlemark_info_display_total:0 "Поточні квитки: [?middlemark_ticket_stock|G0]"
+middlemark_info_display_increase:0 "Поточний приріст квитків: [?middlemark_ticket_ratio|G0] на місяць"
+MDM_ticket_decision_view:0 "Торговий Автомат"
+middlemark_minimum_ticket_small:0 "[MDM.GetName] має мінімум 100 квитків для використання"
+middlemark_minimum_ticket_medium:0 "[MDM.GetName] має мінімум 500 квитків для використання"
+middlemark_minimum_ticket_large:0 "[MDM.GetName] має мінімум 1000 квитків для використання"
+mdm_costs_tickets_small_tt:0 "Це зменшить наш запас квитків на 100"
+mdm_costs_tickets_med_tt:0 "Це зменшить наш запас квитків на 500"
+mdm_costs_tickets_large_tt:0 "Це зменшить наш запас квитків на 1000"
+
+mdm_tshirt:0 "Футболки з логотипом компанії"
+mdm_gum:0 "Жувальна гумка бренду Міддлмарк"
+mdm_penny_bobblehead:0 "Фігурки Пенні з хитаючою головою"
+mdm_nukacola:0 "Нюка-Кола (за підтримки Нюка-Кола!)"
+mdm_one_use_screaming_box:0 "5 хвилин у кричущій коробці"
+mdm_vault_games:0 "Ігри для Піп-Бой (за підтримки Vault-Tec!)"
+mdm_overtime_pass:0 "Пропуск на 5 хвилин дострокової перепрацювання!"
+mdm_metal_mark_merch:0 "Непроданий мерч Метал Марк"
+mdm_pizza_party:0 "Вечірка з піцою!!!"
+mdm_a_round_captain:0 "Порція для Капітана!"
+mdm_spirits_of_the_lord:0 "Келих, гідний аристократії!"
+mdm_real_guns:0 "Протикрадіжні пристрої"
+mdm_more_tickets:0 "§gУ якості бонусу ми також збільшуємо кількість щомісячних квитків, які отримують наші співробітники, на 50!§!"
+mdm_im_not_that_bad:0 "§gHR щиро цінує всю вашу працю, тож ми вирішили додати вам ще 50 квитків щомісяця для використання в Торговому Автоматі. Не дякуйте! Справді!§!"
+mdm_bonus_boys:0 "§gСхоже, деякі з наших співробітників — прямі нащадки загиблих акціонерів... тобто вони теж акціонери, що трохи незручно. \n\nГей, усі! Хочете ще 100 квитків на місяць для Торгового Автомата?§!"
+
