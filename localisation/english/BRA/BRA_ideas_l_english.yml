@@ -1,0 +1,269 @@
+﻿l_english:
+
+bra_idea_rock_ridge:0 "Поразка під Стоунволлом"
+bra_idea_rock_ridge_desc:0 "Смерть короля Брендона XI в битві під Стоунволлом остаточно підірвала віру багатьох у монархію. Хоч Манітоба й пережила війну, тільки час покаже, чи зможе вона коли-небудь оговтатись."
+
+bra_idea_dubois_displaced:0 "Аристократія Манітоби"
+bra_idea_dubois_displaced_desc:0 ""
+
+bra_idea_sworn_fealty:0 "Присяга Вірності"
+bra_idea_sworn_fealty_desc:0 ""
+
+bra_thirst_for_vengeance:0 "Республіканські Вигнанці"
+bra_thirst_for_vengeance_desc:0 ""
+
+bra_queen_eleanor:0 "Королева Катерина"
+bra_queen_eleanor_desc:0 "У багатьох аспектах — повна протилежність королю. Граційна королева Катерина за роки проявила щиру прихильність до стародавнього гуля. Її добра натура сприяла запуску численних програм на благо простого люду, завоювавши її любов народу. Хоч король Ганн часто тримає дистанцію в публічному просторі, він охоче фінансує її, часто витратні, ініціативи."
+
+bra_queen_eleanor_2:0 "Королева Катерина"
+bra_queen_eleanor_2_desc:0 "$bra_queen_eleanor_desc$"
+
+bra_queen_eleanor_3:0 "Королева Катерина"
+bra_queen_eleanor_3_desc:0 "$bra_queen_eleanor_desc$"
+
+bra_queen_eleanor_4:0 "Королева Катерина"
+bra_queen_eleanor_4_desc:0 "$bra_queen_eleanor_desc$"
+
+bra_ancestor_cults:0 "Культи Предків"
+bra_ancestor_cults_desc:0 "На відміну від більшості монархій, спадщина попереднього правителя не переходить повністю до спадкоємця. Її контролюють окремі родини, які мусять витрачати її на благо пам’яті покійного.\n\nУ теорії це має сприяти стабільності держави, але на практиці — значна частина багатства застрягла в руках кількох родів, які дбають лише про власний статус на шкоду Королівству."
+
+bra_idea_new_chain_command:0 "Нова Командна Ієрархія"
+bra_idea_new_chain_command_desc:0 ""
+
+bra_idea_royal_airsquadron:0 "§tКоролівські Повітряні Сили§!"
+bra_idea_royal_airsquadron_desc:0 ""
+
+bra_idea_land_and_sea:0 "Володарі Суші й Моря"
+bra_idea_land_and_sea_desc:0 ""
+
+bra_idea_royal_guard:0 "Королівська Гвардія"
+bra_idea_royal_guard_desc:0 ""
+
+bra_royal_diplomats:0 "Королівська Гвардія"
+bra_royal_diplomats_desc:0 ""
+
+bra_mountie_security:0 "§tБезпека Маунті§!"
+bra_mountie_security_desc:0 ""
+
+bra_idea_royal_banner_1:0 "§3Королівський Стяг§!"
+bra_idea_royal_banner_1_desc:0 ""
+
+bra_idea_royal_banner_2:0 "§3Королівський Стяг§!"
+bra_idea_royal_banner_2_desc:0 ""
+
+bra_idea_culture_of_might:0 "Культура Сили"
+bra_idea_culture_of_might_desc:0 ""
+
+BRA_march_subsidies:0 "Промислові Субсидії з Манітоби"
+BRA_march_subsidies_desc:0 ""
+
+BRA_subsidize:0 "Субсидування Марок"
+BRA_subsidize_desc:0 ""
+
+BRA_maple_syrup:0 "Виробництво Кленового Сиропу"
+BRA_maple_syrup_desc:0 ""
+
+BRA_fortify:0 "Укріпити Ворота"
+BRA_fortify_desc:0 ""
+
+bra_winter_clothing:0 "§3Зимовий Одяг§!"
+bra_winter_clothing_desc:0 ""
+
+bra_mountie_gear:0 "§tЗимовий Одяг§!"
+bra_mountie_gear_desc:0 ""
+
+bra_mountie_gear_standalone:0 "§tЗимовий Одяг§!"
+bra_mountie_gear_standalone_desc:0 ""
+
+bra_imperial_architecture:0 "§tІмперська Архітектура§!"
+
+bra_paying_the_construction_crews_idea:0 "Оплата Будівельникам"
+
+bra_end_reliance_on_elites_idea:0 "Кінець Залежності від Еліт"
+bra_end_reliance_on_elites_idea_desc:0 ""
+
+bra_life_is_better_dog:0 "Життя Краще з Псом"
+bra_life_is_better_dog_desc:0 ""
+
+bra_manitoba_mounties:0 "Манітобська Кінна Поліція"
+bra_manitoba_mounties_desc:0 ""
+
+bra_nwmp:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_nwmp_desc:0 ""
+
+bra_nwmp_fast:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_nwmp_fast_desc:0 ""
+
+bra_nwmp_l:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_nwmp_l_desc:0 ""
+
+bra_nwmp_r:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_nwmp_r_desc:0 ""
+
+bra_north_vol_corps_l:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_north_vol_corps_l_desc:0 ""
+
+bra_north_vol_corps_r:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_north_vol_corps_r_desc:0 ""
+
+bra_north_vol_corps:0 "§tПівнічно-Західна Кінна Поліція§!"
+bra_north_vol_corps_desc:0 ""
+
+bra_all_roads_brandon:0 "Всі Шляхи Ведуть до Брендону"
+bra_all_roads_brandon_desc:0 ""
+
+bra_gunn_cat:0 "Кіт Ганна"
+bra_gunn_cat_desc:0 "Поки §RКороль Ганн II§! керує королівством на межі занепаду, він знаходить безцінні моменти спокою зі своїм улюбленим котом — §YКукі§!. Його муркотіння та грайливість стали справжнім порятунком для змученого розуму короля. У тиші цих миттєвостей Ганн пригадує: §2кращий світ усе ще можливий.§!"
+
+bra_outsider_recruitment:0 "Відкрита Вербовка"
+
+bra_strong_blood:0 "Сильна Кров"
+
+bra_false_accounts_of_history:0 "§RЗнищити Фальшиві Історії§!"
+
+bra_gold_standart:0 "Біметалізм"
+
+bra_prosperity_common_pre:0 "Передача Влади Народу"
+
+bra_prosperity_common:0 "Загальний Добробут"
+
+bra_proportional_taxation:0 "Пропорційне Оподаткування"
+
+bra_loyalty_oath:0 "§3Клятва Вірності§!"
+
+bra_heart_nation:0 "Інтеграція Промисловості"
+
+bra_land_reform:0 "Інтеграція Промисловості"
+
+bra_interconnected_economy:0 "Інтеграція Промисловості"
+
+bra_integrated_economy:0 "Інтеграція Промисловості"
+
+bra_interconnected_economy_puppet:0 "Інтеграція Промисловості"
+
+bra_revisit_inheritance_laws:0 "Перегляд Законів Спадкування"
+
+bra_state_education:0 "Державна Освіта"
+
+bra_great_northern_university_idea:0 "Великий Північний Університет"
+
+bra_helping_whitecourt:0 "Допомога Родичам у Вайткорті"
+
+bra_spoils_of_war:0 "§RТрофеї Війни§!"
+
+bra_law_empire:0 "§3Імперське Право§!"
+
+bra_imperial_justice:0 "§3Імперська Справедливість§!"
+
+bra_imperial_reign:0 "§3Імперське Правління§!"
+
+bra_entrepreneurial_loans:0 "Підприємницькі Кредити"
+
+bra_commonwealth_dreams:0 "Розпуск Королівства"
+
+# Призов
+bra_preparing_military_forces:0 "Підготовка Збройних Сил"
+bra_heightened_readiness:0 "Підвищена Готовність"
+bra_calling_up_reserves:0 "§3Заклик Резервістів§!"
+bra_true_mobilisation:0 "§3Справжня Мобілізація§!"
+bra_the_last_war:0 "§tОстання Війна§!"
+
+# Економіка
+bra_scavenging_law:0 "Занепала Аристократія"
+bra_civilian_economy:0 "Переіндустріалізація"
+bra_low_economic_mobilisation:0 "§3Манітобські Міліції§!"
+bra_partial_economic_mobilisation:0 "§3Маунті Напоготові§!"
+bra_war_economy:0 "§tЗберегти Право§!"
+bra_tot_economic_mobilisation:0 "§tЗа Короля і Країну!§!"
+
+# Блокада
+bra_three_rivers_choke_5:0 "Економічна Блокада"
+bra_three_rivers_choke_5_desc:0 "Війна Першої Коаліції завершилась умовною капітуляцією Манітоби та створенням демілітаризованої зони між нею й Республікою Трьох Рік. Королівство втратило значну частину територій і — що гірше — доступ до Вінніпега та південних річкових маршрутів.\n\nВідрізана від ринків і партнерів, Манітоба відчайдушно шукає спосіб прорвати блокаду або знайти нові торгові шляхи."
+
+bra_three_rivers_choke_4:0 "Економічна Блокада"
+bra_three_rivers_choke_4_desc:0 "$bra_three_rivers_choke_5_desc$"
+
+bra_three_rivers_choke_3:0 "Ослаблена Блокада"
+bra_three_rivers_choke_3_desc:0 "$bra_three_rivers_choke_5_desc$"
+
+bra_three_rivers_choke_2:0 "Ослаблена Блокада"
+bra_three_rivers_choke_2_desc:0 "$bra_three_rivers_choke_5_desc$"
+
+bra_three_rivers_choke_1:0 "Обмежені Ринки"
+bra_three_rivers_choke_1_desc:0 "Війна Першої Коаліції завершилась умовною капітуляцією Манітоби та створенням демілітаризованої зони з Республікою Трьох Рік, що призвело до втрати значної частини територій — зокрема доступу до Вінніпега та південних торгових річок.\n\nПозбавлене важливих ринків і партнерів, Королівство відчайдушно шукає шлях прорвати блокаду або знайти нові ринки."
+
+bra_metis_regional_identity:0 "Регіональна Ідентичність Метисів"
+bra_metis_regional_identity_desc:0 ""
+
+bra_winnipeg_aviation_academy:0 "Авіаційна Академія Вінніпега"
+bra_winnipeg_aviation_academy_desc:0 ""
+
+bra_land_governance:0 "Земельне Управління"
+bra_land_governance_desc:0 ""
+
+bra_manifest_facilities:0 "Експерименти Електорату"
+bra_manifest_facilities_desc:0 ""
+
+bra_hudson_river_trade:0 "Торгівля через Гудзонову Затоку"
+bra_hudson_river_trade_desc:0 ""
+
+bra_mad_train_runs:0 "Західні Залізничні Музеї"
+bra_mad_train_runs_desc:0 ""
+
+bra_fort_cap_hell_prison:0 "В’язниця Форт-Кап-Хелл"
+bra_fort_cap_hell_prison_desc:0 ""
+
+bra_old_world_amenities:0 "Королівські Зручності"
+bra_old_world_amenities_desc:0 ""
+
+bra_idea_loyal_chain_command:0 "Єдина Ланка Командування"
+bra_idea_loyal_chain_command_desc:0 ""
+
+bra_ranger_tech_stand_in:0 "Рейнджери Манітоби"
+bra_ranger_tech_stand_in_tooltip:0 "£GFX_unit_elite_spec_ops_icon_small Загін Спецпризначення £GFX_defense_texticon Оборона: §G+10%§!\n£GFX_unit_elite_spec_ops_icon_small £GFX_soft_attack_texticon Протиособовий Урон: §G+10%§!"
+
+bra_order_of_the_pristine_rose:0 "Орден Незаплямованої Троянди"
+bra_order_of_the_pristine_rose_tooltip:0 "£GFX_unit_category_medical_support_icon_small Медична Підтримка £GFX_xp_lost_texticon Втрата Досвіду: §G-10%§!\n£GFX_unit_category_medical_support_icon_small Медична Підтримка £GFX_org_texticon Організація: §G+20.0§!\n£GFX_unit_elite_infantry_icon_small Армія:\n £GFX_trickleback_texticon Повернення в Стрій: §G+1%§!"
+
+bra_call_of_wild_stand_in:0 "Володар Псів"
+bra_call_of_wild_stand_in_desc:0 ""
+
+bra_call_of_wild_stand_in_2:0 "Володар Псів"
+bra_call_of_wild_stand_in_2_desc:0 ""
+
+bra_call_of_wild_stand_in_3:0 "Володар Псів"
+bra_call_of_wild_stand_in_3_desc:0 ""
+
+bra_call_of_wild_stand_in_final:0 "Володар Псів"
+bra_call_of_wild_stand_in_final_desc:0 ""
+
+bra_path_finders_stand_in:0 "Провідники"
+bra_path_finders_stand_in_desc:0 "Рух: §G+10.0%§!,£GFX_unit_category_standard_infantry_icon_small Армія: £GFX_recon_texticon Розвідка: §G+10.0%§!"
+
+bra_well_equipped_levies:0 "Добре Озброєні Оповіщені"
+bra_well_equipped_levies_desc:0 ""
+
+bra_royal_marine_corps:0 "Королівський Морський Корпус"
+bra_royal_marine_corps_desc:0 ""
+
+bra_kings_roads:0 "Королівські Шляхи"
+bra_kings_roads_desc:0 ""
+
+bra_breaking_loyalties:0 "Розрив Вірностей"
+bra_breaking_loyalties_desc:0 ""
+
+bra_kingdom_waking:0 "Пробудження Королівства"
+bra_kingdom_waking_desc:0 ""
+
+bra_research_efforts:0 "Наукові Зусилля"
+bra_research_efforts_desc:0 ""
+
+bra_help_arborg:0 "Добровольці-Лоялісти"
+bra_help_arborg_desc:0 ""
+
+bra_national_census:0 "Національний Перепис"
+
+bra_royal_obligations:0 "Королівські Обов’язки"
+
+bra_short_military_advisor_tt:0 "Вартість Військового Радника: §G-15%§!"
+bra_short_civilian_advisor_tt:0 "Вартість Цивільного Радника: §G-15%§!"

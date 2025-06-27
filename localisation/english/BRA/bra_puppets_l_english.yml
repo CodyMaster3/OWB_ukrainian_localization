@@ -1,0 +1,579 @@
+﻿l_english:
+##DLN - Герцогство Ланґенбург
+DLN_BRA_autonomy_march:0 "Герцогство Ланґенбург"
+DLN_BRA_autonomy_vassal:0 "Герцогство Ланґенбург"
+DLN_BRA_autonomy_military_order:0 "Герцогство Ланґенбург"
+
+##ARB - Хунта Арборґа
+ARB_BRA_autonomy_march:0 "Віконтство Арборґ"
+ARB_BRA_autonomy_vassal:0 "Віконтство Арборґ"
+ARB_BRA_autonomy_military_order:0 "Віконтство Арборґ"
+
+ARB_kingdom_of_angers_BRA_autonomy_march:0 "Східні Марки"
+ARB_kingdom_of_angers_BRA_autonomy_vassal:0 "Східні Марки"
+ARB_kingdom_of_angers_BRA_autonomy_military_order:0 "Східні Марки"
+
+RRR_BRA_autonomy_march:0 "Гудзонова Торгова Компанія"
+RRR_BRA_autonomy_vassal:0 "Гудзонова Торгова Компанія"
+RRR_BRA_autonomy_military_order:0 "Гудзонова Торгова Компанія"
+
+TPA_BRA_autonomy_march:0 "Рупертслендська Торгова Компанія"
+TPA_BRA_autonomy_vassal:0 "Рупертслендська Торгова Компанія"
+TPA_BRA_autonomy_military_order:0 "Рупертслендська Торгова Компанія"
+
+DMM_BRA_autonomy_march:0 "ГЕС Ґранд-Рапідс"
+DMM_BRA_autonomy_vassal:0 "ГЕС Ґранд-Рапідс"
+DMM_BRA_autonomy_military_order:0 "ГЕС Ґранд-Рапідс"
+
+MTC_BRA_autonomy_march:0 "Велике Герцогство Ворік"
+MTC_BRA_autonomy_vassal:0 "Велике Герцогство Ворік"
+MTC_BRA_autonomy_military_order:0 "Велике Герцогство Ворік"
+
+MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_march:0 "Велике Герцогство Ворік"
+MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_vassal:0 "Велике Герцогство Ворік"
+MTC_CONGRESS_OF_PEOPLES_BRA_autonomy_military_order:0 "Велике Герцогство Ворік"
+
+MTC_RED_RIVER_BRA_autonomy_march:0 "Велике Герцогство Ворік"
+MTC_RED_RIVER_BRA_autonomy_vassal:0 "Велике Герцогство Ворік"
+MTC_RED_RIVER_BRA_autonomy_military_order:0 "Велике Герцогство Ворік"
+
+MTC_MANITOBA_BRA_autonomy_march:0 "Велике Герцогство Ворік"
+MTC_MANITOBA_BRA_autonomy_vassal:0 "Велике Герцогство Ворік"
+MTC_MANITOBA_BRA_autonomy_military_order:0 "Велике Герцогство Ворік"
+
+MJW_BRA_autonomy_march:0 "Коронні Землі Мус-Джо"
+MJW_BRA_autonomy_vassal:0 "Коронні Землі Мус-Джо"
+MJW_BRA_autonomy_military_order:0 "Коронні Землі Мус-Джо"
+
+ROL_BRA_autonomy_march:0 "Південні Коронні Землі"
+ROL_BRA_autonomy_vassal:0 "Південні Коронні Землі"
+ROL_BRA_autonomy_military_order:0 "Південні Коронні Землі"
+
+WPG_BRA_autonomy_march:0 "Коронні Землі Вінніпега"
+WPG_BRA_autonomy_vassal:0 "Коронні Землі Вінніпега"
+WPG_BRA_autonomy_military_order:0 "Коронні Землі Вінніпега"
+
+TRR_Northern_republic_BRA_autonomy_march:0 "Коронні Землі Вінніпега"
+TRR_Northern_republic_BRA_autonomy_vassal:0 "Коронні Землі Вінніпега"
+TRR_Northern_republic_BRA_autonomy_military_order:0 "Коронні Землі Вінніпега"
+
+ATM_BRA_autonomy_march:0 "Марка Силосних Полів"
+ATM_BRA_autonomy_vassal:0 "Марка Силосних Полів"
+ATM_BRA_autonomy_military_order:0 "Марка Силосних Полів"
+
+RCK_BRA_autonomy_march:0 "Марка Ґріфтон"
+RCK_BRA_autonomy_vassal:0 "Марка Ґріфтон"
+RCK_BRA_autonomy_military_order:0 "Марка Ґріфтон"
+
+VTS_BRA_autonomy_march:0 "Марка Фарґо"
+VTS_BRA_autonomy_vassal:0 "Марка Фарґо"
+VTS_BRA_autonomy_military_order:0 "Марка Фарґо"
+
+TPL_BRA_autonomy_march:0 "Марка Джеймстаун"
+TPL_BRA_autonomy_vassal:0 "Марка Джеймстаун"
+TPL_BRA_autonomy_military_order:0 "Марка Джеймстаун"
+
+DRA_BRA_autonomy_march:0 "Марка Драматіс"
+DRA_BRA_autonomy_vassal:0 "Марка Драматіс"
+DRA_BRA_autonomy_military_order:0 "Марка Драматіс"
+
+BIS_BRA_autonomy_march:0 "Марка Бісмарк"
+BIS_BRA_autonomy_vassal:0 "Марка Бісмарк"
+BIS_BRA_autonomy_military_order:0 "Марка Бісмарк"
+
+STR_BRA_autonomy_march:0 "Марка Лакота"
+STR_BRA_autonomy_vassal:0 "Марка Лакота"
+STR_BRA_autonomy_military_order:0 "Марка Лакота"
+
+HST_BRA_autonomy_march:0 "Історична Марка"
+HST_BRA_autonomy_vassal:0 "Історична Марка"
+HST_BRA_autonomy_military_order:0 "Історична Марка"
+
+RMT_BRA_autonomy_march:0 "Марка Бізонів"
+RMT_BRA_autonomy_vassal:0 "Марка Бізонів"
+RMT_BRA_autonomy_military_order:0 "Марка Бізонів"
+
+MNC_BRA_autonomy_march:0 "Марка Істини"
+MNC_BRA_autonomy_vassal:0 "Марка Істини"
+MNC_BRA_autonomy_military_order:0 "Марка Істини"
+
+UNB_BRA_autonomy_march:0 "Марка Віллістона"
+UNB_BRA_autonomy_vassal:0 "Марка Віллістона"
+UNB_BRA_autonomy_military_order:0 "Марка Віллістона"
+
+URA_BRA_autonomy_march:0 "Дика Марка"
+URA_BRA_autonomy_vassal:0 "Дика Марка"
+URA_BRA_autonomy_military_order:0 "Дика Марка"
+
+STN_BRA_autonomy_march:0 "Марка Стун"
+STN_BRA_autonomy_vassal:0 "Марка Стун"
+STN_BRA_autonomy_military_order:0 "Марка Стун"
+
+STN_order_BRA_autonomy_march:0 "Марка Стун"
+STN_order_BRA_autonomy_vassal:0 "Марка Стун"
+STN_order_BRA_autonomy_military_order:0 "Марка Стун"
+
+STN_here_be_rattlesnakes_BRA_autonomy_march:0 "Марка Стун"
+STN_here_be_rattlesnakes_BRA_autonomy_vassal:0 "Марка Стун"
+STN_here_be_rattlesnakes_BRA_autonomy_military_order:0 "Марка Стун"
+
+STN_freedoms_army_BRA_autonomy_march:0 "Марка Стун"
+STN_freedoms_army_BRA_autonomy_vassal:0 "Марка Стун"
+STN_freedoms_army_BRA_autonomy_military_order:0 "Марка Стун"
+
+STN_president_of_canada_BRA_autonomy_march:0 "Марка Стун"
+STN_president_of_canada_BRA_autonomy_vassal:0 "Марка Стун"
+STN_president_of_canada_BRA_autonomy_military_order:0 "Марка Стун"
+
+STN_order_of_saint_george_BRA_autonomy_march:0 "Марка Стун"
+STN_order_of_saint_george_BRA_autonomy_vassal:0 "Марка Стун"
+STN_order_of_saint_george_BRA_autonomy_military_order:0 "Марка Стун"
+
+DUN_BRA_autonomy_march:0 "Марка Дандерн"
+DUN_BRA_autonomy_vassal:0 "Марка Дандерн"
+DUN_BRA_autonomy_military_order:0 "Марка Дандерн"
+
+DUN_rosewood_BRA_autonomy_march:0 "Марка Дандерн"
+DUN_rosewood_BRA_autonomy_vassal:0 "Марка Дандерн"
+DUN_rosewood_BRA_autonomy_military_order:0 "Марка Дандерн"
+
+PLT_BRA_autonomy_march:0 "Привітна Марка"
+PLT_BRA_autonomy_vassal:0 "Привітна Марка"
+PLT_BRA_autonomy_military_order:0 "Привітна Марка"
+
+PLT_hope_takeover_BRA_autonomy_march:0 "Привітна Марка"
+PLT_hope_takeover_BRA_autonomy_vassal:0 "Привітна Марка"
+PLT_hope_takeover_BRA_autonomy_military_order:0 "Привітна Марка"
+
+IRC_BRA_autonomy_march:0 "Залізні Марки"
+IRC_BRA_autonomy_vassal:0 "Залізні Марки"
+IRC_BRA_autonomy_military_order:0 "Залізні Марки"
+
+BAT_BRA_autonomy_march:0 "Батлфордський Військовий Орден"
+BAT_BRA_autonomy_vassal:0 "Батлфордський Військовий Орден"
+BAT_BRA_autonomy_military_order:0 "Батлфордський Військовий Орден"
+
+STA_BRA_autonomy_march:0 "Степова Марка"
+STA_BRA_autonomy_vassal:0 "Степова Марка"
+STA_BRA_autonomy_military_order:0 "Степова Марка"
+
+VSH_BRA_autonomy_march:0 "Орден Безпечного Притулку"
+VSH_BRA_autonomy_vassal:0 "Орден Безпечного Притулку"
+VSH_BRA_autonomy_military_order:0 "Орден Безпечного Притулку"
+
+VSH_safehaven_BRA_autonomy_march:0 "Орден Безпечного Притулку"
+VSH_safehaven_BRA_autonomy_vassal:0 "Орден Безпечного Притулку"
+VSH_safehaven_BRA_autonomy_military_order:0 "Орден Безпечного Притулку"
+
+LOI_BRA_autonomy_march:0 "Лойдмінстерський Військовий Орден"
+LOI_BRA_autonomy_vassal:0 "Лойдмінстерський Військовий Орден"
+LOI_BRA_autonomy_military_order:0 "Лойдмінстерський Військовий Орден"
+
+LOI_ussr_BRA_autonomy_march:0 "Лойдмінстерський Військовий Орден"
+LOI_ussr_BRA_autonomy_vassal:0 "Лойдмінстерський Військовий Орден"
+LOI_ussr_BRA_autonomy_military_order:0 "Лойдмінстерський Військовий Орден"
+
+STC_BRA_autonomy_march:0 "Едмонтонська Марка"
+STC_BRA_autonomy_vassal:0 "Едмонтонська Марка"
+STC_BRA_autonomy_military_order:0 "Едмонтонська Марка"
+
+STC_novemberists_BRA_autonomy_march:0 "Едмонтонська Марка"
+STC_novemberists_BRA_autonomy_vassal:0 "Едмонтонська Марка"
+STC_novemberists_BRA_autonomy_military_order:0 "Едмонтонська Марка"
+
+STC_cadets_BRA_autonomy_march:0 "Едмонтонська Марка"
+STC_cadets_BRA_autonomy_vassal:0 "Едмонтонська Марка"
+STC_cadets_BRA_autonomy_military_order:0 "Едмонтонська Марка"
+
+BGR_BRA_autonomy_march:0 "Прерійна Марка"
+BGR_BRA_autonomy_vassal:0 "Прерійна Марка"
+BGR_BRA_autonomy_military_order:0 "Прерійна Марка"
+
+COM_BRA_autonomy_march:0 "Піонерська Торгова Компанія"
+COM_BRA_autonomy_vassal:0 "Піонерська Торгова Компанія"
+COM_BRA_autonomy_military_order:0 "Піонерська Торгова Компанія"
+
+COM_CON_BRA_autonomy_march:0 "Піонерська Торгова Компанія"
+COM_CON_BRA_autonomy_vassal:0 "Піонерська Торгова Компанія"
+COM_CON_BRA_autonomy_military_order:0 "Піонерська Торгова Компанія"
+
+COM_ARC_BRA_autonomy_march:0 "Піонерська Торгова Компанія"
+COM_ARC_BRA_autonomy_vassal:0 "Піонерська Торгова Компанія"
+COM_ARC_BRA_autonomy_military_order:0 "Піонерська Торгова Компанія"
+
+MDM_BRA_autonomy_march:0 "Калґарійська Торгова Компанія"
+MDM_BRA_autonomy_vassal:0 "Калґарійська Торгова Компанія"
+MDM_BRA_autonomy_military_order:0 "Калґарійська Торгова Компанія"
+
+PAS_BRA_autonomy_march:0 "Скелясті Марки"
+PAS_BRA_autonomy_vassal:0 "Скелясті Марки"
+PAS_BRA_autonomy_military_order:0 "Скелясті Марки"
+
+NIT_BRA_autonomy_march:0 "Марка Ніцітапі"
+NIT_BRA_autonomy_vassal:0 "Марка Ніцітапі"
+NIT_BRA_autonomy_military_order:0 "Марка Ніцітапі"
+
+HVR_BRA_autonomy_march:0 "Марка Гавр"
+HVR_BRA_autonomy_vassal:0 "Марка Гавр"
+HVR_BRA_autonomy_military_order:0 "Марка Гавр"
+
+CPK_BRA_autonomy_march:0 "Міссурійська Вугільна Компанія"
+CPK_BRA_autonomy_vassal:0 "Міссурійська Вугільна Компанія"
+CPK_BRA_autonomy_military_order:0 "Міссурійська Вугільна Компанія"
+
+MET_BRA_autonomy_march:0 "Біллінґська Марка"
+MET_BRA_autonomy_vassal:0 "Біллінґська Марка"
+MET_BRA_autonomy_military_order:0 "Біллінґська Марка"
+
+BTH_BRA_autonomy_march:0 "Марка Роузбад"
+BTH_BRA_autonomy_vassal:0 "Марка Роузбад"
+BTH_BRA_autonomy_military_order:0 "Марка Роузбад"
+
+JCK_BRA_autonomy_march:0 "Марка Джексонів"
+JCK_BRA_autonomy_vassal:0 "Марка Джексонів"
+JCK_BRA_autonomy_military_order:0 "Марка Джексонів"
+
+MRR_BRA_autonomy_march:0 "Марка Маршалів"
+MRR_BRA_autonomy_vassal:0 "Марка Маршалів"
+MRR_BRA_autonomy_military_order:0 "Марка Маршалів"
+
+KHA_BRA_autonomy_march:0 "Марка Ханів"
+KHA_BRA_autonomy_vassal:0 "Марка Ханів"
+KHA_BRA_autonomy_military_order:0 "Марка Ханів"
+
+WYR_BRA_autonomy_march:0 "Касперська Торгова Компанія"
+WYR_BRA_autonomy_vassal:0 "Касперська Торгова Компанія"
+WYR_BRA_autonomy_military_order:0 "Касперська Торгова Компанія"
+
+ROS_BRA_autonomy_march:0 "Королівський Парк Йєллоустон"
+ROS_BRA_autonomy_vassal:0 "Королівський Парк Йєллоустон"
+ROS_BRA_autonomy_military_order:0 "Королівський Парк Йєллоустон"
+
+STM_BRA_autonomy_march:0 "Марка Мальмстрьом"
+STM_BRA_autonomy_vassal:0 "Марка Мальмстрьом"
+STM_BRA_autonomy_military_order:0 "Марка Мальмстрьом"
+
+MCA_BRA_autonomy_march:0 "Марка МакАртура"
+MCA_BRA_autonomy_vassal:0 "Марка МакАртура"
+MCA_BRA_autonomy_military_order:0 "Марка МакАртура"
+
+# Puppet Focuses New
+DLN_mounties_1:0 "Манітобські Маунті"
+DLN_mounties_1_desc:0 ""
+
+DLN_mounties:0 "Манітобські Маунті"
+DLN_mounties_desc:0 ""
+
+dln_pup_recovery:0 "Відновлення після Війни"
+dln_pup_recovery_desc:0 ""
+
+dln_pup_eleanor:0 "Елеанор Йорктон"
+dln_pup_eleanor_desc:0 ""
+
+dln_pup_seize_rebel_lands:0 "Захопити Землі Повстанців"
+dln_pup_seize_rebel_lands_desc:0 ""
+
+dln_pup_reward_loyal_citizens:0 "Винагородити Вірних Громадян"
+dln_pup_reward_loyal_citizens_desc:0 ""
+
+dln_pup_kingdom_shield:0 "Щит Королівства"
+dln_pup_kingdom_shield_desc:0 ""
+
+dln_pup_new_rangers:0 "Нові Рейнджери"
+dln_pup_new_rangers_desc:0 ""
+
+dln_pup_loyal_militias:0 "Вірні Ополчення"
+dln_pup_loyal_militias_desc:0 ""
+
+dln_pup_kingdom_sword:0 "Меч Королівства"
+dln_pup_kingdom_sword_desc:0 ""
+
+dln_pup_manitoban_workers:0 "Манітобські Робітники"
+dln_pup_manitoban_workers_desc:0 ""
+
+dln_pup_manitoba_military_base:0 "Манітобська Військова База"
+dln_pup_manitoba_military_base_desc:0 ""
+
+dln_pup_always_loyal:0 "Завжди Вірні"
+dln_pup_always_loyal_desc:0 ""
+
+dln_pup_kingsroad:0 "Королівський Шлях"
+dln_pup_kingsroad_desc:0 ""
+
+dln_pup_katherine_greenhouses:0 "Теплиці Королеви Кетрін"
+dln_pup_katherine_greenhouses_desc:0 ""
+
+dln_pup_spirit_lake_purifiers:0 "Очисники Озера Духів"
+dln_pup_spirit_lake_purifiers_desc:0 ""
+
+dln_pup_scavenging_efforts:0 "Зусилля зі Збирання"
+dln_pup_scavenging_efforts_desc:0 ""
+
+dln_pup_manufactorium_branches:0 "Філії Мануфакторіуму"
+dln_pup_manufactorium_branches_desc:0 ""
+
+dln_pup_cars_running:0 "Запустити Автомобілі"
+dln_pup_cars_running_desc:0 ""
+
+dln_pup_kingdom_research_efforts:0 "Наукові Зусилля Королівства"
+dln_pup_kingdom_research_efforts_desc:0 ""
+
+dln_pup_royal_yorkton_university:0 "Королівський Йорктонський Університет"
+dln_pup_royal_yorkton_university_desc:0 ""
+
+dln_pup_new_housing:0 "Нові Житлові Будівлі"
+dln_pup_new_housing_desc:0 ""
+
+dln_pup_manor_fuel_storages:0 "Паливні Сховища Маєтків"
+dln_pup_manor_fuel_storages_desc:0 ""
+
+dln_pup_aristocratic_investments:0 "Аристократичні Інвестиції"
+dln_pup_aristocratic_investments_desc:0 ""
+
+dln_pup_manitoba_industries:0 "Промисловість Манітоби"
+dln_pup_manitoba_industries_desc:0 ""
+
+dln_pup_royal_breweries:0 "Королівські Пивоварні"
+dln_pup_royal_breweries_desc:0 ""
+
+dln_pup_royal_armories:0 "Королівські Арсенали"
+dln_pup_royal_armories_desc:0 ""
+
+dln_pup_tanner:0 "Нагляд Таннера"
+dln_pup_tanner_desc:0 ""
+
+dln_pup_tanners_mounties:0 "Прийом Маунті"
+dln_pup_tanners_mounties_desc:0 ""
+
+dln_pup_replace_knights_with_mounties:0 "Скасувати Лицарський Орден"
+dln_pup_replace_knights_with_mounties_desc:0 ""
+
+dln_pup_best_of_best:0 "Кращі з Кращих"
+dln_pup_best_of_best_desc:0 ""
+
+dln_pup_every_man_a_dog:0 "Кожен — Пес"
+dln_pup_every_man_a_dog_desc:0 ""
+
+dln_pup_up_to_standards:0 "За Стандартами"
+dln_pup_up_to_standards_desc:0 ""
+
+dln_pup_mixed_military_thought:0 "Змішані Військові Погляди"
+dln_pup_mixed_military_thought_desc:0 ""
+
+dln_pup_war_games:0 "Військові Ігри"
+dln_pup_war_games_desc:0 ""
+
+dln_pup_rain_fire:0 "Вогняний Дощ"
+dln_pup_rain_fire_desc:0 ""
+
+dln_pup_restoring_the_losses:0 "Відновлення Втрат"
+dln_pup_restoring_the_losses_desc:0 ""
+
+dln_pup_trading_ports:0 "Торгові Порти"
+dln_pup_trading_ports_desc:0 ""
+
+dln_pup_assign_shipbuilders:0 "Призначити Суднобудівників"
+dln_pup_assign_shipbuilders_desc:0 ""
+
+dln_pup_naval_trainings:0 "Морські Навчання"
+dln_pup_naval_trainings_desc:0 ""
+
+dln_pup_skies_of_kingdom:0 "Небеса Королівства"
+dln_pup_skies_of_kingdom_desc:0 ""
+
+dln_pup_art_of_flying:0 "Мистецтво Польоту"
+dln_pup_art_of_flying_desc:0 ""
+
+dln_pup_radars:0 "Королівські Радари"
+dln_pup_radars_desc:0 ""
+
+dln_pup_pride_of_kingdom:0 "Гордість Королівства"
+dln_pup_pride_of_kingdom_desc:0 ""
+
+# Tooltip
+dln_spawn_frontiersmen_tt:0 "Створює §G2§! дивізії §YПрикордонників§! у столиці §Y[1328.GetName]§!."
+dln_mtc_fortline_tt:0 "Додає §G2§! §YФорпости§! у кожній провінції, що межує з §Y[MTC.GetFlag] [MTC.GetNameDef]§! або §Y[WPG.GetFlag] [WPG.GetNameDef]§!."
+
+# Puppet focuses
+manitoba_history:0 "Наша Історія з Манітобою"
+manitoba_history_desc:0 ""
+manitoba_army:0 "Військові Зусилля Манітоби"
+manitoba_army_desc:0 ""
+manitoba_royal_tour:0 "Королівський Тур"
+manitoba_royal_tour_desc:0 ""
+
+manitoba_roads:0 "Королівський Шлях"
+manitoba_roads_desc:0 ""
+manitoba_royal_greenhouses:0 "Теплиці Королеви Кетрін"
+manitoba_royal_greenhouses_desc:0 ""
+manitoba_royal_water_purifiers:0 "Нові Очисники Води"
+manitoba_royal_water_purifiers_desc:0 ""
+manitoba_royal_houses:0 "Указ про Житло"
+manitoba_royal_houses_desc:0 ""
+manitoba_capital_protect:0 "Захистити Столицю"
+manitoba_capital_protect_desc:0 ""
+manitoba_royal_breweries:0 "Королівські Пивоварні"
+manitoba_royal_breweries_desc:0 ""
+manitoba_royal_armories:0 "Королівські Арсенали"
+manitoba_royal_armories_desc:0 ""
+manitoba_royal_generators:0 "Запустити Генератори"
+manitoba_royal_generators_desc:0 ""
+manitoba_royal_investments:0 "Інвестиції в Манітобу"
+manitoba_royal_investments_desc:0 ""
+manitoba_royal_research:0 "Наукові Зусилля Королівства"
+manitoba_royal_research_desc:0 ""
+manitoba_royal_knowledge:0 "Власний Королівський Університет"
+manitoba_royal_knowledge_desc:0 ""
+manitoba_royal_projects:0 "Індустріальні Проєкти Манітоби"
+manitoba_royal_projects_desc:0 ""
+manitoba_royal_scavenge:0 "Пошукові Зусилля"
+manitoba_royal_scavenge_desc:0 ""
+manitoba_royal_workers:0 "Робітники з Манітоби"
+manitoba_royal_workers_desc:0 ""
+manitoba_royal_factories:0 "Філія Мануфакторіуму"
+manitoba_royal_factories_desc:0 ""
+manitoba_royal_ports:0 "Торгові Порти"
+manitoba_royal_ports_desc:0 ""
+
+manitoba_army_training:0 "За Стандартами"
+manitoba_army_training_desc:0 ""
+
+manitoba_army_planning:0 "Нова Військова Думка"
+manitoba_army_planning_desc:0 ""
+
+manitoba_our_own_mounties:0 "Кращі з Кращих"
+manitoba_our_own_mounties_desc:0 ""
+
+manitoba_war_games:0 "Військові Ігри"
+manitoba_war_games_desc:0 ""
+
+manitoba_every_man_a_dog:0 "Кожен — Пес!"
+manitoba_every_man_a_dog_desc:0 ""
+
+manitoba_protecting_the_march:0 "Захист Маршу"
+manitoba_protecting_the_march_desc:0 ""
+
+manitoba_dubois_schematics:0 "Візит Лорда Дюбуа"
+manitoba_dubois_schematics_desc:0 ""
+
+manitoba_steel_wheels:0 "Сталеві Колеса"
+manitoba_steel_wheels_desc:0 ""
+
+manitoba_more_dubois_schemes:0 "Військові Схеми Дюбуа"
+manitoba_more_dubois_schemes_desc:0 ""
+
+manitoba_mechanics_from_loid:0 "Механіки з Лоїда"
+manitoba_mechanics_from_loid_desc:0 ""
+
+manitoba_navy:0 "Відновлення Втрат"
+manitoba_navy_desc:0 ""
+
+manitoba_navy_games:0 "Морські Навчання"
+manitoba_navy_games_desc:0 ""
+
+manitoba_navy_research:0 "Призначити Суднобудівників"
+manitoba_navy_research_desc:0 ""
+
+manitoba_navy_doctrine:0 "Наша Морська Тактика"
+manitoba_navy_doctrine_desc:0 ""
+
+manitoba_navy_convoys:0 "Запит Конвоїв від Манітоби"
+manitoba_navy_convoys_desc:0 ""
+
+manitoba_navy_research_2:0 "Останній Прорив!"
+manitoba_navy_research_2_desc:0 ""
+
+manitoba_air:0 "Небо Королівства"
+manitoba_air_desc:0 ""
+
+manitoba_air_games:0 "Повітряні Навчання"
+manitoba_air_games_desc:0 ""
+
+manitoba_air_doctrine:0 "Наша Повітряна Доктрина"
+manitoba_air_doctrine_desc:0 ""
+
+manitoba_air_research:0 "Вивчити Мистецтво Польоту"
+manitoba_air_research_desc:0 ""
+
+manitoba_air_radar:0 "Повітряні Радари"
+manitoba_air_radar_desc:0 ""
+
+manitoba_air_aces:0 "Гордість Королівства"
+manitoba_air_aces_desc:0 ""
+
+manitoba_air_radar_system:0 "Королівські Системи Повітряних Радарів"
+manitoba_air_radar_system_desc:0 ""
+
+# Fort Cap Hell
+
+cph_pup_royal_wardens:0 "Королівські Наглядачі"
+cph_pup_royal_wardens_desc:0 ""
+
+cph_pup_checkout:0 "День Платні"
+cph_pup_checkout_desc:0 ""
+
+cph_pup_payday:0 "Чек, Будь ласка"
+cph_pup_payday_desc:0 ""
+
+cph_pup_rematch:0 "Другий Раунд..."
+cph_pup_rematch_desc:0 ""
+
+cph_pup_victors:0 "Помста Холодна"
+cph_pup_victors_desc:0 ""
+
+cph_pup_zealots:0 "Фанатики"
+cph_pup_zealots_desc:0 ""
+
+cph_pup_can_i_get_an_amen:0 "Скажіть Амен!"
+cph_pup_can_i_get_an_amen_desc:0 ""
+
+cph_pup_free_some_cells:0 "Добровольці Королівства"
+cph_pup_free_some_cells_desc:0 ""
+
+cph_pup_learn_from_the_best:0 "Кусай Як Пес"
+cph_pup_learn_from_the_best_desc:0 ""
+
+cph_pup_royal_standarts:0 "Вищі Стандарти"
+cph_pup_royal_standarts_desc:0 ""
+
+cph_pup_lessons_from_tanner:0 "Справжні Сторожові Пси"
+cph_pup_lessons_from_tanner_desc:0 ""
+
+cph_pup_more_than_wardens:0 "Захисники Заходу"
+cph_pup_more_than_wardens_desc:0 ""
+
+cph_pup_use_metis_methods:0 "Вивчити Метінську Робототехніку"
+cph_pup_use_metis_methods_desc:0 ""
+
+cph_pup_robotic_wardens:0 "Металеві Наглядачі"
+cph_pup_robotic_wardens_desc:0 ""
+
+cph_pup_request_manitoba_support:0 "Запитати Підтримку Королівства"
+cph_pup_request_manitoba_support_desc:0 ""
+
+cph_pup_a_better_place:0 "Краще Місце"
+cph_pup_a_better_place_desc:0 ""
+
+cph_pup_pacifistas:0 "Пацифісти"
+cph_pup_pacifistas_desc:0 ""
+
+cph_pup_prisoner_work:0 "Підняти Настрій"
+cph_pup_prisoner_work_desc:0 ""
+
+cph_pup_less_time_for_scavenge:0 "Пошук Хламу для В’язнів"
+cph_pup_less_time_for_scavenge_desc:0 ""
+
+cph_pup_doing_what_we_can:0 "Робимо Все, Що Можемо"
+cph_pup_doing_what_we_can_desc:0 ""
+
+cph_pup_old_prisoner:0 "Старий В’язень"
+cph_pup_old_prisoner_desc:0 ""
+
+cph_pup_expand_the_prison_block:0 "Розширити В’язничний Блок"
+cph_pup_expand_the_prison_block_desc:0 ""
+
+cph_pup_most_valuable_prisoners:0 "Найцінніші В’язні"
+cph_pup_most_valuable_prisoners_desc:0 ""
+
+cph_pup_royal_reward:0 "Попри Все"
+cph_pup_royal_reward_desc:0 "Ми пройшли довгий шлях, але місто Реджайна нарешті повернулося додому.\n\nНаші Наглядачі мужньо боролися разом з армією Королівства проти сил Другої Коаліції, і тепер король Ганн II бажає нагородити полковника Деніелса за успішне відвоювання Реджайни."
