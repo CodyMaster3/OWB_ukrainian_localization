@@ -43,8 +43,9 @@
  node_level_up_popup_tooltip_tt:0 "В §Y[?target_state_var.GetName]§! може бути підняти рівень до [?new_level|+0]"
  node_disabled_popup_tooltip:0 "[GetNodeDisabledPopUp]"
  node_disabled_popup_tooltip_tt:0 "§Y[?target_state_var.GetName]§! §Rне діє§!\nВузол не буде приносити дохід, поки вимкнений"
+ 
  node_trade_income_tt:0 "[GetNodeNewRoutePopup]"
- node_recieve_route_popup_tt:0 "Встановлено маршрут із §Y[?recieving_state.GetName]§! в [?trade_recieved_from|+=] [GetCapType]"
+ node_receive_route_popup_tt:0 "Встановлено маршрут із §Y[?recieving_state.GetName]§! в [?trade_recieved_from|+=] [GetCapType]"
  node_new_node_popup_tt:0 "[GetNodeNewNodePopup]"
  node_new_node_popup_tooltip_tt:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках і головним центром торгівлі для §Y[THIS.GetName]§!!"
  node_new_node_popup_tooltip_tt_short:0 "§Y[?new_node_state.GetName]§! став центром торгівлі на Пустках!"

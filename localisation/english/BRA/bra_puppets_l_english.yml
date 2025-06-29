@@ -257,7 +257,7 @@ MCA_BRA_autonomy_march:0 "Марка МакАртура"
 MCA_BRA_autonomy_vassal:0 "Марка МакАртура"
 MCA_BRA_autonomy_military_order:0 "Марка МакАртура"
 
-# Puppet Focuses New
+# Маріонетку Focuses New
 DLN_mounties_1:0 "Манітобські Маунті"
 DLN_mounties_1_desc:0 ""
 
@@ -394,7 +394,7 @@ dln_pup_pride_of_kingdom_desc:0 ""
 dln_spawn_frontiersmen_tt:0 "Створює §G2§! дивізії §YПрикордонників§! у столиці §Y[1328.GetName]§!."
 dln_mtc_fortline_tt:0 "Додає §G2§! §YФорпости§! у кожній провінції, що межує з §Y[MTC.GetFlag] [MTC.GetNameDef]§! або §Y[WPG.GetFlag] [WPG.GetNameDef]§!."
 
-# Puppet focuses
+# Маріонетку focuses
 manitoba_history:0 "Наша Історія з Манітобою"
 manitoba_history_desc:0 ""
 manitoba_army:0 "Військові Зусилля Манітоби"

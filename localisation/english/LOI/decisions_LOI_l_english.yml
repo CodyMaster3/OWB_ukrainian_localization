@@ -1,0 +1,111 @@
+﻿l_english:
+# decisions
+loi_computer_office:0 "Термінал Капітана"
+loi_computer_office_desc:0 "Офіс Капітана, чинний Капітан: Катерина"
+loi_log_one:0 "Втрата Манітоби"
+loi_log_one_read:0 "(Прочитано) Втрата Манітоби"
+loi_log_two:0 "Катастрофа в Саскачевані"
+loi_log_two_read:0 "(Прочитано) Катастрофа в Саскачевані"
+loi_log_three:0 "Довгий Марш Додому"
+loi_log_three_read:0 "(Прочитано) Довгий Марш Додому"
+loi_log_four:0 "Що Чекає За Великою Тріщиною"
+loi_log_four_read:0 "(Прочитано) Що Чекає За Великою Тріщиною"
+loi_log_five:0 "Забутий Сховок"
+loi_log_five_read:0 "(Прочитано) Забутий Сховок"
+loi_log_six:0 "Останній Лист Офіцера Вадима"
+loi_log_six_read:0 "(Прочитано) Останній Лист Офіцера Вадима"
+
+loi_great_breach:0 "Велика Північна Експедиція!"
+loi_great_breach_desc:0 "Розташування: За Великою Тріщиною"
+loi_northern_expedition:0 "Відправити Експедицію"
+loi_expedition_outcome:0 "Отримає подію '§YРезультат Експедиції§W'."
+
+loi_generic_decisions:0 "Політичні Дії"
+loi_order_num:0 "Наказ №227"
+
+# ремонти міст
+loi_dpt_office_renovation:0 "Офіс Реновації"
+loi_ver:0 "Ремонт Верміліону"
+loi_wain:0 "Ремонт Вейнрайта"
+loi_freemont:0 "Ремонт Арсеналу Фрімонта"
+loi_la_biche:0 "Ремонт Лак-ла-Біш"
+loi_fort_sask:0 "Ремонт Форту Саскачеван"
+loi_fort_sask_bunkers:0 "Бункери Форту Саскачеван"
+loi_redmond_repair:0 "Ремонт Редмонда"
+loi_dragon_valley_bend:0 "Ремонт Вигину Драконової Долини"
+loi_whitecourt:0 "Ремонт Вайткорту"
+loi_entrance:0 "Ремонт Входу"
+
+# баланс влади
+LOI_tanker_dispute_balance:0 "Кампанія Об'єднання Катерини"
+LOI_ekaterina_control:0 "Культ Особистості Катерини"
+LOI_civil_war_bop:0 "Голос Народу"
+LOI_uneasy_times:0 "Низька Підтримка Кампанії Об'єднання"
+LOI_ekaterina_total_control:0 "Катерина Перемогла"
+LOI_ekaterina_very_strong_control:0 "Дуже Висока Підтримка Кампанії"
+LOI_ekaterina_strong_control:0 "Висока Підтримка Кампанії"
+LOI_ekaterina_weak_control:0 "Помірна Підтримка Кампанії"
+LOI_commune_disgruntled:0 "§RДуже Низька Підтримка Кампанії§!"
+LOI_commune_unrest:0 "§RЗростаюча Нестабільність§!"
+LOI_commune_angry:0 "§RМіліції Мобілізуються§!"
+LOI_commune_civil_war_imminent:0 "§RНародна Невіра В Уряд§!"
+
+# дії режиму
+loi_intimidate:0 "§tТактика Залякування§!"
+loi_purge_military:0 "§tЧистка -§! §GАрмія§!"
+loi_purge_airforce:0 "§tЧистка -§! §gПовітряні Сили§!"
+loi_purge_navy:0 "§tЧистка -§! §5Флот§!"
+loi_military_parade:0 "§gПровести Військовий Парад§!"
+loi_diplomatic_isolation:0 "§gДипломатична Ізоляція§!"
+loi_coverups:0 "§gПриховати Провали Кампанії§!"
+loi_lock_trade:0 "§gБлокувати Торгівлю§!"
+
+# продовження об'єднання
+loi_homeward_bound:0 "§tКампанія Об'єднання Триває§!"
+loi_kamlo_unifier:0 "§tОб'єднання —§! §gБіла Мряка§!"
+loi_dredgers_unifier:0 "§tОб'єднання —§! §gКрізь Намул§!"
+loi_syn_unifier:0 "§tОб'єднання —§! §gПротиснутись§!"
+loi_whistler_unifier:0 "§tОб'єднання —§! §gВпертий Блокпост§!"
+loi_brk_unifier:0 "§tОб'єднання —§! §gПогляд До Узбережжя§!"
+loi_return_island:0 "§gПовернути Острів§!"
+loi_drag_the_ship:0 "§gОглянути Тріщину§!"
+loi_repair_the_ship:0 "§gРемонт Корабля§!"
+loi_prep_the_ship:0 "§gПідготовка Корабля§!"
+loi_to_russia_i_go:0 "§gДо Росії Я Йду§!"
+
+# рішення Соломона
+loi_invest_into_university:0 "§gІнвестувати в Гранд Прері§!"
+loi_hack_into_satlelite:0 "§gЗламати Супутник§!"
+loi_hack_into_satlelite_desc:0 "Високо над §tКОВЧЕГОМ§! висить масивний супутник, з яким колись з'єднувалась база. \nПісля вибухів зв'язок перервався, але §tRELCOM§! зміг частково відновити функціональність. Та зараз, коли його більше немає, ми мусимо зламати систему вручну."
+loi_satelite:0 "§gСканувати Супутник§!"
+loi_improve_inf_armor:0 "§gПокращити Броню Піхоти§!"
+loi_consolidate_older_pa:0 "§gОб’єднати Старі Моделі§!"
+loi_clergy_decisions:0 "Духовенство"
+
+# дипломатія
+loi_dpt_foreign_relations:0 "Міністерство Закордонних Справ"
+loi_talk_with_passkeepers:0 "§6Дипломатія —§! §gПослання Хоронителям Перевалів§!"
+loi_appeal_to_safehaven:0 "§6Дипломатія —§! §gЗвернення до Сейфгейвена§!"
+loi_bury_hatchet:0 "§6Дипломатія —§! §gЗакопати Сокиру§!"
+loi_uranium_city_meeting:0 "§6Дипломатія —§! §gНаші Зморщені Друзі§!"
+
+# цілі війни
+loi_preempt_the_Велика Зграя:0 "§tЦілі Війни —§! §gУдарити Першими по Стампід§!"
+loi_middlemark_smelly:0 "§tЦілі Війни —§! §gНе Люблю Роботів§!"
+loi_annex_wardens:0 "§tЦілі Війни —§! §gВійна Небажання§!"
+loi_batford_more_like_batshit_insane_amirite:0 "§tЦілі Війни —§! §gПринц і Патріарх§!"
+loi_confederacy_criminals:0 "§tЦілі Війни —§! §gЗакінчити Почате Лідією§!"
+
+# маріонетки
+loi_south_alberta_unified:0 "§pМаріонетки —§! §gРеорганізація Альберти§!"
+loi_Беттлфорд_mercenary_company:0 "§pМаріонетки —§! §gБатлфордська Наймана Компанія§!"
+
+# категорії
+loi_ekaterina_dispute_decision_category:0 "Суперечки Катерини"
+
+# прапори/стани
+loi_whitecourt_repaired:0 "Вайткорт Відремонтовано!"
+loi_repairs_ongoing:0 "Виконується Ремонт!"
+loi_reading_log:0 "Не читається інший лог. Лише один лог можна читати одночасно."
+loi_expedition_underway:0 "Експедиція вже триває"
+loi_bgr_Маріонетку_tt:0 "§gПісля необхідного часу на ремонти та очищення від роботів, ми створимо напівавтономний «уряд» довкола об’єкта в Гранд Прері. За допомогою звільненого гарнізону, ми зможемо легше придушувати спротив у пост-КНФ зонах.§!"
