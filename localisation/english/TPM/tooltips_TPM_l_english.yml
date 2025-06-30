@@ -1,75 +1,128 @@
 ﻿l_english:
-tpm_mobsters_remove_corruption_tt:0 "§OWe'll devote a new branch of the Patrolmen to the eradication of the "Jazzmen", the mobsters of New Orleans, allowing us to remove the spirit we got in the event "Noble Beginnings"§!"
-tpm_mmmmmmmmmburger_tt:0 "§OCallahan orders a burger§!"
-formed_texas:0 "has formed the Provisional Republic!" #this was already a tag in the base game, im not sure why they didnt localize it
-TPM_mac_tt:0 "§OMack's gone and drunk himself into a coma again. At least the hangover might remind him that he has a JOB to do.§!"
-TPM_mac_salary_tt:0 "§OI did tell him I was gonna take a week off his pay...§!"
-TPM_mac_hangover_tt:0 "§gIn one day:§!"
-tbh_accepted_offer:0 "§gOne way or another, we accepted the Patrolmen's offer.§!"
-TPM_brotherhood_hood_accept:0 "§gThe Brotherhood have accepted our offer§!"
-tpm_WAR_WAR_WAR:0 "§gThe Brotherhood have denied our offer§!"
-tpm_pride_of_fleet:0 "We'll fix up the battle barge, and while we're at it, why not crown it as the pride of our new fleet!"
-tpm_new_fleet:0 "Spawns the new official fleet of The Patrolmen"
-tpm_new_fleet_flavor:0 "§g"Set sail for Itza!"§!"
-TPM_austin_cannery_line_bigmoney:0 "§gThe infrastructure along the Austin-Cannery railroad will increase by 3§!"
-TPM_austin_cannery_line_HAHA_POOR_ASS:0 "§gThe infrastructure along the Austin-Cannery railroad will increase by 1§!"
-TPM_decisions_tt:0 "§gUnlocks new decisions§!"
-tpm_post_launch_tooltip_tt:0 "§gIf the Texan Brotherhood decided to attack us for some reason or another, we'll wait a bit and then send an offer of a truce. It'll still be a pricey truce if they accept, but hey, it's better than the nightmare war a grudge match with Texas would result in.§!"
-tpm_no_generals_for_you_ed_boy_tt:0 "§RCannot recruit or promote generals by default.§!\n§GActive advisors will become generals.§!"
-tpm_franklin_dash:0 "§g- Patrol Lead Franklin§!"
-tpm_THETOAST:0 "§M"A toast to you, on an excellent birthday!"§! §gread the front. It was joined by a truly ridiculous edit of a picture of a piece of toast with eyes and a smile. Callahan laughed a little, starting to get a little sad. He flipped the card over; nothing special on the back aside from miscellaneous copyright and trademark information from the card's publisher.§!"
-tpm_yummy_smore:0 "§gHe paused briefly to catch his breath and took a bite out of a s'more someone had handed him.§!"
-tpm_callahan_stargazing:0 "§gHe paused and gestured towards Callahan, who stopped watching the stars just long enough to lift his head and give a casual salute.§!"
-tpm_solem_recognition:0 "§gCallahan looked around. A few of the old timers were nodding their heads sadly. The newer members were giving their full attention.§!"
-tpm_fixing:0 "§gSo much to fix...§!"
-tpm_take_us_to_your_beer:0 "§g"You've got no idea," he said as he took a long sip.§!"
-tpm_danny:0 "§gDanny finally popped his head up above the counter, making a show of holding a vintage revolver up.§!"
-tpm_stagefright:0 "§gHe refreshed himself on the three talking points and put it back.§!"
-tpm_question:0 "§g"Hello, Callahan. May I ask how you got this number?"§!"
-tpm_unlucky:0 "§g"I just 'aven't had that kinda luck."§!"
-tpm_bayou:0 "§g"Honest as my dead wife," Ship-Breaker said. He put his hands up in a sign of mock surrender§!"
-tpm_franklin:0 "§g"It probably ain't a secret from me, given how old I am. But hit me."§!"
-tpm_drunkard:0 "§gAnd with that, patrol lead Mack McKinley fell out of his chair and flopped face-first onto the wooden floor of the bar. Every man at the table let out a loud, whooping laugh, and pretty much the entire bar noticed what had happened and joined in.§!"
-tpm_best_friend:0 "§g"Hey there, Sully." He reached across the bed a couple feet and turned a small overhead lamp on. Sully, the chief's old cat, meandered up the bed and sat down in front of the chief's face.§!"
-tpm_roadtrip:0 "§gEight hours, one flat tire, one drive-by raider intervention, and two pit stops later, Callahan pulled his old man's jeep up in front of the Dallas City Hall.§!"
-tpm_cassette:0 "§gHe hesitated on pressing the play button when he noticed how much dust had built onto the player's surface, but he shrugged and gave it a gentle push anyways. Then he walked back to his desk and took a seat, pulling the transcript up in front of himself while the cassette played across the room.§!"
-tpm_pause:0 "§gHe paused.§!"
-tpm_jim_tt:0 "§g"Alright, Sheriff Slink, y'mind explainin' what's goin' on 'ere?"§!"
-tpm_close_but_no_cigar:0 "§gHe picked up his cigar and gave it a disappointed look. He rubbed it out in his ashtray and left it there.§!"
-tpm_bump_trade_law:0 "§gThis will bump our trade law up by one level.§!"
-tpm_cnc_buff:0 "§gThis will further increase CnC-Robot organization by 10.§!"
-tpm_big_money_focus:0 "§gIf we are in the Texan Economic Union, this will add 2 Civilian Factories and Arms Workshops to every major capital. If not, every major city we control in Louisiana will get one of each.§!"
-tpm_danny_company:0 "§gWith the strike of a pen and a handshake, the Chief and Danny signed a formal agreeement to supply the Patrolmen.§!"
-tpm_danny_company_unlocked:0 "§HDynamite Danny's will now be available as a major business!§!"
-TPM_danny_connections:0 "§gAs a little gift, §HDanny§! will provide us with a free stockpile of §HDynamite§! every month!§!"
-tpm_bloody_mess:0 "§g§HCallahan, Franklin, George, §gand§! Shank§! will gain the §HBloody Mess §!trait§!§!§!"
-tpm_unlock_motorization:0 "§gUnlocks our next unresearched motorization technology§!"
-tpm_lock_branch:0 "§OThis will prevent us from taking our other focus branch until we complete this one§!"
-tpm_more_generals:0 "§gThis will grant us §H4§! new generals of varying skill§!"
-tpm_will_not_be_recruited_tt:0 "§tThis advisor is currently not a formal member of the patrol, and as such they will NOT be recuited if active.§!"
-tpm_recruited_as_commander_tt:0 "§gThis advisor will be recruited as a §YCorps Commander§! if hired.§!"
-tpm_recruited_as_marshal_tt:0 "§gThis advisor will be recruited as a §HField Marshal§! if hired.§!"
-tpm_recruited_as_naval_tt:0 "§gThis advisor will be recruited as a §yNaval Commander§! if hired.§!"
-tpm_recruited_always_tt:0 "§gThis advisor will §CAlways§! be recruited, regardless if they are hired or not.§!"
+tpm_fellow_deputies: "Колеги-депутати"
+
+tpm_mobsters_remove_corruption_tt: "§OМи створимо нову гілку Патрульних для викорінення «Джазменів», мафії Нового Орлеану, що дозволить нам позбутися духу, отриманого в події «Благородне початок»§!"
+
+tpm_mmmmmmmmmburger_tt: "§OКаллахан наказує замовити бургер§!"
+
+formed_texas: "утворив Тимчасову Республіку!" #це вже було тегом у базовій грі, не зрозуміло, чому його не локалізували
+
+TPM_mac_tt: "§OMак знову напився до коми. Хоча, може, похмілля нагадає йому, що в нього є РОБОТА.§!"
+
+TPM_mac_salary_tt: "§OЯ ж казав йому, що відніму тиждень зарплати...§!"
+
+TPM_mac_hangover_tt: "§gЗа один день:§!"
+
+tbh_accepted_offer: "§gТак чи інакше, ми прийняли пропозицію Патрульних.§!"
+
+TPM_brotherhood_hood_accept: "§gБратство прийняло нашу пропозицію§!"
+
+tpm_WAR_WAR_WAR: "§gБратство відмовилося від нашої пропозиції§!"
+
+tpm_pride_of_fleet: "Ми відремонтуємо бойову баржу, і чому б нам не зробити її гордістю нашого нового флоту!"
+
+tpm_new_fleet: "Створює новий офіційний флот Патрульних"
+
+tpm_new_fleet_flavor: "§g«Пливемо в Ітцу!»§!"
+
+TPM_austin_cannery_line_bigmoney: "§gІнфраструктура вздовж залізниці Остін-Каннері збільшиться на 3§!"
+
+TPM_austin_cannery_line_HAHA_POOR_ASS: "§gІнфраструктура вздовж залізниці Остін-Каннері збільшиться на 1§!"
+
+TPM_decisions_tt: "§gВідкриває нові рішення§!"
+
+tpm_post_launch_tooltip_tt: "§gЯкщо Техаське Братство вирішить атакувати нас з якоїсь причини, ми трохи почекаємо, а потім надішлемо пропозицію перемир’я. Це все ще буде дорогим перемир’ям, якщо вони погодяться, але, принаймні, це краще, ніж жахлива війна, яку призведе конфлікт з Техасом.§!"
+
+tpm_no_generals_for_you_ed_boy_tt: "§RНе можна наймати чи просувати генералів за замовчуванням.§!\n§GАктивні радники стануть генералами.§!"
+
+tpm_franklin_dash: "§g- Патрульний лідер Франклін§!"
+
+tpm_THETOAST: "§M«Тост за тебе, з чудовим святом народження!»§! §gчитав спереду. Його приєднала справжня смішна редакція з фото шматка тосту з очима і посмішкою. Каллахан трохи посміхнувся, почавши трошки сумувати. Він перевернув картку; нічого особливого на звороті, окрім різноманітної інформації про авторські права та товарні знаки видавця картки.§!"
+
+tpm_yummy_smore: "§gВін на хвилину зупинився, щоб перевести подих і з’їв смачний смор, який йому хтось передав.§!"
+
+tpm_callahan_stargazing: "§gВін зупинився і показав на Каллахана, який на мить припинив спостерігати за зірками, підняв голову і віддав поважний жест.§!"
+
+tpm_solem_recognition: "§gКаллахан оглянувся. Декілька старих патрульних сумно кивали головами. Новіші члени уважно слухали.§!"
+
+tpm_fixing: "§gТак багато треба відремонтувати...§!"
+
+tpm_take_us_to_your_beer: "§g«Ти не уявляєш,» — сказав він, зробивши довгий ковток.§!"
+
+tpm_danny: "§gДенні нарешті підняв голову з-за прилавка, демонструючи старовинний револьвер.§!"
+
+tpm_stagefright: "§gВін освіжив три основні пункти для розмови і поклав це назад.§!"
+
+tpm_question: "§g«Привіт, Каллахан. Можна запитати, як ти отримав цей номер?»§!"
+
+tpm_unlucky: "§g«Мені просто не щастить.»§!"
+
+tpm_bayou: "§g«Чесно, як моя мертва дружина,» — сказав Шип-Брейкер. Він підняв руки в знак жартівливого здачі.§!"
+
+tpm_franklin: "§g«Це, ймовірно, не секрет для мене, з огляду на мій вік. Але давай, давай.»§!"
+
+tpm_drunkard: "§gІ з цим патрульний лідер Мак Маккінлі впав з крісла і шмякнувся обличчям на дерев’яну підлогу бару. Кожен чоловік за столом розсміявся голосно, і практично весь бар помітив, що сталося, і приєднався до сміху.§!"
+
+tpm_best_friend: "§g«Привіт, Саллі.» Він простягнув руку через ліжко на кілька футів і включив невеликий верхній світильник. Саллі, старий кіт начальника, наблизився до ліжка і сів перед обличчям начальника.§!"
+
+tpm_roadtrip: "§gВісім годин, одна пробита шина, одна інтервенція від рейдерів з проїзду та дві зупинки в дорозі — і Каллахан припаркував джип свого батька перед Ратушею в Далласі.§!"
+
+tpm_cassette: "§gВін вагався натискати кнопку відтворення, коли помітив, скільки пилу накопичилося на поверхні плеєра, але він знизав плечима і все одно натиснув її. Потім він повернувся до свого столу і сів, відкривши транскрипт перед собою, поки касета програвала в іншому кінці кімнати.§!"
+
+tpm_pause: "§gВін зупинився.§!"
+
+tpm_jim_tt: "§g«Гаразд, Шериф Слінк, можеш пояснити, що відбувається?»§!"
+
+tpm_close_but_no_cigar: "§gВін підняв свою сигару і подивився на неї з розчаруванням. Він витер її об попільничку і залишив там.§!"
+
+tpm_bump_trade_law: "§gЦе збільшить рівень нашого торгового законодавства на один рівень.§!"
+
+tpm_cnc_buff: "§gЦе ще більше підвищить організацію роботів CnC на 10.§!"
+
+tpm_big_money_focus: "§gЯкщо ми є в Техаському Економічному Союзі, це додасть 2 цивільні фабрики та арсенали на кожну основну столицю. Якщо ні, кожне велике місто, яке ми контролюємо в Луїзіані, отримає по одному з кожного.§!"
+
+tpm_danny_company: "§gПідписавши контракт і потиснувши руку, Начальник і Денні офіційно домовились про постачання для Патрульних.§!"
+
+tpm_danny_company_unlocked: "§HDynamite Danny’s тепер доступна як велика компанія!§!"
+
+TPM_danny_connections: "§gЯк маленький подарунок, §HDanny§! буде надавати нам безкоштовний запас §HDynamite§! щомісяця!§!"
+
+tpm_bloody_mess: "§g§HКаллахан, Франклін, Джордж, §gі§! Шанк§! отримають Trait «Кривава безлад»§!"
+
+tpm_unlock_motorization: "§gВідкриває наступну ще не досліджену технологію моторизації§!"
+
+tpm_lock_branch: "§OЦе завадить нам обрати іншу гілку фокусу, поки ми не завершимо цю.§!"
+
+tpm_more_generals: "§gЦе дасть нам §H4§! нових генералів з різними навичками§!"
+
+tpm_will_not_be_recruited_tt: "§tЦей радник наразі не є формальним членом патруля, тому він НЕ буде набраний, навіть якщо буде активним.§!"
+
+tpm_recruited_as_commander_tt: "§gЦей радник буде набраний як §YКомандувач корпусом§! якщо буде найнятий.§!"
+
+tpm_recruited_as_marshal_tt: "§gЦей радник буде набраний як §HПольовий маршал§! якщо буде найнятий.§!"
+
+tpm_recruited_as_naval_tt: "§gЦей радник буде набраний як §yКомандувач ВМС§! якщо буде найнятий.§!"
+
+tpm_recruited_always_tt: "§gЦей радник §CЗавжди§! буде набраний, незалежно від того, чи буде він найнятий чи ні.§!"
 
 #HINTS
-tpm_reinforce_hint:0 "§gThis will let us choose between political power and a doctrine research bonus.§!"
-tpm_cunningham_hint:0 "§gThis will let us choose between army/navy xp and a small pile of convoys.§!"
-tpm_george_hint:0 "§gThis will let us choose between two small industry-affecting national spirits.§!"
-tpm_callahan_hint:0 "§gThis will let us choose between stability and war support.§!"
-tpm_policy_hint:0 "§gThis will let us choose between research bonuses for infantry equipment or land doctrines.§!"
-tpm_streets_hint:0 "§gThis will let us choose between people and ruler support.§!"
-tpm_heroes_hint:0 "§gThis will let us choose between demolitions equipment and fireteams equipment.§!"
-tpm_bottom_hint:0 "§gThis will let your choose between four different military-affecting spirits.§!"
+tpm_reinforce_hint: "§gЦе дозволить нам вибрати між політичною владою та бонусом до дослідження доктрин.§!"
+tpm_cunningham_hint: "§gЦе дозволить нам вибрати між армійським/флотським досвідом та невеликою кількістю конвоїв.§!"
+tpm_george_hint: "§gЦе дозволить нам вибрати між двома маленькими національними духами, які впливають на промисловість.§!"
+tpm_callahan_hint: "§gЦе дозволить нам вибрати між стабільністю та підтримкою війни.§!"
+tpm_policy_hint: "§gЦе дозволить нам вибрати між бонусами до дослідження піхотного обладнання або сухопутних доктрин.§!"
+tpm_streets_hint: "§gЦе дозволить нам вибрати між підтримкою людей і підтримкою правителя.§!"
+tpm_heroes_hint: "§gЦе дозволить нам вибрати між обладнанням для демолітцій та обладнанням для вогневих груп.§!"
+tpm_bottom_hint: "§gЦе дозволить вибрати між чотирма різними духами, що впливають на армію.§!"
 
 #SCRIPTED TRIGGERS
-SUM_refuge_tt:0 "§gThe Summers Federation are allied to us, or they do not exist.§!"
-LOS-CBN_refuge_tt:0 "§gLos and Carbon are allied to us, or they do not exist.§!"
-PEC_refuge_tt:0 "§gPecos is allied to us, or they do not exist.§!"
-TUB_refuge_tt:0 "§gThe Tubeheads are allied to us, or they do not exist.§!"
-ASS_refuge_tt:0 "§gThe Rollergirls are allied to us, or they do not exist.§!"
-CAR_refuge_tt:0 "§gThe Carthaginians are allied to us, or they do not exist.§!"
-TPM_TBH_war_check_tt:0 "§gHas been at war with the Texan Brotherhood for over §H2§! months§!"
-TPM_left_branch_check_tt:0 "§OIf we have begun the opposite branch this will be locked. If not, this will be available§!"
-TPM_right_branch_check_tt:0 "§OIf we have begun the opposite branch this will be locked. If not, this will be available§!"
-TPM_auto_declare_tt:0 "§tThis focus will automatically complete in the event the Texan Brotherhood declares war on us§!"
+SUM_refuge_tt: "§gСоюзники Федерації Саммерс з нами, або вони не існують.§!"
+LOS-CBN_refuge_tt: "§gЛос і Карбон є нашими союзниками, або вони не існують.§!"
+PEC_refuge_tt: "§gПекос є нашим союзником, або вони не існують.§!"
+TUB_refuge_tt: "§gТюбгеди є нашими союзниками, або вони не існують.§!"
+ASS_refuge_tt: "§gРоллергіллз є нашими союзниками, або вони не існують.§!"
+CAR_refuge_tt: "§gКарфагенці є нашими союзниками, або вони не існують.§!"
+TPM_TBH_war_check_tt: "§gВійна з Техаським Братством триває вже більше §H2§! місяців.§!"
+TPM_left_branch_check_tt: "§OЯкщо ми почали іншу гілку, ця буде заблокована. Якщо ні, то вона буде доступна.§!"
+TPM_right_branch_check_tt: "§OЯкщо ми почали іншу гілку, ця буде заблокована. Якщо ні, то вона буде доступна.§!"
+TPM_auto_declare_tt: "§tЦей фокус буде автоматично завершено у разі, якщо Техаське Братство оголосить війну нам.§!"
