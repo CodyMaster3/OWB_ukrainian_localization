@@ -46,7 +46,7 @@ ttm_complete_set_desc:0 ""
 ttm_nova_terra_sat_tt:0 "Має §Yмережу супутників§! щонайменше з §Y300§! одиниць"
 ttm_nova_terra_repconn_tt:0 "Має доступ до Космодрому REPCONN у §YRoute 95§!"
 ttm_nova_terra_bloomfield_tt:0 "Має доступ до Космічного центру Блумфілд у §YBryce§!"
-ttm_houston_rockets_repconn_tt:0 "Має доступ до ракетного центру «Х’юстон» у §YHouston§!"
+ttm_houston_rockets_repconn_tt:0 "Має доступ до ракетного центру «Г’юстон» у §YГ’юстоні§!"
 ttm_nova_terra_manpower_tt:0 "§Y5000§! жінок виведено з активної служби для роботи над ПРОЄКТОМ «ЛУНА»."
 
 ttm_defending_the_command_station:0 "Захистити Командну станцію"
