@@ -1,28 +1,28 @@
 ﻿l_english:
-  STC_elites_party:0 "The Traditional Wing"
-  STC_elites_party_long:0 "The Wing For Traditional Socialist Thought"
+STC_elites_party:0 "Традиційне крило"
+STC_elites_party_long:0 "Крило традиційної соціалістичної думки"
 
-  STC_intellectuals_party:0 "The Farmer Collective Wing"
-  STC_intellectuals_party_long:0 "The Wing For Ruralization"
+STC_intellectuals_party:0 "Крило сільськогосподарського колективу"
+STC_intellectuals_party_long:0 "Крило для урбанізації сільського господарства"
 
-  STC_ruler_party:0 "The Party Politburo"
-  STC_ruler_party_long:0 "Strathcommune Political Bureau"
+STC_ruler_party:0 "Партійне політбюро"
+STC_ruler_party_long:0 "Політбюро Страткомун"
 
-  STC_people_party:0 "The Worker Democratic Wing"
-  STC_people_party_long:0 "The Wing For Collective Worker Democracy"
+STC_people_party:0 "Крило демократичних робітників"
+STC_people_party_long:0 "Крило колективної робітничої та демократії"
 
-  STC_blossom_short:0 "Blossom Vanguard Party"
-  STC_blossom_long:0 "Blossom Vanguard Party"
+STC_blossom_short:0 "Партія Блоссома"
+STC_blossom_long:0 "Партія Блоссома"
 
-  STC_popular_party_short:0 "The Popular Party"
-  STC_popular_party_long:0 "Canadian Popular Union Party"
+STC_popular_party_short:0 "Популярна партія"
+STC_popular_party_long:0 "Канадська популярна партія"
 
-  # Duplicate loc keys from fallout_government_l_english.yml
-  #STC_people_party:0 "Social Democratic Wing"
-  #STC_people_party_long:0 "Social Democratic Wing of the Collective Commonwealth Party"
-  #STC_elites_party:0 "Cheng Thought Wing"
-  #STC_elites_party_long:0 "Cheng Thought Wing of the Collective Commonwealth Party"
-  #STC_ruler_party:0 "Big Sister"
-  #STC_ruler_party_long:0 "Big Sister"
-  #STC_intellectuals_party:0 "Justice For Life Wing"
-  #STC_intellectuals_party_long:0 "Justice For Life Wing of the Collective Commonwealth Party"
+# Дубльовані локалізовані ключі
+#STC_people_party:0 "Крилові соціал-демократи"
+#STC_people_party_long:0 "Соціал-демократичне крило колективної спільноти партії"
+#STC_elites_party:0 "Крило ченга"
+#STC_elites_party_long:0 "Крило ченга в партії колективної спільноти"
+#STC_ruler_party:0 "Велика сестра"
+#STC_ruler_party_long:0 "Велика сестра"
+#STC_intellectuals_party:0 "Крило справедливості за життя"
+#STC_intellectuals_party_long:0 "Крило справедливості за життя в партії колективної спільноти"

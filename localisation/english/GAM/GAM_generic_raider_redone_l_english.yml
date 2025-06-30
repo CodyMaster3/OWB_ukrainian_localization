@@ -6,7 +6,7 @@ GAM_territorial_reinforcement:0 "Територіальне укріплення
 GAM_territorial_reinforcement_desc:0 "Нам потрібно утримати рабів всередині та ворожі банди зовні. Для цього ми організували купу рейдерів, щоб допомогти будувати форпости по кордонах. Їх набір — справа проста, бо кожен бандиць, вартий своєї солі, захоче бути першим у дії."
 
 GAM_skulls_on_sticks:0 "Черепи на палицях"
-GAM_skulls_on_sticks_desc:0 "Знаєш, ти б подумав, що лякати людей легко. Але ні, треба добре подумати. Замість того, щоб просто вішати випадкові частини тіла на палиці і розкидати грубі послання, наші хлопці з'ясували, що набагато ефективніше ставити відрубану людську голову, що все ще має шкіру."
+GAM_skulls_on_sticks_desc:0 "Знаєш, ти б подумав, що лякати людей легко. Але ні, треба добре подумати. Замість того, щоб просто вішати випадкові частини тіла на палиці і розкидати грубі послання, наші хлопці з’ясували, що набагато ефективніше ставити відрубану людську голову, що все ще має шкіру."
 
 GAM_terrorise_the_locals:0 "Тероризуємо місцевих"
 GAM_terrorise_the_locals_desc:0 "Іноді потрібно вирішувати прості справи. Погрожувати місцевим, спалювати дещо на відстані, кричати на них, стріляючи в повітря — це повинно заспокоїти будь-кого, хто хоче бути героєм. Це також чудово знімає стрес з наших хлопців, поки ми чекаємо на наступний рейд."
@@ -75,7 +75,7 @@ GAM_raider_computer_logs:0 "Ведення журналів"
 GAM_raider_computer_logs_desc:0 "Ведення журналів наших попередніх рейдів і насправді їх читання, як на зміну, дозволить нам побачити, де сталася велика помилка. Може, кидати динаміт під опорні балки не було найкращою ідеєю, але наступного разу ми точно будемо це знати. Сподіваюся."
 
 GAM_taking_the_best:0 "Беремо найкраще"
-GAM_taking_the_best_desc:0 "Дуже просунуті штуки тут, P-65 персональний комп'ютер, топові характеристики, ти, може, міг би врятувати центральний процесор і квантовий замок... чому ти так на мене дивишся? Повернись до роботи, дурнику, нам треба забрати їх до яйцеголових!"
+GAM_taking_the_best_desc:0 "Дуже просунуті штуки тут, P-65 персональний комп’ютер, топові характеристики, ти, може, міг би врятувати центральний процесор і квантовий замок... чому ти так на мене дивишся? Повернись до роботи, дурнику, нам треба забрати їх до яйцеголових!"
 
 GAM_industrial_interest:0 "Крадіжка інструментів"
 GAM_industrial_interest_desc:0 "Здається, деякі з тих рабів насправді щось знали. Такі речі, як місцезнаходження діючих заводів, точки входу і точний момент, коли всі будуть у одній кімнаті, щоб можна було кинути гранату. Це звучить як план."
@@ -87,7 +87,7 @@ GAM_slaver_settlement:0 "Рабовласницьке поселення"
 GAM_slaver_settlement_desc:0 "Може, нам слід дати нашим рабам справжні будівлі. Це точно покращить мораль і звільнить весь простір, який займають ті розбиті табори."
 
 GAM_a_weapon_to_surpass_the_other_gang:0 "Важка металева людина"
-GAM_a_weapon_to_surpass_the_other_gang_desc:0 "Відтоді, як один із хлопців побачив солдата братства, який бігає і зовсім не переживає, що його стріляють, він постійно нав'язує науковцям свої запитання. Вони пішли скаржитися іншим рейдерам, і коли їм розповіли, чому він їх турбує, всі інші приєдналися до розваги. Значить, тепер у нас є залізяки?"
+GAM_a_weapon_to_surpass_the_other_gang_desc:0 "Відтоді, як один із хлопців побачив солдата братства, який бігає і зовсім не переживає, що його стріляють, він постійно нав’язує науковцям свої запитання. Вони пішли скаржитися іншим рейдерам, і коли їм розповіли, чому він їх турбує, всі інші приєдналися до розваги. Значить, тепер у нас є залізяки?"
 
 GAM_convert_metal_armour:0 "Латані запаси"
 GAM_convert_metal_armour_desc:0 "Це, може, й не бойова броня, але хоча б ставить кілька сантиметрів броні між м’яким тілом і дуже неприємною кулею, що летить прямо в тебе. Тож припини скаржитися і вдягни її, вона скоро перестане бути такою важкою, обіцяю."
@@ -101,77 +101,77 @@ GAM_chop_shop_shimmy_desc:0 "У нас є купа транспорту, що ї
 GAM_gear_head_slaves:0 "Механіки"
 GAM_gear_head_slaves_desc:0 "Нехай наші раби працюють у майстернях — це набагато краще, ніж витрачати час на спроби полагодити ці металеві купи самостійно. Якщо пощастить, вони пропрацюють більше половини бака пального, перш ніж щось зламається."
 
-GAM_the_magnum_opus:0 "The Magnum Opus"
-GAM_the_magnum_opus_desc:0 "This is it boys, we'll organize a massive competition to find the magnum opus! It has to be tough, big, scary, armed with huge guns! All the gang is getting into a frenzy to try and find the next ultimate death machine!"
+GAM_the_magnum_opus:0 "Великий Опус"
+GAM_the_magnum_opus_desc:0 "Ось і настав цей момент, хлопці! Ми організуємо масштабний конкурс, щоб знайти великий опус! Це повинно бути важке, велике, страшне, озброєне величезними гарматами! Вся банда у лютому пориві намагається знайти наступну абсолютну машину смерті!"
 
-GAM_prove_yourself:0 "Proving Yourself"
-GAM_prove_yourself_desc:0 "If you want to lead our boys, you better prove you can. While that generally means that you beat someone to death with his own arm, sound tactical choices is also acceptable, i guess."
+GAM_prove_yourself:0 "Доведи свою спроможність"
+GAM_prove_yourself_desc:0 "Якщо хочеш вести наших хлопців, доведи, що ти цього вартий. Зазвичай це означає, що ти поб’єш когось до смерті його ж рукою, але й тактичні рішення також можуть бути прийнятними, я вважаю."
 
-GAM_brutal_hazing:0 "Brutal Hazing"
-GAM_brutal_hazing_desc:0 "Why train our troops when we can just dope them to hell and have them fight each other? Whoever's left is clearly more experienced than the other after all."
+GAM_brutal_hazing:0 "Жорстоке випробування"
+GAM_brutal_hazing_desc:0 "Навіщо тренувати наших солдатів, коли можна їх накачати наркотиками і змусити битися один з одним? Той, хто залишиться живим, напевно, буде досвідченішим за інших."
 
-GAM_recruit_them_young:0 "Recruiting Them Young"
-GAM_recruit_them_young_desc:0 "That would certainly bring more troops to the frontline, yeah. Just have to make sure they can actually lift the rifle, or aim it."
+GAM_recruit_them_young:0 "Залучай молодих"
+GAM_recruit_them_young_desc:0 "Це, безумовно, принесе більше солдатів на фронт. Просто треба переконатися, що вони можуть хоч якось підняти гвинтівку, або хоча б націлити її."
 
-GAM_expand_the_garage:0 "Expanding the Garage"
-GAM_expand_the_garage_desc:0 "You can be sure that as soon as someone talked about expanding the garage, every boy in the gang was listening. Who wouldn't want a roaring monstrosity of a vehicle all for themselves? It will be done faster than expired jet usage day"
+GAM_expand_the_garage:0 "Розширення гаража"
+GAM_expand_the_garage_desc:0 "Можеш бути впевнений, що як тільки хтось заговорить про розширення гаража, всі хлопці з банди будуть слухати. Хто б не захотів власного ревучого монстра на колесах? Це буде зроблено швидше, ніж день використання прострочених реактивних двигунів."
 
-GAM_kings_of_the_roads:0 "Kings of the Roads"
-GAM_kings_of_the_roads_desc:0 "Ain't nobody as fast or as crazy as us! Roadblock, wrecks, entire blaster road, we don't care, we just ride right through full speed!"
+GAM_kings_of_the_roads:0 "Королі доріг"
+GAM_kings_of_the_roads_desc:0 "Ніхто не їздить так швидко і безумно, як ми! Барикади, руїни, ціла бластерна дорога — нам байдуже, ми просто проїдемо по всьому на повній швидкості!"
 
-GAM_custom_rides:0 "Custom Rides"
-GAM_custom_rides_desc:0 "Custom rides, that's such a sweet thing to say. Bigger engine, better suspensions, louder exhausts, anything goes. And once in the fight, it certainly shows."
+GAM_custom_rides:0 "Індивідуальні машини"
+GAM_custom_rides_desc:0 "Індивідуальні машини, це звучить так круто. Більші двигуни, кращі підвіски, голосніші вихлопи — що завгодно! І коли почнеться бій, це точно проявиться."
 
-GAM_call_in_the_warboys:0 "Calling All Warboys"
-GAM_call_in_the_warboys_desc:0 "When you call the warboys, you really toy with fire. They might be the best APC drivers in the wastes, but they also wreck themselves faster than you can ask for another jet. We can make good use of them, just don't stand too close to their rides."
+GAM_call_in_the_warboys:0 "Збір усіх війнових"
+GAM_call_in_the_warboys_desc:0 "Коли ти кличеш війнових, ти дійсно граєш з вогнем. Вони можуть бути найкращими водіями БТРів у пустці, але вони також ламаються швидше, ніж ти встигнеш попросити новий реактивний двигун. Ми можемо використати їх, просто не стоїмо занадто близько до їх машин."
 
-GAM_metal_boxes:0 "Heavy Metal Boxes"
-GAM_metal_boxes_desc:0 "Boxes! On wheels! All they need is lots of armors and lots of weapons. Anti-tank rifles, flamethrowers, grenade launchers, machineguns, you name it and we have it! Put it on the hatches, put it in the ball mounts, let's get this show on the road!"
+GAM_metal_boxes:0 "Металеві коробки"
+GAM_metal_boxes_desc:0 "Коробки! На колесах! Все, що їм потрібно — це купа броні і купа зброї. Протитанкові гвинтівки, вогнемети, гранатомети, кулемети — все, що хочеш, і ми це маємо! Повісь це на люки, постав це в кулеметні установки, давайте розпочнемо!"
 
-GAM_roaring_machines:0 "Roaring Machines"
-GAM_roaring_machines_desc:0 "As long as it roars, you can be sure the boys will want it. Any engine swap goes, as long as it can lift itself clean off the ground from sheer acceleration alone."
+GAM_roaring_machines:0 "Ревучі машини"
+GAM_roaring_machines_desc:0 "Якщо вона реве, ти можеш бути впевнений, що хлопці її захочуть. Будь-яка заміна двигуна піде, якщо тільки вона зможе піднятися від землі виключно за рахунок прискорення."
 
-GAM_doped_soldiers:0 "Doped Raiders"
-GAM_doped_soldiers_desc:0 "We got our hands on something called \"super jet\", and while nobody has an idea of where it comes from, it makes the boys mad as hell. Just pump them full of the stuff and unleash them on the enemy, just make sure to wait a long while after for the withdrawal to kick in, and don't mind the body parts"
+GAM_doped_soldiers:0 "Накачані рейдери"
+GAM_doped_soldiers_desc:0 "Ми дістали щось під назвою «супер-джет», і хоча ніхто не має уявлення, звідки це, воно робить хлопців божевільними. Просто накачай їх цим і відпускай на ворога, просто почекай трохи після цього, поки почнеться абстиненція, і не звертай уваги на відрізані кінцівки."
 
-GAM_lightning_raids:0 "Lightning Raids"
-GAM_lightning_raids_desc:0 "We're in and we're out before they even know what happened. That's how it goes boys, we go in fast and hard, take their loot, take their slaves, take their lives!"
+GAM_lightning_raids:0 "Молнієві рейди"
+GAM_lightning_raids_desc:0 "Ми входимо і виходимо до того, як вони навіть зрозуміють, що сталося. Ось так ми і працюємо, хлопці, швидко і рішуче — забираємо їхні здобичі, рабів, життя!"
 
-GAM_blood_soaked_gender_equality:0 "Gender Equality through Violence"
-GAM_blood_soaked_gender_equality_desc:0 "We don't really discriminate around here. If you can throw a grenade far enough to land it where it's funny to watch it explode, or if you can slice someone's arm off with a machete, you're in."
+GAM_blood_soaked_gender_equality:0 "Гендерна рівність через насильство"
+GAM_blood_soaked_gender_equality_desc:0 "Ми тут не особливо розрізняємо. Якщо ти можеш кинути гранату достатньо далеко, щоб це було смішно дивитися, коли вона вибухне, або якщо ти можеш відрубати чиєсь тіло мачете — ти в команді."
 
-GAM_take_what_you_need:0 "Taking What We Need"
-GAM_take_what_you_need_desc:0 "Raiding, it's pretty simple business really. What's hard is seeing if it's really worth taking on that PA patrol, and how. But with some more experience against simple targets, we can improve our raiding techniques."
+GAM_take_what_you_need:0 "Беремо все, що нам потрібно"
+GAM_take_what_you_need_desc:0 "Грабіж — це досить проста справа. Ось що складніше, то це вирішити, чи варто лізти на ту патрульну групу PA і як саме це зробити. Але з досвідом у боротьбі з простими цілями, ми можемо покращити наші техніки грабежу."
 
-GAM_business_booms:0 "Business Booms"
-GAM_business_booms_desc:0 "Business booms, artillery blooms and it certainly goes kaboom. Nobody is gonna complain about having heavy ordonnance on their side, except when it drops on their head by accident."
+GAM_business_booms:0 "Бізнес процвітає"
+GAM_business_booms_desc:0 "Бізнес процвітає, артилерія квітне і, безумовно, йде кабум! Ніхто не буде скаржитися на те, що на їхній стороні важка артилерія, хіба що коли вона випадково падає їм на голову."
 
-GAM_short_fused_engineers:0 "Short Fuse Engineering"
-GAM_short_fused_engineers_desc:0 "More and more explosives are required to really have an advantage over other gang. Every boy in the troop has to have his own stock of it, and for that it will take quite a bit of time. But all the screams and blown bits will make it worth it."
+GAM_short_fused_engineers:0 "Короткозапальні інженери"
+GAM_short_fused_engineers_desc:0 "Щоб мати перевагу над іншими бандами, потрібно все більше вибухівок. Кожен хлопець у підрозділі має мати свій запас, і для цього знадобиться певний час. Але всі крики і розірвані частини тіла зроблять це вартим."
 
-GAM_an_explosion_in_understanding:0 "An Explosion in Understanding"
-GAM_an_explosion_in_understanding_desc:0 "That's what you could call it anyway, one of the boys blew himself up on experimental explosives and it apparently gave the eggheads some idea. If it makes them work faster, we'll throw people on top of mines at this rate."
+GAM_an_explosion_in_understanding:0 "Вибух розуміння"
+GAM_an_explosion_in_understanding_desc:0 "Так можна було б це назвати, один з хлопців підірвав себе на експериментальних вибухівках, і, здавалося б, це дало деякі ідеї для розумників. Якщо це змусить їх працювати швидше, ми будемо кидати людей на міни."
 
-GAM_starting_the_flow:0 "Starting the Flow"
-GAM_starting_the_flow_desc:0 "We've recently been a bit short on sauce. Everyone knows sauce makes the world go round, but we don't got the caps to get any. A little 'talk' might loosen up the tap."
+GAM_starting_the_flow:0 "Розпочати потік"
+GAM_starting_the_flow_desc:0 "Не так давно у нас був дефіцит соусу. Усі знають, що соус — це те, що рухає світ, але ми не маємо капіталів, щоб дістати його. Трішки ’розмов’ може розблокувати потік."
 
-GAM_paying_the_boys:0 "Paying the Boys"
-GAM_paying_the_boys_desc:0 "The gang is starting to get a bit roudy. They ain't be likin' the way things been going; too much poppin', not enough rockin'. If we give 'em a little kick back after a job well done, it should grease the gears."
+GAM_paying_the_boys:0 "Платити хлопцям"
+GAM_paying_the_boys_desc:0 "Банда починає поводитися дещо агресивно. Їм не подобається, як йдуть справи; занадто багато стрілянини, не вистачає рок-н-ролу. Якщо ми дамо їм невеликий відкат після хорошої роботи, це має змастити механізми."
 
-GAM_beer_bonuses:0 "The Strong Stuff"
-GAM_beer_bonuses_desc:0 "We're coming up short on the books. This ain't be pleasin' for the boys, but we have a solution boss. If we give em the cheapest hooch on this side of the continent, they won't know the purse is a little light!"
+GAM_beer_bonuses:0 "Сильний напій"
+GAM_beer_bonuses_desc:0 "Ми трохи згаяли на рахунках. Це не дуже влаштовує хлопців, але є рішення, босе. Якщо ми дамо їм найпідешовше пиво на цьому боці континенту, вони навіть не помітять, що гаманець трохи порожній!"
 
-GAM_unrefusable_deal:0 "A Deal You Can't Refuse"
-GAM_unrefusable_deal_desc:0 "Our gracious friends have been a bit.... conservative with their 'donations' I think if we'd go and give em a nice meal, we could make em an offer that helps them, and us ....but us a little extra."
+GAM_unrefusable_deal:0 "Угода, від якої неможливо відмовитися"
+GAM_unrefusable_deal_desc:0 "Наші доброзичливі друзі трохи... економно ставляться до своїх ’пожертв’. Думаю, якщо ми пригостимо їх гарною вечерею, ми зможемо запропонувати їм угоду, яка допоможе і їм, і нам... але більше нам."
 
-GAM_victory_hits:0 "Victory Hits"
-GAM_victory_hits_desc:0 "A job well done's a job well done. Sometimes, it's worth kickin' up with some fine hash and celebrating on a pile of corpses."
+GAM_victory_hits:0 "Потрібно святкувати"
+GAM_victory_hits_desc:0 "Хороша робота – це хороша робота. Іноді варто підняти настрій хорошим гашишем і відсвяткувати на купі трупів."
 
-GAM_controlling_routes:0 "Controlling the Trade"
-GAM_controlling_routes_desc:0 "A little negotiation to drive the underworld into our world could help us out big time. The bigwigs call it 'Horizontal Integration.' The only thing horizontal will be the people who don't cooperate."
+GAM_controlling_routes:0 "Контроль за торгівлею"
+GAM_controlling_routes_desc:0 "Невелика домовленість для того, щоб підпільний світ став частиною нашого світу, може нам дуже допомогти. Великі шишки називають це «горизонтальною інтеграцією». Єдине горизонтальне — це будуть люди, які не співпрацюють."
 
-GAM_art_of_sack:0 "Art of the Sack"
-GAM_art_of_sack_desc:0 "Despite the pillaging, destruction, and general unkindly and roudy behavior, sacking a nice town is an art. We're the Picasso of drugs and caps. A splash here, line there, exacution in the left corner. If the 'raid' venture bellys up, at least we're artists!"
+GAM_art_of_sack:0 "Мистецтво грабежу"
+GAM_art_of_sack_desc:0 "Незважаючи на грабежі, руйнування і загальний неприємний та буйний характер, захоплення хорошого містечка — це мистецтво. Ми — Пікассо наркотиків і капіталів. Ось трохи бризку тут, лінія там, страта в лівому кутку. Якщо наша ’наполеглива експедиція’ не спрацює, принаймні ми будемо художниками!"
 
-GAM_kingpins:0 "Kingpins"
-GAM_kingpins_desc:0 "In the big books, the kings and queens weren't always the good guys. Sometimes we need to employ some more... unsavory means for cooperation, but at least we got the good of the gang at heart. And the gang, they're all that matters."
+GAM_kingpins:0 "Головні боссики"
+GAM_kingpins_desc:0 "У великих книгах королі та королеви не завжди були добрими людьми. Іноді нам потрібно застосовувати деякі більш... неприємні методи для співпраці, але принаймні ми маємо на увазі добробут банди. А банда — це все, що має значення."
