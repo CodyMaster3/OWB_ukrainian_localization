@@ -42,8 +42,8 @@
   # Scripted Localisation:
   string_fallout_coring_tab_no_states_info:0 "У цей час у нас нема ненаціональних областей."
   string_fallout_tlaloc_coring_tab_no_states_info:0 "У цей час у нас нема несполучених областей."
-  coring_button_label_terraformer_coring:0 "Терраформування"
-  coring_button_label_pacification_coring:0 "Умиротворення"
+  coring_button_label_terraformer_coring:0 "Терраформувати"
+  coring_button_label_pacification_coring:0 "Умиротворити"
   coring_button_label_default_coring:0 "Націоналізувати"
 
   # Custom Modifiers:
