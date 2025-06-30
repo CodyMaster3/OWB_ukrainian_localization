@@ -5,7 +5,7 @@
   send_it_west_modifier:0 "Отримано цінні дані"
   ACH_join_tbh_tt:0 "Ми попросимо реінтегруватися до §Y[TBH.GetNameWithFlag]§!"
   ACH_merge_hood_ideas:0 "Це об'єднає наші попередні національні духи"
-  ach_robot_war_idea_tt:0 "Додасть §YАвтоматичні вимикачі§!, які дають ((§Y[TLA.GetFlag]Tlaloc's Children§!) бонус до атаки на країни: §G+5.0%§!)"
+  ach_robot_war_idea_tt:0 "Додасть §YАвтоматичні вимикачі§!, які дають ((§Y[TLA.GetFlag]Діти Тлалока§!) бонус до атаки на країни: §G+5.0%§!)"
   ACH_not_texas_formed_tt:0 "Не сформовано §YТехаський відділ§!"
   ACH_not_leon_formed_tt:0 "Не сформовано §YВідділ Ріо§!"
 
