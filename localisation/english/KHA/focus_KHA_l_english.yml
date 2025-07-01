@@ -935,66 +935,6 @@
   khan_peace_in_our_time:0 "Мир на степах"
   khan_peace_in_our_time_desc:0 "Барона прибрано, а його люди тепер слухають нас. Їхнє майбутнє — у наших руках."
 
-  khan_ezekiel_henries:0 "A New Khan, From Under the Baron"
-  khan_ezekiel_henries_desc:0 "A former goon under the Baron, Ezekiel Henries took to us and our authority fast-- and so far, people are more than happy to work with him!"
-
-  kha_the_matter_of_state:0 "Matters of a New State"
-  kha_the_matter_of_state_desc:0 "The Baron's leftovers aren't going to go easy. We'll need to make our next move calculated."
-
-  kha_barons_daughter:0 "The Baron's Daughter"
-  kha_barons_daughter_desc:0 "It turns out the Baron wasn't as soulless as we thought. The question on everyone's minds, however, is does it run in the family?"
-
-  kha_ranching:0 "Saunders Ranch"
-  kha_ranching_desc:0 "The Saunders are a family that lived under the Baron for years. While they're not exactly peaches themselves, they're willing to work with us, and have the hearts of many locals."
-
-  khan_rancher_gunsmiths:0 "The Wyoming Gunsmiths"
-  khan_rancher_gunsmiths_desc:0 "Weaponcrafting is taken incredibly seriously by the Wyoming locals, so much so that almost every weapon under the Baron's staging is in near-mint condition. No doubt his assets will serve us well in upkeeping our own resources."
-
-  kha_a_friend_in_need:0 "Putting Out A Fire"
-  kha_a_friend_in_need_desc:0 "Fighting has broken out in Riverton, between some of our people and the locals. Samool has volunteered to crack some heads until it’s over."
-
-  khan_the_path_earned:0 "A Path Earned"
-  khan_the_path_earned_desc:0 "After much ado, we have earned the trust and collaboration of the people of the Eyrie. Our position has been solidified in Wyoming; unchallenged. We need only brace for the future to come."
-
-  khan_the_grand_workshops:0 "The Grand Workshops"
-  khan_the_grand_workshops_desc:0 "In building any form of society, you must be able to depend on yourself in order to serve the interests of both people and state. A preemptive step to introduce larger reform will show our determination like never before."
-
-  khan_worland_infra:0 "The Battle of Meeteetse"
-  khan_worland_infra_desc:0 "Locals claim that much of Meeteetse was torn apart in a great skirmish between strange "Men-of-the-Woods" and a local group of Super Mutants. Perhaps we could benefit-- either from earning their trust or simply helping ourselves-- in repairing the local infrastructure?"
-
-  khan_biking_technology:0 "Lone Wanderers"
-  khan_biking_technology_desc:0 "Wyoming is a large, beautiful land. Some of our Khanate think it is too large; these same crafty individuals have begun to restore motorcycles from an old automotive production facility. Perhaps this is the start of something new?"
-
-  khan_angered_populace:0 "The Day the Thunder Was Silent"
-  khan_angered_populace_desc:0 "Khans and clear judgment have sadly never been a commonality. Now, with one of our own's life in jeopardy thanks to these "Saints," the Khanate calls for drastic action."
-
-  khan_outriders:0 "Esen Musters A Troupe"
-  khan_outriders_desc:0 "Amgalan has counseled for cooler heads and patience, but insults like these are too grave to be ignored. Esen shall storm into the Ruminators land and demand retribution. The Saints will reap what they have sown."
-
-  khan_bloody_woods:0 "Blood Stained Woods"
-  khan_bloody_woods_desc:0 "Violence has only intensified in the Bighorner Woodlands, as small bands of Saints clash with Khan warriors. They cannot match us face to face but they’re as honorless and crafty as raiders come. If we want a quick end to this, we need to commit to a more decisive strike."
-
-  khan_third_street_saints:0 "The Saints Back Down"
-  khan_third_street_saints_desc:0 "Esen has returned, bloodied but triumphant. Having discovered the Saints hideout in the Woodlands, she personally stormed the place and put anyone she found there to the knife. Archie’s goons have retreated back to their country clubhouse with their tails between their legs and left us a welcome pile of spoils. It will do."
-
-  khan_saints_diplomacy:0 "Holding Back the Storm"
-  khan_saints_diplomacy_desc:0 "Our people are furious and already many act independently in pursuit of revenge. Even Amgalan struggles to swallow his rage, but he knows that if further bloodshed is to be averted he must move quickly. First, he must convince his kin to wait and give him a chance."
-
-  khan_amgalans_trials_and_tribulations:0 "Amgalan’s Trial"
-  khan_amgalans_trials_and_tribulations_desc:0 "It is with Archie and his Saints that our grievances lie, but the Ruminators are a peaceful and loving people. They would jump at the chance to mediate the conflict and help Amgalan find a less bloody solution. Elizaveta already is on her way and she can be trusted."
-
-  khan_ruminator_reparations:0 "Reparations from Ruminators"
-  khan_ruminator_reparations_desc:0 "Elizaveta was true to her word and ideals, moving quickly to secure an end to the violence. She has convinced Archie to back down and return to his lair, and even put together a gift for our people to smooth things over. Don’t know what we’re going to do with 50 copies of Ruminating to Riches however."
-
-  khan_industry_boom:0 "Pushing Forward"
-  khan_industry_boom_desc:0 "Restoring vehicles does not come easy. Taking measures to prepare a greater industrial platform will allow our bikers to get on the go quicker."
-
-  khan_khanate_tool_research:0 "Khan Tools"
-  khan_khanate_tool_research_desc:0 "Tools are the backbone of any industry, and of any intentions of maintenance, too. We'll want to make sure we have the best tools and as many as we can, whether we need to make them ourselves or discern which ones are worth saving from the junkyards."
-
-  khan_the_working_tribe:0 "Clearing Bighorn Lake"
-  khan_the_working_tribe_desc:0 "To our east, Bighorn Lake lies infested with raiders. They've built themselves a small fortress that we can repurpose for further operations, should we choose to pursue it."
-
   khan_ezekiel_henries:0 "Новий хан із-під влади Барона"
   khan_ezekiel_henries_desc:0 "Колишній головоріз Барона, Езекіель Генріс швидко прийняв нашу владу — і наразі люди із задоволенням працюють з ним!"
 
@@ -1076,50 +1016,6 @@
   khan_scavenging_5:0 "Сонце і солдат"
   khan_scavenging_5_desc:0 "Зібраних ресурсів вистачило б на життя, та цього замало, щоб перетворити брухт і енергію на щось корисне. Під сонцем завжди триває війна. Ті, хто готуються — перемагають."
 
-  khan_scavenging_1_desc:0 "The lands of Meeteetse hold treasures buried under the ruins of the war.  Cleaning up the land might strike us with some fortune, if not useful scrap."
-  khan_scavenging_2_desc:0 "Abandoned facilities scatter the plains of Warland.  The Khans are known for their craftiness, even if crude.  What better way to exhibit these talents than to bring these facilities back to life?"
-  khan_scavenging_3_desc:0 "The True Khans revel in the heat of the black smoke.  Nothing feels as clean, or as exciting, as tossing scrap into the fire, watching as it melts into something red and new.  'More!' The True Khans cry.  Esen complies."
-  khan_tributaries:0 "Tributes To The Call"
-  khan_tributaries_desc:0 "Dead weight spells for casualty, and every cap ensures the wellbeing of the True Khans.  §R'For the family,'§! Esen explained, before harking orders that any possession of little use be thrown to the pile to sell off to merchants and travellers."
-  khan_consulting_the_book:0 "The Pretty Horses"
-  khan_consulting_the_book_desc:0 "A book detailing the ancient history of an Empire long ago was found hidden away in a Followers' cache.  Esen was enraged that the keys to their prosperity were buried away, but like all good leaders, she redirected her anger to her weapons."
-  khan_esenist_doctrines:0 "Esen's War Path"
-  khan_esenist_doctrines_desc:0 "Before her charge, Esen was known as one of the New Khan's greatest strengths.  Whenever a door needed knocking, she tore it down.  When a gun jammed, she broke it apart and assembled something new.  This strength must be taught—a leader is nothing if their people cannot rely on themselves."
-  khan_the_path_of_glory:0 "A Golden Glade"
-  khan_the_path_of_glory_desc:0 "“When I was a girl, I liked to lose myself in the golden glades.  It was a marsh of tall yellow grass and brush—parts of the ground sunken by craters of yore.  Dividing the field was a lonely railway track.  In one direction, it pointed towards where I belonged.  In the other direction, where I wanted to be.” —Esen"
-  khan_esen_capstone_tran_dont_shoot_me:0 "Maiden Of The Dawn"
-  khan_esen_capstone_tran_dont_shoot_me_desc:0 "Under Esen's leadership, the True Khans are emboldened.  The new stream of motion and ambition in their lives has given each one something to fight for—something to cry for.  Each day means something new to prove.  The dawn has never been more eagerly awaited."
-  khan_esens_workshop:0 "Arm Your Hand Or Lose It"
-  khan_esens_workshop_desc:0 "Esen's insistence to prepare for war—vague as it is—has riled both determination and fear in the hearts of the Khans.  For every hand, a weapon, and for every weapon, a life."
-  khan_building_a_khanate:0 "Building a Khanate"
-  khan_building_a_khanate_desc:0 "Those who graze the soil first will carry burdens that the stories will omit.  But so long as a foundation is built for the next of kin, weakness will be a temporary, and a Khanate forever strong."
-  khan_to_want_it_all:0 "Ours To The Stake"
-  khan_to_want_it_all_desc:0 "“Amgalan had asked me thrice before; §Y'Why would you do this?'§!. \n\n I held his gaze steadily.  Even with this newfound strife between us, I still loved him like my father, and so I told him, §R'Because the weak had it coming.  When our family is of the last, only then are we safe.'§!”"
-  khan_pay_mind_to_the_old_ways:0 "Hark, Sunborn And Sunbreaker"
-  khan_pay_mind_to_the_old_ways_desc:0 "While Sun-Gazers consisted mostly of Sunborn, there were instances where passing nomads would be welcomed into the tribe.  Those who passed the Scorch Trials—of long days sitting still on cliff sides with little food or water—were monikered Sunbreakers.  To Esen, every Khan under her is a Sunbreaker, and with that she passes on old traditions."
-  khan_a_warrior_like_myself:0 "A Warrior Like Myself"
-  khan_a_warrior_like_myself_desc:0 "Esen and her band of True Khans had stalked what they believed was a wayward Brotherhood expedition.  To her surprise, the armoured squad posed no fight.  Their leader unhelmed herself; a woman sullen and lost, outcasted by her own Chapter and now bargaining for a peaceful resolution.  Curious and intrigued, Esen presented a choice; join or die."
-  kha_metalmouths_goal:0 "Bite The Dust"
-  kha_metalmouths_goal_desc:0 "Amgalan had eyed the Metal Mouths before.  'Danger brewing,' he called it, before jotting down notes on the best approach.  Despite her weary eyes, Esen could see they were nothing good; the lowest of scum. \n\n And so she rallied the Khans for war."
-  khan_lumber:0 "Wood For The Fire"
-  khan_lumber_desc:0 "And as the True Khans scourged the heart of the Metal Mouths, the wilds were caught in the crossfire.  Flames engulfed the bracken and spindled trees overnight.  Nothing was left behind; perfect for a new beginning."
-  khan_scrapping_metalmouths:0 "Scrapping The Metal Mouths"
-  khan_scrapping_metalmouths_desc:0 "From one leader to another, Esen had granted Steel Joe the mercy which was never extended to her; their lives, so long as they left the land.  But as she turned her back, Steel fired his gun, and it was then that he lost both his hand and the lives of his men."
-  kha_montana_chapter_goal:0 "Montana's Final Page"
-  kha_montana_chapter_goal_desc:0 "The Montana Chapter is an enigma to outsiders.  Little is known about their recent arrival, and much less of their purpose.  But the important detail stands; they horde what could be used by the Khans—a stockpile of dreams left to collect dust.  Let's give them a wake up call."
-  khan_in_search_of_coal:0 "In Search Of Coal"
-  khan_in_search_of_coal_desc:0 "Before her charge, Esen would often gaze out to the horizon.  The billowing smoke from the Coal Consortium had clouded the otherwise clear northern skies.  Winters ago she would dream of its warmth... \n\n §R'And as the next winter approaches, a dream will be made real.'§! —Esen."
-  khan_a_woman_goes_to_war:0 "Wrath Of The Midday"
-  khan_a_woman_goes_to_war_desc:0 "As a commander under Amgalan, Esen had faced her share of scrutiny, and now as leader those concerned voices rise again.  She has much more to prove now, and an even greater pool of anger. The Khans will have to listen. \n\n §R'Understand or leave.  Simple as,'§! —Esen."
-  kha_marshall_wargoal:0 "Fall Of The Republic"
-  kha_marshall_wargoal_desc:0 "The Marshall Republic is rich in resources, evident in the way that their people have survived this long by just living off the land.  The land could do much more under the hands of the Khans.  It is unfortunate that the Republic cannot say the same."
-  khan_four_fathers_wargoal:0 "Blood On The Cobble"
-  khan_four_fathers_wargoal_desc:0 "Word of the True Khan's victory over the Marshall Republic has rung throughout Montana.  The smart ones have sheltered themselves away.  The others have begun stepping out of line—barking more than they can bite.  The Four Fathers are such fools, and the Khans yearn for the next victory."
-  khan_ashes_of_the_free_states:0 "Ashes Of The Free States"
-  khan_ashes_of_the_free_states_desc:0 "Amgalan and Esen stood beside each other as they gazed upon the crackling cinders of what once was a capital. §Y'Is this what you wanted?'§!  Amgalan asked, shying away from the smouldering ashes. \n\n The embers drowned in Esen's pale, murky eyes.  §R'It's everything and more.'§!"
-  khan_basalt_caravan_company:0 "Roses In Rozet"
-  khan_basalt_caravan_company_desc:0 "The peaceful quiet after warfare was an unspoken comfort to Esen.  Victory to her meant another day to live and grow without fear.  Now it's time to rebuild the land that was reaped.  Press forward; with the heart of the Sun and the strength of a Khan!"
-  kha_standing_rock_wargoal:0 "The Weathering Storm"
   khan_scavenging_1_desc:0 "Землі Мітіці зберігають скарби, поховані під руїнами війни. Якщо очистити територію, нам може пощастити — або хоча б знайдеться корисний брухт."
   khan_scavenging_2_desc:0 "Покинуті об'єкти розкидані рівнинами Ворленда. Хани славляться своєю винахідливістю, хоч і грубою. Що може краще це довести, ніж відновлення цих об'єктів?"
   khan_scavenging_3_desc:0 "Справжні Хани захоплюються гарячим чорним димом. Немає нічого чистішого чи захопливішого, ніж кидати металобрухт у вогонь і дивитися, як він перетворюється на щось нове й палаюче. 'Ще!' — кричать Справжні Хани. І Ессен дослухається."
@@ -1261,63 +1157,6 @@
 
   khan_healthy_gang:0 "Сила в здоров’ї"
   khan_healthy_gang_desc:0 "“Я зустрівся з Діаною знову, й вона навчила мене багато чому — секретам медицини й фізичного розвитку, про які Послідовники навіть не мріяли. В обмін я запропонував їй добровольців з-поміж наших воїнів. Є охочі побачити ту долину?” — Амгалан"
-
-  khan_follower_research:0 "Advancements in Medicine"
-  khan_follower_research_desc:0 "Many Khans, both of the north and south, proved for better or worse to be quick learners in the field of chemistry and most have the Followers to thank for it. The Followers are always working to improve their craft however and if we encourage our own chem makers to lend them a hand who knows what breakthroughs we might make together?"
-
-  khan_followers_support:0 "Putting Book Learning Into Practice"
-  khan_followers_support_desc:0 "We need more than theoreticals to survive rad storms, plagues and droughts. Turning our knowledge into practical inventions is a necessary step of our development. Even if some of the Khans still want to use it to make weapons...."
-
-  khan_followers_science:0 "Accumulated Research"
-  khan_followers_science_desc:0 "The pursuit of knowledge didn’t stop when the bombs fell, working out of small labs and with scavenged goods the scientists of the post apocalyptic world marched on. The Followers were always keen to record and archive any advances they caught wind of and that’s still true today."
-
-  khan_followers_laboratories:0 "Follower Laboratories"
-  khan_followers_laboratories_desc:0 "A scientist needs a lab, though most these days could only generously be called ‘modest’. The Followers have better technology at their disposal than most though and still have much to teach. Computers make quite the difference."
-
-  khan_followers_lost_medical_knowledge:0 "Lost Medical Sciences"
-  khan_followers_lost_medical_knowledge_desc:0 "Melissa and Esen returned one day from exploring some of the more forgotten corners of our lands, with tales of an old pre-war research hospital still mostly intact. News that it was full of Stingwing nests did not hamper the Followers excitement over the find. They’re already making plans for reclaiming whatever knowledge it holds."
-
-  khan_followers_ralston_manufacturing_plant:0 "Ralston Manufacturing Plant"
-  khan_followers_ralston_manufacturing_plant_desc:0 "As our work in researching medicine and chems alongside the Followers continues, we’re finding that we need better facilities for actually making them. Converting an old plant in Ralston should be enough to start manufacturing more and more medicine from the local flora."
-
-  khan_followers_agricultural_division:0 "Follower Agriculture"
-  khan_followers_agricultural_division_desc:0 "Chemistry isn’t the only science the Followers study, far from it. One field in which their knowledge exceeds ours is agriculture. The Khans have never been known as farmers, but as we continue to settle down more and more of us have taken to the soil. If they’re willing to teach we’re willing to learn."
-
-  khan_agricultural_advancements:0 "Agricultural Advancements"
-  khan_agricultural_advancements_desc:0 "We’ve learned fast, faster than the Followers expected. Old farmland left fallow by the end of the world is rapidly being revived by our farmers thanks in no small part to the Followers knowledge. Feels a little odd though to ride a tractor instead of a motorcycle."
-
-  khan_work_with_dealers:0 "Cutting a Deal"
-  khan_work_with_dealers_desc:0 "Jack and Diane shared a seat as Justine heard the former make his pitch. "Check it lady, what you’re doing is totally cool, with the making meds and everything. We wanna help, we know all about getting the good stuff to whoever wants it. Just put in a good word for us with the A-man, tell him to be cool." \n\nJustine frowned briefly before shrugging her shoulders with a sigh. "Fine.""
-
-  khan_force_dealers_out:0 "Chem Rehabilitation"
-  khan_force_dealers_out_desc:0 "Diane took a long drag on her cigarette as she watched Amgalan open the first chem rehab clinic who knows how many miles. "This is gonna fuck our business over you know."\n\nJack shrugged from the old lawn chair he lounged in. "Maybe it’s time for a new business ya know? I can make other stuff, maybe make some scientastical stuff for the Followers." Diane shrugged in response, already thinking of ways to keep them in caps."
-
-  khan_field_medics:0 "Field Medics"
-  khan_field_medics_desc:0 "Nowhere does quick access to medical treatment make a bigger difference than on the battlefield. Training some of our people in field medicine and kitting them out for the job should ensure as many Khans as possible come home from the battles to come."
-
-  khan_healthy_gang_2:0 "Potent Antidotes"
-  khan_healthy_gang_2_desc:0 "There’s no shortage of critters in the wasteland dripping poison from somewhere or lack of toxic chemicals leftover from the old world. For every poison however there is an antidote, and we’ve gotten quite adept at figuring them out."
-
-  khan_natural_stimpaks:0 "Natural Stimpaks"
-  khan_natural_stimpaks_desc:0 "Stimpaks are a wonder of the old world but not one that is impossible to recreate. With the right plants and compounds we can make our own version, just as good if not better."
-
-  khan_meds_will_be_spread:0 "Medicine Distribution"
-  khan_meds_will_be_spread_desc:0 "There’s always more to learn but we’ve just about hit the limit for what we’re reasonably capable of in the field of medicine. Now all that remains is to put that learning to use. Distributing medical supplies to our people as well as our friends will make for a better future for all."
-
-  khan_followers_spread:0 "Exchanging Knowledge"
-  khan_followers_spread_desc:0 "Knowledge is the brightest light we have in these darkened days, and the Followers have more than most. They are generous friends however, sharing with us what they know. We can follow that example and pass it along to our allies as well."
-
-  khan_followers_established_bonuses:0 "Spreading Humanitarianism"
-  khan_followers_established_bonuses_desc:0 "Our patronage and protection has allowed the Followers of the Apocalypse to grow and expand freely, more than they ever could back in California or the Mojave. With that growth comes a greater influence over the people they aid, but that’s a small price to pay."
-
-  khan_capstone_1:0 "The Khan of Khans"
-  khan_capstone_1_desc:0 "The time of debate and dispute is over; the khans have spoken loud and clear in support of our new path. While today is only the beginning of what is to come, it marks an important day nonetheless. A toast!"
-
-  khan_capstone_2:0 "An Age of Prosperity"
-  khan_capstone_2_desc:0 "We’ve had a lot of hard times, no one can deny that whether they’re a khan of the north or the south. Those times might just be coming to an end now though. We’re stronger than we ever were and it’s time to enjoy it."
-
-  khan_capstone_3:0 "Paid in Kind"
-  khan_capstone_3_desc:0 "We’re the masters of this land now, and that means we get a cut of whatever action goes down in it. Call it tribute, call it taxes, actually screw taxes; call it tithes."
 
   khan_follower_research:0 "Медичні досягнення"
   khan_follower_research_desc:0 "Багато Ханів, як північних, так і південних, виявилися швидкими учнями в хімії — і завдячують вони за це Послідовникам. Ті ж, у свою чергу, не припиняють вдосконалювати свою справу. Якщо ми підштовхнемо наших хіміків долучитися до них, хто зна, які прориви ми ще зробимо."
