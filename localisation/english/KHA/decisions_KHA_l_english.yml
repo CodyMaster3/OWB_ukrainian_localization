@@ -1,0 +1,33 @@
+﻿l_english:
+ #Khan Support system localisation, in tandem with the scripted localisation
+ #Square bracketed sections in the description's loc are the names of the 3 "defined text" entries in the scripted loc file
+ KHA_support_category:0 "Авторитет Ханів"
+ KHA_support_category_desc:0 "Контроль §L[KHA.GetFlag] Північними Ханами§! є бурхливим та нестабільним.\n\nПротягом кількох років ситуація зміниться та з'явиться можливість визначитися зі шляхом на майбутнє.\n\nЯкщо чиясь підтримка є принаймі §Yістотною§!, то коли прийде час, вони матимуть шанс на правління.\n\nТільки час покаже, хто очолить §g[GKH.GetFlag] залишок Ханів§! на шляху до їнього майбутнього тут, у Вайомінгу... \n\n[KHA_amgalan_support][KHA_regis_support][KHA_essen_support]"
+
+ # The 3 lines below were included in the original legion glory loc. I could not find what they are used for but left them here in case anything breaks with them gone -Tran
+ # KHA_amgalan_support_text:0 "Підтримка Амгалан: [?amgalan_support_variable|0]\n"
+ # KHA_regis_support_text:0 "Підтримка Реджиса: [?regis_support_variable|0]\n"
+ # KHA_essen_support_text:0 "Підтримка Ессен: [?essen_support_variable|0]\n"
+
+ # Below is the localisation for every localisation key in the scripted loc file. These will replace the defined text in the description depending on the conditions
+ # Ми тута ні до чого
+ KHA_amgalan_support_text_low:0 "Підтримка §CОсідання§! §Rмала§!.\n"
+ KHA_amgalan_support_text_modest:0 "Підтримка §CОсідання§! §Oскромна§!.\n"
+ KHA_amgalan_support_text_moderate:0 "Підтримка §CОсідання§! §8помірна§!.\n"
+ KHA_amgalan_support_text_high:0 "Підтримка §CОсідання§! §Yістотна§!.\n"
+ KHA_amgalan_support_text_very_high:0 "Підтримка §CОсідання§! §7висока§!.\n"
+ KHA_amgalan_support_text_massive:0 "Підтримка §CОсідання§! §Gобширна§!.\n"
+
+ KHA_regis_support_text_low:0 "Підтримка §YСтарих Шляхів§! §Rмала§!.\n"
+ KHA_regis_support_text_modest:0 "Підтримка §YСтарих Шляхів§! §Oскромна§!.\n"
+ KHA_regis_support_text_moderate:0 "Підтримка §YСтарих Шляхів§! §8помірна§!.\n"
+ KHA_regis_support_text_high:0 "Підтримка §YСтарих Шляхів§! §Yістотна§!.\n"
+ KHA_regis_support_text_very_high:0 "Підтримка §YСтарих Шляхів§! §7висока§!.\n"
+ KHA_regis_support_text_massive:0 "Підтримка §YСтарих Шляхів§! §Gобширна§!.\n"
+
+ KHA_esen_support_text_low:0 "Підтримка §OНового Ханства§! is §Rlow§!.\n"
+ KHA_esen_support_text_modest:0 "Підтримка §OНового Ханства§! is §Oскромна§!.\n"
+ KHA_esen_support_text_moderate:0 "Підтримка §OНового Ханства§! is §8помірна§!.\n"
+ KHA_esen_support_text_high:0 "Підтримка §OНового Ханства§! is §Yістотна§!.\n"
+ KHA_esen_support_text_very_high:0 "Підтримка §OНового Ханства§! is §7висока§!.\n"
+ KHA_esen_support_text_massive:0 "Підтримка §OНового Ханства§! is §Gобширна§!.\n"
