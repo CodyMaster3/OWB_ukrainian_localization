@@ -338,7 +338,7 @@ rob_ourplace_desc:0 "§PМи можемо запропонувати Колор�
 rob_robotics:0 "Прорив у Робототехніці"
 rob_robotics_desc:0 "§PГадаю, якщо ми трохи поколупаємось у схемах, то зможемо створити ще більше нас! Погнали!§!"
 
-rob_nightkinbrains:0 "Найткіни-Робомізки"
+rob_nightkinbrains:0 "Тіні-Робомізки"
 rob_nightkinbrains_desc:0 "§P...А як ми їх взагалі дістали?§!"
 
 rob_militarygrade:0 "Броня Військового Зразка"
@@ -471,7 +471,7 @@ ROB_toasterknife:0 "Тостери з Ножами… Господи"
 ROB_toasterflamethrower:0 "Тостери з Вогнеметами… От Біда"
 ROB_supportupgrades:0 "Покращення Підтримки"
 ROB_combatupgrades:0 "Бойові Поліпшення"
-ROB_nightkinrobobrains:0 "Найткіни-Робомозки"
+ROB_nightkinrobobrains:0 "Тіні-Робомозки"
 ROB_watchbots:0 "Спостережні Боти"
 ROB_carbombs:0 "Що за… Автобомби? Справді?"
 ROB_militaryhardware:0 "Військове Обладнання"
