@@ -1700,7 +1700,7 @@ VSH_ballistic_equipment_2_desc:0 "Тактична рушниця Winchester Cit
 
   # VTS (Vault 37)
 VTS_oregon_psyker_ancient_traditions:0 "Клятви Лицарства"
-VTS_oregon_psyker_ancient_traditions_desc:0 "Немає нічого важливішого для Лицаря Ланґенбурга, ніж Клятва Вірності. Хіба що Клятва Обов’язку. Або Клятва Поведінки. А може, Клятва Чистоти?"
+VTS_oregon_psyker_ancient_traditions_desc:0 "Немає нічого важливішого для Лицаря Ланґенбурґа, ніж Клятва Вірності. Хіба що Клятва Обов’язку. Або Клятва Поведінки. А може, Клятва Чистоти?"
 
   # WBH (Washington Brotherhood)
 WBH_melee_equipment_4:0 "Паладинський Тостер"
