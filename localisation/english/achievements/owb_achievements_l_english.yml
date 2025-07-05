@@ -131,7 +131,7 @@ owb_achievement_second_times_a_charm_NAME:0 "Другий Шанс — Вдал�
 owb_achievement_second_times_a_charm_DESC:0 "Граючи за @ARR §YАрройо§!, анексувати всі нації Анклаву."
 
 owb_achievement_nullify_the_treaty_of_guadalupe_NAME:0 "Скасувати Договір Гвадалупе"
-owb_achievement_nullify_the_treaty_of_guadalupe_DESC:0 "Граючи за мексиканську націю, володіти всіма землями §YНью-Мексико§!, §YАризони§!, §YКаліфорнії§! та §YТехасу§!."
+owb_achievement_nullify_the_treaty_of_guadalupe_DESC:0 "Граючи за мексиканську націю, володіти всіма землями §YНью-Мексико§!, §YАрізони§!, §YКаліфорнії§! та §YТехасу§!."
 
 owb_achievement_unifying_the_brotherhood_NAME:0 "Об'єднання Братства"
 owb_achievement_unifying_the_brotherhood_DESC:0 "Граючи за будь-яку націю Братства, переконатись, що всі інші гілки — або ваші суб'єкти, або в одній фракції з вами."
@@ -442,7 +442,7 @@ owb_achievement_mexico_restored_tt:0 "Володіє всіма провінці
 owb_achievement_second_times_a_charm_tt_eur:0 "Володіє всіма осердями держави §Y[EUR.GetNameDef]§!"
 owb_achievement_second_times_a_charm_tt_mca:0 "Володіє всіма осердями держави §Y[MCA.GetNameDef]§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_new_mexico:0 "Володіє всіма провінціями §YНью-Мексико§!"
-owb_achievement_nullify_the_treaty_of_guadalupe_tt_arizona:0 "Володіє всіма провінціями §YАризони§!"
+owb_achievement_nullify_the_treaty_of_guadalupe_tt_arizona:0 "Володіє всіма провінціями §YАрізони§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_california:0 "Володіє всіма провінціями §YКаліфорнії§!"
 owb_achievement_nullify_the_treaty_of_guadalupe_tt_texas:0 "Володіє всіма провінціями §YТехасу§!"
 owb_achievement_unifying_the_brotherhood_tt:0 "Усі наявні філії §YБратства Сталі§! є підданими або в альянсі під нашим керівництвом"
