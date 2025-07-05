@@ -787,11 +787,11 @@ ROT_teachings_of_our_fair_lady_desc:1 "\"Благословенні творці
 
 ROT_wishmaidens_core_wbh:0 "Безсмертний — Більше Ні"
 ROT_wishmaidens_core_wbh_desc:0 "Покруч, що спустошував Вашингтон, залишки цього так званого Братства, знищено. Люди бачать у нас героїв — навіть попри страх.\n\nНарешті, Вашингтон належить нам."
-ROT_wishmaidens_core_wbh_tt:0 "Постійне локальне зниження вартості приєднання до ядра на §G50%§! для всіх ключових регіонів §Y[WBH.GetNameWithFlag]§! та §Y[TCA.GetNameWithFlag]§!."
+ROT_wishmaidens_core_wbh_tt:0 "Постійне локальне зниження вартості націоналізації на §G50%§! для всіх початкових регіонів §Y[WBH.GetNameWithFlag]§! та §Y[TCA.GetNameWithFlag]§!."
 
 ROT_wishmaidens_core_hea:0 "Ворота Пали"
 ROT_wishmaidens_core_hea_desc:0 "Пар зломлено, і стяг Леді здіймається високо.\n\nТак, як і повинно бути."
-ROT_wishmaidens_core_hea_tt:0 "Постійне локальне зниження вартості приєднання до ядра на §G75%§! для всіх ключових регіонів §Y[HEA.GetNameWithFlag]§!."
+ROT_wishmaidens_core_hea_tt:0 "Постійне локальне зниження вартості націоналізації на §G75%§! для всіх початкових регіонів §Y[HEA.GetNameWithFlag]§!."
 
 vault100_kicking_each_others_ass:0 "Війна за Сховище 100"
 vault100_vault_building:0 "Проєктування Vault-Tec"

@@ -1,6 +1,6 @@
 ﻿l_english:
-  legion_owns_cores_all_vegas_states_tt:0 "§Y[CES.GetNameDef]§! володіє, контролює та має ядра на всіх ядрових землях §Y[VEG.GetNameDef]§!."
-  legion_owns_all_mojave_bos_core_states_tt:0 "§Y[CES.GetNameDef]§! володіє та контролює всі ядрові землі §Y[MOJ.GetNameDef]§!."
+  legion_owns_cores_all_vegas_states_tt:0 "§Y[CES.GetNameDef]§! володіє, контролює та має осердніми всі осердні землі §Y[VEG.GetNameDef]§!."
+  legion_owns_all_mojave_bos_core_states_tt:0 "§Y[CES.GetNameDef]§! володіє та контролює всі осердні землі §Y[MOJ.GetNameDef]§!."
 
   ces_add_two_vulpes_opinion:0 "§YВулпес§!§L змінить думку про §!§Y[TWO.GetName]§!§L на краще§!"
   ces_add_two_lucius_opinion:0 "§YЛуцій§!§L змінить думку про §!§Y[TWO.GetName]§!§L на краще§!"

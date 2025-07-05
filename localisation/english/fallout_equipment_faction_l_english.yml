@@ -1327,7 +1327,7 @@ SHA_ballistic_equipment_4:0 "$ballistic_weaponry_tech_icon_4_marksman_carbine$"
 SHA_ballistic_equipment_4_short:0 "$ballistic_weaponry_tech_icon_4_marksman_carbine_short$"
 SHA_ballistic_equipment_4_desc:0 "$ballistic_weaponry_tech_icon_4_marksman_carbine_desc$"
 
-# SHI (Ши)
+# SHI (Ші)
 SHI_melee_equipment_3:0 "Офіцерський меч"
 SHI_melee_equipment_3_short:0 "Офіцерський меч"
 SHI_melee_equipment_3_desc:0 "Меч ручної роботи, створений за традиційними зразками з батьківщини."
@@ -1336,7 +1336,7 @@ SHI_ballistic_equipment_1_short:0 "Пістолет Тип 17"
 SHI_ballistic_equipment_1_desc:0 "Тип 17 Шаньсі — масово вироблювана до Великої війни бічна зброя. Уперше випущений у 1929 на арсеналі Тайюаня для армії Янь Сішаня, нині цей пістолет — рідкісний експонат війни між США та Китаєм."
 SHI_ballistic_equipment_2:0 "Саморобний автомат"
 SHI_ballistic_equipment_2_short:0 "Саморобний автомат"
-SHI_ballistic_equipment_2_desc:0 "Простий зразок, створений на базі Типу 93. Дешевий, примітивний, але легкий у виробництві та ремонті. Старші родини Ши часто обирають його не через ефективність, а через традицію та спогади."
+SHI_ballistic_equipment_2_desc:0 "Простий зразок, створений на базі Типу 93. Дешевий, примітивний, але легкий у виробництві та ремонті. Старші родини Ші часто обирають його не через ефективність, а через традицію та спогади."
 SHI_ballistic_equipment_3:0 "Китайський автомат Тип 93"
 SHI_ballistic_equipment_3_short:0 "Китайський автомат"
 SHI_ballistic_equipment_3_desc:0 "Тип 93 створений китайською корпорацією для Народно-визвольної армії під час Ресурсних війн. Розрахований на диверсантів і шпигунів, має магазин на 24 набої калібру 5.56 мм — дешевий і розповсюджений боєприпас."

@@ -14,7 +14,7 @@ ttm_the_nursery_control_facility_effects:0 " §WОбчислювальна по�
 ttm_the_nursery_factory_effects_tiny:0 " §WЕфекти Терраформування:§W §RЗаблоковано.§!"
 ttm_the_nursery_factory_effects:0 "[TTM.ttm_coring_rng_scripted_localization][TTM.ttm_refractoring_radiation_compression_device_coring_effect_scripted_localization][TTM.ttm_geologic_crystal_growth_prism_coring_effect_scripted_localization][TTM.ttm_exponential_humidity_amplifier_system_coring_effect_scripted_localization][TTM.ttm_industrial_hillside_reforesting_network_coring_effect_scripted_localization][TTM.ttm_mass_relay_grassland_expander_coring_effect_scripted_localization]"
 
-ttm_coring_rng:0 " §WЕфекти Терраформування:§! При отриманні ядра над провінцією, кидається §Y1d100§!. Залежно від результату застосовується:"
+ttm_coring_rng:0 " §WЕфекти Терраформування:§! При націоналізації провінції, кидається кубик §Y1d100§!. Залежно від результату застосовується:"
 ttm_refractoring_radiation_compression_device_coring_effect:0 "\n  §W98-100:§! §G+1§!£resources_strip|6\n\n  §W90-97:§! §G+1§!£resources_strip|5\n"
 ttm_geologic_crystal_growth_prism_coring_effect:0 "\n  §W76-89:§! §G+1§!£resources_strip|4\n"
 ttm_exponential_humidity_amplifier_system_coring_effect:0 "\n  §W50-75:§! §G+1§!£resources_strip|3\n"
