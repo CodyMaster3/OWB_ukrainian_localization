@@ -230,7 +230,7 @@ owb_achievement_fury_road_NAME:0 "Дорога Люті"
 owb_achievement_fury_road_DESC:0 "Граючи за @EHT §YВісімдесятників§!, @GDH §YХенте дель Соль§!, @IMO §YЗалізники§!, @NEW §YНью-Ріно§! або @TWO §YТу Сан§!, перемогти у §YВеликій Гонці§!."
 
 owb_achievement_tell_a_friend_NAME:0 "Скажи Другу"
-owb_achievement_tell_a_friend_DESC:0 "Граючи за @TOC §YСтару Батьківщину§!, відновити ім’я §YХранителів Білого§!."
+owb_achievement_tell_a_friend_DESC:0 "Граючи за @TOC §YСтару Батьківщину§!, відновити ім’я §YВартових Білини§!."
 
 owb_achievement_uranium_fever_NAME:0 "Уранієва Лихоманка"
 owb_achievement_uranium_fever_DESC:0 "Володіти §YГоупвілом§! та §YВеликим Сховищем§!."
@@ -308,7 +308,7 @@ owb_achievement_the_last_family_of_missoula_NAME:0 "Остання Родина 
 owb_achievement_the_last_family_of_missoula_DESC:0 "Граючи за @JCK §YДжексонів§!, повернутися до @MCA §YМакартура§! і вигнати Анклав з Монтану назавжди."
 
 owb_achievement_under_warden_occupation_NAME:0 "Під Охороною Вартових"
-owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку націю з Вартовими Білого, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§! та @VSH §YСейфгейвен§!)."
+owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку націю з Вартовими Білини, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§! та @VSH §YСейфгейвен§!)."
 
 owb_achievement_hell_on_earth_NAME:0 "Пекло на Землі"
 owb_achievement_hell_on_earth_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні як £flag_CES_hades_texticon  §YЛегіон Аїда§!."
@@ -527,4 +527,4 @@ owb_achievement_immortal_undying_damnation_tt:0 "Відомий як §YСест
 owb_achievement_lone_fight_for_democracy_tt:0 "Не має союзників у §YДругій Коаліції§!"
 owb_achievement_the_reunited_states_tt:0 "Є §YВозз'єднаними Штатами§!"
 owb_achievement_the_reunited_states_tt_2:0 "Особисто надано осердя провінції"
-wardens_reunited_achievement_flag:0 "[TOC.GetNameWithFlag], [PAS.GetNameWithFlag] та [VSH.GetNameWithFlag] знаходяться у фракції §YСтражів Білого§!"
+wardens_reunited_achievement_flag:0 "[TOC.GetNameWithFlag], [PAS.GetNameWithFlag] та [VSH.GetNameWithFlag] знаходяться у фракції §YВартові Білини§!"
