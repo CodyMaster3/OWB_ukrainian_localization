@@ -4,9 +4,9 @@
       BGC_BRA_autonomy_vassal:0 "Графство Бугі Крік"
       BGC_BRA_autonomy_military_order:0 "Стрілки Бугі Крік"
       ##LAN - Duchy of Langenburg
-      DLN_BRA_autonomy_march:0 "Лангенбурська марка"
-      DLN_BRA_autonomy_vassal:0 "Герцогство Ланґенбург"
-      DLN_BRA_autonomy_military_order:0 "Кавалеристи Ланґенбурга"
+      DLN_BRA_autonomy_march:0 "Ланґенбурзька марка"
+      DLN_BRA_autonomy_vassal:0 "Герцогство Ланґенбурґ"
+      DLN_BRA_autonomy_military_order:0 "Кавалеристи Ланґенбурґа"
       ##DUK - Duck Mountain Rangers
       DUK_BRA_autonomy_march:0 "Кавалеристи Дак-Маунтін"
       DUK_BRA_autonomy_vassal:0 "Кавалеристи Дак-Маунтін"
