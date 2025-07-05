@@ -209,7 +209,7 @@ gdh_baja_purchase_desc:0 "Легіон надто розтягнутий і на
 ces_owns_baja_states_tt:0 "[CES.GetName] або його підданий контролює півострів Баха."
 
 gdh_ranger_mission:0 "Рейнджери Ріо"
-gdh_ranger_mission_desc:0 "Армії Республіки Ріо Гранде є чому нас навчити. Чому б не повчитися в нових клієнтів?"
+gdh_ranger_mission_desc:0 "Армії Республіки Ріо-Ґранде є чому нас навчити. Чому б не повчитися в нових клієнтів?"
 
 gdh_liberalisation:0 "«Лібералізація»"
 gdh_liberalisation_desc:0 "Натхненний прикладом [RRG.GetNamewithFlag], [GDH.GetLeader] вирішив провести вибори. Як доречно, що всі партії висунули саме його!"

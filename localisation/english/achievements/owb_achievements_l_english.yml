@@ -23,13 +23,13 @@ owb_achievement_unlimited_power_NAME:0 "Безмежна Сила!"
 owb_achievement_unlimited_power_DESC:0 "Захопити §Y$STATE_252$§!, не володіючи ним на початку гри."
 
 owb_achievement_big_iron_NAME:0 "Big Iron"
-owb_achievement_big_iron_DESC:0 "Граючи за @DES §YRogue Rangers§!, відправити добровольців."
+owb_achievement_big_iron_DESC:0 "Граючи за @DES §YПустельних Рейнджери§!, відправити добровольців."
 
 owb_achievement_i_love_democracy_NAME:0 "Я Люблю Демократію"
-owb_achievement_i_love_democracy_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Гранде§!, обрати нового президента."
+owb_achievement_i_love_democracy_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Ґранде§!, обрати нового президента."
 
 owb_achievement_a_fantastic_offer_NAME:0 "Фантастична Пропозиція"
-owb_achievement_a_fantastic_offer_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @MOT §YТериторії Мохаве§!, знайти найфантастичнішого вченого для керування §YHelios One§!."
+owb_achievement_a_fantastic_offer_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @MOT §YТериторії Мохаве§!, знайти найфантастичнішого вченого для керування §YГЕЛІОС Один§!."
 
 owb_achievement_we_are_cerberus_NAME:0 "Ми — Цербер"
 owb_achievement_we_are_cerberus_DESC:0 "Граючи за @SHA §YАрмію Шейла§!, стати §YCerberus§!."
@@ -40,7 +40,7 @@ owb_achievement_owobowos_DESC:0 "Граючи за @ORO §YOuroboros§!, зах�
 owb_achievement_pretty_fly_NAME:0 "Pretty Fly"
 owb_achievement_pretty_fly_DESC:0 "Граючи за будь-яку розвинену націю, завершити дерево технологій §Y$fallout_air_folder$§!."
 
-owb_achievement_who_can_zax_can_NAME:0 "Хто зможе? ZAX зможе!"
+owb_achievement_who_can_zax_can_NAME:0 "Хто зможе? ЗАКС зможе!"
 owb_achievement_who_can_zax_can_DESC:0 "Граючи за будь-яку розвинену націю, дослідити §Y$electronic_engineering_7$§!."
 
 owb_achievement_a_jewel_in_our_crown_NAME:0 "Перлина в Нашій Короні"
@@ -62,7 +62,7 @@ owb_achievement_et_tu_brute_NAME:0 "І ти, Бруте?"
 owb_achievement_et_tu_brute_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні під керівництвом §YВулпеса§! або §YЛанія§!."
 
 owb_achievement_the_bells_NAME:0 "Дзвони"
-owb_achievement_the_bells_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Гранде§!, підняти лідера до чогось більшого."
+owb_achievement_the_bells_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Ґранде§!, підняти лідера до чогось більшого."
 
 owb_achievement_till_love_do_us_apart_NAME:0 "Поки Любов Не Розлучить Нас"
 owb_achievement_till_love_do_us_apart_DESC:0 "Граючи за @ATE §YNuevo Aztlán§! або @ITZ §YChichen Itza§!, одружитися з головним суперником."
@@ -89,7 +89,7 @@ owb_achievement_form_provincial_texas_NAME:0 "Сформувати Провін�
 owb_achievement_form_provincial_texas_DESC:0 "Граючи за @TBH §YБратство Техасу§! або @LNS §YЛоун Стар§!, утворити §YПровінційну Республіку Техас§!."
 
 owb_achievement_legacy_of_icarus_NAME:0 "Спадщина Ікара"
-owb_achievement_legacy_of_icarus_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @CES §YЛегіон Цезаря§!, анексувати @MOJ §YМохавське Братство§! після того, як §YHELIOS One§! буде відновлено."
+owb_achievement_legacy_of_icarus_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @CES §YЛегіон Цезаря§!, анексувати @MOJ §YМохавське Братство§! після того, як §YГЕЛІОС Один§! буде відновлено."
 
 owb_achievement_never_again_NAME:0 "Ніколи Знову"
 owb_achievement_never_again_DESC:0 "Граючи за @ACH §YГлаву Аламо§!, відбити вторгнення §YСанта-Анни§!."
@@ -125,7 +125,7 @@ owb_achievement_mexico_restored_NAME:0 "Відроджене Мексико"
 owb_achievement_mexico_restored_DESC:0 "Граючи за будь-яку мексиканську націю, відновити §Yславу Мексики§!."
 
 owb_achievement_skewer_the_bull_NAME:0 "Проткнути Бика"
-owb_achievement_skewer_the_bull_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Гранде§!, володіти §Y$STATE_520$§!."
+owb_achievement_skewer_the_bull_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Ґранде§!, володіти §Y$STATE_520$§!."
 
 owb_achievement_second_times_a_charm_NAME:0 "Другий Шанс — Вдалий"
 owb_achievement_second_times_a_charm_DESC:0 "Граючи за @ARR §YАрройо§!, анексувати всі нації Анклаву."
