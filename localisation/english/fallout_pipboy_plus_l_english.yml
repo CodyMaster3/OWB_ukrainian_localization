@@ -16,7 +16,7 @@
  PIPBOY_PLUS_TAB_MECHANIC_TT:0 "§GКлацніть§!, щоби перемкнутися на вкладку '§YМеханіки§!'."
  PIPBOY_PLUS_TAB_CHANGELOG_TT:0 "§GКлацніть§!, щоби перемкнутися на вкладку '§YСписок змін§!'."
  PIPBOY_PLUS_TAB_CREDITS_TT:0 "§GКлацніть§!, щоби перемкнутися на вкладку '§YТитри§!'."
- PIPBOY_PLUS_CATEGORY_SELECTED_TT:0 "Ця вкладка наразі вибрана."
+ PIPBOY_PLUS_CATEGORY_SELECTED_TT:0 "Ця вкладка наразі обрана."
 
  PIPBOY_PLUS_NATION_LIST_HEADER:0 "НАЦІЇ"
  PIPBOY_PLUS_NATION_HEADER:0 "§Y[This.GetPipboySelectedCountryName]§!"
