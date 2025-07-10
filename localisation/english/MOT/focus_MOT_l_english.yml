@@ -1,138 +1,202 @@
 ﻿l_english:
-  FOCUS_FILTER_MOT_SUNBURST:0 "Operation: Sunburst"
+FOCUS_FILTER_MOT_SUNBURST: "Операція «Сонячний спалах»"
 
-  # Focuses
-  mot_preparing_the_expedition:0 "Preparing the Expedition"
-  mot_preparing_the_expedition_desc:0 "The NCR first marched east into the Mojave in 2271, when it destroyed the tribes surrounding Bull City. This is the story of greatness."
-  mot_the_battle_for_nipton:0 "The Battle for Nipton"
-  mot_the_battle_for_nipton_desc:0 "The Mojave's raiders and thugs resisted the Republic for too long, and Nipton was the site of one of the greatest battles."
-  mot_capturing_the_dam:0 "Capturing the Dam"
-  mot_capturing_the_dam_desc:0 "The Rangers tried to seize Hoover Dam in 2274, but we were forced to deal with House.  For now."
-  mot_the_coming_storm:0 "The Coming Storm"
-  mot_the_coming_storm_desc:0 "We have heard of a new tribe to the East, under a Scarlet banner. They worship a man called Caesar, and we fear he will come for the Mojave. But how tough could a bunch of tribals be?"
-  mot_our_route_home:0 "Tend to the Long 15"
-  mot_our_route_home_desc:0 "We cannot leave our supply lines undefended. We must revitalized the prewar road and make sure we are never cut off."
-  mot_dealing_with_capitol_hill:0 "Dealing with Capitol Hill"
-  mot_dealing_with_capitol_hill_desc:0 "Most of the NCR is behind our expedition, but Senator Allgood and others question this as a pointless waste of lives and resources. We need to manage our home front carefully."
-  mot_deploy_the_fresh_battalions:0 "Deploy Fresh Divisions"
-  mot_deploy_the_fresh_battalions_desc:0 "New California has over 700,000 citizens. That is plenty to subdue the Mojave with."
-  mot_guns_from_back_home:0 "Guns from Back Home"
-  mot_guns_from_back_home_desc:0 "Local production in the Mojave is woefully lacking, and so the discrepency must be made up by importing supplies from the Republic."
-  mot_form_up_the_first_recon:0 "Form the 1st Recon Battalion"
-  mot_form_up_the_first_recon_desc:0 "Chief Hanlon has long impressed the importance of marksmanship on his Ranger Corps, but until now the idea of a dedicated sharpshooter battalion has never gained real traction. In the face of the rough terrain of the Mojave, however, it makes much more sense."
-  mot_survey_our_enemy:0 "Survey Our Enemy"
-  mot_survey_our_enemy_desc:0 "We must not go blindly into our conflict with the Mojave Brotherhood: it is only through careful observation and calculation that we can determine where and when to strike our enemy hardest. We must expand our observation posts, so the Brotherhood can be crushed once and for all."
-  mot_melt_their_steel:0 "Tools to Melt Steel"
-  mot_melt_their_steel_desc:0 "It's no secret that Power Armour poses a great threat to our troopers. Most men possess far from the capabilities to pierce the layers of thick, servo-driven armour and kill the Paladins underneath. We must deploy some of the wepaons we found at Navarro, so that at least a fraction of our divisions are able to effectively battle the Brotherhood's Steel Knights."
-  mot_strength_in_numbers:0 "Strength in Numbers"
-  mot_strength_in_numbers_desc:0 "We possess a key advantage over the Brotherhood: numbers. Even if we lose 8 men to their 1, we'll still be able to wipe them out through numbers alone."
-  mot_secure_the_west:0 "Secure the West"
-  mot_secure_the_west_desc:0 "Goodsprings, and the road it sits on stretching from the Mojave Outpost to New Vegas, is vital to trade and military deployments in the region. We must ensure it is adequately defended, lest the Brotherhood stike us where it hurts."
-  mot_solidify_military_leadership:0 "Appoint Military Staff"
-  mot_solidify_military_leadership_desc:0 "We must ensure our military is built on solid foundations before we launch our assault on ГЕЛІОС Один. Without adequate leadership, we will be ill-prepared to face them down."
-  mot_protect_route_95:0 "Protect Route 95"
-  mot_protect_route_95_desc:0 "Route 95 is currently our only reliable road to transport supplies through the Mojave to the Hoover Dam and Boulder City. Should it fall to the Brotherhood, these forces in the north would be cut off. We must not let this happen."
-  mot_promote_major_moore:0 "Promote Maj. Moore"
-  mot_promote_major_moore_desc:0 "Major Cassandra Moore was a Ranger from a young age, serving the Republic loyally as it fought off raiders across California and surviving four tours during the Brotherhood-NCR war. Unfortunately, earlier this year Moore suffered a serious injury whilst garrisoned in the Mojave, meaning she can no longer fight on the fronts. However, she still possess a sharp mind and has a knack for battle tactics. We would be wise to make her a commander."
-  mot_make_our_final_preparations:0 "Make Our Final Preparations"
-  mot_make_our_final_preparations_desc:0 "Our innevitable assault on the Brotherhood is drawing ever closer, and so we must begin to make out final plans."
-  mot_the_second_turbine:0 "Restore the Second Turbine"
-  mot_the_second_turbine_desc:0 "The Hoover Dam is damaged, but repairable. Our chief engineer, Mike Lawson, is confident that with time he will be able bring more online with time and proper investment."
-  mot_baker_militarisation_act:0 "Petition for the Militarisation Act"
-  mot_baker_militarisation_act_desc:0 "While massive military expansions are not technically beyond our remit, the Mojave Outpost is technically still within the NCR. We should petition the NCR Congress for the Militarisation Act, allowing us to bulk up military industry there."
-  mot_divert_planners:0 "Divert Our Planning Focus"
-  mot_divert_planners_desc:0 "We need to divert a large chunk of our planning efforts to the upcoming war. It may mean we lose some ground in our struggle against the raiders, but so be it."
-  mot_local_call_to_arms:0 "A Local Call to Arms"
-  mot_local_call_to_arms_desc:0 "Only with the cooperation of the locals will we be able to win the struggle against the Brotherhood. We should issue a patriotic call to arms."
-  mot_operation_sunburst:0 "Preempt Political Pressure"
-  mot_operation_sunburst_desc:0 "The NCR Congress has been putting intense pressure on us for months to launch a decisive assault against the Mojave Brotherhood. We should launch our assault before the pressure reaches a head, and take the Brotherhood by surprise."
-  mot_the_issue_of_the_locals:0 "Towards Pacification"
-  mot_the_issue_of_the_locals_desc:0 "Our attempts to pacify the area around the Mojave will take us decades. I guess we may as well make a start..."
-  mot_establish_camp_forlorn_hope:0 "Establish Camp Forlorn Hope"
-  mot_establish_camp_forlorn_hope_desc:0 "The Forlorn Hope Springs are a strategically vital source of clean water in the Mojave, situated on the plateauing top of a small hill. By establishing a small military outpost, we can secure the water source and protect a portion of Route 95."
-  mot_reinforce_camp_spotlight:0 "Reinforce Camp Searchlight"
-  mot_reinforce_camp_spotlight_desc:0 "Shortly after the Battle for Nipton, we established Camp Searchlight in the crossroads town bearing the same name. Not only does the camp give us a vantage point over Nipton and Novac, but it also allows us to keep an eye on the Colorado to our East. Expanding the camp will help ensure we can hold onto the region against any who may threaten us."
-  mot_the_nipton_deal:0 "The Nipton Deal"
-  mot_the_nipton_deal_desc:0 "Nipton was largely untouched by the bombs of the Great War. As a result, a lively community still thrives in and around it: one far too large for us to control through martial law alone. If we were to make a deal with Nipton's Mayor, granting some autonomy in exchange for loyalty, we would gain compliance in the region."
-  mot_the_second_campaign:0 "The Second Campaign"
-  mot_the_second_campaign_desc:0 "In some ways, two battles need to be fought over the Mojave. The first to occupy the land. The second to win it. We may, de facto, have the Mojave under our ownership, but we are far from controlling swathes of it. The Committee is divided about how best to combat this."
-  mot_riches_of_the_mojave:0 "Exploiting the Mojave's Riches"
-  mot_riches_of_the_mojave_desc:0 "Although mostly desert plains, the Mojave does possess treasures: if you know where to look."
-  mot_the_i40:0 "Clear the I-40"
-  mot_the_i40_desc:0 "While our campaign is primarily focused on the Northern Mojave and New Vegas, we must be sure not to forget about the Southern Mojave that lays between Baker and Needles. Much like the Long 15 that leads from Baker to New Vegas, the I-40 remains largely clogged by the wrecks of pre-war cars and trucks. With some work, we would be able to clear the worst of the congestion from the route, making travel to Needles significantly easier."
-  mot_been_working_on_the_railway:0 "I've Been Working on the Railroad"
-  mot_been_working_on_the_railway_desc:0 "Building a railway from Shady Sands to New Vegas has long been a great dream of General Oliver's. Not only would it be a propaganda victory, but it would also allow for the extremely quick redeployment of troops to New Vegas and the Hoover Dam from the NCR's heartland. The first part of the line, running from Baker alongside the Long 15, is relatively easy to construct due to our strong control over the area. Running a line through the Mojave, meanwhile, may be a bit more of an issue..."
-  mot_cottonwood_port:0 "Bulk Up the Cottonwood Port"
-  mot_cottonwood_port_desc:0 "Whilst the Long 15 acts as our main trade route back to the NCR, we could also run small-scale supply missions up the Colorado, from NCR outposts to the South. It wouldn't be ideal, but it may be useful in emergencies"
-  mot_garrison_primm:0 "Garrison Primm"
-  mot_garrison_primm_desc:0 "A pre-war mini-Vegas, Primm has experienced something of a resurgence following NCR occupation of the Mojave. A key trading town on the route to New Vegas, Primm is a strategic location well worth defending: indeed, should Nipton fall it could become a vital rally point."
-  mot_bittersprings:0 "March on Bittersprings"
-  mot_bittersprings_desc:0 "For years the tribal raiders who call themselves the 'Great Khans' have plagued our territory. Based to the East of Vegas, in their camp known as 'Bittersprings', they think themselves safe from repurcussion. It's time to put an end to their foolery."
-  mot_bittersprings_march_tt:0 "§gIt will take our soldiers a few days to march through the outskirts of New Vegas to launch their raid on Bittersprings. We'll receive word when the commence their attack.§!"
-  mot_act_now:0 "Act Now Or Forever Hold Our Peace"
-  mot_act_now_desc:0 "The clash at Hoover Dam has left us jarred. We don't know how long we'll be able to hold on to the Mojave, but we need to assume the answer may not be forever. We need to hurry up and extract resources from the area, before it's too late."
-  mot_the_bulls_soft_bellow:0 "The Bull's Growing Bellows"
-  mot_the_bulls_soft_bellow_desc:0 "The Legion swells like cancer across the East. We must be ready."
-  mot_assemble_the_mojave_defence_committee:0 "Assemble the Mojave Defence Committee"
-  mot_assemble_the_mojave_defence_committee_desc:0 "The Mojave, or its population and strategic centres at least, now lie almost completely under our grasp. We now need to concern ourselves with keeping it that way. Enemies lie all around us, and there is some division within our ranks about how we should best prepare for future battles."
-  mot_the_old_world_wall:0 "The Old World Wall"
-  mot_the_old_world_wall_desc:0 "The Old World Wall: the Hoover Dam. For centuries it has stood as a testament to American engineering prowess, and has produced power for close to a dozen generations of American families. However, it possesses a critical flaw: it's appallingly indefensible. Whilst the original designers could be excused for not anticipating a battle fought on its concrete, their shortsightedness has become something of a issue for the Defence Committee. Decisions are needed."
-  mot_emergency_ctte_divide:0 "Emergency Committee: The Great Divide"
-  mot_emergency_ctte_divide_desc:0 "Should something happen in the Divide to our supply routes, we will have to rapidly convene the Committee to decide on future strategy."
-  mot_emergency_ctte_vegas:0 "Emergency Committee: The Fall of New Vegas"
-  mot_emergency_ctte_vegas_desc:0 "Should New Vegas fall to powers unwilling to uphold the Treaty of New Vegas, the Committee must be convened to decide on our plan of response."
-  mot_revisiting_the_treaty:0 "Revisiting the Treaty of New Vegas"
-  mot_revisiting_the_treaty_desc:0 "While the Treaty of New Vegas pledged 95% of Hoover Dam's energy to the NCR, as well as military access for NCR troopers to most of New Vegas, the treaty was a begrudging compromise with a nation the NCR would much rather just annex in its entirity. Sadly, the years of peace have only increase Mr House's strength, while the NCR continues to flounder in the Mojave. If we are to one day rule the Mojave, we must have a plan."
-  mot_call_up_second_draft:0 "Call Up the Second Draft"
-  mot_call_up_second_draft_desc:0 "Whatever advantage Mr House thinks he may possess in Securitrons, the NCR more than makes up for in good quality fighting men and women. We should call for a second draft of citizens from the NCR: and with any luck, some of them will be deployed to help us."
-  mot_family_diplomacy:0 "Family Diplomacy"
-  mot_family_diplomacy_desc:0 "Divide and conquer. That's the tactic the loony dictator across the Colorado is always preaching about. If we were to work with some of the Vegas' families and organisations, we may be able to peel some support of Mr House, significantly weakening his grip over his prize jewel."
-  mot_an_encouraging_victory:0 "An Encouraging Victory"
-  mot_an_encouraging_victory_desc:0 "Our defeat of the stuck-up Brotherhood bastards in the Mojave has been a great boost to our standing amongst the NCR's people, and the government in shady sands. Needles to say, we can exploit this victory for more supplies."
-  mot_lessons_from_the_war:0 "Lessons from War"
-  mot_lessons_from_the_war_desc:0 "Whilst we were ultimately successful in our war against the Mojave Brotherhood sparked by Operation: Sunburst, it has taught us some much-needed lessons about our military tactics. We must adapt if we are to survive."
-  mot_tools_left_behind:0 "Use the Tools Left Behind"
-  mot_tools_left_behind_desc:0 "It seems the Brotherhood was tinkering about inside ГЕЛІОС Один, presumably to restore its capacity as a power generating solar array. Our attack clearly caught them in the middle of their ambition, and as a result there's a number of pre-war tools inside the complex. Our engineers at the Hoover Dam would surely greatly appreciate it if we sent these their way."
-  mot_the_heavy_corps:0 "Form the Heavy Corps"
-  mot_the_heavy_corps_desc:0 "With the basic understanding of power armour we possess, we may be able to strip down the power armour recovered from Operation: Sunburst and train our men to use it. Heavily armoured assets will be invaluable against any primitive foe."
-  mot_restoring_hoover:0 "Restoring the Hoover Dam"
-  mot_restoring_hoover_desc:0 "The Dam has long been running at a mere fraction of its potential capacity. With some serious work, we could drastically upscale the power production of the plant."
-  mot_horrors_in_vault_3:0 "Horrors in Vault 3"
-  mot_horrors_in_vault_3_desc:0 "We may control most of the Mojave, but one area remains beyond our control: Vault 3 and its surroundings. The Fiends, a vicious raider gang that once operated over most of the Mojave, holds it in an iron grasp. If we are to purge them from the wastes once and for all, we need to decide an overarching strategy."
-  mot_consiglieres_diplomacy:0 "Consilglieres Diplomacy"
-  mot_consiglieres_diplomacy_desc:0 "The Fiends are one of the founding families of New Vegas, but splinters from their family still inhabit Vault 3, and cling true to their raider ways. By doing a deal with Mr House and the Consilglieres, we could offer to remove this embarasing stain on the family and isolate them in Vault 3. We'll be avoiding a direct war, but the local area will be plagued by the Fiends for a while to come."
-  mot_pushing_them_back:0 "Push Back the Scum"
-  mot_pushing_them_back_desc:0 "We must dislodge the Fiends from the various harpoints they occupy in the North-West of the Mojave. We may not be able to crack Vault 3 itself, but we can at least mostly contain them if they're forced back into it."
-  mot_victory_at_the_dam:0 "Victory at the Dam"
-  mot_victory_at_the_dam_desc:0 "We have been successful in fending off the assault by Caesar's Legion on the Dam and Boulder City. It wasn't pretty, and it was more down to luck then we'd like to admit, but it's a victory."
-  mot_the_long_march_home:0 "The Long March Home"
-  mot_the_long_march_home_desc:0 "Despite the best efforts of our generals and countless NCR troopers, the Dam has fallen to a Legion assault. We must now make the long march home, and make some tough decisions about our future."
-  mot_supply_and_demand:0 "Supply and Demand"
-  mot_supply_and_demand_desc:0 "The Mojave is vast and desolate. To properly control it, we require a number of military bases crisscrossing the region, each requiring constant supply and reinforcement. Whilst we may have about enough supplies to keep our current outposts ticking over, if we are to expand our outposts, construct new ones or sufferer enemy espionage we may be unable to provide enough supplies to all our bases."
-  mot_first_supply_shipment:0 "The First Supply Shipment"
-  mot_first_supply_shipment_desc:0 "Delivered along the newly construced line from Baker to the Mojave Outpost, our first shipment of supplies from Shady Sands should keep us ticking over on supply nicely."
-  mot_open_the_divide: "Open the Divide"
-  mot_open_the_divide_desc: "The Divide is the other route through which we can reach the NCR's supply hubs. Since it was recent acquired by our allies we can now receive a stark increase in our supply stockpiles."
-  mot_review_bittersprings: "Review the Bittersprings Massacre"
-  mot_review_bittersprings_desc: "Many officers wanted to cover up the details of the Bittersprings Massacre, but the official policy of silence has begun to crumble since our attack on the Khan encampment. We should review the status of the Great Khans in the Mojave and make a decision on how deal with their remnants."
-  mot_the_mojave_line:0 "The Mojave Line"
-  mot_the_mojave_line_desc:0 "A long-term ambition of the NCR senate has been to contruct a railway line connecting the NCR proper to New Vegas. The railway serves two purposes: both to bring trade quickly and efficiently to New Vegas, and to assist in the rapid redeployment of NCR troopers to the Mojave as needed."
-  mot_the_mojave_line_tt:0 "Construction of a railroad joining the Long 15 to New Vegas will begin construction, using labour from the NCR correctional facility. What could go wrong?\n\n"
-  mot_reinforce_forlorn_hope:0 "Reinforce Camp Forlorn Hope"
-  mot_reinforce_forlorn_hope_desc:0 "Despite its rather dreary name, Camp Forlorn Hope is one of our chief outposts and observation points against Legion expansion. Should it fall, our forces will be effectively split in two along Route 95. If we have the supply to spare, beefing up the camp's defences would be well worth the cost."
-  mot_reinforce_searchlight:0 "Reinforce Camp Searchlight"
-  mot_reinforce_searchlight_desc:0 "Camp Searchlight, nesteld in the prosperous village of Searchlight and near the Colorado River, is a strategically vital military hardpoint. While we anticipate the major thrust of the Legion's attack will come across the Hoover Dam, it may also be possible that an attempt is made to cross the Colorado on our southern flank, near Searchlight. This cannot be allowed to happen."
-  mot_camp_maccaren_primacy:0 "Camp McCarren Primacy"
-  mot_camp_maccaren_primacy_desc:0 "While our military HQ has always been, de jure, the Mojave Outpost, Camp McCarren has become our major supply depot and outpost in the northern Mojave wastelands. It is time to officially move our Military HQ to the Camp."
-  mot_live_and_let_live:0 "Live and Let Live"
-  mot_live_and_let_live_desc:0 "We simply don't have the time nor the resources to deal with the \"Power Gangers\" and their breakout from the NCR correctional facility outside Goodsprings. We need the men elsewhere."
-  mot_liv_and_let_live_tt:0 "When we go to war, the "Powder Gangers" harass our supply lines. But it's worth it for now, right?"
-  mot_operation_rollup:0 "Begin Operation Roll Up"
-  mot_operation_rollup_desc:0 "The thought of a \"fifth column\" within our territory is simply intolerable. We cannot allow the Powder Gangers to continue to terrorise the western Mojave freely, as they are currently doing in Goodsprings and Primm. These settlements must be brought into the fold, one way or the other."
-  mot_ranger_stations_on_i40:0 "Ranger Stations on the I-40"
-  mot_ranger_stations_on_i40_desc:0 "The I-40 serves a vital military purpose as one of our only redeployment routes in the event of an attack. By establishing a number of checkpoints manned by members of the Ranger Corps along the road, we can be sure it remains as safe as possible from Legion attacks."
-  mot_integration_of_primm:0 "Integrate Primm"
-  mot_integration_of_primm_desc:0 "Primm has long remained just outside our reach. Due to a lack of manpower and general ambivalence, the NCR has never made a concerted attempt to integrate the region. If we were to install an NCR Sherrif in the town, taking advantage of the chaos caused by the Powder Gangers, we could surely bring the town into our fold."
+# Focuses
+mot_preparing_the_expedition: "Підготовка експедиції"
+mot_preparing_the_expedition_desc: "НКР уперше рушила на схід до Мохаве у 2271 році, знищивши племена навколо Бул-Сіті. Це — історія величі."
+
+mot_the_battle_for_nipton: "Битва за Ніптон"
+mot_the_battle_for_nipton_desc: "Рейдери та бандити Мохаве надто довго пручалися Республіці. Ніптон став місцем однієї з найзапекліших битв."
+
+mot_capturing_the_dam: "Захоплення греблі"
+mot_capturing_the_dam_desc: "Рейнджери намагались узяти греблю Гувера у 2274 році, але нам довелось мати справу з Хаузом. Поки що."
+
+mot_the_coming_storm: "Насувається буря"
+mot_the_coming_storm_desc: "Ми чули про нове плем’я зі сходу, під багряним стягом. Вони поклоняються людині на ім’я Цезар. Ми боїмось, що він прийде за Мохаве. Але наскільки небезпечними можуть бути дикі племена?"
+
+mot_our_route_home: "Підготувати трасу Лонґ-15"
+mot_our_route_home_desc: "Ми не можемо залишити наші шляхи постачання без охорони. Треба відновити довоєнну дорогу й забезпечити, щоб нас ніколи не відрізали."
+
+mot_dealing_with_capitol_hill: "Вплинути на Капітолій"
+mot_dealing_with_capitol_hill_desc: "Більшість у НКР підтримує нашу експедицію, але сенатор Олґуд та інші вважають її марною тратою життів і ресурсів. Маємо обережно діяти в тилу."
+
+mot_deploy_the_fresh_battalions: "Сформувати нові дивізії"
+mot_deploy_the_fresh_battalions_desc: "Нова Каліфорнія налічує понад 700 000 громадян. Цього вистачить, щоби підкорити Мохаве."
+
+mot_guns_from_back_home: "Зброя з рідного краю"
+mot_guns_from_back_home_desc: "Виробництво в Мохаве залишає бажати кращого. Брак озброєння доведеться компенсувати імпортом із Республіки."
+
+mot_form_up_the_first_recon: "Створити 1-й батальйон розвідки"
+mot_form_up_the_first_recon_desc: "Начальник Генлон завжди наголошував на важливості влучної стрільби. Ідея окремого снайперського батальйону довго не мала підтримки, але в умовах складної місцевості Мохаве вона цілком виправдана."
+
+mot_survey_our_enemy: "Дослідити ворога"
+mot_survey_our_enemy_desc: "Ми не можемо кидатися в бій із Братством Мохаве навмання. Лише точна розвідка й аналіз допоможуть нам завдати найсильнішого удару. Потрібно розширити мережу спостережних постів."
+
+mot_melt_their_steel: "Зброя проти сталі"
+mot_melt_their_steel_desc: "Силова броня — смертельна загроза для наших солдатів. Звичайний боєць не здатен пробити броню Паладина. Слід розгорнути зброю, здобуту в Наварро, принаймні для частини наших сил."
+
+mot_strength_in_numbers: "Перевага в чисельності"
+mot_strength_in_numbers_desc: "Ми маємо ключову перевагу над Братством — чисельність. Навіть якщо ми втратимо 8 на кожного з них, то все одно зможемо перемогти."
+
+mot_secure_the_west: "Забезпечити захід"
+mot_secure_the_west_desc: "Ґудспрінґс і дорога від застави Мохаве до Вегаса — критично важливі для торгівлі й перекидання військ. Ми не можемо дозволити Братству вдарити по нашій життєво важливій артерії."
+
+mot_solidify_military_leadership: "Призначити військове керівництво"
+mot_solidify_military_leadership_desc: "Перш ніж атакувати ГЕЛІОС Один, нам потрібно зміцнити командний склад. Без надійних офіцерів ми не зможемо перемогти."
+
+mot_protect_route_95: "Захистити трасу 95"
+mot_protect_route_95_desc: "Траса 95 — єдиний стабільний шлях для постачання між Мохаве, греблею та Боулдер-Сіті. Якщо її втратити — наші війська на півночі залишаться відрізаними. Це не можна допустити."
+
+mot_promote_major_moore: "Підвищити майора Мур"
+mot_promote_major_moore_desc: "Майор Кассандра Мур служила рейнджером ще з юності. Ветеранка війни з Братством, вижила у чотирьох кампаніях. Після поранення в Мохаве не може більше битися, але її гострий розум і стратегічне чуття — безцінні. Її варто зробити командиркою."
+
+mot_make_our_final_preparations: "Останні приготування"
+mot_make_our_final_preparations_desc: "Наша неминуча атака на Братство вже близько. Час завершити підготовку."
+
+mot_the_second_turbine: "Відновити другий турбін"
+mot_the_second_turbine_desc: "Гребля Гувера пошкоджена, але підлягає ремонту. Головний інженер Майк Лоусон упевнений: із часом та інвестиціями він зможе запустити додаткові турбіни."
+
+mot_baker_militarisation_act: "Петиція про Закон про мілітаризацію"
+mot_baker_militarisation_act_desc: "Хоча розширення армії не суперечить нашому мандату, заставу Мохаве формально вважають територією НКР. Треба звернутись до Конгресу з проханням ухвалити Закон про мілітаризацію, щоби розгорнути військову промисловість."
+
+mot_divert_planners: "Перенаправити зусилля планування"
+mot_divert_planners_desc: "Ми маємо зосередити значну частину нашого планування на майбутній війні. Це може коштувати нам успіху в боротьбі з рейдерами, але нехай так і буде."
+
+mot_local_call_to_arms: "Місцевий заклик до зброї"
+mot_local_call_to_arms_desc: "Лише з підтримкою місцевих ми зможемо перемогти Братство. Варто звернутися до їхнього патріотизму."
+
+mot_operation_sunburst: "Випередити політичний тиск"
+mot_operation_sunburst_desc: "Конгрес НКР уже кілька місяців чинить на нас тиск із вимогою почати наступ на Братство Мохаве. Ми маємо завдати удару першими й заскочити ворога зненацька."
+
+mot_the_issue_of_the_locals: "На шляху до умиротворення"
+mot_the_issue_of_the_locals_desc: "Спроби умиротворити території довкола Мохаве можуть тривати десятиліттями. Що ж, колись треба починати…"
+
+mot_establish_camp_forlorn_hope: "Заснувати табір «Втрачена надія»"
+mot_establish_camp_forlorn_hope_desc: "Джерела «Втрачена надія» — стратегічно важливе джерело чистої води, розташоване на узвишші в Мохаве. Встановивши невеликий військовий аванпост, ми зможемо контролювати воду й захистити ділянку траси 95."
+
+mot_reinforce_camp_spotlight: "Укріпити табір «Серчлайт»"
+mot_reinforce_camp_spotlight_desc: "Невдовзі після битви за Ніптон ми заснували табір «Серчлайт» на однойменному перехресті. Він надає нам перевагу в спостереженні за Ніптоном, Новаком і навіть Колорадо на сході. Розширення табору забезпечить контроль над регіоном."
+
+mot_the_nipton_deal: "Угода з Ніптоном"
+mot_the_nipton_deal_desc: "Ніптон майже не постраждав під час Великої війни, тож тут і досі живе чимала спільнота. Для нас вона занадто велика, аби тримати її в покорі виключно військовими методами. Угода з мером Ніптона про автономію в обмін на лояльність може забезпечити спокій."
+
+mot_the_second_campaign: "Друга кампанія"
+mot_the_second_campaign_desc: "У боротьбі за Мохаве ведуться дві війни. Перша — за окупацію. Друга — за утримання. Формально територія вже під нашим контролем, але до справжнього підпорядкування ще далеко. Комітет не має єдиної думки, як це вирішити."
+
+mot_riches_of_the_mojave: "Скарби Мохаве"
+mot_riches_of_the_mojave_desc: "Попри пустельний ландшафт, у Мохаве є свої скарби — потрібно лише знати, де шукати."
+
+mot_the_i40: "Розчистити I-40"
+mot_the_i40_desc: "Хоч основна кампанія зосереджена на півночі Мохаве та Вегасі, ми не маємо забувати про південну частину — між Бейкером і Нідлзом. Як і Лонґ-15, траса I-40 завалена довоєнними вантажівками. Якщо її розчистити, постачання до Нідлза стане значно ефективнішим."
+
+mot_been_working_on_the_railway: "Я працював на залізниці"
+mot_been_working_on_the_railway_desc: "Мрією генерала Олівера давно була залізниця між Шейді-Сендс і Вегасом. Це був би ідеологічний прорив і дозволив би стрімко перекидати війська. Лінія до Бейкера через Лонґ-15 — легка частина. А от через сам Мохаве — вже інша справа…"
+
+mot_cottonwood_port: "Розширити порт у Коттонвуді"
+mot_cottonwood_port_desc: "Хоча Лонґ-15 — наш основний шлях постачання, ми можемо налагодити додаткові рейси вгору Колорадо від південних форпостів. Це не ідеально, але стане в пригоді у надзвичайній ситуації."
+
+mot_garrison_primm: "Охороняти Прімм"
+mot_garrison_primm_desc: "Довоєнне міні-Вегас, Прімм переживає відродження з приходом НКР. Містечко — ключова ланка на шляху до Вегаса. Якщо Ніптон упаде, Прімм може стати опорним пунктом."
+
+mot_bittersprings: "Похід на Біттерспрінґс"
+mot_bittersprings_desc: "Роки поспіль племінні рейдери, які звуть себе «Великими Кханами», загрожували нам зі сходу. Їхній табір у Біттерспрінґсі, як вони вважають, недосяжний. Час розвіяти їхні ілюзії."
+mot_bittersprings_march_tt: "§gНашим солдатам знадобиться кілька днів, щоби пройти околицями Вегаса до Біттерспрінґса. Ми отримаємо звістку, щойно вони почнуть наступ.§!"
+
+mot_act_now: "Діймо зараз — або змовчімо навіки"
+mot_act_now_desc: "Зіткнення на греблі Гувера сколихнуло нас. Ми не знаємо, скільки ще зможемо утримувати Мохаве. Треба якнайшвидше видобути всі доступні ресурси — поки ще не пізно."
+
+mot_the_bulls_soft_bellow: "Наростаюче ревіння Бика"
+mot_the_bulls_soft_bellow_desc: "Легіон росте, мов пухлина, зі сходу. Ми маємо бути готові."
+
+mot_assemble_the_mojave_defence_committee: "Скликати оборонний комітет Мохаве"
+mot_assemble_the_mojave_defence_committee_desc: "Мохаве — принаймні його населення та стратегічні центри — тепер майже повністю під нашим контролем. Настав час подумати, як його втримати. Навколо нас — вороги, а в наших лавах немає єдності щодо того, як краще готуватись до майбутніх битв."
+
+mot_the_old_world_wall: "Стіна Старого Світу"
+mot_the_old_world_wall_desc: "Стіна Старого Світу — гребля Гувера. Століттями вона символізувала американську інженерну майстерність і живила енергією цілі покоління. Проте має критичний недолік — її майже неможливо захистити. Архітекторам можна пробачити, що вони не передбачили битву просто на бетоні греблі, але для Оборонного комітету це стало серйозною проблемою. Потрібні рішення."
+
+mot_emergency_ctte_divide: "Надзвичайний комітет: Великий Розлом"
+mot_emergency_ctte_divide_desc: "Якщо щось трапиться в Розломі й порушить наші шляхи постачання, нам доведеться терміново скликати комітет і ухвалити нову стратегію."
+
+mot_emergency_ctte_vegas: "Надзвичайний комітет: Падіння Вегаса"
+mot_emergency_ctte_vegas_desc: "Якщо Нью-Вегас упаде до рук тих, хто не визнає Договору з Вегасом, комітет має негайно зібратись, аби вирішити, як реагувати."
+
+mot_revisiting_the_treaty: "Переглянути Договір з Вегасом"
+mot_revisiting_the_treaty_desc: "Договір із Вегасом передбачає передачу 95% енергії з греблі Гувера НКР та доступ до більшості районів міста для солдатів Республіки. Але це був вимушений компроміс із державою, яку НКР радше приєднала б повністю. На жаль, роки миру лише посилили владу Містера Хауза, тоді як ми загрузли в пустелі. Якщо ми хочемо правити Мохаве, нам потрібен план."
+
+mot_call_up_second_draft: "Оголосити другу мобілізацію"
+mot_call_up_second_draft_desc: "Якими б не були переваги Містера Хауза в сек'юрітронах, НКР компенсує це якісними солдатами. Ми маємо закликати другу хвилю мобілізації. З удачею, частина новобранців прибуде й до нас."
+
+mot_family_diplomacy: "Дипломатія з родинами"
+mot_family_diplomacy_desc: "Розділяй і володарюй — так любить казати той скажений диктатор з-за Колорадо. Якщо ми зможемо домовитись із деякими родинами Вегаса, то, можливо, послабимо владу Містера Хауза над містом."
+
+mot_an_encouraging_victory: "Обнадійлива перемога"
+mot_an_encouraging_victory_desc: "Поразка пихатого Братства в Мохаве значно покращила нашу репутацію як серед населення НКР, так і в Шейді-Сендс. Не варто марнувати нагоду здобути більше постачання."
+
+mot_lessons_from_the_war: "Уроки війни"
+mot_lessons_from_the_war_desc: "Попри перемогу над Братством Мохаве, війна в рамках операції «Сонячний спалах» виявила чимало недоліків нашої армії. Якщо ми хочемо вижити, нам доведеться адаптуватися."
+
+mot_tools_left_behind: "Використати залишені інструменти"
+mot_tools_left_behind_desc: "Здається, Братство щось лагодило в ГЕЛІОСі Один, імовірно — намагалось відновити його сонячні генератори. Наш штурм застав їх посеред роботи. Тепер у комплексі залишилось чимало довоєнних інструментів — інженери на греблі Гувера будуть у захваті."
+
+mot_the_heavy_corps: "Створити важкий корпус"
+mot_the_heavy_corps_desc: "Завдяки базовим знанням про силову броню ми можемо модифікувати захоплені екземпляри з операції «Сонячний спалах» і навчити бійців працювати в них. Такі війська будуть незамінними проти диких ворогів."
+
+mot_restoring_hoover: "Відновити греблю Гувера"
+mot_restoring_hoover_desc: "Гребля вже давно працює лише на частину потужності. Якщо серйозно взятися за ремонт, ми зможемо значно наростити виробництво енергії."
+
+mot_horrors_in_vault_3: "Жахи в Сховищі 3"
+mot_horrors_in_vault_3_desc: "Хоча ми контролюємо більшу частину Мохаве, одне місце досі залишається ворожим — Сховище 3. Там засіли «Ізверги», жорстоке рейдерське угруповання. Щоб остаточно очистити пустку від них, нам потрібна чітка стратегія."
+
+mot_consiglieres_diplomacy: "Дипломатія з консільєрі"
+mot_consiglieres_diplomacy_desc: "Хоча «Ізверги» колись були однією з засновницьких родин Вегаса, теперішні жителі Сховища 3 — лише зграя деградованих виродків. Якщо ми домовимось із Містером Хаузом і консільєрі, то зможемо ізолювати їх у Сховищі, уникаючи прямої війни. Щоправда, околиці й далі страждатимуть від їхніх нападів."
+
+mot_pushing_them_back: "Відтіснити покидьків"
+mot_pushing_them_back_desc: "Ми повинні вибити «Ізвергів» з ключових позицій на північному заході Мохаве. Можливо, нам і не вдасться взяти Сховище 3, але ми принаймні зможемо загнати їх назад у нього."
+
+mot_victory_at_the_dam: "Перемога на греблі"
+mot_victory_at_the_dam_desc: "Нам вдалося відбити наступ Легіону Цезаря на греблю Гувера та Боулдер-Сіті. Було негарно, і нам більше пощастило, ніж хочеться визнавати, але це все ж перемога."
+
+mot_the_long_march_home: "Довгий шлях додому"
+mot_the_long_march_home_desc: "Попри всі зусилля наших генералів і відвагу солдатів, гребля впала під натиском Легіону. Тепер нам належить відступити додому й ухвалити важкі рішення щодо майбутнього."
+
+mot_supply_and_demand: "Попит і пропозиція"
+mot_supply_and_demand_desc: "Мохаве — великий і безлюдний. Щоб втримати його, нам потрібна мережа військових баз, що перетинають регіон. Кожна з них потребує постійного постачання та підкріплення. Наразі в нас вистачає запасів на чинні бази, але подальше розширення чи ворожі диверсії можуть порушити цей баланс."
+
+mot_first_supply_shipment: "Перше постачання"
+mot_first_supply_shipment_desc: "Перший вантаж прибув по новій гілці з Бейкера до застави Мохаве. Постачання з Шейді-Сендс повинне деякий час забезпечувати наші потреби."
+
+mot_open_the_divide: "Відкрити Розлом"
+mot_open_the_divide_desc: "Розлом — альтернативний шлях до логістичних вузлів НКР. Тепер, коли його контролюють наші союзники, ми можемо значно збільшити обсяги постачання."
+
+mot_review_bittersprings: "Переглянути різанину в Біттерспрінґс"
+mot_review_bittersprings_desc: "Багато офіцерів хотіли приховати деталі різанини в Біттерспрінґс, але після нападу на табір Ханів політика мовчання почала тріщати. Ми повинні переглянути становище Великих Ханів у Мохаве й ухвалити рішення щодо їхніх залишків."
+
+mot_the_mojave_line: "Залізниця Мохаве"
+mot_the_mojave_line_desc: "Давня мрія сенату НКР — прокласти залізницю, що з'єднає серце Республіки з Нью-Вегасом. Залізниця дозволить як оперативно перекидати війська, так і пожвавити торгівлю з Вегасом."
+mot_the_mojave_line_tt: "Починається будівництво залізниці, що з'єднає Лонґ-15 з Нью-Вегасом. Для праці залучають ув'язнених з виправної колонії НКР. Що може піти не так?\n\n"
+
+mot_reinforce_forlorn_hope: "Посилити табір 'Втрачені надії'"
+mot_reinforce_forlorn_hope_desc: "Попри похмуру назву, табір 'Втрачені надії' є ключовим форпостом та спостережним пунктом у протистоянні Легіону. Якщо він впаде, наші сили будуть розділені вздовж маршруту 95. Якщо дозволяють запаси, варто укріпити оборону табору."
+
+mot_reinforce_searchlight: "Посилити табір 'Прожектор'"
+mot_reinforce_searchlight_desc: "Табір у Сьорчлайті розташований у стратегічно важливому місці, неподалік від річки Колорадо. Хоча ми очікуємо основного удару Легіону через греблю Гувера, є ймовірність атаки на південному фланзі — і ми мусимо бути готові."
+
+mot_camp_maccaren_primacy: "Пріоритет табору МакКарран"
+mot_camp_maccaren_primacy_desc: "Хоча нашим офіційним штабом вважався застав Мохаве, саме табір МакКарран став справжнім логістичним і командним центром у північній частині пустелі. Час формалізувати його статус."
+
+mot_live_and_let_live: "Жити й давати жити"
+mot_live_and_let_live_desc: "У нас просто немає ні часу, ні ресурсів, щоб зараз розбиратись із 'Пороховими гангстерами' та їхньою втечею з виправної колонії. Люди потрібні в інших місцях."
+mot_liv_and_let_live_tt: "Під час війни §Y'Порохові гангстери'§! шкодитимуть нашим лініям постачання. Але поки що це прийнятний ризик, так?"
+
+mot_operation_rollup: "Операція 'Зачистка'"
+mot_operation_rollup_desc: "П'ята колона у нас за спиною — це загроза, яку ми не можемо ігнорувати. Ми не можемо дозволити 'Пороховим гангстерам' безкарно тероризувати захід Мохаве. Ґудспрінґс і Прімм мають бути повернені під наш контроль."
+
+mot_ranger_stations_on_i40: "Постійні станції рейнджерів уздовж I-40"
+mot_ranger_stations_on_i40_desc: "Автотраса I-40 має ключове значення для передислокації наших сил у разі нападу. Ми створимо низку блокпостів рейнджерів, аби убезпечити її від раптових атак Легіону."
+
+mot_integration_of_primm: "Інтегрувати Прімм"
+mot_integration_of_primm_desc: "Прімм довго залишався поза нашою юрисдикцією. Брак людей та інтересу з боку уряду завадив його приєднанню. Якщо встановити в місті шерифа з НКР, скориставшись безладом після втечі гангстерів, ми зможемо нарешті інтегрувати його."
+
   mot_liberate_goodsprings:0 "Liberate Goodsprings"
   mot_liberate_goodsprings_desc:0 "One of the first targets of the Powder Gangers was Goodsprings, a prosperous little trading town on the western route to New Vegas. It has suffered much under the tyrannical rule of petty Powder Ganger warlords, and they would surely be grateful for NCR troopers to provide them with saftey and security."
   mot_clean_out_nipton:0 "Clean Out Nipton"
