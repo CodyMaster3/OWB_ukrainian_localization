@@ -1,52 +1,64 @@
 ﻿l_english:
-  # Ideas
-  ncr_veg_treaty_of_new_vegas:0 "The Treaty of New Vegas"
-  ncr_veg_treaty_of_new_vegas_desc:0 "Signed in 2274 by §Y[NCR.GetNameWithFlag]§! and §Y[VEG.GetNameWithFlag]§! after negotiations following the Republic's discovery of the mostly intact §OHoover Dam§!, the treaty marks the first of many begrudging compromises the Republic has been forced to make with Mr. House in an attempt to prepare for the Bull. Whilst the NCR gained control of the Dam through the treaty, as well as military access into and around New Vegas, they must send 5% of the Dam's energy to the Strip, and must not in any way prevent access to the Strip by NCR citizens or off-duty troops."
-  mot_idea_support_from_shady_sands:0 "Support from Shady Sands"
-  mot_idea_support_from_shady_sands_desc:0 "Our campaign is reliant on a steady flow of troops, equipment and dollars from the government in Shady Sands. Whilst Shady Sands isn't going to just abandon the campaign anytime soon, if we can't produce results with the resources they've sunk into the area they may become less inclined to send fresh reinforcements."
-  mot_idea_support_from_shady_sands_oliver:0 "Best and Brightest"
-  mot_idea_support_from_shady_sands_oliver_desc:0 "Under the steady and safe leadership of General Oliver, the NCR has grown supportive of the Mojave Expedition and the troops who fight as part of it. With that support comes a steady flow of well-trained reinforcements, prepared to fight to defend the Republic."
-  mot_idea_support_from_shady_sands_hanlon:0 "Defence of the Mojave"
-  mot_idea_support_from_shady_sands_hanlon_desc:0 "While Oliver's resignation shocked many in Shady Sands at first, his steadyfast support for Chief Hanlon has ensured the NCR continues to support the Mojave Expedition. Some of Hanlon's tactics may be considered unorthodox, but his reliance on defence and strategic bunkers has persuaded many that he truly is the best mind to lead the Campaign and defend the Mojave."
-  mot_idea_pacification_not_emancipation:0 "Pacification, Not Emancipation"
-  mot_idea_pacification_not_emancipation_desc:0 "The Mojave Campaign is often dubbed the \"§OPacification of the Mojave§!\", and it got that nickname for a reason. Our campaign is primarily militarily motivated: it is our mission to clear the Mojave of raiders, tribes and other threats that stand opposed to the Republic. Sure, if we can help the locals that would be nice, but in this harsh wasteland we must look out for the Republic first and foremost."
-  mot_idea_pacification_not_emancipation_2:0 "Pacification, Not Emancipation"
-  mot_idea_pacification_not_emancipation_2_desc:0 "The Mojave Campaign is often dubbed the \"§OPacification of the Mojave§!\", and it got that nickname for a reason. Our campaign is primarily militarily motivated: it is our mission to clear the Mojave of raiders, tribes and other threats that stand opposed to the Republic. Sure, if we can help the locals that would be nice, but in this harsh wasteland we must look out for the Republic first and foremost."
-  mot_idea_plan_the_offensive:0 "Planning the Operation"
-  mot_idea_plan_the_offensive_desc:0 "It's time to tie together the various angles of attack and formulate a concrete plan. Shady Sands expects results!"
-  mot_khan_raiders:0 "Great Khan Raids"
-  mot_khan_raiders_desc:0 "The Great Khans, based just out of our reach past New Vegas, plague our lands with their warbands. They frequently clash with out troopers, and raid our factories. Something needs to be done about them, sooner rather than later."
-  mot_skimping_treaty:0 "Skimping on the New Vegas Treaty"
-  mot_skimping_treaty_desc:0 "If we just make some *minor* miscalculations on the amount to send to New Vegas, we could save a substantial amount of power..."
-  mot_californian_resiliance:0 "Californian Resiliance"
-  mot_californian_resiliance_desc:0 "Rather than ally with petty, minor powers in the Mojave, we have instead decided to assert our political and diplomatic independence. Plucky Californian spirit will see us through all to come!"
-  mot_rollup:0 "Operation Roll Up"
-  mot_gangers_suck:0 "The Powder Gangers Suck!"
-  mot_flexibility:0 "Flexible Tactics"
-  mot_supply_bonus:0 "Mojave Supply"
-  mot_victory_in_the_mojave:0 "Victory in the Mojave"
-  mot_victory_in_the_mojave_desc:0 "The seemingly endless war in the Mojave has, finally, come to an end. Celebrations are being held across the [NCR.GetName] and for the first time in a while, all is truly good."
-  ncr_takes_power:0 "Diverted Power"
+# Ідеї
+ncr_veg_treaty_of_new_vegas:0 "Договір про Нью-Вегас"
+ncr_veg_treaty_of_new_vegas_desc:0 "Підписаний у 2274 році між §Y[NCR.GetNameWithFlag]§! і §Y[VEG.GetNameWithFlag]§! після переговорів, що послідували за виявленням майже неушкодженої §OГЕС Гувер§!, договір став першим із серії вимушених компромісів, на які довелося піти Республіці в спробі підготуватись до Бика. Хоча НКР отримала контроль над дамбою та військовий доступ до Вегасу, вона мусить передавати 5% енергії Стрипу й не перешкоджати доступу до нього для громадян і військових у відпустці."
 
-  mot_oliv_unpopular_leader:0 "Unpopular Leader"
-  mot_oliv_full_spead:0 "§gFull Speed Ahead§!"
-  mot_oliv_waiting_is_good_actually:0 "§gWaiting Isn't That Bad Actually§!"
-  mot_military_government:0 "§gCorrupted Military Government§!"
+mot_idea_support_from_shady_sands:0 "Підтримка зі Шейді-Сендс"
+mot_idea_support_from_shady_sands_desc:0 "Наша кампанія залежить від сталого потоку солдатів, спорядження та фінансування з уряду Шейді-Сендс. Вони поки не збираються кидати нас, але якщо ми не покажемо результатів, їхній ентузіазм може згаснути."
 
-  mot_han_waste_no_live:0 "§OWaste No Live§!"
-  mot_han_waste_no_live_2:0 "§OWaste No Live§!"
-  mot_han_follower_help:0 "Follower Field Hospitals"
-  mot_han_the_good_fight:0 "The Good Fight"
+mot_idea_support_from_shady_sands_oliver:0 "Найкращі та найсвітліші"
+mot_idea_support_from_shady_sands_oliver_desc:0 "Під керівництвом генерала Олівера, Республіка підтримує експедицію в Мохаве, надсилаючи добре підготовлене підкріплення."
 
-  mot_far_mojave_science:0 "§gLots to Study!§!"
+mot_idea_support_from_shady_sands_hanlon:0 "Оборона Мохаве"
+mot_idea_support_from_shady_sands_hanlon_desc:0 "Хоча відставка Олівера спочатку шокувала Шейді-Сендс, його підтримка Хенлона допомогла зберегти довіру. Його захисна стратегія переконала багатьох у тому, що він — найкращий командир для цього фронту."
 
-  mot_free_no_gods:0 "No Gods, No Masters"
-  mot_free_mojave_rangers:0 "Mojave Rangers"
-  mot_free_soup_kitchens:0 "Freeside Soup Kitchens"
-  mot_free_soup_kitchens_2:0 "Mojave Paradise"
-  mot_free_refugees_from_cali:0 "Refugees From California"
-  mot_free_bull_coming:0 "§RProtect Our Freedom§!"
+mot_idea_pacification_not_emancipation:0 "Покорення, не визволення"
+mot_idea_pacification_not_emancipation_desc:0 "Кампанію в Мохаве часто називають \"§OПокоренням Мохаве§!\", і це не даремно. Наше завдання — усунути рейдерів, племена та загрози, які стоять на шляху Республіки. Якщо пощастить — допоможемо й місцевим, але безпека Республіки — передусім."
 
-  # Tooltips
-  ncr_veg_treaty_of_new_vegas_tt:0 "Whilst the §OTreaty of New Vegas§! is in force, the NCR and its Mojave Expedition have a non-aggression pact in action between themselves and New Vegas. In exchange for guaranteed independence and sovereignty over the Strip, New Vegas must grant the Mojave Expedition military access in and around the city, with the exception of the Strip itself. §RWe cannot cancel any of the Treaty's stipulations individually.§!"
-  mot_review_bittersprings_tt: "Somehow, it doesn't seem that the Khans are gone for good..."
+mot_idea_pacification_not_emancipation_2:0 "Покорення, не визволення"
+mot_idea_pacification_not_emancipation_2_desc:0 "Кампанію в Мохаве часто називають \"§OПокоренням Мохаве§!\", і це не даремно..."
+
+mot_idea_plan_the_offensive:0 "Планування операції"
+mot_idea_plan_the_offensive_desc:0 "Час поєднати всі вектори наступу в єдиний план. Шейді-Сендс чекає на результат."
+
+mot_khan_raiders:0 "Набіги Великих ханів"
+mot_khan_raiders_desc:0 "Хани, що базуються поблизу Вегасу, продовжують нападати на наші землі та фабрики. Це потрібно зупинити."
+
+mot_skimping_treaty:0 "Скорочення витрат на договір"
+mot_skimping_treaty_desc:0 "Трішечки скоригувавши обсяги поставок енергії у Вегас, ми могли б зекономити чимало потужностей..."
+
+mot_californian_resiliance:0 "Каліфорнійська стійкість"
+mot_californian_resiliance_desc:0 "Ми не покладаємося на місцевих васалів. Лише твердість духу Нової Каліфорнії проведе нас крізь бурю."
+
+mot_rollup:0 "Операція «Зачистка»"
+mot_gangers_suck:0 "Порохові виродки"
+mot_flexibility:0 "Гнучка тактика"
+mot_supply_bonus:0 "Постачання Мохаве"
+mot_victory_in_the_mojave:0 "Перемога в Мохаве"
+mot_victory_in_the_mojave_desc:0 "Зрештою, безкінечна війна в пустелі завершилася. По всій [NCR.GetName] святкують перемогу — і вперше за довгий час усе справді добре."
+
+ncr_takes_power:0 "Переадресована енергія"
+
+mot_oliv_unpopular_leader:0 "Непопулярний лідер"
+mot_oliv_full_spead:0 "§gПовний хід уперед§!"
+mot_oliv_waiting_is_good_actually:0 "§gОчікування — це теж стратегія§!"
+mot_military_government:0 "§gКорумпований військовий уряд§!"
+
+mot_han_waste_no_live:0 "§OЖодного зайвого життя§!"
+mot_han_waste_no_live_2:0 "§OЖодного зайвого життя§!"
+mot_han_follower_help:0 "Польові шпиталі Послідовників"
+mot_han_the_good_fight:0 "Справедлива боротьба"
+
+mot_far_mojave_science:0 "§gБагато чого для вивчення§!"
+
+mot_free_no_gods:0 "Ні богів, ні панів"
+mot_free_mojave_rangers:0 "Рейнджери Мохаве"
+mot_free_soup_kitchens:0 "Кухні у Фрісайді"
+mot_free_soup_kitchens_2:0 "Рай Мохаве"
+mot_free_refugees_from_cali:0 "Біженці з Каліфорнії"
+mot_free_bull_coming:0 "§RЗахистити свободу§!"
+
+# Підказки
+ncr_veg_treaty_of_new_vegas_tt:0 "Поки чинний §OДоговір про Нью-Вегас§!, між §YNCR§! і §YNew Vegas§! діє пакт про ненапад. В обмін на визнання суверенітету Стрипу, Вегас має надати нам військовий доступ навколо міста (окрім самого Стрипу). §RМи не можемо скасувати окремі умови договору.§!"
+
+mot_review_bittersprings_tt: "Є відчуття, що Хани ще не сказали останнього слова..."

@@ -1,25 +1,34 @@
 ﻿l_english:
-    bag_expedition_bop:0 "The Power Balance of the Expedition"
-    bag_expedition_desc:0 "The Clash of Egos"
-    bag_expedition_desc_desc:0 "The Expedition, while having one agreed goal to achieve, reclaiming the Boulder Dome, is mainly torn apart by the infighting of egos.\n\n§RThe Academics§! led by Dr. Goddard are the driving force behind the whole concept. They're scientists from the Academy or members of the Followers of the Apocalypse, and they want to rediscover and restore the Boulder Dome. Their posse contains students from the Academy as well.\n\n§gColeridge's Clique§! leader is none other than the General himself and the NCRA personnel loyal to him. The military detachment sent with the Academics mostly favour the General's vision over the scientists, even though it's not true for all of them. While they see the importance of the Dome as well, they have more ambitious plans with Colorado as a whole.\n\n§4Agnes' Posse§!. The mediator between these two massive egos is Dr. Agnes. While she is an ally of Goddard, she presents herself as the woman of the people and is widely accepted and respected by both sides. While she has no ambitions to usurp the power to herself, the "Tandi of Colorado" maybe one day find herself at the helm.\n\n§PThe Radiophobians§! are a ragtag band of bigots and mutant haters, and their backgrounds are similarly diverse. Traumatized soldiers, chem addicts, the Movement held minimal to no power in the Expedition. This didn't stop the Two Egos from using them for their own gain whenever it was deemed beneficial."
-    bag_favour_academics_loyal_soldiers:0 "£BoP_left_texticon  §RFavour §PSoldiers§! Loyal to the Academics§!"
-    bag_favour_academics_loyal_soldiers_desc:0 "While most of our troopers are naturally loyal to the General, several chosen officers do not share the sentiment. Some rivalries, some intellectuals, but primarily the Radiophobians who questions Coleridge's authority. Supporting such radicals could bite us in the rear in the long run, but using their leader to challenge the General could give us an extra step in this race."
-    bag_cause_infighting_in_academics:0 "£BoP_right_texticon  §gSupport the §PRadiophobian§! Scientists§!"
-    bag_cause_infighting_in_academics_desc:0 "While the Academics tries to present themselves as the only united group inside the Expedition, they have their share of dissenters. One of their prominent associates, James, is allied to the Radiophobians. Stoking that narcissistic fools fears will shatter the Academics' illusion of unity."
-    bag_call_some_favours_from_agnes:0 "£BoP_left_texticon  §RCall For Support From §4Agnes§!§!"
-    bag_call_some_favours_from_agnes_desc:0 "While Agnes mediates between the two quasi-leaders of the Expedition, she is known to gravitate towards Goddard. They're almost like a couple without passion or intimacy - decades-old partners solely built on mutual respect and shared scientific values. Asking her to be a little less impartial should be an easy task."
-    bag_challenge_goddard_position:0 "£BoP_right_texticon  §gChallenge Goddards' Position with the §4Posse§!§!"
-    bag_challenge_goddard_position_desc:0 "The scientific community bound for the Dome appears to be united, but numerous low-ranking paper pushers and research assistants would prefer Dr. Agnes at the helm of the ship. "Encouraging" them to voice their concerns would effectively diminish the support behind Goddard."
-    bag_further_cooperation_with_welders_union:0 "£BoP_left_texticon  §RFurther Cooperation with the Welders' Union§!"
-    bag_further_cooperation_with_welders_union_desc:0 "By providing them more seats in our government, we could secure more help from the Union."
-    bag_further_cooperation_with_welders_union_tt:0 "\nModify §YWelders' Support§! by\n£factory_output_texticon  Factory Output: §G+5.00%§!\n£ai_mil_factory_texticon  Military Factory Assistance: §G+1§!\n"
-    bag_coerce_welders_union:0 "£BoP_left_texticon  §gCoerce the Welders' Union§!"
-    bag_coerce_welders_union_desc:0 "There is bad blood between the Union and the 5th Engineering Corps. Whether it's personal or professional differencess, they aren't keen to help. They will work if they're staring down a gun's barrel. Pushing free supporters to Goddard's side is a bad idea in the long run, but we have to win a war here."
-    bag_further_assistance_from_fifth_engineering_corps:0 "£BoP_right_texticon  §gFurther Assistance from the Fifth Engineering Company§!"
-    bag_further_assistance_from_fifth_engineering_corps_desc:0 "By providing them more say in military operations, the Fifth Engineers are ready to expand their explosive workshops and engineering support."
-    bag_further_assistance_from_fifth_engineering_corps_tt:0 "\nModify §YEngineers' Support§! by\n£dig_in_speed_texticon  Entrenchment speed: §G+25.0%§!\n£dig_in_max_texticon  Max Entrenchment: §G+2.5§!\n£ai_mil_factory_texticon  Military Factory Assistance: §G+1§!\n"
-    bag_coerce_the_fifth_engineering_corps:0 "£BoP_right_texticon  §RCoerce the 5th Engineering Company§!"
-    bag_coerce_the_fifth_engineering_corps_desc:0 "There is bad blood between the Union and the 5th Engineering Corps. Whether it's personal or professional differencess, they aren't keen to help more than they have to. While threatening to sideline the army if they're not helping us is harsh, it is the only thing we can do here. This will certainly make the rest of the army support the General, however... "
+  bag_expedition_bop:0 "Баланс сил в Експедиції"
+  bag_expedition_desc:0 "Зіткнення Его"
+  bag_expedition_desc_desc:0 "Експедиція має спільну мету — повернути Купол Боулдера, але насправді вона роздирається внутрішньою боротьбою амбіцій.\n\n§RАкадеміки§!, очолювані доктором Ґоддардом — рушійна сила ідеї загалом. Це науковці з Академії або Послідовників Апокаліпсису, які прагнуть відновити Купол. У їхньому оточенні також є студенти Академії.\n\n§gКліка Колріджа§! — це не хто інший, як сам генерал і персонал НКР, вірний йому. Військовий контингент, відряджений з Академіками, переважно поділяє його бачення майбутнього Колорадо. Хоча вони теж визнають значення Купола, їхні плани амбітніші — охоплюють увесь регіон.\n\n§4Оточення Аґнес§! — посередниця між двома его. Докторка Аґнес, хоч і союзниця Ґоддарда, позиціонує себе як захисниця простих людей. Її поважають і там, і там. Вона не прагне влади, але «Танді Колорадо» може одного дня опинитися за штурвалом.\n\n§PРадіофоби§! — різношерста банда фанатиків і мутантоненависників. Їхнє походження таке ж строкате: травмовані солдати, хіміки, ренегати. Хоча вони майже не мають впливу, обидва лідери використовують їх, коли їм це вигідно."
+
+  bag_favour_academics_loyal_soldiers:0 "£BoP_left_texticon  §RЗаручитися підтримкою §Pсолдатів§!, вірних Академікам§!"
+  bag_favour_academics_loyal_soldiers_desc:0 "Хоча більшість наших солдатів природно тяжіє до генерала, деякі офіцери мають інші погляди. Хтось — конкурент, хтось — інтелектуал, але головне — це Радіофоби, які відкрито ставлять під сумнів авторитет Колріджа. Підтримка таких радикалів може вдарити нам у спину, але використання їхнього лідера проти генерала може дати нам перевагу в перегонах за вплив."
+
+  bag_cause_infighting_in_academics:0 "£BoP_right_texticon  §gРозпалити конфлікт серед §Pакадемічних Радіофобів§!"
+  bag_cause_infighting_in_academics_desc:0 "Академіки люблять здаватися єдиним фронтом, але в них є свої тріщини. Один із їхніх наближених — Джеймс — давно в змові з Радіофобами. Погратися з його страхами та самозакоханістю — й ілюзія єдності розсиплеться."
+
+  bag_call_some_favours_from_agnes:0 "£BoP_left_texticon  §RПопросити §4Аґнес§! про підтримку§!"
+  bag_call_some_favours_from_agnes_desc:0 "Хоч Аґнес офіційно нейтральна, вона тяжіє до Ґоддарда. Їхні стосунки — як у давньої пари без пристрасті, але з повагою й спільними цінностями. Попросити її трохи схилитися в наш бік — справа не складна."
+
+  bag_challenge_goddard_position:0 "£BoP_right_texticon  §gОскаржити позицію Ґоддарда за допомогою §4оточення Аґнес§!§!"
+  bag_challenge_goddard_position_desc:0 "Наукова спільнота, що прямує до Купола, виглядає монолітною, але чимало помічників і лаборантів більше довіряють Аґнес. «Підштовхнути» їх до відкритої критики — і підтримка Ґоддарда зменшиться."
+
+  bag_further_cooperation_with_welders_union:0 "£BoP_left_texticon  §RПоглибити співпрацю з профспілкою зварювальників§!"
+  bag_further_cooperation_with_welders_union_desc:0 "Якщо ми надамо профспілці більше посад у керівництві, зможемо розраховувати на ширшу підтримку з її боку."
+  bag_further_cooperation_with_welders_union_tt:0 "\nЗмінює §YПідтримку зварювальників§!:\n£factory_output_texticon  Вихід фабрик: §G+5.00%§!\n£ai_mil_factory_texticon  Військова допомога: §G+1§!\n"
+
+  bag_coerce_welders_union:0 "£BoP_left_texticon  §gПримусити профспілку зварювальників§!"
+  bag_coerce_welders_union_desc:0 "Між профспілкою та 5-ю інженерною ротою — стара ворожнеча. Особиста чи професійна — не так важливо. Допомагати добровільно вони не хочуть, але під дулом автомата — інша справа. Такий крок може підштовхнути нейтралів до табору Ґоддарда."
+
+  bag_further_assistance_from_fifth_engineering_corps:0 "£BoP_right_texticon  §gЗалучити більше допомоги від 5-ї інженерної роти§!"
+  bag_further_assistance_from_fifth_engineering_corps_desc:0 "Надавши їм більший вплив у військових справах, інженери готові розширити свої майстерні вибухівки й технічну підтримку."
+  bag_further_assistance_from_fifth_engineering_corps_tt:0 "\nЗмінює §YПідтримку інженерів§!:\n£dig_in_speed_texticon  Швидкість укріплення: §G+25.0%§!\n£dig_in_max_texticon  Макс. укріплення: §G+2.5§!\n£ai_mil_factory_texticon  Військова допомога: §G+1§!\n"
+
+  bag_coerce_the_fifth_engineering_corps:0 "£BoP_right_texticon  §RПримусити 5-ту інженерну роту§!"
+  bag_coerce_the_fifth_engineering_corps_desc:0 "Між інженерами та зварювальниками давно точиться неприязнь. Вони не хочуть допомагати більше, ніж повинні. Загроза усунення з військових операцій — це наш єдиний важіль впливу. Але такий крок ще більше зміцнить підтримку генерала серед решти армії..."
+
     bag_expand_gamma_corps:0 "§4Expand the Gamma Corps§!"
     bag_expand_gamma_corps_desc:0 "If we send in Agnes or her little protege, Valentina, to bargain with the Gamma Corps, we could secure more able-bodied ghouls for our frontlines. Of course, this will only make her more popular around here, but that's a price we are able to pay right now."
     bag_field_more_radiophobians:0 "§PField More Radiophobians§!"

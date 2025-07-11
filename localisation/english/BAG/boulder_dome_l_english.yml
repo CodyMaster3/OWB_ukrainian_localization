@@ -142,23 +142,28 @@
    DOME_fourth_level_purification_center_preq_desc: "§YВимога§!\n\nПотрібен ОДИН персонаж із наступною рисою:\n- §YУмілий водяний механік§!\n- §YВетеран-механік§!\nДосліджено технологію:\n- §YБазовий водоносний горизонт§!"
    DOME_fifth_level_emergency_generator_preq_desc: "§YВимога§!\n\nДосліджено технологію:\n- §YПокращений генератор§!"
 
-   #Rewards
-   DOME_first_level_hydroponics_garden_reward_desc:0 "§YReward§!\n\nReduce ahead of time penalty by §G1.0§! years and give a §G50%§! research bonus. Valid for the next §Y1§! researches of these technologies: §YAgriculture§!."
-   DOME_first_level_water_pump_shack_reward_desc:0 "§YReward§!\n\n Modify §YWater Generator§! resource output by: §G+1§!"
+   #Нагороди
+   DOME_first_level_hydroponics_garden_reward_desc: "§YНагорода§!\n\nЗменшує штраф за випередження часу на §G1.0§! року та дає §G50%§! бонус до дослідження. Діє на наступне §Y1§! дослідження в категорії: §YСільське господарство§!."
+   DOME_first_level_water_pump_shack_reward_desc: "§YНагорода§!\n\n Змінює видобуток ресурсу §YВодяний генератор§!: §G+1§!"
+
    #
-   DOME_second_level_sleepers_lab_reward_desc:0 "§YReward§!\n\nBased upon your actions, rewards or punishments may vary."
-   DOME_second_level_weapons_lab_reward_desc:0 "§YReward§!\n\n§Y1.50K§! units of American §YElite Weaponry§! is added to the national stockpile."
-   DOME_second_level_weapons_lab_testing_chamber_reward_desc:0 "§YReward§!\n\nReceive §YGauss Weaponry Schematics§!"
-   DOME_second_level_armour_lab_reward_desc:0 "§YReward§!\n\n§Y2x§! §G50%§! Research bonus for: §YPower Armour Technology§!."
-   DOME_second_level_armour_lab_testing_chamber_reward_desc:0 "§YReward§!\n\nUnlock the §YBoulder Power-Armour Prototype§!"
-   DOME_second_level_code_lab_reward_desc:0 "§YReward§!\n\nA tech bonus for §YMedical Support Technology.§!"
-   DOME_second_level_robobrain_lab_reward_desc:0 "§YReward§!\n\nAdd Extracted Brains:§! §G+45§!"
-   DOME_third_level_rocket_research_reward_desc:0 "§YReward§!\n\n§Y1x§! §G50%§! Research bonus for: §YAir Technology§!.\nUnlock the Focus §YProject: Hermes§!"
-   dome_third_level_robobrain_chassis_research_reward_desc:0 "§YReward§!\n\nYou will receive 250 Robobrains, restored from partial functionality!§!"
-   DOME_fourth_level_water_storage_reward_desc:0 "§YReward§!\n\nGain 6 water in the Boulder state"
-   DOME_fourth_level_reactor_access_reward_desc:0 "§YReward§!\n\n§YAdvanced Power Plant§! technology"
-   DOME_fourth_level_purification_center_reward_desc:0 "§YReward§!\n\n§YAdvanced Aquifer§! technology"
-   DOME_fifth_level_emergency_generator_reward_desc:0 "§YReward§!\n\nA tech bonus for §YPower Station Technology§.§! Fixing this is also necessary to fix the §YReactor Access§! module."
-   #Clues
-   DOME_CLUE_PRISONER:0 "\n§BUnlocked a question about the Prisoner!§!"
-   DOME_CLUE_TIBBETS:0 "\n§BUnlocked a question about Tibbets!§!"
+   DOME_second_level_sleepers_lab_reward_desc: "§YНагорода§!\n\nЗалежно від ваших дій, ви отримаєте нагороду або покарання."
+   DOME_second_level_weapons_lab_reward_desc: "§YНагорода§!\n\nДо національного запасу додано §Y1.50K§! одиниць американської §Yелітної зброї§!."
+   DOME_second_level_weapons_lab_testing_chamber_reward_desc: "§YНагорода§!\n\nОтримано креслення §Yгаус-зброї§!"
+   DOME_second_level_armour_lab_reward_desc: "§YНагорода§!\n\n§Y2x§! §G50%§! бонус до дослідження: §Yтехнологія силової броні§!."
+   DOME_second_level_armour_lab_testing_chamber_reward_desc: "§YНагорода§!\n\nРозблоковано §Yпрототип силової броні Боулдера§!"
+   DOME_second_level_code_lab_reward_desc: "§YНагорода§!\n\nБонус до технології §Yмедичної підтримки§!."
+   DOME_second_level_robobrain_lab_reward_desc: "§YНагорода§!\n\nДодано видобуті мізки: §G+45§!"
+
+   DOME_third_level_rocket_research_reward_desc: "§YНагорода§!\n\n§Y1x§! §G50%§! бонус до дослідження: §Yавіаційні технології§!.\nРозблоковує фокус §YПроєкт: Гермес§!"
+   dome_third_level_robobrain_chassis_research_reward_desc: "§YНагорода§!\n\nОтримано 250 робомозків, відновлених до часткової функціональності!§!"
+
+   DOME_fourth_level_water_storage_reward_desc: "§YНагорода§!\n\nОтримано 6 одиниць води в регіоні Боулдер"
+   DOME_fourth_level_reactor_access_reward_desc: "§YНагорода§!\n\nРозблоковано технологію §YПокращена електростанція§!"
+   DOME_fourth_level_purification_center_reward_desc: "§YНагорода§!\n\nРозблоковано технологію §YПокращений водоносний горизонт§!"
+
+   DOME_fifth_level_emergency_generator_reward_desc: "§YНагорода§!\n\nБонус до дослідження §Yтехнології електростанцій§!.\nВідновлення генератора необхідне для ремонту модуля §YДоступ до реактора§!."
+
+   #Підказки
+   DOME_CLUE_PRISONER: "\n§BРозблоковано запитання про В’язня!§!"
+   DOME_CLUE_TIBBETS: "\n§BРозблоковано запитання про Тіббетса!§!"
