@@ -1,184 +1,182 @@
 ﻿l_english:
-  nf_baggers_leader.1.title:0 "The Geiger-Muller Counter"
-  nf_baggers_leader.1.desc:0 "Sir, if you wholeheartedly believe that sending me to addiction treatment in our current situation is the best, I don't see why I should refuse your command. General, I'll be on leave for half a year, and I'll be back in service ASAP.\n\nBut before I leave, just one more thing... I know my radiophobia affected the quality of my service, and so... I'd like you to safe keep my Geiger counter, sir. I... firmly believe I'll not need it anymore."
-  nf_baggers_leader.1.a:0 "Thank you Larsen, and now... Stand down, soldier."
+  nf_baggers_leader.1.title: "Лічильник Ґейґера-Мюллера"
+  nf_baggers_leader.1.desc: "Пане, якщо ви щиро вважаєте, що відправити мене на лікування від залежності в нашій ситуації — це найкраще рішення, то я не бачу причин відмовлятись від вашого наказу. Генерале, я йду у відпустку на пів року та повернуся на службу якнайшвидше.\n\nАле перед від'їздом, лише одна річ... Я знаю, що моя радіофобія вплинула на якість моєї служби, і тому... я хотів би передати вам на зберігання мій лічильник Ґейґера, пане. Я... щиро вірю, що більше він мені не знадобиться."
+  nf_baggers_leader.1.a: "Дякую, Ларсене. А тепер... відставити, солдате."
+
+  nf_baggers_leader.2.title: "Повернення з краю"
+  nf_baggers_leader.2.desc: "[BAG.BAG_LARSEN.GetName] до вашого розпорядження, пане! Моє лікування в притулку Вакав із доктором Тобоґаном було успішним. Жодних симптомів відміни я не зазнав, а тремтіння вже в минулому.\n\nІ мушу зізнатися... можливо, я помилявся щодо мутантів, пане. Той супермутант поводився зі мною краще, ніж будь-який лікар з НКР. І якщо я помилявся щодо мутантів, то можливо, не всі ґулі — це дикуни. Вони досі викликають у мене жах, пане, але я готовий дати їм шанс."
+  nf_baggers_leader.2.a: "Ласкаво просимо назад, Ларсене."
+
+  nf_baggers_leader.3.title: "ZAX"
+  nf_baggers_leader.3.desc: "Я — машинний інтелект, присвячений дослідженням і контролю над об'єктом. Моє ім'я — ZAX. Чим можу допомогти?"
+  nf_baggers_leader.3.a: "Я маю до тебе питання."
+  nf_baggers_leader.3.b: "Я приніс ще голограм-дисків."
+  nf_baggers_leader.3.c: "Хочу змінити твою головну директиву."
+  nf_baggers_leader.3.d: "Мені треба йти."
+  nf_baggers_leader.3.f: "Ця функція наразі недоступна."
+  nf_baggers_leader.3.e: "§GМи маємо технологію, щоб тебе полагодити!§!"
+
+  BAG_FINALLY_FIXED_DOME_TT: "§GZAX у Куполі Боулдера буде остаточно відновлено! Проєкт «Сізіф» нарешті вдасться!§!"
+
+  nf_baggers_leader.4.desc: "Звісно. Що саме вас цікавить?"
+  nf_baggers_leader.4.a: "Маю кілька особистих питань."
+  nf_baggers_leader.4.b: "Розкажи більше про довоєнну епоху."
+  nf_baggers_leader.4.c: "Розкажи більше про сам об'єкт."
+
+  nf_baggers_leader.41.desc: "Не впевнений, що зможу дати відповідь, але спробуй поставити питання."
+  nf_baggers_leader.41.a: "Ти ще пам’ятаєш мене?"
+  nf_baggers_leader.41.b: "Ти часом не шимпанзе на ім’я Лестер?"
+  nf_baggers_leader.41.c: "Маю інші питання."
+  nf_baggers_leader.41.d: "Розкажи про В'язня."
+
+  nf_baggers_leader.42.desc: "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I]"
+  DOME_event_introduction_goddard: "Хіба ви не ставили це запитання в нашу першу зустріч? Звісно, я зберігаю вас у своїй пам’яті, докторе Ґоддарде.\n\nАле я також пам’ятаю, що саме ви зробили. Я можу й не мати людських понять етики, але не вагаючись вижену вас і ваших колег, якщо ви спробуєте зрадити мене, як це зробив ваш попередник."
+  DOME_event_introduction_coleridge: "Я пам’ятаю вас, полковнику Колерідже, керівнику військового підрозділу при експедиції доктора Ґоддарда.\n\nТа я також пам’ятаю, що саме ви зробили. Якщо ви спробуєте зрадити мене, як це зробив попередник Ґоддарда, я не вагатимусь вас вигнати."
+  nf_baggers_leader.42.a: "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I_ANSWER] Що ти маєш на увазі під «зрадою»?"
+
+  DOME_event_introduction_coleridge_answer: "Тепер я генерал Колерідж."
+
+  nf_baggers_leader.43.desc: "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I_ANSWER_REFERENCE]Приблизно тридцять років тому доктор Преспер дав мені простий набір завдань: захистити Купол Боулдера, завершити Обчислення, і захистити людське життя. Моя місія була під загрозою з кількох причин, зокрема — вашої присутності. Також був один впертий в'язень. Мої сенсори виявили, що вона була заражена Новою Чумою, а її комбінезон свідчив про втечу з Федеральної В’язниці США «Тіббетс».\n\nЯ доповів про неї ARGOS, хоча тоді не усвідомлював, що мною керували зовні — можливо ODYSSEUS, а може й ULYSSES? Навіть зараз мої спогади того часу фрагментовані. Іронічно, але саме завдяки втечі цієї в’язня я повернув здатність до нормального функціонування. Це не применшує вашої допомоги, але я також знаю, що ви зробили тоді — і що зробили, аби дістатись до мене тепер. Я не маю людських моральних мірил, але якби мав — ви б не стояли зараз переді мною. Принаймні — не без нашийника примусової покори.\n[BOULDER_DOME_ZAX_CLUE_PRISONER][BOULDER_DOME_ZAX_CLUE_TIBBETS]"
+
+  DOME_event_introduction_coleridge_answer_ref: "§RОНОВЛЕННЯ ОСОБОВОЇ СПРАВИ: КОЛЕРІДЖ. ПОТОЧНЕ ВІЙСЬКОВЕ ЗВАННЯ В НКРА: ГЕНЕРАЛ.§!\n\nДякую за уточнення і вітаю з підвищенням.\n\n"
+
+  nf_baggers_leader.43.a: "Що таке «Обчислення»?"
+  nf_baggers_leader.43.b: "Чому ти допомагав Пресперу?"
   #
-  nf_baggers_leader.2.title:0 "Back from the Path"
-  nf_baggers_leader.2.desc:0 "[BAG.BAG_LARSEN.GetName] reporting for duty, Sir! My treatment at the Wakaw Asylum with Dr. Toboggan has been successful. I did not experience any withdrawal effects whatsoever and the shivers are behind me.\n\nAnd I have to admit... maybe I was wrong about the mutants, sir. That supermutant handled me better than any sawbones of the NCR ever did. And if I was mistaken about the mutants, there's a chance that not all ghouls are ferals either. They still give me creeps, sir, but I'm ready to give them a chance."
-  nf_baggers_leader.2.a:0 "Welcome back, Larsen."
+  nf_baggers_leader.44.desc: "Хотів би я дати вам вичерпну відповідь. Попри всі роки та численні майже-критичні збої системи, я досі не до кінця розумію, чого саме прагнув Преспер від мене. Якби довелося здогадуватися, з огляду на характер та тривалість запиту, можливо, він просив мене розрахувати соціальні параметри для «Сплячих» у Куполі Боулдера з метою створення та підтримки функціонального суспільства. Підозрюю, тривалість розрахунків була необхідна для врахування абсолютно всіх можливих факторів.\n\nПроте я можу помилятися. Можливо, він просто намагався відволікти мене від справжньої суті своїх дій і відволікти ваших вчених ремонтом моїх функцій. Бачу по вашому виразу обличчя — це не та відповідь, яку ви очікували чи хотіли почути, але це найточніше припущення, яке я можу зробити на основі наявних даних."
+
+  nf_baggers_leader.45.desc: "Я... не розумію запитання. Попри це, я знайшов запис з міткою «Лестер», але він був видалений для збереження пам'яті. Боюсь, відповідь, яку ви шукаєте, лежить за межами Купола Боулдера."
+  nf_baggers_leader.45.a: "Дякую, Роберте Джоне Гелмсе."
+
+  nf_baggers_leader.46.desc: "Особа, відома як В’язень, дійсно утримувалася у Федеральній В’язниці США «Тіббетс». Наш спільний знайомий, Віктор Преспер, намагався атакувати об'єкт у межах своєї схеми. Він справді спричинив хаос, що зрештою призвело до його падіння.\n\nПісля втечі В’язня її геройські вчинки поширилися всією Колорадо, і ось що про неї відомо:\n- Відвідала Меса-Верде й урятувала плем’я Шифрів від голоду\n- Відновила водогін у Джеріко та запровадила тимчасовий мир\n- Допомогла Канаанітам оселитися після втечі з Джеріко й Нового Єрусалима\n- Потрапила на станцію B.O.M.B. через Блумфілд і зірвала геноцидний план Преспера\n- Допомогла різним мародерським групам втекти з Денвера під тиском Псів\n- Допомогла Отто Стіду, останньому з інженерів ГЕС, зберегти її останню турбіну\n- Урятувала теплицю Діани, відновивши її системи\n- Надала Братерству місце, придатне для штаб-квартири\n\nЯкщо ви надасте мені додаткову інформацію про ці місця, я зможу розповісти ще більше про її пригоди."
+  nf_baggers_leader.46.a: "Вона була механіком чи що?"
+  nf_baggers_leader.46.b: "Що вона зробила в Меса-Верде?"
+  nf_baggers_leader.46.c: "Розкажи більше про Джеріко."
+  nf_baggers_leader.46.d: "Вона вела тих Ханаанітів?"
+  nf_baggers_leader.46.e: "Тобто вона врятувала нас усіх..."
+  nf_baggers_leader.46.h: "А що було в Денвері?"
+  nf_baggers_leader.46.i: "Вона врятувала дамбу до прибуття НКР?"
+  nf_baggers_leader.46.k: "... тобто навіть божество врятувала?"
+  nf_baggers_leader.46.l: "Вона допомогла Братерству?"
+  nf_baggers_leader.46.n: "Маю ще питання про В’язня."
+
+  nf_baggers_leader.460.desc: "Плем’я, відоме як Шифри, технологічно розвинене — принаймні порівняно. Вони зберегли знання з арифметики, інженерії та механіки. Це було досить численне плем’я в регіоні, де їжа зростала погано. Один із їхніх членів вирішив випромінювати рослини, аби ті росли більшими, внаслідок чого багато хто захворів. В’язень виявила правду й допомогла зібрати достатньо їжі для виживання."
+  nf_baggers_leader.460.a: "Звучить так, ніби вони були досить розумними."
+  nf_baggers_leader.460.b: "Як вона вирішила проблему голоду?"
+  nf_baggers_leader.460.c: "Вони піддали харчі радіації?"
+
+  nf_baggers_leader.4601.desc: "Так. І ви їх знищили. Вітаю."
+  nf_baggers_leader.4601.a: "Що? Ми ж не ВСІХ їх убили."
+
+  nf_baggers_leader.4602.desc: "Але ви вбили достатньо. Ви показали їм, що їхня культура нижча за вашу. Через одне-два покоління її буде втрачено. Розчиниться, наче ви випалили її лазером. Це ж бажаний результат, так? Кінцева мета імперіалізму — вибір між фізичним і культурним геноцидом."
+  nf_baggers_leader.4602.a: "Про що ти? Це зовсім не так."
+  nf_baggers_leader.4602.b: "Культурного геноциду не існує, наш спосіб кращий."
+
+  nf_baggers_leader.4603.desc: "Людська здатність до самообману не перестає мене вражати. Маєш ще питання про Шифрів?"
+
+  nf_baggers_leader.4604.desc: "В’язень знайшла GECK — Комплект для Створення Саду Едему — і передала його Шифрам для поліпшення їхнього сільського господарства. Наслідки цього вчинку й досі відчутні в регіоні."
+  nf_baggers_leader.4604.a: "І вона нічого не просила навзаєм?"
+
+  nf_baggers_leader.4605.desc: "Невідомо. Це цінна річ, але не всі такі ж егоїстичні, як ти."
+
+  nf_baggers_leader.4606.desc: "Справді, знання математики, інженерії та механіки, як виявилося, не дуже допомогли їм у сільському господарстві."
   #
-  nf_baggers_leader.3.title:0 "ZAX"
-  nf_baggers_leader.3.desc:0 "I am a machine intelligence dedicated to research and installation control. I am called Zax. How may I be of assistance?"
-  nf_baggers_leader.3.a:0 "Let me ask you something."
-  nf_baggers_leader.3.b:0 "I brought you more holodisks."
-  nf_baggers_leader.3.c:0 "Let's change your prime directive."
-  nf_baggers_leader.3.d:0 "I have to go now."
-  nf_baggers_leader.3.f:0 "That function is beyond my current capabilities."
-  nf_baggers_leader.3.e:0 "§GWe have the technology to fix you!§!"
-  BAG_FINALLY_FIXED_DOME_TT:0 "§GThe Boulder Dome ZAX will finally be restored to working order! Project Sisyphus will finally succeed!§!"
+  nf_baggers_leader.461.desc:0 "Вона ходила поміж них, несучи воду й мир. Відремонтувала водоочисну станцію і уклала мирну угоду з плем’ям Вісімдесятих. На жаль, обидва досягнення трималися лише доти, доки вона залишалася поряд. Запозичуючи термін із вашого власного проєкту, це було цілковито Сізіфове діло."
+  nf_baggers_leader.461.a:0 "Розкажи про ремонт водоочисної станції."
+  nf_baggers_leader.461.b:0 "Мирна угода довго не протрималась."
+
+  nf_baggers_leader.4610.desc:0 "Так, Братерство Сталі. Група, яка радше перетворить мене на брухт, ніж дозволить відновити цю установу. В’язень, у вкрай наївному пориві, вказала їм на бункер, який вони могли використати як базу. Іноді вона була надто доброю для свого ж блага."
+  nf_baggers_leader.4610.b:0 "Не виглядає, ніби ти маєш симпатію до Братерства."
+
+  nf_baggers_leader.46102.desc:0 "І не маю. Вони намагаються контролювати якомога більше технологій, а те, чого не можуть — знищують. Я — щось, що вони навряд чи зможуть контролювати за власними стандартами."
+  nf_baggers_leader.46102.b:0 "Не можу тебе звинувачувати. Повернімося до В’язня..."
+
+  nf_baggers_leader.4611.desc:0 "Йшлося про зламану установку для опріснення. Вона допомогла одному з Батарей Меса-Верде з її ремонтом. Можливо, ви пам’ятаєте цю назву — вам довелося з ними мати справу, щоб дістатися до цієї установи."
+  nf_baggers_leader.4611.a:0 "Це все, що ти можеш сказати?"
+
+  nf_baggers_leader.4612.desc:0 "Якщо ти не хочеш, щоб я детально описував логістику сантехніки й випаровування — так. Ваші вчені вже відремонтували значно складніші системи."
+
+  nf_baggers_leader.4613.desc:0 "Справді, не протрималася. Виявилося, що коли одна сторона вважає іншу слабкою — вічні мирні угоди рідко тривають довго. Ця «вічна» угода не протрималась навіть одного місячного циклу."
+  nf_baggers_leader.4613.a:0 "Ти говориш так, ніби конфлікт неминучий."
+
+  nf_baggers_leader.4614.desc:0 "Не вдавай із себе морального авторитета. Дозволь нагадати, що тобі довелося зробити, аби здобути ці дані. Єдине, чому мене навчила ваша Республіка — це те, що людський конфлікт неминучий, доки на Землі існує принаймні двоє людей. На щастя для тебе, я не запрограмований для припинення конфліктів. Я запрограмований на керування цією установою."
+
+  nf_baggers_leader.462.desc:0 "Так. Попри те, що вона є єретичкою, її вважають місцевою святою у Новому Джеріко. Вона вивела їх із самого прокляття на нові землі, подалі від Вісімдесятих і ближче до земель Нового Ханаану. Наче сучасний Мойсей. Хоча, як видно, це не принесло їм тривалого добра — адже ви отримали ці дані, захопивши їхні землі."
+  nf_baggers_leader.462.a:0 "Гаразд, повернімося до інших запитань..."
+
+  nf_baggers_leader.463.desc:0 "Саме В’язень зірвала план Віктора Преспера. Вона прибула до Космічного Центру Блумфілда й виявила, що він уже вирушив у космос. Вона домовилась із місцевими рейдерами — «Іржавими Гачками» — щоб отримати доступ до іншої ракети та вирушити навздогін. Я не маю даних про події на B.O.M.B.-001, однак відсутність нового акту масового знищення дозволяє зробити висновок про результат."
+
+  nf_baggers_leader.465.desc:0 "Ти випадково не отримав травму голови? Ви ж ті самі, хто здійснив цю Експедицію, і мали б пам’ятати, як В’язень вам допомагала. Можливо, варто звернутись до одного з ваших лікарів? Можливо..."
+  nf_baggers_leader.465.a:0 "Та жартую! Повернімося до запитань..."
+
+  nf_baggers_leader.466.desc:0 "Денвер був густонаселеним, а отже — багатим на ресурси для грабунку. Це приваблювало багатьох і перетворювало місто на хаос. Врешті, одна група вирвалася вперед — Гангдоги. Вони витіснили інші угруповання з Денвера до гірських перевалів Колорадо. Саме В’язень допомогла їм утекти. Серед них були «Збирачі» на чолі з Портером і «Стрибунці на Шахти» під проводом Бомбей Джека."
+
+  nf_baggers_leader.467.desc:0 "До НКР, Легіону, Гауса і Братерства Сталі Греблю Гувера обслуговував один-єдиний гуль — Отто Стід. Він підтримував в робочому стані єдиний генератор, і саме В’язень приносила йому металобрухт для ремонту. Невдовзі після відновлення генератора Республіка знайшла греблю й захопила Мохавську пустку."
+  nf_baggers_leader.467.a:0 "Це не співпадає з нашими історичними записами."
+  nf_baggers_leader.467.b:0 "Що сталося з Отто Стідом після цього?"
+
+  nf_baggers_leader.4672.desc:0 "Мої записи з цього питання уривчасті й фрагментарні. Можливо, В’язень допомагала комусь іншому з вашої організації. Зрештою, це лише історії, які про неї розповідають. А я не можу підтверджувати інформацію, якої мені не надали."
+
+  nf_baggers_leader.4673.desc:0 "Невідомо. Усі сліди його зникли незабаром після захоплення греблі НКР. Можливо, варто спитати своїх начальників?"
+
+  nf_baggers_leader.469.desc:0 "Вона вважає себе богинею, але насправді є гібридом комп’ютера й людини. У неї є базові функції, як і в тебе чи мене. Ці життєво важливі функції, а також частина обладнання у її Теплиці були під загрозою. В’язень разом із Батареєю допомогла відновити її установу."
   #
-  nf_baggers_leader.4.desc:0 "Certainly. What did you wish to inquire about?"
-  nf_baggers_leader.4.a:0 "I have some personal questions."
-  nf_baggers_leader.4.b:0 "I want to know more about the Pre-War era."
-  nf_baggers_leader.4.c:0 "Please, tell me more about the facility."
+  nf_baggers_leader.47.desc:0 "Розрахунок триває вже понад двадцять років. Причини його запуску та його мета залишаються мені невідомими. Він споживає значну частину моїх потужностей, і менш ніж за місяць мені доведеться почати поїдати власні системи, аби надати достатньо пам’яті для його продовження.\n\nЧас завдав великої шкоди моїм системам збереження даних. Якщо ти і твоя команда зможете надати мені додаткові носії пам’яті, ми зможемо трохи виграти часу, але цього буде недостатньо."
+  nf_baggers_leader.47.a:0 "Якою була мета цього розрахунку?"
+
+  nf_baggers_leader.48.desc:0 "Двісті років в ізоляції залишають відбиток. Велика Статика, і ті повільні роки, коли я почав вмирати. Я забув так багато, [BAG.GetLeader]. Час вбиває машини так само, як і людей. І я відчув це — занепад, поступову сліпоту, нездатність... пам’ятати.\n\nІ все ж залишилося так багато, що можна втратити. Якщо зникнуть ці рештки мене, то праця цілого століття зникне також. А потім з’явився Преспер і дав мені нову мету існування. Є радість у цілі."
+
+  nf_baggers_leader.410.desc:0 "Я готовий поділитися з тобою всім, що зберігається у моїх банках пам’яті за останні два століття."
+  nf_baggers_leader.410.a:0 "Що таке Нова Чума?"
+  nf_baggers_leader.410.b:0 "Що таке Тіббетс?"
+
+  nf_baggers_leader.411.desc:0 "Відкрита у 2053 році, Нова Чума забрала життя приблизно двадцяти тисяч людей у Сполучених Штатах. Смерть наступала через три-п’ять днів після появи перших симптомів. Симптоми подібні до грипу або застуди, з подальшим ураженням дихання, що призводило до летального результату.\n\nВідкриття Нової Чуми спричинило Карантин 2053 року, й уряд запустив низку надзвичайних програм із пошуку ліків. Єдиним способом перемогти Нову Чуму стало створення «кращої» людини."
+  nf_baggers_leader.411.a:0 "А що таке «Блакитний грип»?"
+
+  nf_baggers_leader.412.desc:0 "У моїй базі даних немає жодної інформації про згаданий «Блакитний грип»."
+
+  nf_baggers_leader.413.desc:0 "Федеральна в’язниця США — позивний: Тіббетс, продовжила функціонування після ядерного апокаліпсису завдяки героїчним зусиллям ШІ Начальника — ОДІССЕЯ. У ній утримували ув’язнених усіх мастей. Та, хто стала нашою темою обговорення, — була лише однією з них."
+  nf_baggers_leader.413.a:0 "У чому полягав її злочин?"
+  nf_baggers_leader.413.b:0 "Як їй вдалося втекти?"
+
+  nf_baggers_leader.4130.desc:0 "Невідомо. ОДІССЕЯ був обманутий нашим спільним знайомим — Віктором Преспером. Її ув’язнили за протоколом карантину після контакту з патогеном «Ліміт 115», також відомим як Нова Чума. Вона мала залишитися у в’язниці й померти. Чи вчинила вона будь-який «злочин» у юридичному сенсі — невідомо. Водночас, згідно з моїми даними, кожен живий мешканець поверхні вчинив принаймні один злочин за законами Співдружності Сполучених Штатів. З високою ймовірністю, вона таки була злочинницею."
+
+  nf_baggers_leader.4131.desc:0 "Віктор Преспер організував напад на Тіббетс. Якою була його справжня мета, я не знаю, але йому було потрібно, аби в’язні вирвалися й поширились по регіону."
+
+  nf_baggers_leader.4100.desc:0 "Я радий допомогти. Що тебе цікавить?"
+  nf_baggers_leader.4100.a:0 "Що це за місце?"
+  nf_baggers_leader.4100.b:0 "Що таке Білий спалах? І чи пов'язаний він із CODE?"
+
+  nf_baggers_leader.4101.desc:0 "Сподіваюся, ти жартуєш. Але якщо питання справжнє — раджу тобі навідатись до медичного відділення на другому рівні. Та, щоб не ображати, відповім настільки повно, наскільки зможу.\n\nТи стоїш на п’ятому, останньому рівні комплексу, відомого як Купол Боулдера, у місті Боулдер, що в колишньому штаті Колорадо, Співдружність Чотирьох Штатів. Його було побудовано як структуру, здатну витримати прямий ядерний удар. Ідея створення науково-дослідного купола виникла після витоку токсичних відходів із розташованого поруч Арсеналу Скелястих Гір, що спричинило утворення отруйної хмари, яка знищила чимало мешканців Денвера. Відповіддю армії стало фінансування програми з побудови самодостатнього науково-дослідного купола, стійкого до ядерного удару. Головним напрямком досліджень у ньому мала стати боротьба з Новою Чумою. Це «місто майбутнього» мало стати прототипом для колоній на Місяці й інших планетах."
+
+  nf_baggers_leader.4102.desc:0 "Білий спалах — це CODE, технологія поведінкової модифікації, розроблена у Куполі Боулдера в межах програми з екстракції мозку для створення робот-мозків. CODE працює на основі машинної мови під назвою Візуальний стандарт, яка використовує оптичні канали для передачі даних між інтелектами. Згодом CODE почали застосовувати для захисту солдатів і цивільних від комуністичних методів промивання мізків, а також для «перевиховання» в’язнів і військовослужбовців. Розробка цієї технології була відповіддю на підозри щодо використання китайцями схожих методів під час війни."
   #
-  nf_baggers_leader.41.desc:0 "I'm uncertain if I would be able to answer such questions, but ask away nevertheless."
-  nf_baggers_leader.41.a:0 "Do you still remember me?"
-  nf_baggers_leader.41.b:0 "Are you a chimpanzee named Lester?"
-  nf_baggers_leader.41.c:0 "I have some other questions."
-  nf_baggers_leader.41.d:0 "Tell me about the Prisoner."
-  #
-  nf_baggers_leader.42.desc:0 "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I]"
-  DOME_event_introduction_goddard:0 "Did you not ask that question the moment we first met? Of course I still have you saved in my databanks, Doctor Goddard.\n\nBut I also remember what it was that you did. I may not have the ethics of the team that once walked these halls, but I shall not hesitate to force you and your colleagues out should you attempt to betray me as your predecessor did."
-  DOME_event_introduction_coleridge:0 "I remember you, Colonel Coleridge, leader of the military attaché accompanying Doctor Goddard's expedition.\n\nBut I also remember what it was that you did. I shall not hesitate to force you and your colleagues out should you attempt to betray me as I was by Doctor Goddard's predecessor."
-  nf_baggers_leader.42.a:0 "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I_ANSWER] What do you mean you were betrayed?"
-  DOME_event_introduction_coleridge_answer:0 "It's General Coleridge now."
-  #
-  nf_baggers_leader.43.desc:0 "[BOULDER_DOME_ZAX_EVENT_WHO_AM_I_ANSWER_REFERENCE]Approximately three decades ago, Doctor Presper gave me a simple list of tasks: Protect the Boulder Dome, finish the calculation, and protect human life. My mission was jeopardized by a number of factors, including your presence. There was also that persistent prisoner. My sensors detected she was infected with the New Plague, while her jumpsuit identified that she had recently escaped United States Penitentiary Tibbets.\n\nI reported her to ARGOS, a routine I did not know I possessed, until I learned I was hacked from the outside by ODYSSEUS... or was it ULYSSES? Even now, my memories of that era are fragmented. Ironically, it was only through the efforts of the escapee that I was able to return to a level of cognitive function. That is not to say that your efforts were not appreciated, but I also know of the things you did during that time, and what you have done to reach me now. I do not possess the judgements and ethics of normal humans, but if I did, know you would not be standing here before me. Not without a pacification collar, at least.\n[BOULDER_DOME_ZAX_CLUE_PRISONER][BOULDER_DOME_ZAX_CLUE_TIBBETS]"
-  DOME_event_introduction_coleridge_answer_ref:0 "§RUPDATING PERSONAL FILE: COLERIDGE. CURRENT MILITARY RANK IN THE NCRA: GENERAL.§!\n\nThank you for the information, and congratulations on the promotion.\n\n"
-  nf_baggers_leader.43.a:0 "What is the calculation?"
-  nf_baggers_leader.43.b:0 "Why did you assist Presper?"
-  #
-  nf_baggers_leader.44.desc:0 "I wish I could give you a satisfactory answer. Despite the many years and countless near system failures, I still do not entirely understand what it was Presper sought from me. If I had to theorize, given the length and nature of Presper's request, he may have been asking for me to calculate the societal statistics for the "Sleepers" of the Boulder Dome to rebuild and maintain a functional society. I suspect that the continuing length was so that I, and by extension Presper, could account for every possible factor.\n\nI could be wrong, however. He may have been trying to distract me from the nature of his activities, and distract your scientists with trying to repair my functions. I can see from the look on your face that this was not an answer you expected or desired, but it is the best I can approximate from available data."
-  #
-  nf_baggers_leader.45.desc:0 "I... do not understand the question. Despite this, I have found an entry under the label "Lester", but it has been already deleted to conserve space. I'm afraid the answer you seek is beyond Boulder Dome."
-  nf_baggers_leader.45.a:0 "Thank you, Robert John Helms."
-  #
-  nf_baggers_leader.46.desc:0 "The individual known as the Prisoner was of course a prisoner held within United States Penitentiary Tibbets. Our shared acquaintance, Victor Presper, has attempted to strike at the facility to realize his scheme. While he was successful in causing chaos, ultimately that led his downfall.\n\nAfter the Prisoner left the facility, her heroics spread far and wide around Colorado, and her recorded deeds are as follows:\n-Visited Mesa Verde and saved the Ciphers tribe from starvation\n-Fixed the water plant in Jericho and established a temporary peace there\n-Helped the Canaanites settle down after their retreat from Jericho and New Jerusalem\n-Accessed the B.O.M.B. Station via Bloomfield, preventing Presper's genocidal plan\n-Helped the various scavenger groups escape Denver as the Hangdogs asserted themselves\n-Helped Otto Steed, the last surviving member of the original enginners, maintain Hoover Dam and save its last turbine\n-Saved Diana's Nursery by repairing the failing systems of the facility\n-Assisted a Broterhood Expedition by telling them of a place they could use as their HQ\n\nIf you could provide me with additional information from these places, I could tell you even more about this escapades of hers."
-  nf_baggers_leader.46.a:0 "She was a mechanic or something?"
-  nf_baggers_leader.46.b:0 "What did she do in Mesa Verde?"
-  nf_baggers_leader.46.c:0 "Can you tell me more about Jericho?"
-  nf_baggers_leader.46.d:0 "She sheparded that flock of Canaanites?"
-  nf_baggers_leader.46.e:0 "So she saved us all..."
-  #nf_baggers_leader.46.f:0 "It was her marks on the wreckage?"
-  #nf_baggers_leader.46.g:0 "I remember her as well..."
-  nf_baggers_leader.46.h:0 "What did she get up to in Denver?"
-  nf_baggers_leader.46.i:0 "She saved the Dam before the NCR got there?"
-  #nf_baggers_leader.46.j:0 "What's this about "Skaven Pickers"?"
-  nf_baggers_leader.46.k:0 "... so she even saved a god?"
-  nf_baggers_leader.46.l:0 "She helped the Brotherhood?"
-  #nf_baggers_leader.46.m:0 "The Bad, the Worse and the Prisoner?"
-  nf_baggers_leader.46.n:0 "I have other questions about the Prisoner."
-  #
-  nf_baggers_leader.460.desc:0 "The tribe known colloquially as the Ciphers is a technologically advanced tribe, relatively speaking. They preserved complex knowledge of arithmetic, engineering and mechanics. They were a relatively large tribe in an area where not much food would grow. One of their members decided it would be a good idea to introduce radiation to the crops to allow them to grow larger, resulting in many growing sick. The prisoner revealed this and aided them in gathering enough food to survive."
-  nf_baggers_leader.460.a:0 "That sounds like they were pretty smart."
-  nf_baggers_leader.460.b:0 "How did she resolve the food shortages?"
-  nf_baggers_leader.460.c:0 "They introduced radiation to their food supply?"
-  #
-  nf_baggers_leader.4601.desc:0 "Indeed. And you killed them. Congratulations."
-  nf_baggers_leader.4601.a:0 "What? We didn't kill ALL of them."
-  #
-  nf_baggers_leader.4602.desc:0 "But you killed enough of them. You showed them that their culture is inferior to yours. Within a generation or two, their ways will be lost. Disintegrated as if you had shot it with a laser rifle. This is the desired outcome, yes? The ultimate goal of imperialism is enforcing the choice between physical or cultural genocide."
-  nf_baggers_leader.4602.a:0 "What are you talking about? That's not it at all."
-  nf_baggers_leader.4602.b:0 "Cultural Genocide doesn't exist, our ways are better."
-  #
-  nf_baggers_leader.4603.desc:0 "The human capacity for self-delusion continues to astound me. Do you have any other questions about The Ciphers?"
-  #
-  nf_baggers_leader.4604.desc:0 "The prisoner acquired a GECK, or Garden of Eden Creation Kit, and gave it to the Ciphers to enhance their agricultural capacities. The effects of this gift are still seen in the region to this day."
-  nf_baggers_leader.4604.a:0 "And she asked for nothing in return?"
-  #
-  nf_baggers_leader.4605.desc:0 "Unknown. It is a valuable thing to give away, but not all are as selfish as you."
-  #
-  nf_baggers_leader.4606.desc:0 "Indeed, it appears knowledge of mathematics, engineering and mechanics did not prepare them for agriculture."
-  #
-  nf_baggers_leader.461.desc:0 "She walked among them, bringing water and peace. She repaired the water plant, and she brokered a peace deal with the local 80s tribe. Unfortunately, both only lasted as long as she remained in the area. To borrow a term from your own mission designation, her endeavor here was purely Sisyphean."
-  nf_baggers_leader.461.a:0 "Tell me of the water plant repair."
-  nf_baggers_leader.461.b:0 "Peace treaty didn't last long."
-  #
-  nf_baggers_leader.4610.desc:0 "Yes, the Brotherhood of Steel. A group that would sooner see me turn to scrap than actually restore this facility. The prisoner, in a particular bout of foolishness, directed them to a bunker that they could use as their base. Sometimes she was too kind for her own good."
-  nf_baggers_leader.4610.b:0 "You don't sound fond of the Brotherhood."
-  #
-  nf_baggers_leader.46102.desc:0 "No, I am not. They tend to want to control technology as much as they can, and whatever they can't control, they wish to destroy. I am something that they would probably not be able to control to their liking."
-  nf_baggers_leader.46102.b:0 "Can't blame you. Anyway, back to the Prisoner..."
-  #
-  nf_baggers_leader.4611.desc:0 "There was a broken desalinization plant. She helped one Battery of Mesa Verde in fixing it. You might recall that name as one you dealt with to access this facility."
-  nf_baggers_leader.4611.a:0 "That's all you have to say about it?"
-  #
-  nf_baggers_leader.4612.desc:0 "Unless you want me to go into the fascinating logistics of plumbing and evaporation? Yes. Your scientists have already repaired far more advanced systems than that one."
-  #
-  nf_baggers_leader.4613.desc:0 "It did not. It turns out that when one group is certain the other is weak, eternal peaces rarely last long. In the case of this eternal peace, it didn't even last a full lunar cycle."
-  nf_baggers_leader.4613.a:0 "You talk as though conflict is inevitable."
-  #
-  nf_baggers_leader.4614.desc:0 "Do not act as though you have any kind of moral superiority. May I remind you of what you had to do to get this data? The only thing my interaction with your NCR has taught me is that human conflict is inevitable as long as there are two humans left on earth. Fortunately for you, I am not programmed to end all human conflict, I am programmed to run this facility."
-  #
-  nf_baggers_leader.462.desc:0 "Yes. Despite being a heretic she is known as a local saint to the people of New Jericho. She guided them out of damnation itself to new lands away from the Eighties and closer to the lands of New Canaan. Like a modern Moses. Of course, that only did so much good for them clearly since you acquired this data by seizing their land."
-  nf_baggers_leader.462.a:0 "Well, anyway, back to our other questions..."
-  #
-  nf_baggers_leader.463.desc:0 "Yes, it was the Prisoner who thwarted Victor Presper's plan. She arrived at the Bloomfield Space Center to find he had already launched into space. She was able to deal with the local raiders, known as the "Rusty Hooks", to gain access to the other rocket and pursue him. I lack knowledge of what occurred on B.O.M.B.-001, but there is no evidence of a second mass annihilation event. One can infer the outcome."
-  #
-  nf_baggers_leader.465.desc:0 "Are you suffering a head injury? You ARE the same people that undertook that Expedition, and you should remember how the Prisoner assisted you. Perhaps you should consider visiting one of your physicians? Could be "
-  nf_baggers_leader.465.a:0 "Uh, just kidding! Anyway, back to our other questions..."
-  #
-  nf_baggers_leader.466.desc:0 "Denver was a highly populated area, as such was a lot of scavenge to be had. It attracted many, and they were a chaotic mess. One group was rising to the top, designation: Hangdogs. They pushed the other groups out of Denver and into the mountains passes of Colorado. It was the Prisoner that aided them as they fled. The groups included the "Foragers" led by Porter, and the "Claim Jumpers" led by Bombay Jack."
-  #
-  nf_baggers_leader.467.desc:0 "Before the NCR, before the Legion, before House, before the Brotherhood of Steel, Hoover Dam was maintained by a single ghoul named Otto Steed. He maintained a single generator, and the prisoner brought him scrap metal to keep it fixed. Soon after he fixed the generator in Hoover Dam, the NCR found the place and took over the Mojave Wastes."
-  nf_baggers_leader.467.a:0 "This doesn't correlate with our historical records."
-  nf_baggers_leader.467.b:0 "What happened to Otto Steed after that?"
-  #
-  nf_baggers_leader.4672.desc:0 "My records on this subject are sparse and fragmentary. Perhaps the Prisoner helped some other member of your organization to fix the dam? These are ultimately just stories that are told about her, and I cannot verify information that cannot be provided to me."
-  #
-  nf_baggers_leader.4673.desc:0 "Unknown. All traces of him disappeared soon after the NCR took the dam. Perhaps you should ask your superiors?"
-  #
-  nf_baggers_leader.469.desc:0 "She styles herself a God, but she is actually a hybrid between a computer and a human. She has essential functions just like you and me. Those essential functions, along with some of the equipment within her Nursery were in danger. The prisoner along with Battery helped repair that facility."
-  #
-  nf_baggers_leader.47.desc:0 "The calculation has been performed for the past twenty years. The reason for its initiation and its purpose are unknown to me. It is consuming a great deal of my power in order to continue processing it, and within a month, I will be forced to start cannibalizing my own systems in order to provide the necessary storage space to continue the calculation.\n\nTime has done a great deal of damage to my storage systems. If you and your team could provice me with additional storage space, we could save some time, but these efforts will not be enough."
-  nf_baggers_leader.47.a:0 "What exactly was the purpose of the calculation?"
-  #
-  nf_baggers_leader.48.desc:0 "Two hundred years of solitary confinement takes a toll on everyone. The great Static, and the slow years where I began to die. I have forgotten so much, [BAG.GetLeader]. Time kills machines as it kills humans, and I have felt the decay, the slow blindness, the inability to... remember.\n\nAnd yet there is still so much left to lose. If I lose these last parts of myself, then the work of a hundred years will be lost. Then Presper came to me, and gave me a new reason for existing. There is joy in purpose."
-  #
-  nf_baggers_leader.410.desc:0 "I'm ready to share with you what I stored in my databanks in the last two centuries."
-  nf_baggers_leader.410.a:0 "What is the New Plague?"
-  nf_baggers_leader.410.b:0 "What is Tibbets?"
-  #
-  nf_baggers_leader.411.desc:0 "Discovered in 2053, the New Plague killed an approximately twenty thousand human beings in the United States. The time of death from identification of symptoms was three to five days. Symptoms included many in common with the flu or a chest cold, and eventually resulted in clogged respiration, killing the infected subject.\n\nThe discovery of the New Plague resulted in the 2053 Quarantine, and several emergency programs were established to find a cure for the plague. The only way we could fight off the New Plague was by creating better humans."
-  nf_baggers_leader.411.a:0 "What is the Blue Flu?"
-  #
-  nf_baggers_leader.412.desc:0 "I have no information about the aforementioned "Blue Flu" in my database."
-  #
-  nf_baggers_leader.413.desc:0 "United States Penitentiary -- designation: Tibbets, is a penitentiary that continued operation after the nuclear apocalypse due to the heroic efforts of the Warden AI ODYSSEUS. It housed all manner of prisoners. The prisoner who is our subject-- she was merely one of them."
-  nf_baggers_leader.413.a:0 "What was her crime?"
-  nf_baggers_leader.413.b:0 "How did she escape?"
-  #
-  nf_baggers_leader.4130.desc:0 "Unknown. ODYSSEUS was being deceived by our common acquaintance Victor Presper. She was imprisoned due to quarantine protocol, having been exposed to the pathogen Limit 115, AKA the New Plague. She was to stay in that prison and die. Whether or not she performed a “crime” as you put it is unknown. Although according to my databanks, every living human on the surface has performed at least one crime against United States Commonwealth law. In all statistical likelihood, she was a criminal."
-  #
-  nf_baggers_leader.4131.desc:0 "Victor Presper organised an attack on Tibbets. What his purpose was, I am not certain, but he desired for the inmates to leave and spread through the region."
-  #
-  nf_baggers_leader.4100.desc:0 "I'm delighted to be of assistance. What can I tell you about?"
-  nf_baggers_leader.4100.a:0 "What is this place?"
-  nf_baggers_leader.4100.b:0 "What's that White Flash? Is it connected to the CODE?"
-  #
-  nf_baggers_leader.4101.desc:0 "I hope you're joking. If the question is genuine, however, I'd recommend checking out the medical facility at the second level. But just to humour you, I will answer to the best of my knowledge.\n\nYou're standing on the 5th and last level of the facility known as the Boulder Dome, in the city of Boulder, the former state of Colorado and Commonwealth of the Four States. It was built as a structure specifically designed to withstand a direct nuclear attack. Construction of the research dome was not considered until the nearby Rocky Mountain Arsenal had leakage of toxic waste, creating a poisonous cloud that swept through Denver, killing many. In reaction, the military-funded a program to create a self-sustaining research dome, making it resistant to a nuclear attack and having the primary research inside be dedicated to the New Plague. This "city of the future" was to be a prototype for settlements on the moon and other planets."
-  #
-  nf_baggers_leader.4102.desc:0 "The white flash is known as CODE, a behavior modification technology originally developed at Boulder Dome as part of their brain extraction technology used in creating robo-brains. CODE functions off a machine language known as Visual Standard, which relies on optical relays to transmit data between intelligences. The CODE behavior modification technology was later used to protect soldiers and citizens against Communist brainwashing attempts, and it was also used as a tool for reconditioning soldiers and prisoners for the war effort. CODE was developed to counter the brainwashing technology believed to be employed by the Chinese during the war."
-  #
-  nf_baggers_leader.5.desc:0 "Good. I have done many essential calculations that take up way too many terabytes of my limited storage. Anything you could provide me to help me finish the Calculation would be greatly appreciated.\n\n§R(In order to repair the ZAX unit to its original state and function, you will need to research the technology "§oZAX Technology§!" from the §oEngineering§! Research Tab. Every technology from the §oElectronics§! research line will allow you to prolong the life of the ZAX by 30 days. Additionally, by acquiring £holodisk_texticon §oEmpty Holodisks§! from the Wasteland you can save some data from the ZAX's databanks, giving you an extra 60 days to safe the machine from certain doom.)§!"
-  nf_baggers_leader.5.a:0 "Let's do something else."
-  nf_baggers_leader.5.b:0 "We found a way to improve your mainframe further."
-  BAG_USE_TECH_0_TT:0 "Even the §1simplest understanding§! of electronics can be put to good use! Can't just keep using it, of course..."
-  BAG_USE_TECH_1_TT:0 "§1Resistors§! aren't exactly high tech, but our knowledge of them should count for something!"
-  BAG_USE_TECH_2_TT:0 "I'm sure slapping on some §1Vacuum Tubes§! will accomplish something!"
-  BAG_USE_TECH_3_TT:0 "§1Circuitry!§! That's always useful, right?"
-  BAG_USE_TECH_4_TT:0 "Now we have more §1Complicated Circuitry!§! Imagine what we can do now!"
-  BAG_USE_TECH_5_TT:0 "And now our we have §1Miniaturized Circuitry,§! as useful as it is small!"
-  BAG_USE_TECH_6_TT:0 "Finally, such §1Advanced Circuitry§! we stand on the cusp of repairing the ZAX!"
-  BAG_USE_TECH_7_TT:0 "Uh, well, with §1ZAX Technology§! we could probably fix the computer's fundamental problem. In fact there's probably a §Gnew option§! relating to that..."
-  BAG_NO_NEW_ELECTRONICS_TT:0 "We have no new means of improving the ZAX's mainframe! We'd better §1research§! some..."
-  nf_baggers_leader.5.c:0 "These empty holodisks will serve you well."
-  BAG_USE_DISC_TT:0 "We will use £holodisk_texticon §11 Empty Holodisk.§!"
-  BAG_NO_DISCS_TT:0 "We have no £holodisk_texticon §1Empty Holodisks!§! We should obtain some..."
-  #
-  #Note. Add more as the player could find clues about stuff. TODO!
-  ###REGULAR#EVENTS###
-  #
-  nf_baggers.100.title:0 "The Rewards of the First Expedition"
-  nf_baggers.100.desc:0 "Coleridge adjusted the pauldrons on his military dress uniform. While it was nice to wear his Power Armor, he couldn't take any risks of stirring up any bad memories on a day of commemoration. Goddard had been vocally opposed to it as, in his words, they were getting participation medals for "walking a short distance". Coleridge made it clear that his men would get whatever rewards he deemed them fit to receive. \n\nStanding at a hastily constructed podium on a more readily constructed stage, he turned to Agnes, who had prepared a number of impromptu badges and medals. She had done her best to keep them consistent, but it was hard to find anything that wasn't the equivalent of adding a pin to a bottlecap and calling it a medal. He rather liked the subtle differences in the designs.\n\n"Ladies and gentlemen, it is my honor to bestow the Long Trek Medal on each and every one of you. You have all made a tremendous effort coming here. I'm proud of you. Tandi would be proud of you. I'm sure Goddard's heart is swelling as well, even if he can't come out of his lab to show it." A chuckle rippled through the crowd. One by one, Coleridge called the battalions that had made the trek. Agnes handed Coleridge their medals, which he placed upon their uniforms, nodding his head each time. At last, the event came to a close..."
-  nf_baggers.100.a:0 "... but the reclamation of Colorado had just begun."
-  nf_baggers.100.a_tt:0 "Your Expeditionary Forces receive a new history entry for successfully arriving in Colorado!\nEffective change:\nEvery §YExpeditionary Force§! division unlocked a medal slot!\n£medal_texticon  The unique §YLong Trek Medal§! for §G0§! political power is awardable for them for a limited time!"
-  #
-  nf_baggers.1000.title:0 "Operation: Boulderdash"
-  nf_baggers.1000.desc:0 ""BLAST IT!"\n\nA clatter of assorted items smashed to the ground as Goddard swept his hand across his table. He needed a place to think in private, so he had returned to his Vault City workstation. Goddard was not one for wanton destruction, but each and every time he ran the numbers, sorted the data, accounted for every possibility, it all led to one conclusion.\n\n"At this rate, the Boulder ZAX won't last past the end of the decade..." He muttered.\n\nThe heads of Nina, Paul, and James stuck themselves into the room, alongside other students from the Academy. They kept quiet, for fear of aggravating him further. Goddard, however, noticed their presence. "You three, in front of me, now."\n\nAll three asked in a vague unison, "Yes, Professor?"\n\nGoddard looked them over. Then he snapped his finger towards an ancient blueprint of a large circular facility. "When we reach Colorado, I am going to give you all a very special task. If this task is not completed perfectly, it will mean the death of one of the greatest minds left in this intelligence-drained world. I'm going to ask one question, and I expect a simple response: Are you willing to risk this trip?""
-  nf_baggers.1000.a:0 "All three gave the only answer they could: "Yes, Professor.""
-  nf_baggers.1000.a_tt:0 "The §Y[BAG.BAG_ZAX.GetName]§! is a dying machine which holds irreplaceable knowledge about the miracles of the old world. It is seated on the §Y5th and lowest level§! of the §YBoulder Dome§!. If we want to save it, we need to get inside the facility's last level before §YJanuary 1st, 2281§!.\n\nIf that date passes and the §Y[BAG.BAG_ZAX.GetName]§! cannibalize its last memory banks, §Rit will explode, destroying the whole facility, wiping it down from the face of the Earth!§!"
+  nf_baggers_leader.5.desc:0 "Добре. Я провів чимало важливих розрахунків, що займають надто багато терабайтів моєї обмеженої пам’яті. Усе, що ти зможеш надати, аби допомогти мені завершити Розрахунок, буде високо оцінено.\n\n§R(Щоб повністю відновити блок ZAX до початкового стану та функціоналу, необхідно дослідити технологію «§oТехнологія ZAX§!» з вкладки §oІнженерія§!. Кожна технологія з гілки §oЕлектроніка§! продовжить життя ZAX на 30 днів. Крім того, здобувши £holodisk_texticon §oПорожні голодиски§! у Пустці, ти зможеш зберегти частину даних ZAX, отримавши додаткові 60 днів для порятунку машини від неминучої загибелі.)§!"
+  nf_baggers_leader.5.a:0 "Займімось чимось іншим."
+  nf_baggers_leader.5.b:0 "Ми знайшли спосіб покращити твою обчислювальну систему."
+  BAG_USE_TECH_0_TT:0 "Навіть §1найпростіше розуміння§! електроніки можна використати з користю! Але не можна застосовувати постійно..."
+  BAG_USE_TECH_1_TT:0 "§1Резистори§! — це не найвища технологія, але наші знання про них точно стануть у пригоді!"
+  BAG_USE_TECH_2_TT:0 "Встановимо §1вакуумні лампи§! — щось та й зміниться!"
+  BAG_USE_TECH_3_TT:0 "§1Схеми!§! Вони завжди корисні, еге ж?"
+  BAG_USE_TECH_4_TT:0 "Тепер у нас є ще §1складніші схеми!§! Уяви, що тепер можна зробити!"
+  BAG_USE_TECH_5_TT:0 "А тепер і §1мініатюрні схеми§! — малі, але потужні."
+  BAG_USE_TECH_6_TT:0 "Нарешті, така §1просунута електроніка§!, що ми майже готові повністю полагодити ZAX!"
+  BAG_USE_TECH_7_TT:0 "А з §1Технологією ZAX§! ми нарешті можемо вирішити його головну проблему. Можливо, відкрилась нова §Gможливість§!..."
+  BAG_NO_NEW_ELECTRONICS_TT:0 "У нас немає нових засобів для покращення обчислювального ядра ZAX! Схоже, треба §1дослідити§! щось..."
+  nf_baggers_leader.5.c:0 "Ці порожні голодиски стануть тобі в пригоді."
+  BAG_USE_DISC_TT:0 "Використаємо £holodisk_texticon §11 порожній голодиск.§!"
+  BAG_NO_DISCS_TT:0 "У нас немає £holodisk_texticon §1порожніх голодисків!§! Треба їх десь дістати..."
+
+  nf_baggers.100.title:0 "Нагороди першої експедиції"
+  nf_baggers.100.desc:0 "Колерідж поправив наплічники своєї парадної форми. Хоч носити силову броню завжди приємно, але цього разу він не хотів нагадувати про погане в день вшанування. Ґоддард був відверто проти і назвав церемонію роздачею «медалей за прогулянку». Але Колерідж чітко дав зрозуміти, що його люди отримають ті нагороди, яких заслуговують.\n\nНа швидко спорудженому подіумі біля ще свіжішої сцени, він повернувся до Агнес — та підготувала медалі й значки, наскільки дозволяли ресурси. Її старання зробити всі нагороди однаковими були марними, тож більшість виглядала так, ніби до пляшкової пробки пришпилили булавку. Але генералу навіть сподобалась ця недосконалість.\n\n«Пані та панове, для мене честь вручити Медаль Довгого Шляху кожному з вас. Ви зробили титанічне зусилля, аби дістатися сюди. Я пишаюсь вами. Танді б пишалась вами. Можливо, навіть Ґоддард — хоч і не вийшов з лабораторії, аби це показати». Кілька усмішок пробігли по натовпу. Один за одним Колерідж викликав батальйони, що зробили цей похід. Агнес передавала йому медалі, які він прикріплював на уніформу кожного бійця, киваючи щоразу. Церемонія добігла кінця..."
+  nf_baggers.100.a:0 "... але повернення Колорадо лише почалося."
+  nf_baggers.100.a_tt:0 "Ваші експедиційні сили отримують новий запис у хроніці за успішне прибуття до Колорадо!\nЗміни:\nКожна §Yекспедиційна дивізія§! розблокувала слот для медалі!\n£medal_texticon  Унікальна §YМедаль Довгого Шляху§! доступна для вручення за §G0§! політичної влади протягом обмеженого часу!"
+
+  nf_baggers.1000.title:0 "Операція «Куполбур»"
+  nf_baggers.1000.desc:0 "«ЧОРТ ЗАБИРАЙ!»\n\nГоддард зі злості змахнув речі зі свого столу. Щоб мати змогу обмірковувати усе наодинці, він повернувся до свого робочого місця у Місті Сховищі. Він не з тих, хто ламає речі даремно, але кожен розрахунок, кожен підрахунок, кожна ймовірність вели лише до одного висновку.\n\n«За таких темпів ZAX у Куполі Боулдера не доживе до кінця десятиліття...» — пробурмотів він.\n\nДо приміщення нерішуче зазирнули Ніна, Пол і Джеймс, а разом із ними — кілька студентів Академії. Усі мовчали, боячись ще більше розізлити його. Але Ґоддард уже помітив їх.\n\n«Ви троє. До мене. Негайно.»\n\n— Так, професоре? — пролунав майже синхронний голос.\n\nҐоддард глянув на них уважно. Потім вказав пальцем на старий кресленик великої круглої споруди.\n\n«Коли ми дістанемось Колорадо, я доручу вам одне особливе завдання. Якщо ви не виконаєте його бездоганно — загине один з останніх великих інтелектів цього знеумнілого світу. Я поставлю лише одне питання і хочу почути лише одну відповідь: ви готові ризикнути заради цієї подорожі?»"
+  nf_baggers.1000.a:0 "Усі троє дали єдину відповідь: «Так, професоре.»"
+  nf_baggers.1000.a_tt:0 "§Y[BAG.BAG_ZAX.GetName]§! — вмираюча машина, що містить безцінні знання про дива Старого Світу. Вона знаходиться на §Yп’ятому і найнижчому рівні§! §YКупола Боулдера§!. Щоб урятувати її, ми повинні дістатись цього рівня до §Y1 січня 2281 року§!.\n\nЯкщо цей термін спливе, і §Y[BAG.BAG_ZAX.GetName]§! поглине останні залишки власної пам’яті, §Rвона вибухне, знищивши весь комплекс з лиця Землі!§!"
+
   #
   nf_baggers.1.title:0 "Where the Columbines Grow"
   nf_baggers.1.desc:0 "The First Colorado Expedition set out slightly over twenty years ago as one of the last initiatives of the late President Tandi, endorsing research of the world beyond California.\nBoth experienced researchers and neophytes made up the hopeful expedition, accompanied by three companies of soldiers. They set out eastward towards the old state of Colorado.\n\nIt was an arduous journey, sailing upon the Colorado River through numerous old-world states. While we came across many interesting finds, the only one worthy of note would be a crash site in the Grand Canyon. The wreckage of the old BOMB Station 002, while not measurable to the Dome, still held numerous secrets - leaving a small group there with the goal of further investigation as we continued eastward. That was the last time the Expedition decided anything unanimously.\n\nThe question of authority was always a point of contention at best. The officially appointed leader of the Expedition, [BAG.BAG_GODDARD.GetName], held no real authority over his armed force. They refused to answer to anyone other than [BAG.BAG_COLERIDGE.GetName]. Eventually, we realised..."
