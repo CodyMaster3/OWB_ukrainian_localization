@@ -145,142 +145,189 @@ glw_normie_targeted_scavange_hunts_desc: "Гладколиці не дуже к�
 glw_priest_and_electrican: "Священик і електрик"
 glw_priest_and_electrican_desc: "Що спільного між священиком і електриком? Обидва приносять людям світло! Жарти вбік, Джеймс Кларк — старий єпископ — лагодить нашу енергосистему. І, виявляється, він хороший у обох видах «іскри»."
 
-  glw_masters_of_scavenging:0 "Masters of Scavenging"
-  glw_masters_of_scavenging_desc:0 "Nobody in the wasteland does salvage like us. Glowbugs see treasure in every piece of trash, and we make it work like magic."
-  glw_multifunctional_workbenches:0 "Multifunctional Workbenches"
-  glw_multifunctional_workbenches_desc:0 "Some ghouls are terrible at keeping track of tools. By stuffing a full kit in their workbenches, they don't have to hunt for screwdrivers anymore. It's simple, but hey—it works."
-  glw_multifunctional_workbenches_tt:0 "§gThe talent of our people's shows; every already built §YFoundry§!, §YPower Station§! and §YPurification Station§! will count as a §YCivilian Workshop§! as well - as an §Goffmap building§!, of course.§!"
-  #
-  glw_houndlands_development_office:0 "Best Claims in Denver"
-  glw_houndlands_development_office_desc:0 "You know how they say that Dog City's got the best claims? Screw them; the Houndlands have some real prime real estate!"
-  glw_cleanse_chugwater:0 "Cleanse Chugwater"
-  glw_cleanse_chugwater_desc:0 "This place is as nasty as 'Fat Freddy,' and that's saying something. Even ghouls can't stand the stench. Time to scrub this dump clean."
-  glw_rebuild_fort:0 "Rebuild the Fort"
-  glw_rebuild_fort_desc:0 "Briggdale used to be a fortress worth its name. After we took it, it's fallen to bits. Let's fix it up and make it ours."
-  glw_packing_up_baggers_camp:0 "Packing up the Bagger's Camp"
-  glw_packing_up_baggers_camp_desc:0 "The NCR sure kept this camp tidy—almost too tidy. Looks like we've got some prime salvage here, boys. Let's get to work!"
-  glw_strip_clean_shanghai:0 "Strip Clean the Shanghai's Bones"
-  glw_strip_clean_shanghai_desc:0 "Old Chinese spies left their mark here? Makes sense why we couldn't understand some of the refugees. Either way, time to strip it clean."
-  glw_recycle_xians:0 "Recycle the Chinese Xians"
-  glw_recycle_xians_desc:0 "Pre-war Chinese jet planes out in the Wasteland? No clue how they got here, but who cares—they're ours now."
+glw_masters_of_scavenging: "Майстри збирання брухту"
+glw_masters_of_scavenging_desc: "Ніхто в пустці не вміє тягнути мотлох краще за нас. Світляки бачать скарб у кожній покрученій деталі — і змушують усе це працювати, мов за магією."
 
-  #Military Tree
-  glw_ask_funds_for_rearmament_program:0 "Ask Funding for Armament"
-  glw_ask_funds_for_rearmament_program_desc:0 "Black Canyon may claim to be pacifists, but no one buys it—they'll need weapons for their wars. If we can choose between supplying them and fighting beside them, we'd rather be Colorado's Death Dealers. Assuming they let us, of course."
-  glw_under_funded_arms_factory:0 "Expand Stitches' Gunshop"
-  glw_under_funded_arms_factory_desc:0 "Without enough caps, we'll have to make do. Stitches' gun shop near the Boulder ruins is already a hub for scavengers looking for self-defense gear. With a little work, we could turn it into a full-fledged arms factory."
-  glw_funded_arms_factory:0 "Found the Weaponmaker's Guild"
-  glw_funded_arms_factory_desc:0 "With new funding, we can hire muscle and equipment to build arms workshops. Developing the land near Laramie will appease The Penitentiary, and organizing our manufacturing will prevent ad-hoc chaos. The Weaponmaker's Guild will ensure quality over shortcuts."
-  glw_learn_from_our_enemys_enemies:0 "Learn from Our Enemy's Enemies"
-  glw_learn_from_our_enemys_enemies_desc:0 "Ouroboros—the witches out west—have clashed with Black Canyon before. There's a lot we can learn from their tactics, if we pay attention."
-  glw_tribal_policing_methods:0 "Tribal Policing Methods"
-  glw_tribal_policing_methods_desc:0 "Tribal strongman tactics might be crude, but they work. Might makes right, and a little muscle could go a long way for us too."
-  glw_raider_heavy_explosives:0 "Raider Heavy Explosives"
-  glw_raider_heavy_explosives_desc:0 "The Raider Matrons were famous for their bombs. Their explosive expertise spread even up here—might as well put those stories to good use."
-  glw_the_beacon_guard:0 "The Beacon Guards"
-  glw_the_beacon_guard_desc:0 "The fog around Boulder Dome can be a nightmare to navigate. Setting up Beacon Guards could guide travelers—and keep an eye on things while they're at it."
-  glw_guidance_of_black_canyon:0 "The Guidance of Black Canyon"
-  glw_guidance_of_black_canyon_desc:0 "Black Canyon occasionally offers advice worth listening to. Sure, it usually comes with demands for shipments, but beggars can't be choosers."
-  glw_anti_factionalism_laws:0 "Anti-Factionalism Laws"
-  glw_anti_factionalism_laws_desc:0 "The Caravan Congress out west is a cautionary tale of too many cooks in the kitchen. Stitches and Patches may bicker, but they agree on one thing—no one else gets a say in their turf."
-  glw_army_role_in_integration:0 "Relegate Support Duties for the Military"
-  glw_army_role_in_integration_desc:0 "Organizing the army starts with the basics: assigning roles, planning patrols, and setting expectations. Stitches knows this stuff like the back of his hand."
-  glw_mountain_warfare_tt:0 "Enables §HMountain Training\n$category_light_infantry$§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+10%§!"
-  glw_fate_of_canga:0 "The Fate of the CANGA Armoury"
-  glw_fate_of_canga_desc:0 "The CANGA Armory looks... strange. Whatever's inside might just be crazy enough to work."
-  glw_trust_settlers:0 "Should We Trust the Settlers?"
-  glw_trust_settlers_desc:0 "Smoothskins can be pretty creepy. Should we trust them? Well, that's the question."
-  glw_reach_out_to_the_baron:0 "Laramie Locals"
-  glw_reach_out_to_the_baron_desc:0 "The sheriff of Laramie got his badge after losing a bet. If we help him out, maybe he'll help us keep the peace."
-  glw_open_shadow_market:0 "Open the Shadow Market"
-  glw_open_shadow_market_desc:0 "Plenty of trade doesn't make it through the official channels. Let's capitalize on that and set up a shadow market."
-  glw_shared_interest_manufactory:0 "Shared Interest Manufactory"
-  glw_shared_interest_manufactory_desc:0 "Keeping everyone on the same page about what they're building keeps things running smoothly. No surprises, no screw-ups."
-  glw_begin_organizing_standing_army:0 "Begin Organizing the Homeguard"
-  glw_begin_organizing_standing_army_desc:0 "Stitches takes pride in turning our ragtag militia into a real fighting force. The Homeguard's glowing—and not just from the rads."
-  #
-  glw_houndlands_pacification_office:0 "A Little Order, for a Change"
-  glw_houndlands_pacification_office_desc:0 "Bringing order to the Houndlands isn't easy, but the Glowbugs are setting up shop to keep things under control. A little structure goes a long way in a place this wild."
-  glw_chinese_maritime_traditions:0 "The Wind in the Red Sail"
-  glw_chinese_maritime_traditions_desc:0 "Chinese spies share tales of their far-off mainland, tales of insurgency against the 'White Lotus' and American occupation along the Yangtze. It sounds like hogwash and bedtime stories, but it's fascinating all the same."
-  glw_primitive_battle_methods:0 "Feral Ferocity"
-  glw_primitive_battle_methods_desc:0 "'RAAAH!' Some Old Bones from out west got ghoulified in a freak accident involving a giant radioactive lizard. They're terrifying, they fight like maniacs, and nobody's asking questions."
-  glw_never_ask_the_bear_where_he_is_going:0 "Never Ask the Bear Where He is Going..."
-  glw_never_ask_the_bear_where_he_is_going_desc:0 "Captured Baggers tell stories about how the NCR plans to stretch across the entire Wasteland. Sure, and maybe molerats will grow wings while they're at it."
-  glw_never_ask_the_bear_where_he_is_going_tt:0 "§gThe corresponding event will have different outcome based on §Y[BAG.GetNameWithFlag]§! political development prior to their annexation.§!"
-  glw_homo_homini_lupus_est:0 "Homo Homini Lupus Est"
-  glw_homo_homini_lupus_est_desc:0 "The Houndlands aren't for the weak. This place changes you—chews you up and spits you out. Only the toughest can survive here, and the Glowbugs have earned their place."
-  glw_chinese_airial_traditions:0 "The Wind Under the Red Wings"
-  glw_chinese_airial_traditions_desc:0 "Former spies have passed along some key insights about glider use. Turns out, their tips are just what we needed to take to the skies."
-  #
-  glw_homeguard_development:0 "Ghoulish Training"
-  glw_homeguard_development_desc:0 "Stitches is cracking the whip, turning the Glowbugs into a real fighting force. If the Luminous Ones—or worse, the Congress—ever came knocking, sitting ducks wouldn't cut it."
-  glw_purchase_moletown_mines:0 "Purchase Mines from Moletown"
-  glw_purchase_moletown_mines_desc:0 "Moletown's got mines for sale, and they might be just the thing to defend Boulder. If anyone tries to sneak around the radiation—boom!"
-  glw_acquire_yampan_heavy_arms:0 "Acquire Yampan Heavy Arms"
-  glw_acquire_yampan_heavy_arms_desc:0 "The Yampa are packing some serious firepower. Even Stitches is impressed, and that's saying something."
-  glw_knights_of_glow:0 "Gravestone's Knights of the Glow"
-  glw_knights_of_glow_desc:0 "Emerging from the fog of Boulder Dome, the Knights of the Glow stand as radiant sentinels, their Midwest power armor gleaming with the sacred light of Plutonius. Arriving just recently from the northeast, these ghouls from Gravestone are warriors of Atom, their every strike a testament to the divine fury of charged particles. 'By the fire of fission, we defend!' they cry out in reverence!"
-  GLW_knights_of_the_glow_tt:0 "A unit of holy warriors, equipped with Midwest Power Armour, arrive for battle to defend the glow of Boulder!"
-  glw_army_of_ghouls:0 "An Army of Ghouls"
-  glw_army_of_ghouls_desc:0 "Rip, tear, destroy—that's what ghouls do best. Leaning into the monster smoothskins fear makes them think twice about messing with us."
-  glw_supporting_normies:0 "Sort Normies into Supporting Roles"
-  glw_supporting_normies_desc:0 "Smoothskins can help—just not on the front lines. Hand them the dangerous, experimental weapons we'd rather not use ourselves and see what happens."
-  #Territorial Managment
-  glw_houndlands_integration_office:0 "The Houndlands"
-  glw_houndlands_integration_office_desc:0 "Remember that place the refugees came from? Yeah, we conquered it. Neat, huh? Suddenly, the Glowbugs are playing in the big leagues."
-  glw_grant_freedom_of_religion:0 "Appease the Cultist-Types"
-  glw_grant_freedom_of_religion_desc:0 "Diana, Hecate, the Hanged Man, the Great Glowing One, Atom—it doesn't matter who you worship. The Glowbugs don't care about your prayers, just your loyalties.\nPatches would rather die than play god, and Stitches would make sure of it if he tried. Faith is personal—loyalty is what counts."
-  glw_integrate_national_guard:0 "Southern Refugees"
-  glw_integrate_national_guard_desc:0 "Some ghouls from down south have wandered in, muttering about Henderson's parties and 'crazy witches.' We're not sure what their story is, but one thing's clear—they can fight."
-  glw_praise_the_glow_and_pass_the_ammunition:0 "Praise the Glow and Pass the Ammunition!"
-  glw_praise_the_glow_and_pass_the_ammunition_desc:0 "Sharing ammo keeps everyone alive a little longer. It's not like ghouls are growing on trees out here, so every bullet counts."
+glw_multifunctional_workbenches: "Багатофункціональні верстаки"
+glw_multifunctional_workbenches_desc: "Деякі гулі — просто катастрофа в організації. Тож ми напакували їм повний набір інструментів прямо у верстак. Більше не треба бігати за викруткою. Просто й ефективно."
+glw_multifunctional_workbenches_tt: "§gНаш народ показує, на що здатен: кожна вже побудована §YЛиварня§!, §YЕлектростанція§! та §YСтанція очищення§! також вважається §YЦивільною майстернею§! — як §Gпозамапова будівля§!.§!"
+
+glw_houndlands_development_office: "Найкращі ділянки в Денвері"
+glw_houndlands_development_office_desc: "Кажуть, у Псиному місті найкраща земля? Та ну. У Хаундлендах — справжня нерухомість преміум-класу!"
+
+glw_cleanse_chugwater: "Очистити Чагвотер"
+glw_cleanse_chugwater_desc: "Це місце смердить, як «Товстий Фредді». І це ще м’яко сказано. Навіть гулям тут важко дихати. Час його відмити до блиску."
+
+glw_rebuild_fort: "Відбудувати форт"
+glw_rebuild_fort_desc: "Брідґдейл колись був фортом, який заслуговував на свою назву. Після того як ми його взяли — він розвалився. Настав час навести порядок і зробити його по-справжньому нашим."
+
+glw_packing_up_baggers_camp: "Згортання табору Бегерів"
+glw_packing_up_baggers_camp_desc: "НКР тримала цей табір у ідеальному порядку — навіть занадто. А отже, для нас тут чимало цінного. Хапай лом і до справи!"
+
+glw_strip_clean_shanghai: "Обчистити кістки Шанхаю"
+glw_strip_clean_shanghai_desc: "Кажуть, тут залишились сліди китайських шпигунів. Можливо, тому деяких біженців ми не розуміли. Але байдуже — обчищаємо все до останнього болта!"
+
+glw_recycle_xians: "Переплавити китайські «Сіані»"
+glw_recycle_xians_desc: "Довоєнні китайські винищувачі в пустелі? Не маємо жодної ідеї, як вони сюди потрапили. Та й не важливо — тепер вони наші."
+
+# Військова гілка
+glw_ask_funds_for_rearmament_program: "Попросити фінансування на озброєння"
+glw_ask_funds_for_rearmament_program_desc: "Чорний каньйон прикидається пацифістами — але ніхто в це не вірить. Вони самі ведуть війни, і їм потрібна зброя. Якщо маємо обирати: постачати чи воювати разом — краще стати Торговцями Смертю Колорадо. Якщо, звісно, вони дозволять."
+
+glw_under_funded_arms_factory: "Розширити майстерню Стічіса"
+glw_under_funded_arms_factory_desc: "Без належного фінансування доведеться імпровізувати. Майстерня Стічіса біля руїн Боулдера — вже центр для тих, хто шукає зброю. З невеликим розширенням — це буде справжній завод."
+
+glw_funded_arms_factory: "Заснувати Гільдію Зброярів"
+glw_funded_arms_factory_desc: "Маючи ресурси, ми можемо найняти робітників і закупити обладнання для створення повноцінної зброярської галузі. Освоєння земель біля Ларамі потішить Пенітенціарій, а централізоване виробництво дозволить уникнути хаосу. Гільдія гарантує якість."
+
+glw_learn_from_our_enemys_enemies: "Вчитися у ворогів наших ворогів"
+glw_learn_from_our_enemys_enemies_desc: "Оуроборос — відьми з заходу — вже стикались із Чорним каньйоном. Їхні методи цікаві. Варто придивитись — і вивчити."
+
+glw_tribal_policing_methods: "Племінні методи «безпеки»"
+glw_tribal_policing_methods_desc: "Племінні підходи до правопорядку грубі — але ефективні. Хто сильніший, той і має рацію. А трохи сили нам не завадить."
+
+glw_raider_heavy_explosives: "Важка вибухівка від рейдерів"
+glw_raider_heavy_explosives_desc: "Матрони-рейдери були знамениті своїми вибухами. Їхні рецепти долетіли й до нас — тож гріх не скористатися."
+
+glw_the_beacon_guard: "Вогневі дозори"
+glw_the_beacon_guard_desc: "Туман навколо Купола — справжній кошмар. Світлові дозори допоможуть мандрівникам — і нам, щоб мати око на околицю."
+
+glw_guidance_of_black_canyon: "Поради Чорного каньйону"
+glw_guidance_of_black_canyon_desc: "Часом у Чорному каньйоні щось радять. Іноді навіть щось путнє. Правда, разом із новими вимогами. Але ж ми не в тій позиції, щоб перебирати."
+
+glw_anti_factionalism_laws: "Закони проти фракціоналізму"
+glw_anti_factionalism_laws_desc: "Карванна Рада на заході — приклад того, як надто багато голосів нищить усе. Петчіс і Стічіс сперечаються, але в одному згодні — третім у нас не місце."
+
+glw_army_role_in_integration: "Передати армії допоміжні завдання"
+glw_army_role_in_integration_desc: "Армію треба починати з простого: ролі, патрулі, очікування. Стічіс це знає, як свої палаючі пальці."
+glw_mountain_warfare_tt: "Відкриває §HГірське навчання\n$category_light_infantry$§!\n    §H$mountain$§!\n      $STAT_ADJUSTER_ATTACK$§G+10%§!\n      $STAT_ADJUSTER_DEFENCE$§G+10%§!"
+
+glw_fate_of_canga: "Доля складу «CANGA»"
+glw_fate_of_canga_desc: "Склад «КАНГА» виглядає... дивно. Але іноді саме дивне — працює найкраще."
+
+glw_trust_settlers: "Чи можна довіряти поселенцям?"
+glw_trust_settlers_desc: "Гладколиці можуть бути стрьомні. Довіряти їм чи ні — ось у чому питання."
+
+glw_reach_out_to_the_baron: "Місцеві з Ларамі"
+glw_reach_out_to_the_baron_desc: "Шериф Ларамі виграв значок у грі на парі. Якщо допоможемо йому — може, й він допоможе тримати тут лад."
+
+glw_open_shadow_market: "Відкрити тіньовий ринок"
+glw_open_shadow_market_desc: "Багато торгівлі відбувається поза офіційними маршрутами. Час використати це — і відкрити свій тіньовий базар."
+
+glw_shared_interest_manufactory: "Фабрика спільних інтересів"
+glw_shared_interest_manufactory_desc: "Якщо всі знають, що саме вони виробляють — все працює чітко. Без сюрпризів, без косяків."
+
+glw_begin_organizing_standing_army: "Організувати Вартових Купола"
+glw_begin_organizing_standing_army_desc: "Стічіс пишається тим, як перетворює натовп з мародерів на боєздатну армію. Вартові Купола сяють — і не лише через редіацію."
+
+glw_houndlands_pacification_office: "Трохи порядку — хоч раз"
+glw_houndlands_pacification_office_desc: "Принести порядок у Хаундленди — задача не з легких. Але Світляки розгортають штаби, щоб втримати ситуацію. Навіть мінімальна структура тут — безцінна."
+
+glw_chinese_maritime_traditions: "Вітер у червоному вітрилі"
+glw_chinese_maritime_traditions_desc: "Китайські шпигуни згадують про далеку батьківщину, про повстання проти 'Білого Лотоса' і окупацію Янцзи. Казки, можливо. Але надзвичайно цікаві."
+
+glw_primitive_battle_methods: "Ярість здичавілих"
+glw_primitive_battle_methods_desc: "«РАААААХ!» — кілька Древніх Кісток із заходу стали гулями через вибух і радіоактивного ящера. Вони жахливі, скажені й не мають жодних гальм. І ми не ставимо питань."
+
+glw_never_ask_the_bear_where_he_is_going: "Ніколи не питай ведмедя, куди він іде..."
+glw_never_ask_the_bear_where_he_is_going_desc: "Полонені Бегери кажуть, що НКР хоче простягти лапи через всю Пустку. Авжеж, і кроти навчаться літати, мабуть."
+glw_never_ask_the_bear_where_he_is_going_tt: "§gВідповідна подія матиме різний результат, залежно від того, як політично розвинулась §Y[BAG.GetNameWithFlag]§! перед анексією.§!"
+
+glw_homo_homini_lupus_est: "Людина людині — вовк"
+glw_homo_homini_lupus_est_desc: "У Хаундлендах не виживає слабкий. Це місце ламає, випльовує і ковтає. І тільки найжорсткіші мають тут шанс. Світляки заслужили своє місце."
+
+glw_chinese_airial_traditions: "Вітер під червоними крилами"
+glw_chinese_airial_traditions_desc: "Колишні шпигуни передали нам свої знання з глайдерної справи. Їхні поради — саме те, що треба, щоб злетіти."
+
+glw_homeguard_development: "Навчання гулям"
+glw_homeguard_development_desc: "Стічіс не дає спуску — перетворює загін Світляків на справжню армію. Якщо Сяйливі чи Конгрес коли-небудь нападуть — краще бути з боєм, ніж у ролі цілі."
+
+glw_purchase_moletown_mines: "Придбати шахти у Молтауні"
+glw_purchase_moletown_mines_desc: "Молтаун продає міни — і це саме те, що потрібно, аби захистити Боулдер. Хтось захоче обійти зону радіації? БУМ!"
+
+glw_acquire_yampan_heavy_arms: "Отримати важку зброю Ямпи"
+glw_acquire_yampan_heavy_arms_desc: "У Ямпанців серйозна вогнева міць. Навіть Стічіс вражений — а це вже щось значить."
+
+glw_knights_of_glow: "Лицарі Сяйва з Ґрейвстоуна"
+glw_knights_of_glow_desc: "Вони з’явились із туману Купола — Лицарі Сяйва. Їхні силові обладунки Мідвеста сяють святим сяйвом Плутонія. Прибули з північного сходу, ці гулі з Ґрейвстоуна — воїни Атома. Кожен їхній удар — гнів заряджених частинок. «Силою розпаду ми боронимо!»"
+GLW_knights_of_the_glow_tt: "З’являється підрозділ святих воїнів у силовій броні Мідвеста, готовий боронити Сяйво Боулдера!"
+
+glw_army_of_ghouls: "Армія гулів"
+glw_army_of_ghouls_desc: "Рвати, трощити, нищити — це те, в чому гулі найкращі. Стати тією істотою, якої бояться гладколиці — і вони двічі подумають, перш ніж сунутись."
+
+glw_supporting_normies: "Гладколиці — на підтримку"
+glw_supporting_normies_desc: "Нехай гладколиці допомагають. Тільки не на передовій. Видай їм нестабільну експериментальну зброю — і подивимось, що буде."
+
+# Управління територією
+glw_houndlands_integration_office: "Хаундленди"
+glw_houndlands_integration_office_desc: "Пам’ятаєш, звідки сунули біженці? Так от — ми це місце завоювали. Оце так поворот. Світляки вийшли на великий ринг."
+
+glw_grant_freedom_of_religion: "Угодити вірянам"
+glw_grant_freedom_of_religion_desc: "Діана, Геката, Повішений, Великий Сяйливий, Атом — не важливо, кому ти молишся. Світляків не цікавлять молитви. Їх цікавить лояльність.\nПетчіс краще загине, ніж стане богом. І Стічіс особисто в цьому переконається. Віра — це особисте. Лояльність — обов’язкова."
+
+glw_integrate_national_guard: "Південні біженці"
+glw_integrate_national_guard_desc: "Кілька гулям з півдня з’явились у нашій землі, бурмочучи про вечірки Гендерсона та «відьом-шаленок». Що з ними було — не ясно. Але одне точно — вони вміють битися."
+
+glw_praise_the_glow_and_pass_the_ammunition: "Слава Сяйву — і патрони передай"
+glw_praise_the_glow_and_pass_the_ammunition_desc: "Поділитися набоєм — це ще один день життя. Гулі на деревах не ростуть, тож кожна куля має значення."
+
   #glw_hangdog_border_strip:0 "Demand the Southern Houndlands!"
   #glw_hangdog_border_strip_desc:0 ""
   #glw_colonize_abandoned_regions:0 "Colonize the Abandoned Regions"
   #glw_colonize_abandoned_regions_desc:0 ""
   #glw_exile_bigots_from_fort_lupton:0 "Sell Back the Surplus Population"
   #glw_exile_bigots_from_fort_lupton_desc:0 ""
-  glw_knowledge_of_admiral:0 "Chinese River-Fleet Blueprints"
-  glw_knowledge_of_admiral_desc:0 "Turns out some of those spies carried pre-war blueprints for small sailing vessels, designed for inland raids on the Mississippi. They never made it that far, but the tech is proving pretty useful for us now."
-  glw_knowledge_of_air_marshal:0 "Chinese Air Blueprints"
-  glw_knowledge_of_air_marshal_desc:0 "Stitches and Patches can't read Chinese, so they're taking a leap of faith with what the spy refugees salvaged. A translator says it's related to powerful planes—sounds promising enough."
-  glw_mend_communist_schism:0 "Learning Chinese"
-  glw_mend_communist_schism_desc:0 "Stitches and Patches are fed up with not understanding Chinese—it makes leading the spy refugees a nightmare. Patches jokes it'll take decades to perfect his stand-up in Mandarin, but hey, they've got time."
-  glw_bagging_up_baggers:0 "Bagging up the Baggers"
-  glw_bagging_up_baggers_desc:0 "The NCR left behind some fancy tech—radio equipment used to 'phone home' to California. With a little reverse engineering, it might just become a Glowbug specialty."
+glw_knowledge_of_admiral: "Креслення китайського річкового флоту"
+glw_knowledge_of_admiral_desc: "Як виявилося, деякі зі шпигунів мали при собі довоєнні креслення малих вітрильників, створених для рейдів по Міссісіпі. Вони туди так і не дістались, але ця технологія нам дуже згодилася."
 
-  #Starting Focuses
-  #glw_same_old_tape:0 "The Same Old Tape..."
-  #glw_same_old_tape_desc:0 ""
-  #glw_preparing_for_war:0 "Gears of War"
-  #glw_preparing_for_war_desc:0 ""
-  glw_free_fireflies:0 "Forming a Real Community"
-  glw_free_fireflies_desc:0 "With the red tape from the treaty gone and our future secured, we can finally focus on building a real community here in Boulder."
-  glw_assessing_situation:0 "Stitches' Plan"
-  glw_assessing_situation_desc:0 "Stitches envisions our gang as a proper military structure—rank and file, commanders, and top brass. It's orderly, disciplined, and has that old-world plutocratic vibe."
-  glw_old_knife:0 "Patches' Plan"
-  glw_old_knife_desc:0 "Patches wants something different—a mix of Brotherhood camaraderie and comedy club charm. A tight-knit family of gangsters who share laughs and loyalty. Brotherhood with a twist."
-  glw_caravan_exploitation:0 "Kick the Caravan Out of Here!"
-  glw_caravan_exploitation_desc:0 "The Caravan Congress never did us any favors. Time to kick them out and take control of our own future."
-  glw_stitches_preparations:0 "Stitches' Preparation"
-  glw_stitches_preparations_desc:0 "Stitches knows his plan needs to be airtight. If he messes this up, the refugees will be furious, and chaos could erupt."
-  glw_hidden_stockpiles:0 "Hidden Stockpiles"
-  glw_hidden_stockpiles_desc:0 "Look at all these guns! We could arm the refugees and turn them into real recruits—ready to fight for our future."
-  glw_mobilize_homeguard:0 "Mobilize the Homeguard"
-  glw_mobilize_homeguard_desc:0 "The Homeguard we've built here in Boulder is solid. It could be the foundation of a new elite fighting force."
-  glw_everything_ready:0 "Plan in Motion"
-  glw_everything_ready_desc:0 "Stitches' plan is coming together, and it's working! The people are on board, and things are going better than expected."
-  glw_caravan_influence:0 "Influence of the Caravan"
-  glw_caravan_influence_desc:0 "The Caravan Congress wasn't all bad. Maybe keeping them around could bring some benefits after all."
-  glw_patches_presence:0 "Patches' Presence"
-  glw_patches_presence_desc:0 "For Patches to pull off his plan, he needs to win over everyone. Charm and humor will only get him so far—he needs full support."
-  glw_rebuild_settlements:0 "Haven for the Wayward"
-  glw_rebuild_settlements_desc:0 "Patches' vision is a home for everyone—no matter who they are. Open doors, open hearts, and a place in the family for all."
-  glw_police_chaos:0 "Peacekeeping Duty"
-  glw_police_chaos_desc:0 "Patches has fought bullies before, from crazed Gammorin to Midwest robots. His jokes and his fists defended the weak, and his family will carry on that tradition."
-  glw_share_what_we_have:0 "Share What We Have"
-  glw_share_what_we_have_desc:0 "Sharing is the cornerstone of our community. It's the least we can do, and it's our new motto—because nobody should be the butt of the joke."
+glw_knowledge_of_air_marshal: "Китайські авіакреслення"
+glw_knowledge_of_air_marshal_desc: "Стічіс і Петчіс не вміють читати китайською, тож довіряються перекладачу. Кажуть, там щось про надпотужні літаки. Досить перспективно, як на наш погляд."
+
+glw_mend_communist_schism: "Вивчити китайську"
+glw_mend_communist_schism_desc: "Стічіс і Петчіс уже втомилися не розуміти китайську — керувати шпигунами-біженцями стає дедалі важче. Петчіс жартує, що його стендап мандаринською буде готовий десь за років тридцять. Але час у нас є."
+
+glw_bagging_up_baggers: "Упакувати Бегерів"
+glw_bagging_up_baggers_desc: "НКР залишила після себе техніку — радіообладнання для зв’язку з Каліфорнією. Якщо розібратися, можемо зробити з цього особливість Світляків."
+
+glw_free_fireflies: "Сформувати справжню спільноту"
+glw_free_fireflies_desc: "Бюрократична тяганина договору — позаду. Майбутнє — в наших руках. Час будувати справжню спільноту в Боулдері."
+
+glw_assessing_situation: "План Стічіса"
+glw_assessing_situation_desc: "Стічіс уявляє нашу банду як повноцінну армійську структуру — чітка ієрархія, дисципліна, командири. Усе як у давні часи... з легким присмаком плутократії."
+
+glw_old_knife: "План Петчіса"
+glw_old_knife_desc: "Петчіс хоче інакшого — братерства по типу Братства Сталі, тільки з комедійним клубом на додачу. Тісна сім’я гангстерів, що тримається на сміху та лояльності. Братство, але з родзинкою."
+
+glw_caravan_exploitation: "Викурити Караван із міста!"
+glw_caravan_exploitation_desc: "Караванна рада ніколи нічого хорошого для нас не зробила. Час попрощатись і взяти контроль над власним майбутнім."
+
+glw_stitches_preparations: "Підготовка Стічіса"
+glw_stitches_preparations_desc: "Стічіс знає — план має бути бездоганним. Помилка викличе хаос і бунт серед біженців."
+
+glw_hidden_stockpiles: "Приховані сховища"
+glw_hidden_stockpiles_desc: "Ого, скільки тут зброї! Ми можемо озброїти біженців — і перетворити їх на справжніх солдатів нашого нового майбутнього."
+
+glw_mobilize_homeguard: "Мобілізувати Вартових Купола"
+glw_mobilize_homeguard_desc: "Вартові Купола — вже не просто ополчення. Це основа нової елітної бойової сили."
+
+glw_everything_ready: "План у дії"
+glw_everything_ready_desc: "План Стічіса починає працювати — люди підтримують його, усе йде краще, ніж очікувалось."
+
+glw_caravan_influence: "Вплив Каравану"
+glw_caravan_influence_desc: "Караванна рада не була аж такою поганою. Може, їх варто залишити — з правильним підходом це може бути вигідно."
+
+glw_patches_presence: "Присутність Петчіса"
+glw_patches_presence_desc: "Щоб план Петчіса спрацював — він має переконати всіх. Жарти та усмішка — не достатньо. Потрібна повна підтримка."
+
+glw_rebuild_settlements: "Притулок для загублених"
+glw_rebuild_settlements_desc: "Візія Петчіса — дім для кожного. Відкриті двері, відкрите серце й місце в родині — незалежно від минулого."
+
+glw_police_chaos: "Патрулювати хаос"
+glw_police_chaos_desc: "Петчіс бився з хуліганами, божевільними мутантами й роботами Середнього Заходу. Його жарти й кулаки боронили слабких. І його «родина» продовжить цю справу."
+
+glw_share_what_we_have: "Поділитись усім, що маємо"
+glw_share_what_we_have_desc: "Ділитись — основа нашої спільноти. Це найменше, що ми можемо зробити. І наш новий девіз: бо ніхто не має бути об’єктом для глузувань."
+
   #glw_crossing_rockies:0 "Crossing the Rockies"
   #glw_crossing_rockies_desc:0 ""
   #glw_warden_threw_party_in_county_jail:0 "Warden Threw a Party in the County Jail"
@@ -327,17 +374,21 @@ glw_priest_and_electrican_desc: "Що спільного між священик
   #glw_puppet_and_master:0 "Puppet and Master"
   #glw_puppet_and_master_desc:0 ""
 
-  glw_stitches_dominance:0 "Stitches' Dominance"
-  glw_stitches_dominance_desc:0 "In the end, Stitches came out on top in his rivalry with Patches. Maybe in a few decades, Patches will make a comeback tour—like he always does."
-  glw_perfect_harmony:0 "The Perfect Harmony"
-  glw_perfect_harmony_desc:0 "Against all odds, Stitches and Patches have found common ground. Their differences have given way to a mutual partnership, surprising everyone—including themselves."
-  glw_patches_dominance:0 "Patches' Dominance"
-  glw_patches_dominance_desc:0 "Patches' jokes have won over Stitches' cynicism. Maybe Stitches will find his way back into the spotlight one day, but for now, Patches gets the last laugh."
-  glw_listen_to_arriving_ghouls:0 "Listen to the Ghoul Refugees"
-  glw_listen_to_arriving_ghouls_desc:0 "The refugees keep mentioning 'Colorado'—a pre-war name that seems to carry weight. It's not nostalgia for the spies—they're too strange for that—but it means something to the rest."
-  glw_check_back_to_midwest:0 "Check in with the Brotherhood"
-  glw_check_back_to_midwest_desc:0 "Patches used to be with the Brotherhood, didn't he? Maybe it's time to reconnect and see what they're up to."
-  glw_check_back_to_midwest_tt:0 "Ask to join a Brotherhood of Steel Chapter's Faction, if we border any."
+glw_stitches_dominance: "Перевага Стічіса"
+glw_stitches_dominance_desc: "Зрештою, Стічіс вийшов переможцем у суперництві з Петчісом. Можливо, років за двадцять Петчіс і повернеться на сцену — як він завжди це робить."
+
+glw_perfect_harmony: "Досконала гармонія"
+glw_perfect_harmony_desc: "Всупереч усьому, Стічіс і Петчіс знайшли спільну мову. Їхні відмінності поступились місцем справжньому партнерству — чим здивували навіть самих себе."
+
+glw_patches_dominance: "Перевага Петчіса"
+glw_patches_dominance_desc: "Жарти Петчіса взяли гору над цинізмом Стічіса. Можливо, той ще повернеться у центр уваги. Але поки що останній сміється саме Петчіс."
+
+glw_listen_to_arriving_ghouls: "Прислухатись до біженців-гулів"
+glw_listen_to_arriving_ghouls_desc: "Біженці постійно згадують «Колорадо» — довоєнну назву, що, здається, несе особливе значення. Не через ностальгію шпигунів — ті занадто дивні — але для решти вона щось означає."
+
+glw_check_back_to_midwest: "Зв’язатись із Братством"
+glw_check_back_to_midwest_desc: "Петчіс колись був у Братстві Сталі, хіба ні? Може, час знову зв’язатись і дізнатись, що в них там відбувається."
+glw_check_back_to_midwest_tt: "Спробувати приєднатись до фракції Братства Сталі, якщо маємо з нею спільний кордон."
   #glw_knock_on_iron_gate:0 "Knocking on the Iron Gate"
   #glw_knock_on_iron_gate_desc:0 ""
   #glw_knock_on_iron_gate_tt:0 "§RThis focus is only a temporary placeholder until the Midwest update, and as such, it has limited effects.§!"
