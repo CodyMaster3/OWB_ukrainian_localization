@@ -2022,7 +2022,7 @@ ncr_junkertank_bonus_desc:0 "Брухтовий танк стане цінним
 ncr_junkertroop_bonus:0 "Брухтові війська"
 ncr_junkertroop_bonus_desc:0 "Війська, дислоковані у Джанктауні, слугуватимуть чудовим прикладом для всієї Республіки."
 
-ncr_eliminate_ghouls:0 "Ґулі знищені"
+ncr_eliminate_ghouls:0 "Гулі знищені"
 ncr_eliminate_ghouls_desc:0 "Знищивши гулів у межах Республіки, ми тепер можемо зосередитись на інших проблемах."
 
 ncr_supply_train_expansion:0 "Розширення постачання"
