@@ -1,512 +1,734 @@
 ﻿l_english:
-   #Main Tree - Linear Story
-    #Starting Focuses
-    bag_first_expedition:0 "The First Expedition"
-    bag_first_expedition_desc:0 "This isn't the first time we came out here. It was around 20 years ago..."
-    bag_failure_of_expedition:0 "Failure of the Expedition"
-    bag_failure_of_expedition_desc:0 "We weren't successful and had to leave. All thanks to a certain someone."
-    bag_second_expedition:0 "The Second Expedition"
-    bag_second_expedition_desc:0 "We have arrived here once again. The region might just be twice as deadly as it was before."
-    #The Coloradan Powderkeg Focuses
-    bag_empirical_method:0 "The Empirical Method"
-    bag_empirical_method_desc:0 "We can't afford to go shooting blind. We have to be careful and sound out the situation, even if it means taking our time."
-    bag_fund_galetskis:0 "Fund the Galenski's Grand Garage"
-    bag_fund_galetskis_desc:0 "The Galenski family were always the most avid supporters of the Expedition. When we arrived on Coloradan soil twenty years ago, Eddie lent us his expertise and armoured truck, ensuring our safe travels to the Dome. Now, Old Eddie is a fragile man, but his kids continued his legacy. We could use their help again."
-    bag_students_of_apocalypse:0 "Students of the Apocalypse"
-    bag_students_of_apocalypse_desc:0 "Most of our scientific staff is comprised of students from the Academy and the schools of the Followers. They're engineers and programmers from all different fields, as well as medical experts and plague researchers. Their diverse skills will be essential to our survival."
-    bag_civilian_cooperation:0 "Cooperation with the Civilians"
-    bag_civilian_cooperation_desc:0 "Our main objective is securing the Dome, but if we use our old approach of forceful military occupation, we will surely fail. We cannot ignore the wishes and wellbeing of the locals. We will have to convince them that this fight is theirs, and if they choose our side, the Republic will thank them with benefits."
-    bag_our_part:0 "Red to Red, White to White..."
-    bag_our_part_desc:0 "The students we brought with us have vastly different backgrounds - most of them either engineers or programmers. Almost none of them have any practical knowledge in the field of medicine, but with the guidance of our doctors, they could save lives easily."
-    bag_do_it_yourself_robotics:0 "DIY Robotics"
-    bag_do_it_yourself_robotics_desc:0 "Dr. Goddard was always fascinated with the thought of robotic warfare. He witnessed protectrons in action while he was doing his research paper on Vault City's power plant. While we're not in the position to start up a robotic army just yet, we certainly can start with the parts we have."
-    bag_welder_deal:0 "Deal with the Welders' Union"
-    bag_welder_deal_desc:0 "Before Bares-his-Teeth drove out the ghouls from Dog-City, the "Welders' Union" were dominant here. A highly autonomous compound where people lived without much authority. Unsurprisingly they were effortlessly scattered by the ghouls, but a little splinter group lives on in our land. We could ask for their help."
-    bag_welder_deal_tt:0 "§RBeware! The Welders' Union will cease their support if we're more closely aligned with the 5th Engineering Company!§!"
+  #Main Tree - Linear Story
+  #Starting Focuses
+  bag_first_expedition:0 "Перша експедиція"
+  bag_first_expedition_desc:0 "Це не вперше ми сюди прийшли. Минуло вже близько 20 років..."
+
+  bag_failure_of_expedition:0 "Невдача експедиції"
+  bag_failure_of_expedition_desc:0 "Ми не досягли успіху й були змушені відступити. Все через одну конкретну особу."
+
+  bag_second_expedition:0 "Друга експедиція"
+  bag_second_expedition_desc:0 "Ми повернулися знову. І здається, цей регіон став удвічі смертоноснішим, ніж був раніше."
+
+  #The Coloradan Powderkeg Focuses
+  bag_empirical_method:0 "Емпіричний метод"
+  bag_empirical_method_desc:0 "Ми не можемо дозволити собі діяти навмання. Потрібно обережно вивчити ситуацію, навіть якщо це забере час."
+
+  bag_fund_galetskis:0 "Профінансувати Гараж Ґаленських"
+  bag_fund_galetskis_desc:0 "Родина Ґаленських завжди була відданими союзниками Експедиції. Двадцять років тому, коли ми вперше ступили на землю Колорадо, Едді поділився своїм досвідом і броньованою вантажівкою, забезпечивши нам прохід до Купола. Зараз Старий Едді — немічна людина, але його діти продовжують його справу. Ми знову потребуємо їхньої допомоги."
+
+  bag_students_of_apocalypse:0 "Учні апокаліпсису"
+  bag_students_of_apocalypse_desc:0 "Більшість нашого наукового персоналу — це учні Академії та шкіл Послідовників. Серед них — інженери, програмісти, медики та дослідники чум. Їхній різносторонній досвід буде ключовим для нашого виживання."
+
+  bag_civilian_cooperation:0 "Співпраця з місцевими"
+  bag_civilian_cooperation_desc:0 "Наша головна мета — захоплення Купола. Але якщо ми знову застосуємо військову силу, як раніше, ми зазнаємо поразки. Ми не можемо ігнорувати волю й добробут місцевого населення. Ми повинні переконати їх, що ця боротьба — їхня також. Якщо вони стануть на наш бік, Республіка щедро віддячить."
+
+  bag_our_part:0 "Червоний до червоного, білий до білого..."
+  bag_our_part_desc:0 "Студенти, яких ми привезли з собою, мають різне походження — більшість з них інженери чи програмісти. Майже ніхто не має практичного медичного досвіду, але з належним керівництвом лікарів вони зможуть рятувати життя."
+
+  bag_do_it_yourself_robotics:0 "Робототехніка власноруч"
+  bag_do_it_yourself_robotics_desc:0 "Доктор Ґоддард завжди захоплювався ідеєю роботизованої війни. Він особисто бачив протектронів у дії під час досліджень на електростанції Vault City. Хоч ми ще не готові створити армію роботів, ми можемо почати зі збирання тих, що маємо."
+
+  bag_welder_deal:0 "Угода з Об’єднанням Зварників"
+  bag_welder_deal_desc:0 "До того, як Бере-за-Зуби вигнав гулів із Міста-Псів, “Об’єднання Зварників” домінувало тут. Це була самоврядна спільнота, яка жила без централізованої влади. Гулі легко їх розбили, але невелика група вижилих все ще існує на нашій території. Ми можемо звернутися по їхню допомогу."
+  bag_welder_deal_tt:0 "§RУвага! Об’єднання Зварників припинить свою підтримку, якщо ми тісніше зблизимось із 5-ю Інженерною Ротою!§!"
+
+  bag_straightforward_method:0 "Прямий метод"
+  bag_straightforward_method_desc:0 "Військові питання — справа НКА, а не яйцеголових за письмовими столами. Ми знищимо ворогів так, як уміємо найкраще."
+
+  bag_local_recruitment_drive:0 "Місцева рекрутська кампанія"
+  bag_local_recruitment_drive_desc:0 "Республіка прибула, люди Колорадо! Вона поділиться своєю свободою і добробутом, якщо ми зможемо вигнати ворога! Станьте до лав НКАКР — Армії Нової Каліфорнії в Колорадо, і здобудьте громадянство!"
+
+  bag_fifth_engineering_company:0 "5-та Інженерна Рота"
+  bag_fifth_engineering_company_desc:0 "На чолі з майором Бріґґсом, 5-та Інженерна Рота виконує звичні завдання інженерного підрозділу. Але їхня спеціалізація — саботаж, зазвичай вибуховий. Вони змушують ворогів шкодувати, що прокинулись уранці."
+
+  bag_drill_greens:0 "Підготовка колорадських рекрутів"
+  bag_drill_greens_desc:0 "Експедиція зовсім не готова до війни на два фронти. Є багато місцевих, яких можна завербувати або призвати, але вони потребують бодай якогось навчання."
+
+  bag_dedicated_fireteams:0 "Інтеграція загонів вогневої підтримки"
+  bag_dedicated_fireteams_desc:0 "Інтегруємо загони «Інтенсивного Покривного Вогню» Бріґґса в наші батальйони, щоб здобути перевагу у вогневій силі та організації."
+  bag_dedicated_fireteams_tt:0 "Додає §YПідтримку Вогневих Груп§! до шаблонів §YКолорадські Солдати§! та §YКолорадські Рейнджери§!!"
+
+  bag_activate_fifth_engineering_company:0 "Розгорнути 5-ту Інженерну Роту"
+  bag_activate_fifth_engineering_company_desc:0 "Ми хотіли тримати П’яту осторонь, але вибору не маємо — потрібно негайно задіяти їх. Їхній справжній потенціал та навички стануть у пригоді в найближчій боротьбі, навіть якщо це розкриє наші козирі."
+  bag_activate_fifth_engineering_company_tt:0 "§RУвага! 5-та Інженерна Рота припинить свою підтримку, якщо ми тісніше зблизимось із Об’єднанням Зварників!!§!"
+
+  bag_office_of_millitary_advancement:0 "Управління Військового Розвитку"
+  bag_office_of_millitary_advancement_desc:0 "Управління Військового Розвитку, або ж УВР — це бачення військової кліки НКА. Колерідж спільно з Лі Олівером у Республіці уявляли орган, що не просто відновлює стару зброю, а створює нову, кращу. Тут, далеко від каліфорнійської бюрократії, Колерідж спробує втілити це бачення в життя."
     #
-    bag_straightforward_method:0 "The Straightforward Method"
-    bag_straightforward_method_desc:0 "Military matters are the purview of the NCRA, not eggheads seated behind desks. We will take the fight to our enemies the only way we know how."
-    bag_local_recruitment_drive:0 "Local Recruitment Drive"
-    bag_local_recruitment_drive_desc:0 "The Republic has arrived, people of Colorado! It can share its liberty and prosperity with you, if we can but drive the enemy away! Come and serve in the NCRACC, the New California Army Colorado Contingent, and secure yourself citizenship!"
-    bag_fifth_engineering_company:0 "5th Engineering Company"
-    bag_fifth_engineering_company_desc:0 "Led by Major Briggs, the 5th Engineering Company nominally does everything a normal army engineering team would. But they have a special talent and task; sabotage, usually of the explosive variety. They can make our enemies regret getting up this morning."
-    bag_drill_greens:0 "Drill the Coloradan Conscripts"
-    bag_drill_greens_desc:0 "The Expedition is woefully unprepared for this two-front conflict. There are many locals to recruit and conscript, but we'll need to give them some training."
-    bag_dedicated_fireteams:0 "Integrated HCF Squads"
-    bag_dedicated_fireteams_desc:0 "Let's integrate Briggs' "Heavy Cover Fire" teams into our battalions, that we may benefit from superior firepower and organization."
-    bag_dedicated_fireteams_tt:0 "Adds §YFireteam Support§! to template(s) §YColorado Troopers§! and §YColorado Rangers§!!"
-    bag_activate_fifth_engineering_company:0 "Activate the 5th Engineering Company"
-    bag_activate_fifth_engineering_company_desc:0 "While we wanted to keep the Fifth out of the action, we have no choice but to pre-emptively activate them. Showing their true colours and skillsets will help through the oncoming struggle, even if we would prefer to keep one of our aces in our sleeve."
-    bag_activate_fifth_engineering_company_tt:0 "§RBeware! The 5th Engineers' Company will cease their support if we're more closely aligned with the Welders' Union!!§!"
-    bag_office_of_millitary_advancement:0 "Office of Military Advancement"
-    bag_office_of_millitary_advancement_desc:0 "The Office of Military Advancement, or just OMA, is the vision of the NCRA's military clique. Coleridge, in conjunction with Lee Oliver back in the Republic, imagined a military body that sought to go beyond the restoration of old weapons and instead embraced building new and better ones. Out here, far from republican bureacracy, Coleridge will try to make this a reality."
+    bag_our_administrator_on_field:0 "Наша адміністраторка в полі"
+    bag_our_administrator_on_field_desc:0 "[BAG.BAG_AGNES.GetName] — не лише видатна біологиня та лікарка, а й досвідчена дипломатка. Її скромність і відсутність честолюбства роблять її ідеальною адміністраторкою та цивільною лідеркою. Поки [BAG.BAG_GODDARD.GetName] та [BAG.BAG_COLERIDGE.GetName] роблять усе можливе для досягнення цілей Експедиції, вона триматиме все інше під контролем."
+
+    bag_gamma_corps:0 "Організувати корпус "Гамма""
+    bag_gamma_corps_desc:0 "Ми маємо використати всі доступні ресурси. Переважна більшість населення під нашою юрисдикцією — гулі, і не вербувати їх було б марнотратством. Особливо, зважаючи на те, що більшість із них — «старички», ветерани Великої Війни, з реальним військовим досвідом."
+
+    bag_local_leaders:0 "Просувати місцевих лідерів"
+    bag_local_leaders_desc:0 "Місцевих людей мають вести місцеві лідери. [BAG.BAG_ELI.GetName] служив у Національній Гвардії Колорадо до падіння бомб. Як і багато інших, він приєднався до [WHD.GetName], але згодом розчарувався у керівництві Старого Пса. Прибуття Республіки дало йому шанс змінити все на краще — тому він добровільно очолив наші сили проти свого колишнього командира."
+
+    bag_ghoul_reliance:0 "Ставка на Гниючих Рейнджерів"
+    bag_ghoul_reliance_desc:0 "Хоча це і викликає занепокоєння у Вищому Командуванні, нам доведеться ще більше покладатись на гулів. Вони добре навчені, надійні, і їх багато. У майбутньому це може боляче вдарити по нас, але наразі іншого вибору немає — Корпус Гамма має бути розширений."
+    bag_ghoul_reliance_tt:0 "§GВідкриває§! новий набір §YЗаконів для Чужинців§!"
+
+    bag_establish_outposts:0 "Заснувати форпости"
+    bag_establish_outposts_desc:0 "Наша доктрина вимагає добре укріплених позицій, і наші сапери швидко можуть їх створити. Ми зведемо палісади, стіни, бункери та форпости у підконтрольних містах. Попри важливість захисту кордонів, ці поселення забезпечують нас ресурсами — ми не можемо їх втратити."
+
+    bag_access_radio_towers:0 "Підключити радіовежі"
+    bag_access_radio_towers_desc:0 "Знання про ворога — запорука перемоги. Відновлення місцевих радіовеж дасть нам чудові оглядові точки і дозволить ефективно шпигувати за гулями."
+
+    bag_access_emergency_stockpiles:0 "Отримати доступ до резерфних складів"
+    bag_access_emergency_stockpiles_desc:0 "Коли ми востаннє залишали Колорадо, ми приховали тайник зі зброєю та спорядженням. Воно старе й заіржавіле, але, схоже, надзвичайна ситуація настала раніше, ніж ми очікували."
+
+    bag_task_force_baggers:0 "Оперативна група «Баґґери»"
+    bag_task_force_baggers_desc:0 "«Баґґери», ветерани Першої експедиції, — наші найдосвідченіші солдати. Спершу ми хотіли використати їх у штабі, але доведеться знову кинути їх у бій — навіть якщо це загострить їхню ПТСР."
+
+    bag_raise_medical_rations:0 "Збільшити медичні морми"
+    bag_raise_medical_rations_desc:0 "Район Боулдера, околиці Шаєнну та далеке південне місто Колорадо-Спрінґс — усе це зелено світиться від радіації. Ми маємо враховувати рельєф. Поки не знайдемо постійного рішення, залишається лише збільшити медичні норми для наших військових."
+
+    bag_utilize_radiophobians:0 "Залучити радіофобів"
+    bag_utilize_radiophobians_desc:0 "Навколо лідера «Сили Бегерів», [BAG.BAG_LARSEN.GetName], сформувалася група Радіофобів. Вони ненавидять радіацію і гулів. Можливо, це небезпечні фанатики, але якщо їхня ненависть буде спрямована на ворога — вона нам на користь."
+
+    bag_plan_operation:0 "Бути готовими"
+    bag_plan_operation_desc:0 "Наша штабна кімната унікальна тим, що в ній працюють і військові, і науковці, намагаючись не суперечити одне одному. Та попри це, план дій усе одно має бути визначений."
+
     #
-    bag_our_administrator_on_field:0 "Our Admin on Field"
-    bag_our_administrator_on_field_desc:0 "[BAG.BAG_AGNES.GetName] is not only a great biologist and medic, but she is also a well-trained diplomat. Being modest and lacking ambition makes her a perfect administrator and civilian leader. While [BAG.BAG_GODDARD.GetName] and [BAG.BAG_COLERIDGE.GetName] try their best to achieve the Expedition's goals, she will keep everything else in order."
-    bag_gamma_corps:0 "Organize the Gamma Corps"
-    bag_gamma_corps_desc:0 "We need to utilize every asset at our disposal. The ghouls are the predominant people under our jurisdiction, and not recruiting from their ranks would be a waste. Especially since most of them are "oldies", ghouls from the Great War, and many have actual military knowledge."
-    bag_local_leaders:0 "Promote Local Leaders"
-    bag_local_leaders_desc:0 "Local people need to be led by local leaders. [BAG.BAG_ELI.GetName] was part of the Coloradan National Guard before the bombs fell. He joined the [WHD.GetName] like many other guard remnants, but grew dissatisfied with Old Dog's leadership. The Republic's arrival opened up a chance to finally make changes here for the better, so he volunteered to lead our forces against his old boss."
-    bag_ghoul_reliance:0 "Rely on the Rotting Rangers"
-    bag_ghoul_reliance_desc:0 "While it disturbs parts of our High Command, we'll need to rely even more on our ghouls. They're well-trained, reliable, and come in steady numbers. There's a chance that in the future this will bite us in the rear, but we have no other choice than to expand the Gamma Corps."
-    bag_ghoul_reliance_tt:0 "§GUnlocks§! a new set of §YOutsider Laws§! for you to use!"
-    bag_establish_outposts:0 "Establish Outposts"
-    bag_establish_outposts_desc:0 "Our doctrine calls for well-defendable positions, and with our sappers in the field we should set them up quickly. We'll construct palisades, walls, bunkers and outposts in the towns under our jurisdiction. While protecting our borders is important, these settlements provide us with the supplies we need - they cannot fall."
-    bag_access_radio_towers:0 "Access the Radio Towers"
-    bag_access_radio_towers_desc:0 "Knowing your enemy is crucial to defeating them. Resurrecting the local radio towers will both give us great vantage points and a means of spying on the ghouls effectively."
-    bag_access_emergency_stockpiles:0 "Access Emergency Stockpiles"
-    bag_access_emergency_stockpiles_desc:0 "When we left Colorado last time, we left behind a hidden cache of weapons and other equipment. They're old and rusty, but it seems an emergency came earlier than we anticipated."
-    bag_task_force_baggers:0 "Task Force Baggers"
-    bag_task_force_baggers_desc:0 "The "Baggers", the original forces from the First Expedition, are our most experienced troopers in the field. We originally wanted to use their experience in the war room, but we'll have to expose them to another PTSD-inducing experience."
-    bag_raise_medical_rations:0 "Increase the Medical Rations"
-    bag_raise_medical_rations_desc:0 "The Boulder area, the Cheyenne region, and the far south town of Colorado Springs are all pulsing green with radiation. Terrain always needs to be accounted for, and until we find a permanent solution all we can do is increase the troops' medical rations."
-    bag_utilize_radiophobians:0 "Utilize the Radiophobians"
-    bag_utilize_radiophobians_desc:0 "Formed around the leader of the "Baggers Force", [BAG.BAG_LARSEN.GetName], the Radiophobians hate radiation and ghouls. They're potentially dangerous bigots, but we need their hate directed at our enemies."
-    bag_plan_operation:0 "Be Prepared"
-    bag_plan_operation_desc:0 "Our war room is unique in that military and scientific personnel share it, trying to ensure that one does not gainsay the other. However, a plan of action must be chosen."
-    #
-    bag_put_service_stuff_into_service:0 "The Call of Duty"
-    bag_put_service_stuff_into_service_desc:0 "We're not just a bunch of soldiers. Labourers, sailors, truckers, and pencil-pushers also came with us to make this operation run smoothly. In desperate times like this, we could put guns into their hands."
-    bag_ask_truckers_help:0 "Ask a Favour from the Truckers"
-    bag_ask_truckers_help_desc:0 "The Truckers are old allies of the Expedition. While their primary role is in logistical support, we could ask to use their armoured truck for... a different task."
-    bag_hire_junkies:0 "Hire Junkies"
-    bag_hire_junkies_desc:0 "There is a shady individual by the moniker of "Lacerman". He hooks up ghouls and others with all different kinds of hard drugs. We never saw him or his goons, only of his handiwork - junkies and braindead ghouls scattered around. We could use them as cannon fodder."
-    bag_recruit_civilians_for_sapper_work:0 "Recruit Civilians for Sapper Duty"
-    bag_recruit_civilians_for_sapper_work_desc:0 "Among the locals are many with engineering talents. They may not possess the same skills as our military sappers, but they'll do in a pinch."
-    #The Road to Boulder
-    bag_first_victory_of_expedition:0 "First Victory of the Expedition"
-    bag_first_victory_of_expedition_desc:0 "Despite everything, we stand victorious! This time is for celebration, and after making merry, we'll start to consolidate our control."
-    bag_promote_our_heroes:0 "Promote Our Heroes"
-    bag_promote_our_heroes_desc:0 "While the Expedition expected to face some hostilities, the Powderkeg that we set aflame was more than we imagined. Our soldiers, despite the odds, showed their prowess. It's time that we award them accordingly. Promotions and decorations are on the way."
-    bag_civilian_oversight:0 "Establish Civilian Oversight"
-    bag_civilian_oversight_desc:0 "These blood-soaked fields are ours now, and it will take considerable time and resources to rebuild them as they were. We cannot risk our new citizens backstabbing us, even if the reconciliation slows us before the road to Boulder."
-    bag_land_of_glowing_ash:0 "The Coloradan Great Glow"
-    bag_land_of_glowing_ash_desc:0 "The capital city of old Wyoming, Cheyenne, was levelled in the Great War. The Great Glowing Ones' cultists continue to infest the area. If we want to make peace with the people in the area, we will have to make peace with their... 'religion'."
-    bag_land_of_glowing_ash_tt:0 "§gWe'll send a messenger to the §Y[GLC.GetNameWithFlag]§!. Their leader, the Glowing Father, leads a similar group to the §Y[LUM.GetNameWithFlag]§! and represents a less sinister version of their religion. If we could invite him to replace their "Great Glowing One", we could achieve peace in the region.§!"
-    bag_guarantee_freedom_of_religion:0 "Guarantee the Freedom of Religion"
-    bag_guarantee_freedom_of_religion_desc:0 "The freedom of religion is an elemental concept for law, even in the old world. Banning the local faiths would cause more problems than it would solve. Guaranteeing the ghouls their way of life is both ethical and practical."
-    bag_guarantee_freedom_of_religion_tt:0 "§gIf §YGlow's Cradle§! accepts our proposal, you will unlock a new advisor!§!"
-    bag_raise_temple_of_faith:0 "Raise a Temple for the Faith"
-    bag_raise_temple_of_faith_desc:0 "The ghouls won't have to worship in secret. We will erect a temple for them, where they can listen to the words of the Glowing Father and do willing community work for the Republic!"
-    bag_last_stand_of_all:0 "The Coloradan Broken Hills"
-    bag_last_stand_of_all_desc:0 "We'll recreate that mingling of humans, ghouls and mutants here, far from the original. It will inspire others to put aside past prejudices and join us in striving for a better future."
-    bag_last_stand_of_all_tt:0 "§YOld Dog§! will serves us as a Commanding Officer.\n§LSkill§!: §Y3§!\n§RAttack Skill§!: §Y4§!\n§GDefense Skill§!: §Y1§!\n§PPlanning Skill§!: §Y1§!\n§MLogistics Skill§!: §Y2§!\n§gTraits:§! §tStrong§!, §tPerceptive§! and §tFeral Kid§!"
-    bag_enforce_mutant_law_of_2205:0 "Enforce the Mutant Law of 2205"
-    bag_enforce_mutant_law_of_2205_desc:0 "The NCR passed these laws decades ago, and it mandates that ghouls and super mutants enjoy the same rights as anybody else. Enforcing most of them only requires adequate policing."
-    bag_enforce_mutant_law_of_2205_tt:0 "§gThis interaction will yield better results if we already implemented higher levels of the §YMutant Recruitment§! policy. Our actions would appear more sincere and credible that way.§!"
-    bag_contact_chinese_remnants:0 "Contact the Chinese Remnants"
-    bag_contact_chinese_remnants_desc:0 "The most peculiar group in the lands of the Withered Dogs are the Chinese remnants. We have just enough skill in Mandarin to successfully cooperate with them. The Great War ended long ago, and we shouldn't let old mistakes spill new blood."
-    bag_emancipation_of_ghoul_lands:0 "Emancipation of the Coloradan Frontier"
-    bag_emancipation_of_ghoul_lands_desc:0 "We first conquered their lands, then we conquered their hearts. The ghouls of these lands are already our citizens, and we can expect them to support our cause to emancipate the whole region from tyranny - but most importantly, emancipate the Dome back under our control."
-    #
-    bag_military_occupation:0 "Enforce Military Occupation"
-    bag_military_occupation_desc:0 "Defeating our enemies on the battlefield was the easy part. Until we can reorganize the lands to follow our laws, we'll maintain a military presence. While that will not make the locals trust us more, it will be the safer option."
-    bag_military_occupation_tt:0 "§O[BAG_GODDARD.GetName]§! resigns as the official leader of the §YColoradan Expedition§!, and §O[BAG_COLERIDGE.GetName]§! is named the new leader in his place.\n\n"
-    bag_westward_expansion:0 "Westward Expansion of the OZ"
-    bag_westward_expansion_desc:0 "The Expedition will expand the Occupation Zone westward next. Both radiation and Glowing cultists will inhibit our pacification efforts. We'll just have to get rid of it all."
-    bag_ban_the_faith_of_glow:0 "Ban the Faith of the Glow"
-    bag_ban_the_faith_of_glow_desc:0 "The cultists organized around this "Great" Glowing One are dangerous lunatics. They forcibly ghoulify people by nailing them to crosses next to their "holy site", a radiating hellhole. This depravity cannot exist under our administration - terminate their leadership and scatter their congregation."
-    bag_operation_darnall:0 "Project: Darnall"
-    bag_operation_darnall_desc:0 "Our localized de-radiation facility will be next to [249.GetName] to test out the newest solutions to the problem. The site fits perfectly for the job, as an enormous bomb crater filled to the brim with luminous water in the area. Clearing the poisonous lake will please the locals as well. Brigadier-General Darnall would be proud."
-    bag_eastward_expansion:0 "Eastward Expansion of the OZ"
-    bag_eastward_expansion_desc:0 "The Occupation Zone's expansion will continue eastward into the former lands of the Withered Dogs. Pre-war national guards, ghoul refugees from the south and even Chinese invaders are present. We expect a stiff resistance movement to form."
-    bag_deal_with_national_guard_remnants:0 "Make a Deal with the National Guard"
-    bag_deal_with_national_guard_remnants_desc:0 "Despite our original opinion of ghouls, the National Guard remnants seem like good folk. They fought for a good cause under the wrong leadership. We could integrate them into our forces."
-    bag_finish_war:0 "Wrap Up the Yankee-Sino Conflict"
-    bag_finish_war_desc:0 "The Sino-American War may be long over, but these ghouls seem intent on reliving it with us. Let's banish the spectre of Communism once and for all."
-    bag_finish_war_tt:0 "§RDEATH IS A PREFERABLE ALTERNATIVE TO COMMUNISM!§!"
-    bag_pacification_of_ghoul_lands:0 "Pacification of the Coloradan Frontier"
-    bag_pacification_of_ghoul_lands_desc:0 "Most of Northern Colorado is firmly under control. Breaking down rebelling forces was Colonel Peoples' specialty. Dr. Agnes turned out to be a great administrator and compromiser. We're here to stay."
-    #The Expedition's Goal
-    bag_start_of_beautiful_friendship:0 "Start of a Beautiful Friendship"
-    bag_start_of_beautiful_friendship_desc:0 "This partnership started out more bumpy than we hoped, but it turned out to be better than expected. The various peoples of Black Canyon are great trade partners and even greater friends. This indeed seems like a start of a beautiful friendship."
-    bag_mutual_defense_pact:0 "Mutual Defence Pact"
-    bag_mutual_defense_pact_desc:0 "Black Canyon is a great partner in many ways. They have no design over this side of the Rockies anymore. Both of us are ready to be each others' vanguard while manifesting our destinies in different directions."
-    bag_joint_defense_council:0 "Joint Defense Council"
-    bag_joint_defense_council_desc:0 "While we have superior knowledge of pre-war-style battle tactics, the people of Black Canyon know how to use the land to its fullest. There's a lot we could learn from each other."
-    bag_share_military_expertise:0 "Share Military Expertise"
-    bag_share_military_expertise_desc:0 "Our commanders seem to like each other. Odd friendships have risen in the barracks. For example, between the supermutant Blackjack and our Larsen, who appears comfortable next to the green giant."
-    bag_join_the_republic_together:0 "Join the Republic Together"
-    bag_join_the_republic_together_desc:0 "We successfully connected with the Californian heartlands again, and we wouldn't be here without the help of our friends. The least we can do is vouch for them and help them join the Republic on their own terms."
-    bag_introduce_far_go_traders:0 "Introduce the Far-Go Traders"
-    bag_introduce_far_go_traders_desc:0 "The Far-Go Traders originated in the Hub like many others. They unofficially financed a large part of our expedition, and some of their representatives are present. Providing them with a new market would help everyone out."
-    bag_showcase_gun_runner_merchandise:0 "Showcase the Gun Runners' Merchandise"
-    bag_showcase_gun_runner_merchandise_desc:0 "Unluckily, we don't have a hidden Gun Runner in our ranks, but we have their wares in our stockpiles. Not enough to make a difference, but enough to sell them and start a profitable venture with Black Canyon. Just don't tell them they're counterfeit. The quality is genuine, but the brand tags do not match."
-    bag_shared_market:0 "Republicans' Market"
-    bag_shared_market_desc:0 "Black Canyon was in a tight spot. They were pretty isolated in their mountains without trade funnelling in. Luckily, we happened by and maybe profited from it. Their reliance on us is the key to greater things."
-    bag_joint_public_works:0 "Joint Public Works Programs"
-    bag_joint_public_works_desc:0 "There is a lot of work that needs to be done. We have the expertise and equipment, and Black Canyon the work power to lend us. Together we can improve each other lands."
-    #
-    bag_host_caravan:0 "Host the Caravan in Exile"
-    bag_host_caravan_desc:0 "Hard times have struck the Caravan at the heart of Black Canyon. Our friends are welcome to settle here if they've nowhere else to go!"
-    #
-    bag_operation_prison_break:0 "Operation: Prison Break"
-    bag_operation_prison_break_desc:0 "The leader of Black Canyon, Battery of Mesa Verde, is a charismatic diplomat and famous peacemonger. If we propose a beneficial deal in exchange for transferring the Boulder Dome to us, or at least providing us access to it, we could avoid so much bloodshed."
-    bag_operation_prison_break_tt:0 "We will start to diplomatically solve our disagreement with §Y[BLC.GetNameWithFlag]§! through a chain of events."
-    bag_boulder_bargain:0 "Start the Boulder Bargain"
-    bag_boulder_bargain_desc:0 "Dr. Agnes has volunteered to be our acting ambassador while we deal with the nation of §Y[BLC.GetNameWithFlag]§!. She is adamant she can hash out a peaceful agreement. §Y[572.GetName]§! accepted her at their Gatherings, and we established official diplomatic contact."
-    bag_dome_deal:0 "The Dome Gambit"
-    bag_dome_deal_desc:0 "Agnes gambled a lot by asking a lot, but after some big promises that we may or may not be able to fulfill, they agreed to our terms. Maybe this will have dire consequences in the future, but the important thing is that the Dome is ours again!"
-    bag_city_for_everyone:0 "Draining the Green Swamp"
-    bag_city_for_everyone_desc:0 "The Glowbugs maybe lived happily in the ruins of Boulder, but not everyone has the luxury of being resistant to radiation. They will not mind if we clean up all of this radiating rubble."
-    bag_lend_lease_land:0 "Lend-Lease the Land"
-    bag_lend_lease_land_desc:0 "Agnes picked the safer and more plausible choice to request free passage to the Dome. While we may have lost the opportunity to be the only overlord over the facility, we won a friend in the long run."
-    bag_international_benefits:0 "International Benefits"
-    bag_international_benefits_desc:0 "Quelling the hostile air, we finally began trade with the Glowbugs. As people can move freely through the border, both nations' settlements saw growth and migration, which ultimately was beneficial to everyone."
-    bag_other_end_of_deal:0 "The Other End of the Deal"
-    bag_other_end_of_deal_desc:0 "Regardless of the diplomatic angle we took, Black Canyon already handed over what we wanted, and right now, it is our turn to pay. Of course, we could postpone this obligation of ours, maybe even indefinitely."
-    bag_other_end_of_deal_tt:0 "§RIf you do not complete this focus within three months of making a deal, they will assume you have betrayed them and attack!§!"
-    #
-    bag_operation_firefly:0 "Operation: Firefly"
-    bag_operation_firefly_desc:0 "You catch more flies with honey. Yes, fireflies too. That's not the point though; if we use our honeyed words, we can get what we want without fighting!"
-    bag_operation_firefly_tt:0 "We will start to diplomatically solve our disagreement with §Y[GLW.GetNameWithFlag]§! through a chain of events."
-    bag_pragmatic_attitude:0 "Pragmatic Attitude"
-    bag_pragmatic_attitude_desc:0 "With Black Canyon out of the picture, we'll have to take a new approach..."
-    bag_boulder_exploitation_scheme:0 "Boulder Exploitation Scheme"
-    bag_boulder_exploitation_scheme_desc:0 "We can do a lot more with the Boulder Dome and they know it. Just let us handle this, and we'll all profit more."
-    bag_changing_economical_policies:0 "Changing Economical Policies"
-    bag_changing_economical_policies_desc:0 "It's called "Protectionism"."
-    bag_boulder_research_initiative:0 "Boulder Research Initiative"
-    bag_boulder_research_initiative_desc:0 "Working together could yield great things! I mean, they've been squatting around the Dome for a while, they must have learned a few things too, surely?"
-    bag_joint_industrial_development:0 "Joint Industrial Development"
-    bag_joint_industrial_development_desc:0 "The cornerstone of business developments are good partnerships."
-    bag_fool_me_once:0 "Fool Me Once..."
-    bag_fool_me_once_desc:0 "Regardless of the diplomatic angle we took, the Glowbugs already handed over what we wanted, and right now, it is our turn to fulfill our promises. Of course, we could postpone this... obligation of ours, maybe even indefinitely."
-    #
-    bag_operation_can_opener:0 "Operation: Can-Opener"
-    bag_operation_can_opener_desc:0 "Most of the Expedition despises the idea of wasting time with secondary objects. But the General strongly believes that we have the chance to seize the lands of the Iron Alliance. Their armour and weapon stashes would be invaluable assets for achieving our greater goal, even if we would face much discontent from the others."
-    bag_patrol_perimeter:0 "Patrol the Perimeter"
-    bag_patrol_perimeter_desc:0 "New Sterling was not the only settlement of the mercenaries. They were in control of lesser hamlets to the north of their city. They were exempt from Bulleteater's slave-grabbing raids in exchange for tribute of food and other essentials. The local garrisons quickly surrendered, and taking control of them is the easiest job we faced here."
-    bag_new_sterling_industry:0 "Hell's Furnaces"
-    bag_new_sterling_industry_desc:0 "New Sterling was made by and for the mercenary raiders of the city. The city hosted numerous sweatshops where slaves kept their equipment in mint condition. While they hold terrible memories for the locals, we could use the industry in the area - just now for payment and weekends off."
-    bag_form_ghoul_workbattalions:0 "Form Ghoulish Labour Battalions"
-    bag_form_ghoul_workbattalions_desc:0 "The city has many still empty old sweatshops unmanned. We also have numerous ghouls we arrested for being potential ferals or feral supporters. In a civilized world we could put them behind bars, but we don't have the luxury of that. Letting them rot away instead of being useful to us would be a terrible mistake."
-    bag_following_oliver_doctrine:0 "Following the Oliver Doctrine"
-    bag_following_oliver_doctrine_desc:0 "While Coleridge had many debates with his colleagues back in California, he and General Oliver were on the same page about one thing. The future of the NCR is in utilizing more "Heavy Troopers", and now with the proper equipment on hand, we could realize that dream."
-    bag_load_iron_conscripts_tt:0 "§gWe'll hire and conscript two divisions of the Iron Alliance personnel into our forces as Steel Rangers!§!"
-    bag_alt_iron_conscripts_tt:0 "§gWe'll hire and conscript some Iron Alliance personnel. §OIf we implement the Steel Rangers first, we could use their expertise there instead!§!§!"
-    bag_sterling_FOB:0 "Forward Operating Base Sterling"
-    bag_sterling_FOB_desc:0 "The [453.GetName] is a fine HQ, but it is vulnerable and has little strategic value. Sterling is both well-defendable and has a sizeable industry to hold. It could be our permanent base of operations, but for now our move is temporary."
-    bag_conclude_operation_can_opener:0 "Conclude Operation: Can-Opener"
-    bag_conclude_operation_can_opener_desc:0 "Now that we have seen to everything here, we can return to our original objective."
-    #
-    bag_operation_agincourt:0 "Operation: Agincourt"
-    bag_operation_agincourt_desc:0 "Briggs has some genius ideas involving a hell of a lot of explosives..."
-    bag_operation_agincourt_tt:0 "§gWe'll send one of our operatives on a saboteur mission, massively crippling our enemy's military industry!§!"
-    #
-    bag_operational_preparation:0 "Operational Preparation"
-    bag_operational_preparation_desc:0 "While the clock is ticking, we need to be sure that we make the right preparations before we tackle the Dome again. The only thing we cannot spare more than time is failure."
-    bag_steel_wave:0 "Start of the Steel Wave"
-    bag_steel_wave_desc:0 "We'll wash out this wasteland with blood and steel!"
-    bag_utilize_anti_brotherhood_special_equipment:0 "Anti-Brotherhood Special Equipment"
-    bag_utilize_anti_brotherhood_special_equipment_desc:0 "These can openers can open more than just Brotherhood armour!"
-    bag_military_service_for_citizenship:0 "Military Service for Citizenship"
-    bag_military_service_for_citizenship_desc:0 "The Republic is here, folks, and we're here to stay. We will bring order,  law and prosperity into these lands. And if you join our ranks and fight for the dream to come true, you will secure guaranteed citizenship, making your life tenfold easier in the wasteland - after your service has ended, of course."
-    bag_coal_for_furnace_of_war:0 "Feed the Furnace of War"
-    bag_coal_for_furnace_of_war_desc:0 "Metal furnaces that build metal weapons that kill metal soldiers. On and on it goes."
-    bag_reorganization_of_rangers:0 "Reorganization of the Rangers"
-    bag_reorganization_of_rangers_desc:0 "The Ranger team under Ranger-Major Prasad has served us well, but they suffered heavy losses. We will have to reorganize our special forces in order to expand them."
-    bag_merge_them_with_ghoul_rangers:0 "Merge "Team November" with the Gamma Corps"
-    bag_merge_them_with_ghoul_rangers_desc:0 "Merging these two separate groups into one will make it easier for us to manage them, and the Californian Rangers will learn a thing or two from the ghouls."
-    bag_merge_them_with_ghoul_rangers_tt:0 "§yTeam November will join ranks with the Gamma Rangers, benefitting from their resistance to radiation!§!"
-    bag_implement_steel_rangers_concept:0 "Implement the "Steel Rangers" Concept"
-    bag_implement_steel_rangers_concept_desc:0 "Back in California, Coleridge and Oliver talked a lot about how to utilize the Brotherhood's power-armour. They believed high-quality equipment should be used only by the best, the rangers of the Republic. While the Paladins and Rangers' battle style differs, and the idea was deemed unrealistic, Coleridge has the freedom to implement the concept to his heart's content in Colorado."
-    bag_load_steel_ranger_oob_tt:0 "§OWe will also deploy the Steel Rangers Test Team, who helped trial the armour for us!§!"
-    bag_coloradan_ranger_hq:0 "The Coloradan Ranger HQ"
-    bag_coloradan_ranger_hq_desc:0 "Finally, our special forces' centralization is finished. If we want to keep it this way, we will need to create an organization to manage them separately from the corps. The Ranger HQ back in California fulfilled this job, so we don't see why we couldn't replicate it here in Colorado."
-    #
-    bag_operation_homerun:0 "Operation: Homerun"
-    bag_operation_homerun_desc:0 "After many unexpected challenges and delays, we are finally before the Dome itself. We waited for this moment for more than two decades, and finally we are here again."
-    bag_divide_et_impera:0 "Divide et Impera"
-    bag_divide_et_impera_desc:0 "The Glowbugs are far from allies of Black Canyon. If we lean on them, they may abandon their 'overlord'. Divide et Impera."
-    BAG_just_kill_glw_tt:0 "§RSince the Glowbugs' mighty protector has perished, there is no need to tolerate them. Direct control of the Dome is the most expedient scenario for us!§!"
-    bag_operation_bulletstorm:0 "The Bulletstorm Offensive"
-    bag_operation_bulletstorm_desc:0 "The Bulletstorm Offensive is just as straightforward as its name suggests. Shooting everything at our disposal, guns blazing, we will conquer the Dome with one grand and glorious offensive. We'll return with style and fireworks to achieve victory. Shock and Awe."
-    bag_homecoming:0 "The Homecoming"
-    bag_homecoming_desc:0 "It's showtime."
-    bag_finally_home:0 "Home, at Last"
-    bag_finally_home_desc:0 "After more than twenty years, we finally put our feet back in Boulder. Surprisingly, it hasn't changed much. We don't have much time to waste. Somebody, get me a coffee and let's start to put everything back in order."
-    bag_camp_nicole:0 "Setting Up Camp Nicole"
-    bag_camp_nicole_desc:0 "Camp Nicole will serve as an operating camp for our scientists, far from the radiation around the Dome."
-    bag_fort_aradesh:0 "Re-establish Fort Tandi"
-    bag_fort_aradesh_desc:0 "The first Expedition is not only well remembered because of what [BAG.BAG_GODDARD.GetName] discovered under the Dome, but what [BAG.BAG_COLERIDGE.GetName] left behind as well. At the old town of Fort Collins he built an actual fort he named "Fort Tandi", reminiscent of its origins. A rather impressive one, but it fell into ruin after our retreat. But now, it's time to re-establish our old fort and wash away our disgrace."
-    #Governor and Governing
-    bag_contact_californian_government:0 "Contact the Government Back in California"
-    bag_contact_californian_government_desc:0 "Now that we are in control of the Dome again, we should reestablish communication with California. Our connection was always shaky at best due to the distance. Still, after so many years, they should be happy to hear us again - and maybe we could secure ourselves some aid as well."
-    bag_contact_ncr_tt:0 "§gWe send a group of messengers to §Y[253.GetName]§! to inform the president, whoever she or he is, that we're still alive and took control of the Dome. If we're lucky, the NCR will send us their heartfelt gratitude and hopefully some aid. But we cannot expect a constant flow. Let's be a bit realistic - we are three former states away!§!"
-    bag_republican_compromise:0 "The Republican Compromise"
-    bag_republican_compromise_desc:0 "Joseph Dodge, former Lieutenant-Governor of the Hub and semi-competent congressman, has arrived to be the Governor of Colorado. He was popular back in his city, as he constantly fought with the local gangs and tried to minimize the influence of the local merchant houses on politics."
-    bag_revitalize_caravan_trade_act:0 "Revitalize the Caravan Trade Act"
-    bag_revitalize_caravan_trade_act_desc:0 "Every man lives by exchanging, and if we want to prosper in these lands, organized trade has to be started as soon as possible. There are several potential trade partners in the area, and if we can subsidize our Colorado Crimson Caravan Company, we may have a chance to keep our foothold."
-    bag_organize_police_force:0 "Civilian Police Force Act"
-    bag_organize_police_force_desc:0 "The NCRA's military police do an incredible job by keeping peace in our land, but we'll have to withdraw them sooner or later. With Dodge's experience with gangs in the Hub, we'll organize a civilian police force ASAP before any crimelord can get a foothold in our cities."
-    bag_capital_development:0 "Pass the New Hub Act"
-    bag_capital_development_desc:0 "The Hub is a very well-planned post-war city, despite its pre-war foundations. Something we could easily replicate with some discipline and a pencil."
-    bag_capital_development_tt:0 "This focus effect will §Gactivate§! as soon as you choose your new permanent capital!"
-    bag_coloradan_choice:0 "The Choice of Colorado"
-    bag_coloradan_choice_desc:0 "Since we set foot in Colorado, we delegated most daily management tasks to Agnes. As we received no political support from the NCR, she is the best option for governor locally."
-    bag_ban_recreational_drugs:0 "Ban Recreational Drugs"
-    bag_ban_recreational_drugs_desc:0 "Illegal substances are not inherently vices. A handful of them have their uses in therapeutical and medical applications, but recreational use leads to many problems. If we want to build a stable democracy, they must go."
-    bag_provide_universal_healtcare:0 "Provide Universal Healtcare"
-    bag_provide_universal_healtcare_desc:0 "Organizing a universal healthcare system back in California would be impossible. The sheer size of the Republic and its already burdened economy couldn't carry that weight. So we'll have to organize one right away, way before our system's complexity and over-privatization would make it an impossible venture."
-    bag_train_medics:0 "First-Aid Bitter Tonic"
-    bag_train_medics_desc:0 "The Bitter Drink is an invention of the Twin Mothers tribe. They say the Legion adopted it too. If we could embrace this tonic as well, it would increase the survivability of our troops."
-    bag_barons_pick:0 "The Barons' Man"
-    bag_barons_pick_desc:0 "J. P. Baross, a representative of the Barons in California, has arrived to be our governor. Making his name in railway-projects and being a loyalist to Anton Flynn, his arrival will be either a disaster or a great boon."
-    bag_organize_sharecrop_system:0 "Replicate the Thaler Act"
-    bag_organize_sharecrop_system_desc:0 "The basis of a sharecropping system is providing our future farmers land, protection and water in exchange for a quota of crops. This part of the Great Plains are barren in numerous senses, so without proper organization, we would soon start to starve."
-    bag_lax_brahmin_laws:0 "Introduce Lax Brahmin Laws"
-    bag_lax_brahmin_laws_desc:0 "Since Wendell Peterson overturned President Tandi's regulations regarding livestock, the Barons have risen in power. The Great Plains hold vast grasslands with little other utility than grazing. Turning these lands into a new home for landowners seems like a natural progression."
-    bag_local_department_of_railway:0 "The Local Branch of Department of Railways"
-    bag_local_department_of_railway_desc:0 "The railway is just as much a passion for Baross as a necessity for this dying world. The finite resources we have left need to be utilized in the best possible way, which means mass transport and highly organized logistics. His dream of a passenger line to the coast will be realized one day..."
-    bag_capital_of_republic:0 "Capital of the NCR"
-    bag_capital_of_republic_desc:0 "Our nascent republic needs a Shady Sands of its own! We've got a few good candidates to choose from."
-    bag_capital_of_republic_decisions_tt:0 "Unlocks §YChoose Your Capital§! Decisions."
-    bag_new_colorado_republic:0 "Proclaim the New Colorado Republic"
-    bag_new_colorado_republic_desc:0 "Our governor has taken their position, and made their most important arrangements. We're ready to proclaim the New Colorado Republic."
-    bag_flag_of_republic:0 "The Song Of Our People" #Changed focus context because making a bunch of cosmetics for flag changes seemed like an unnecessary chore -Skellie
-    bag_flag_of_republic_desc:0 "A national anthem will help unify our new citizens in song and purpose!"
-    bag_free_elections:0 "Celebrate the Democratic Process!"
-    bag_free_elections_desc:0 "This fine Californian tradition will serve us as it will serve the people of the New Colorado Republic!"
-    #The Boulder Dome
-    bag_fill_out_damage_report:0 "Operation: Boulderdash"
-    bag_fill_out_damage_report_desc:0 "The Boulder Dome has barely changed since our hasty retreat. We must check every system we can, see what has been lost and what can be saved."
-    bag_fill_out_damage_report_tt:0 "Unlocks the §YBoulder Dome GUI§!. You'll find it in the place of §YThe Power Balance of the Expedition§! mechanic."
-    bag_venture_under_dome:0 "Rediscover the First Level"
-    bag_venture_under_dome_desc:0 ""Abandon all hope ye who enter here!"\n\nSounds about right. Hell awaits us, gentlemen."
-    bag_access_water_storage:0 "Access the Water Storage"
-    bag_access_water_storage_desc:0 "§g"I am Alpha and Omega, the beginning and the end. I will give unto him that is athirst of the fountain of the water of life, freely.§!"\nThe Dome's water system de-radiates and cleanses large amounts of water daily. Initially, fixing it may not seem that interesting or rewarding, but is actually quite important."
-    bag_turn_on_lights:0 "Turn on the Lights"
-    bag_turn_on_lights_desc:0 "Before we can fix the Dome's inner systems, we will need to bring our own energy source into it. An out-of-facility, small power plant should do the trick."
-    bag_rediscover_second_level:0 "Rediscover the Second Level"
-    bag_rediscover_second_level_desc:0 "Getting through the first level, we're ready to dwell deeper. Armour and weaponry research, plague and brain studies... there is some really nice stuff there we had to leave behind."
-    bag_first_batch_of_t61:0 "First Batch of Prototype Armour"
-    bag_first_batch_of_t61_desc:0 "The most misplaced character in the Dome was Dr. Armstrong, an engineer with a vision of advanced power-armours and highly technical circuitry systems. How this dream of a soldier ended up in a facility mainly researching medical remedies will be a mystery forever, but his work will be completed by us!"
-    bag_first_batch_of_t61_tt:0 "§gThe workshops are ready to manufacture our first set of Boulder PA. All we need now to is to find the schematics, somewhere §Rinside the Dome§!...§!"
-    bag_restart_code_protocol:0 "Restart the CODE Protocol"
-    bag_restart_code_protocol_desc:0 "Goddard and Coleridge were forever bickering about everything, but there was one crucial thing the two still agreed on; "§RThe end justifies the means.§!""
-    bag_restart_code_protocol_tt:0 "We will salvage §G30§! functional brains monthly from volunteers, prisoners, or from the battlefield. You can use your brains to §Ybuild additional robobrains§!."
-    bag_rediscover_third_level:0 "Take a Stroll in the Third Level"
-    bag_rediscover_third_level_desc:0 "The third level was always an odd one - despite important research going on here, it was largely forgotten by us and even the original dwellers. Now we have the time to look around properly..."
-    bag_restart_fabricators:0 "Restart the PCB Fabricators"
-    bag_restart_fabricators_desc:0 "There are several old PCB fabricating machines around in the Dome in pieces. We could fix them up and make a prototype circuitry workshop for future expansion. If we're gonna use more advanced weapons to wage war, we will need all the PCB boards we can get..."
-    bag_project_hermes:0 "Project: Hermes"
-    bag_project_hermes_desc:0 "The propulsion research on the third-level was, while ambitious, misguided. This technology could revolutionize the way aeroplanes move, but instead, it was wasted on space-exploring rockets. A short-sighted mistake our engineers can and will fix."
-    bag_project_hermes_tt:0 "\n§gOur Mars colony will need to wait a little bit more to be established. We will meet in Stellaris soon!§!"
-    bag_rediscover_fourth_tunnel_level:0 "Rediscover the Boulder Tunnels"
-    bag_rediscover_fourth_tunnel_level_desc:0 "The tunnels were almost the most hated part of the Dome. Narrow corridors, claustrophobic suits tied to the ceiling and all those weird Sleeper chambers... just like a scene from a horror movie. But it's the way to the ultimate prize."
-    bag_smelt_the_rubble:0 "Smelt Down the Rubble"
-    bag_smelt_the_rubble_desc:0 "From wrecked lab to abandoned workshop, a huge portion of the Dome is in dire disrepair and we cannot save everything. The damaged machines can be reformed though. Recycle and reuse!"
-    bag_restart_power_grid:0 "Restart the Power Grid"
-    bag_restart_power_grid_desc:0 "The Dome's power grid is surprisingly complex, and repairing it took much resources and time. But now that we completely understand its inner workings, we can update all of our generators to be more efficient."
-    bag_rediscover_fifth_zax_mainframe_level:0 "Rediscover the ZAX Mainframe"
-    bag_rediscover_fifth_zax_mainframe_level_desc:0 "Finally, after so many years, I have found you again..."
-    #Taming the Rockies
-    bag_taming_rockies:0 "Taming the Rockies"
-    bag_taming_rockies_desc:0 "We had no design on the territories over the Rockies, but they stood between the Dome and us. While our forces occupy their main settlements, the whole ordeal is just a burden on our already limited resources. We will either have to grant them some resemblance of autonomy or optimize our garrison model."
-    bag_connect_to_californian_fleet:0 "Connect to the Californian Fleet"
-    bag_connect_to_californian_fleet_desc:0 "The simplest way to make a stable connection with California would be through the Colorado river. Of course, that solution will only be possible if we secure the ports on the banks."
-    bag_partake_in_water_wars:0 "Partake in the River Wars"
-    bag_partake_in_water_wars_desc:0 "The war between the Republic and the Legion is inevitable, and of course, it is our duty to assist California in that conflict. While our forces are severely limited, we could build our own river fleet to divert their naval capacity from south of the Dam."
-    bag_partake_in_water_wars_tt:0 "All core land of §Y[SLE.GetNameDef]§!, §Y[TOB.GetNameDef]§! and §Y[ORO.GetNameDef]§! is owned by §Y[BAG.GetNameDef]§!, their subjects or their allies."
-    bag_provide_limited_autonomy:0 "Provide Limited Autonomy"
-    bag_provide_limited_autonomy_desc:0 "Black Canyon always worked in a decentralized structure, and forcing them into a different one would bring more problems than it would solve. They will get their autonomy for the time being, but they will learn to love being part of our community."
-    bag_enforce_centralized_structure:0 "Enforce Centralized Structure"
-    bag_enforce_centralized_structure_desc:0 "The country of Black Canyon was vastly ineffective due to over-decentralization. Letting them govern themselves again would only end up in a bureaucratic catastrophe. We'll force them into a centralized structure from our capital."
-    bag_pacifying_raider_lands_tt:0 "§gYou will gain a §Y25% core reduction cost§! on the former §Y[BLC.GetNameWithFlag]§! states.§!"
-    bag_handle_little_wyoming:0 "Handle Little Wyoming"
-    bag_handle_little_wyoming_desc:0 "The nations north of Black Canyon, often nicked "Little Wyoming" by the locals, are inherently closer to our administration than the rest. Incorporating them shouldn't be too much of a hassle."
-    bag_colonize_borderlands:0 "Colonize the Borderlands"
-    bag_colonize_borderlands_desc:0 "With the exception of Rawlins, these lands are largely underpopulated and full of possibilities. Directing some adventurous citizens to settle in the region will bring prosperity to Little Wyoming and consolidate our hold over it."
-    bag_second_rockies_push:0 "Second Rockies Offensive"
-    bag_second_rockies_push_desc:0 "The rest of the Rockies are ripe for the taking. Conquering its people and securing the mountain passes is a matter of national security"
-    bag_in_the_shadow_of_the_mountain:0 "In the Shadow of the Mountain"
-    bag_in_the_shadow_of_the_mountain_desc:0 "One day real war will come to these lands. Not like our clean and gentle campaigns, but something bloody and vicious. If we want to protect our new borders from that future, lots of work will need to be done. Fortresses and walls will be erected, supply lines will be planned and secured."
-    bag_in_the_shadow_of_the_mountain_tt:0 "All core land of §Y[FOR.GetNameDef]§!, §Y[CLJ.GetNameDef]§! and §Y[INR.GetNameDef]§! is owned by §Y[BAG.GetNameDef]§!, their subjects or their allies."
-    bag_bear_out_of_hibernation:0 "Bear out of Hibernation"
-    bag_bear_out_of_hibernation_desc:0 "Until recently, the rest of Colorado was under threat from a Legion invasion. That invasion has been put down, and in their wake, opportunity presents itself."
-    bag_bears_domain:0 "The Colorado Trail"
-    bag_bears_domain_desc:0 "We've tread our boots all over this state. Now we just have to make sure it stays underneath them."
-    bag_bears_domain_tt:0 "All core land of §Y[HAN.GetNameDef]§!, §Y[SCO.GetNameDef]§! and §Y[MXC.GetNameDef]§! is owned by §Y[BAG.GetNameDef]§!, their subjects or their allies."
-    bag_exploit_tribal_holy_land:0 "Exploit Tribal Holy Lands"
-    bag_exploit_tribal_holy_land_desc:0 "Civilizing these places and making them productive is just another day in the life of California's sons."
-    bag_incorporate_yampans:0 "Incorporate the Coalition"
-    bag_incorporate_yampans_desc:0 "The Yampan Community Coalition are democratic, civilized folk. They have an somewhat elected leader, they collect taxes, and adhere to laws and regulations. We could easily incorporate them into our administration without many problems."
-    bag_extra_profit_tax:0 "Taxing the Extra Profit"
-    bag_extra_profit_tax_desc:0 "The Yampans have profited from our merger. This crossroad of two nations makes them a rapidly growing trade hub, which they tax for themselves. We'll have to introduce new laws for their "extra profit" to be funnelled into our treasury."
-    bag_integrating_yampan_lands_tt:0 "§gYou will gain a §Y50% core reduction cost§! in the former §Y[YMP.GetNameWithFlag]§! states.§!"
-    bag_seize_caravan_assets:0 "Seize the Caravan Assets"
-    bag_seize_caravan_assets_desc:0 "The Caravan had a significant amount of influence, which they used to secure themselves many assets. They're no masters over these lands anymore, and as we are fulfilling their role, we should have those factories and workshops instead."
-    bag_life_sentence:0 "Verdict is Life Imprisonment"
-    bag_life_sentence_desc:0 "Black Canyon made a grave mistake by allying itself with raiders and criminals. This is a mistake that we'll need to correct by ourselves. They have a prison in splendid condition... all we need to do is put them back where they belong."
-    bag_bring_civilization_for_tribals:0 "Bring Civilization to the Tribals"
-    bag_bring_civilization_for_tribals_desc:0 "The tribal people of the Painted Men are misled folk. Their past holds numerous grudges and bloody battles, but their way of life doesn't justify it. If we remove their troublesome leader, they could start their assimilation into the Republic. Weird religions can have a place in our lands."
-    bag_bring_civilization_for_tribals_tt:0 "§gYou will gain a §Y25% core reduction cost§! in the former §Y[PNT.GetNameWithFlag]§! states.§!"
-    bag_collaborate_with_caravan:0 "Collaborate with the Caravan"
-    bag_collaborate_with_caravan_desc:0 "The Caravan and Battery tried their best to form a democracy in the Rockies. It was flawed and couldn't scale the mountains of politics and war. It doesn't mean they don't deserve a second chance. They can help us administrate these lands."
-    bag_dissolve_the_coalition:0 "Dissolve the Coalition"
-    bag_dissolve_the_coalition_desc:0 "The Coalition started its formation as a mirror of the NCR, but they stalled as their elected leaders turned corrupt and slowed down the democratic institutions. By removing their "lord-mayor" and rooting out the corruption, they could achieve their dream successfully with us."
-    bag_dissolve_the_coalition_tt:0 "§gYou will gain a §Y25% core reduction cost§! in the former §Y[YMP.GetNameWithFlag]§! states.§!"
-    bag_collaborate_with_mining_enterprises:0 "Collaborate with Mining Enterprises"
-    bag_collaborate_with_mining_enterprises_desc:0 "There's a number of local magnates and contractors out there that are willing to work with us to make a profit. Why not make it so and make more money? Oh, and resources, lots of resources."
-    bag_prisoner_shakedown:0 "That Shady Shakedown"
-    bag_prisoner_shakedown_desc:0 "Despite locking them up, many regional criminals still hold significant power. We'll organise a shakedown that will help cut off their outside influence. This will solidify our economic conrol over the region."
-    bag_final_destination:0 "Our Own Max-Sec"
-    bag_final_destination_desc:0 "The NCR has it's fair share of prisons on distant frontiers. Some might call it a worrying development, but we call it an opportunity. The prisoners will learn to behave as they slave for our interests."
-    bag_rockies_homestead_act:0 "Rockies Territories Reorganization Act"
-    bag_rockies_homestead_act_desc:0 "We implemented multiple policies about managing our newest acquisition, and right now, our control over these lands is unchallenged. We can finally yield some profits from it as well. Remember, it's not stealing if you extract your own fields."
-    bag_rockies_homestead_act_tt:0 "Gain §Gone§! §YCivilian Workshop§! in every §Y[BLC.GetNameWithFlag]§! core state, which we are already §Gcored§!."
-    bag_rocky_mountain_high:0 "Rocky Mountain High"
-    bag_rocky_mountain_high_desc:0 "They say far to the East they won't stop singing "Country Roads", but Colorado knows the best John Denver son there is. Let "Rocky Mountain High" fill the air and let the world know - the Republic was victorious, both in war and peace."
-    #
-    bag_meritocratic_institutions:0 "Meritocratic Institutions"
-    bag_meritocratic_institutions_desc:0 "Let's face facts; experts have always been the best equipped to face the problems of the future. With Goddard's power solidified, he can finally ensure those with the brains for leadership can take their rightful positions."
-    bag_hearts:0 "Hearts..."
-    bag_hearts_desc:0 "Goddard admits he is not known for his overwhelming charm, but he's sure he'll win over the hearts of the people when they see the benefits of his enlightened leadership."
-    bag_worth_of_labour:0 "The Worth of Labour"
-    bag_worth_of_labour_desc:0 "There is always a place for those that can work with their hands. Namely, supporting the people that make their futures possible."
-    bag_reward_of_skills:0 "Rewards of the Skilled"
-    bag_reward_of_skills_desc:0 "Those with the innate ability to help us make a better world ought to be incentivized to work towards it. What a waste would it be if we allowed talent to languish in obscurity and indignity?"
-    bag_offer_coloradan_dream:0 "Offer Up the Coloradan Dream"
-    bag_offer_coloradan_dream_desc:0 "We have a unique opportunity to create a state dedicated to overcoming the mistakes of the past with forward thinking and keen insight. Who would pass up a chance to be a part of that brilliant future?"
-    bag_minds:0 "... and Minds"
-    bag_minds_desc:0 "The brilliant minds that spearheaded this expedition are the key to making this future we seek, and also the key to keeping us safe from those that would seek to disrupt our work!"
-    bag_reopen_colorado_university:0 "Reopen the Colorado University"
-    bag_reopen_colorado_university_desc:0 "Colorado has some fine academic institutions before they were burnt to a cinder. Rebuilding and revitalizing them is critical to our purposes."
-    bag_repurpose_goat_test:0 "Repurpose the GOAT Test"
-    bag_repurpose_goat_test_desc:0 "The GOAT test may seem strange to the unenlightened, but their is much wisdom in its application. We just need to update it for this modern era of ours."
-    bag_follow_vault_city_example:0 "Follow Vault City's Example"
-    bag_follow_vault_city_example_desc:0 "Goddard so enjoyed his visits to Vault City. So much cleaner than the mucky cities of California. Our capital could stand to take a few cues from their example of city management."
-    bag_servant_class:0 "The Servant System"
-    bag_servant_class_desc:0 "People grimace at the thought of being called "servants", but really, they always were. What's the difference between slaving away for a cap a day in some rundown workshop or being directed to do meaningful work by enlightened superiors? The latter is cleaner and more productive, for one."
-    bag_operation_deep_thought:0 "Operation: Deep Thought"
-    bag_operation_deep_thought_desc:0 "One ZAX computer is incredibly powerful, but what could be accomplished with multiple ZAX computers fused into one Super-Zax? To achieve this dream, we will have to acquire more ZAX computers and bring them here, where they will be most useful..."
-    bag_walk_in_paradise:0 "A Walk in a Paradise"
-    bag_walk_in_paradise_desc:0 "The Nursery of Greenway Hyrdroponics truly is a slice of heaven. But a slice is meaningless in the face of solving the mysteries of this universe."
-    bag_no_gods_upon_olympus:0 "No Gods Upon Olympus"
-    bag_no_gods_upon_olympus_desc:0 "The notion of a Goddess ruling from a Vault makes for a quaint anecdote, but she's nothing but a light show. The machinery used to produce said light show will go to better purpose with us."
-    bag_open_the_box_wide_open:0 "Open the Box Wide Open"
-    bag_open_the_box_wide_open_desc:0 "Denver's last unclaimed fortune held a computer of considerable power. That power will be ours, and we will make it greater!"
-    bag_ultimate_question:0 "§4The Ultimate Question§!"
-    bag_ultimate_question_desc:0 "The §4Question§! that Victor Presper tasked the original ZAX with solving, the one that threatened to destroy it and the Dome. The original could barely handle it, but now, our Super-ZAX is ready to provide the §5Answer!§!"
-   BAG_zax_temp_unavailable_tt:0 "§gAny ZAX benefits we enjoyed will be temporarily removed, but don't worry, they will return better!§! \n\n§RAnd yes, if you failed to save the Boulder ZAX, this whole focus will be unavailable! Oopsie!§!"
-    bag_superzax_idea_tt:0 "§gEvery §Y60§! days, the §GSuper-ZAX§! will make progress on the §4Question§! and our national spirit will improve.§!"
-    bag_life_universe_everything:0 "Life, the Universe and Everything"
-    bag_life_universe_everything_desc:0 "As we await the Answer our Super-ZAX will provide, there are so many other questions to ponder. For instance, how can Goddard get more rewards from his focus?"
-    bag_three_laws_of_robotics:0 "Three Laws of Robotics"
-    bag_three_laws_of_robotics_desc:0 "1, A robot may not injure a human being or, through inaction, allow a human being to come to harm.\n2, A robot must obey orders given it by human beings except where such orders would conflict with the First Law. \n3, A robot must protect its own existence as long as such protection does not conflict with the First or Second Law."
-    bag_the_answer:0 "§5The Answer§!"
-    bag_the_answer_desc:0 "It feels like we've been waiting millions of years for this moment..."
-    bag_vault_city_at_the_end_of_universe:0 "Vault City at the End of the Universe"
-    bag_vault_city_at_the_end_of_universe_desc:0 "It has been a long time since Goddard saw the sights of Vault City himself. While he cannot afford to leave behind his work here, he could afford to send a few folks to check in, find out what's been going on since he left. Maybe start an exchange?"
-    bag_mostly_harmless:0 "Mostly Harmless"
-    bag_mostly_harmless_desc:0 "Everything's fine over in Vault City! First Citizen Lynette, daughter of the one Goddard met some years back, continues to lead a clean, spotless city. Although she's begun to make a few changes here and there, the city is apparently just as Goddard remembers it."
-    bag_and_another_thing:0 "And Another Thing..."
-    bag_and_another_thing_desc:0 "The changes that Lynette has made to the servant system could easily be applied here too."
-    bag_salmon_of_doubt:0 "Salmon of Doubt"
-    bag_salmon_of_doubt_desc:0 "Some upstart called Maier has managed to seize control of Vault City by popular vote. He's invited the rifraff in the Courtyard to participate in his populist nonsense. Ugh!"
-    bag_so_long_and_thanks_for_all_the_fish:0 "So Long, and Thanks for All the Fish!"
-    bag_so_long_and_thanks_for_all_the_fish_desc:0 "Goddard is a man of science. There is something to be learned in Maier's example. Perhaps a dash of populist sentiment will help Goddard keep an upstart from upsetting his own utopia?"
-    bag_goddard_dont_panic:0 "Don't Panic"
-    bag_goddard_dont_panic_desc:0 "Vault City has been taken over by some absurd cult worshipping a Molerat of all things! It's probably messing up that pristine city in more ways than one! Disgusting!"
-    bag_goddard_always_bring:0 "Always Bring a Towel"
-    bag_goddard_always_bring_desc:0 "A crisis can sometimes just be a way to remind you to take the right precautions. For instance, Goddard is going to start sounding out the vile little dirt farmers out there for hints they're thinking of following a similar band of lunatics. They won't get the drop on us!"
-    bag_hitchhikers_guide_to_colorado:0 "Hitchhiker's Guide to Colorado"
-    bag_hitchhikers_guide_to_colorado_desc:0 "All accross this great state are robots, robots and more robots. Goddard is keen to make use of them, but he can't stand to see them trying to act like people. God, that Robot City is an eyesore."
-    bag_command_and_control_units:0 "Command and Control Units"
-    bag_command_and_control_units_desc:0 "Thinking robots can be quite useful to any army. But one must take care not to let them think too much, lest they get ideas beyond their stations."
-    bag_machinery_restoration_initiative:0 "MARE-IN"
-    bag_machinery_restoration_initiative_desc:0 "The MARE-IN, the Machine Restoration Initiative, is an actual subgoal for the scientific body. Our intellectual circle always was a proponent of switching to mechanical warfare, and in this desperate time, we have the opportunity, and the reason, to test it out. Broken-down robots are few and far between, but in the triangle of the Quarantine Zone, Denver and Robot City, the MARE-IN is not an impossible venture."
-    bag_extend_code_protocol:0 "Expand the CODE Protocol"
-    bag_extend_code_protocol_desc:0 "Robobrains are an ingenious invention. But perhaps we could consider how to apply that principle to other robots? Think of the possibilities..."
-    bag_not_quite_space:0 "Not Quite Out of Orbit"
-    bag_not_quite_space_desc:0 "We won't be getting into space with these jetplanes, but who needs space when you can rule the skies? Caesar can't conquer the blue sky, but we can!"
-    bag_extended_analytics:0 "Colorado Campaign Analytics"
-    bag_extended_analytics_desc:0 "Our vast computational matrices can be put to use creating incredible feats of statistical analysis for our military campaigns."
-    bag_actual_real_deal:0 "The Actual Real Deal"
-    bag_actual_real_deal_desc:0 "Once upon a time there was a mighty army of robots that operated out of this very state. The units can still be seen around in the right places. These death machines will be put to good use in our armada."
-    #
-    bag_democracy_in_colorado:0 "Democracy in Colorado"
-    bag_democracy_in_colorado_desc:0 "Here, so far from the privilege and failures of the NCR, we shall undertake the task of letting Colorado breathe free for itself!"
-    bag_republics_brain:0 "The Republic's Brain"
-    bag_republics_brain_desc:0 "Goddard may have fallen from power, but he remains with us. His expertise and passion for research will be a boon in building our own academic base."
-    bag_academy_in_colorado:0 "University of Colorado"
-    bag_academy_in_colorado_desc:0 "We can't expect to build a better campus than the Boneyard University overnight, but with Goddard's help the University of Colorado in Boulder will become the shining beacon of the state!"
-    bag_agnes_medical_school:0 "Open a Medical Program"
-    bag_agnes_medical_school_desc:0 "Dr. Agnes cannot wait to see a new generation of students pick up the torch she may one day leave to them. This medical program will help make that dream a reality."
-    bag_californian_authority:0 "The Californian Authority"
-    bag_californian_authority_desc:0 "Governor Dodge is still here to work with us. A man of business, he has a number of ideas on how to improve the economic livelihood of our state."
-    bag_traders_life:0 "A Trader's Life"
-    bag_traders_life_desc:0 "Building on his earlier initiative to subsidize caravan companies, Governor Dodge is set to introduce a raft of measures reminiscent of his experiences in the Hub. Improving the livelihood of traders will reinforce our arteries of commerce."
-    bag_sisters_in_arms:0 "Sisters-in-Arms"
-    bag_sisters_in_arms_desc:0 "Valentina Meno has a story much like Agnes. Encouraging her efforts will surely reinforce Agnes' own efforts to build a better, fairer Colorado."
-    bag_extend_universal_healtcare:0 "Extend Healtcare to Non-Humans"
-    bag_extend_universal_healtcare_desc:0 "Recalling her own experience in being marginalized, Valentina has proposed that we extend healthcare coverage to people of all walks of life, and she does mean ALL walks of life. No country can be free where sections of its population are shunned and mistreated."
-    bag_barons_interest:0 "Baron's Interest"
-    bag_barons_interest_desc:0 "J. P. Baross is not the kind of man Agnes would like to be working with, but we are all stuck with him for the time being. She will make the most of it and try to build a good working relationship with him, that Colorado might benefit from what good ideas he may actually have."
-    bag_wreck_of_old_ninety_seven:0 "Wreck of the Old '97"
-    bag_wreck_of_old_ninety_seven_desc:0 "There's wrecks of old railways all over America. Governer Baross has suggested we capitalize on this and revitalize rail in Colorado, reflecting yet another initiative from back home."
-    bag_republics_brawn:0 "The Republic's Brawn"
-    bag_republics_brawn_desc:0 "The good General remains ready to oversee our military affairs. With Agnes firmly in control of the country, he can now focus squarely on these matters and not waste energy on Goddard."
-    bag_military_academy_of_colorado:0 "Coloradan Military Academy"
-    bag_military_academy_of_colorado_desc:0 "In lockstep with our efforts to establish local academic institutions, Coleridge will establish a military academy that will give us officers of a similar calibre for years to come. \nIt has been humorously suggested the academy be named in 'honour' of Joanna Tibbett, as a cautionary tale about how her timidity necessitated the lessons taught at this academy."
-    bag_agnes_proper_gear:0 "Prepared, Protected"
-    bag_agnes_proper_gear_desc:0 "We shouldn't let our soldiers go into battle underequipped if we can help it. With our growing resource base, let's ensure that Colorado's troopers have kits to match those back home, or perhaps even the military of the old US of A."
-    bag_agnes_life_in_colorado:0 "The Newest Republic"
-    bag_agnes_life_in_colorado_desc:0 "Already a sense of hope and optimism is spreading through our fledging republic. Agnes' efforts inspire the people, who look to our state as their future. A place to call home."
-    bag_agnes_colorado_stockpile:0 "The Arsenal of The NCR"
-    bag_agnes_colorado_stockpile_desc:0 "We could stand to build up a good stockpile of weapons. Be prepared. We're a rather literally new republic, and that means a vulnerable one too."
-    bag_agnes_building_homes:0 "Expanding Home Ownership"
-    bag_agnes_building_homes_desc:0 "A home is one of the fundamentals of life. Let's ensure the people of Colorado have one to call their own."
-    bag_agnes_fulfill_needs:0 "Fulfilling our Basic Needs"
-    bag_agnes_fulfill_needs_desc:0 "People with full bellies and stable home lives are the kind of people that can build a republic lasting centuries."
-    bag_agnes_protecting_the_ncr:0 "In Pursuit of Lasting Peace"
-    bag_agnes_protecting_the_ncr_desc:0 "It would be nice if we could live in a world where none of this was necessary, but we cannot afford to let our hopes be dashed by the terrors of the wastes. Walls, turrets, emplacements, all of these will protect what we've built."
-    bag_agnes_weapons_of_democracy:0 "The Guns of Democracy"
-    bag_agnes_weapons_of_democracy_desc:0 "We won't have enough to put behind every blade of grass, but we'll get as many as we can to keep our way of life safe."
-    bag_agnes_factories_and_fields:0 "Factories and Fields"
-    bag_agnes_factories_and_fields_desc:0 "The fundamental supports of any state economy; fields that feed the hungry, and factories that give them a standard of living."
-    bag_agnes_employing_locals:0 "Ramping Up Employment Programs"
-    bag_agnes_employing_locals_desc:0 "Colorado Jobs for Colorado Folks!"
-    bag_agnes_hope_for_downtrodden:0 "Hope for the Downtrodden"
-    bag_agnes_hope_for_downtrodden_desc:0 "One day, they'll all have a house in our shining city on a hill. We'll just have to keep on building and building!"
-    bag_agnes_rebuilding_cheyenne:0 "Revitalize the Lost Capital"
-    bag_agnes_rebuilding_cheyenne_desc:0 "Cheyenne was the capital of the old world state of 'Wyoming'. It may not be a part of the old Colorado, but with great effort, perhaps it can be a wonderful part of our new Colorado."
-    bag_cheyenne_rename:0 "New Cheyenne"
-    bag_agnes_updating_the_army:0 "Updating Army Policy"
-    bag_agnes_updating_the_army_desc:0 "Agnes doesn't intend to meddle too much in military affairs, but she has some ideas of her own she hopes Coleridge will oblige her. For one, she'd like to see a little investment in their gear."
-    bag_officiate_colorado_rangers:0 "Officiate the Colorado Rangers"
-    bag_officiate_colorado_rangers_desc:0 "The Rangers were already an institution in many places beyond the NCR. Their fortunes may have faded, but we'll put them on the map in Colorado if nowhere else!"
-    bag_agnes_army_of_equals:0 "Anyone Can Be An Officer"
-    bag_agnes_army_of_equals_desc:0 "The NCR is fundamentally egalitarian, but that doesn't mean a woman is never mistreated. Here in Colorado, Agnes will make it a policy to ensure women in uniform get their fair chance to rise through the ranks."
-    bag_agnes_guns_and_medicines:0 "Supporting the Troops"
-    bag_agnes_guns_and_medicines_desc:0 "To live through a battle, a trooper needs adequate support in a variety of fields. Medicine, specialized tools, you name it, we'll look into getting more and better."
-    bag_agnes_mighty_wall:0 "Institute Border Patrols"
-    bag_agnes_mighty_wall_desc:0 "We can't expect to have total control over our borders in such a messy wasteland, but we'll do what we can to make sure we're not overrun. A series of guard posts to run patrols between will catch something, if not everything."
-    bag_agnes_border_wall_tt:0 "Builds a §GLevel 2§! §YOutpost§! in every owned province bordering another nation, unless they are our allies."
-    bag_agnes_saving_lives_firepower:0 "Saving Lives with Firepower"
-    bag_agnes_saving_lives_firepower_desc:0 "Investing in armaments may appear antithetical to the point of saving lives, but at the end of the day our troops need to defend themselves and defend others. We will accomplish nothing by allowing ourselves to be slaughtered."
-    bag_agnes_colorado_ideals:0 "Our Coloradan Ideals"
-    bag_agnes_colorado_ideals_desc:0 "Although we may be the premier Colorado state, we have no desire to impose ourselves upon others. We will respect and defend the sovereignty of our neighbors, friends and allies. Let that be our ideal going forward!"
-    bag_agnes_best_of_the_best:0 "As Good as Arizonans"
-    bag_agnes_best_of_the_best_desc:0 "Many Arizona Rangers lost their lives defending against the Crimson Menace of Caesar's Legion. We will not let that story repeat itself here."
-    bag_agnes_big_republic:0 "The Banner to Salute"
-    bag_agnes_big_republic_desc:0 "Our republic is not so small and insignificant a thing anymore. It has institutions, armies, and a sense of pride in what we've accomplished. Our citizens will remember all that when they offer respect to our banners, fluttering in the wasteland wind!"
-    bag_agnes_rejoin_ncr:0 "Our Home And Native Land"
-    bag_agnes_rejoin_ncr_desc:0 "New California stands ready to receive us. While Agnes has her misgivings about that creaking republic, she would be remiss to deny all the Californians the chance to feel that they are one with their home once again."
-    bag_agnes_reaching_allgood:0 "Where The Heart Is"
-    bag_agnes_reaching_allgood_desc:0 "The NCR is a place of folly and mistakes. Even many of our expeditionaries agree on that, but not all in the same way. But it's home, and what do they say about home...?"
-    bag_agnes_karma_dharma:0 "Tough Times Tan the Human Hide"
-    bag_agnes_karma_dharma_desc:0 "It was terrible to hear that our home and native land came apart in strife. But a good man has built it back from the ashes, and now stands ready to enter the world. We will stand by Bill Calhoun's side!"
-    bag_agnes_new_allies:0 "Finding A New Place In The World"
-    bag_agnes_new_allies_desc:0 "Something terrible has happened in California. Something so bad, not even our strictest loyalists urge our return any longer. But if not with California, then where is our place in this world?"
-    bag_agnes_shared_followers:0 "That Shared Californian Legacy"
-    bag_agnes_shared_followers_desc:0 "A group of Californians, including many Followers, walked far to the north and east in search of greater things. \n\nUs? Yes, but also the Khans that follow Amgalan! While many in our expedition may not remember the name 'Khan' fondly, Amgalan has done much work to change who they are. So too has Agnes done much to make Colorado a place to be proud of. We are natural allies."
-    bag_agnes_nebraska_action:0 "The Dome's Purpose, Come Full Circle"
-    bag_agnes_nebraska_action_desc:0 "Within the ominously named Plaguelands, a group has come together to protect it and improve it. As Boulder Dome was built to withstand nuclear warfare, we might join hands with the Last Redoubt that withstands the wasteland to this day."
-    #
-    bag_california_newest_acquisition:0 "California's Newest Acquisition"
-    bag_california_newest_acquisition_desc:0 "Colorado is bound to become part of California. We just need the Coloradans to understand why that's a good thing."
+    bag_put_service_stuff_into_service:0 "На заклик обов’язку"
+    bag_put_service_stuff_into_service_desc:0 "Ми не лише солдати. Робітники, моряки, далекобійники та клерки прибули з нами, щоб забезпечити роботу експедиції. У ці відчайдушні часи ми можемо дати їм зброю до рук."
+
+    bag_ask_truckers_help:0 "Попросити допомоги в далекобійників"
+    bag_ask_truckers_help_desc:0 "Далекобійники — наші давні союзники. Хоча їхня основна роль — логістика, ми можемо попросити дозволу використати їхню броньовану вантажівку для… дещо іншої задачі."
+
+    bag_hire_junkies:0 "Найняти наркоманів"
+    bag_hire_junkies_desc:0 "Існує підозрілий тип на ім’я «Лейсермен». Він постачає гулів та інших усіма видами жорстких наркотиків. Ми ніколи не бачили його чи його людей — лише результати: наркомани й зомбі-гулі всюди. Ми можемо використати їх як гарматне м’ясо."
+
+    bag_recruit_civilians_for_sapper_work:0 "Найняти місцевих на саперні роботи"
+    bag_recruit_civilians_for_sapper_work_desc:0 "Серед місцевих багато людей з інженерним хистом. Можливо, вони не мають навичок військових саперів, але в екстрених умовах згодяться й вони."
+
+# шлях до Боулдера
+bag_first_victory_of_expedition: "Перша перемога експедиції"
+bag_first_victory_of_expedition_desc: "Попри всі труднощі, ми здобули перемогу! Настав час для святкувань, а після цього — час на зміцнення контролю над територією."
+
+bag_promote_our_heroes: "Відзначити наших героїв"
+bag_promote_our_heroes_desc: "Експедиція очікувала на спротив, але те, що сталося, перевершило усі уявлення. Наші солдати проявили доблесть і майстерність. Настав час гідно нагородити їх. Нагороди та підвищення вже в дорозі."
+
+bag_civilian_oversight: "Встановити громадянський нагляд"
+bag_civilian_oversight_desc: "Ці залиті кров’ю землі тепер належать нам, і їхнє відновлення потребуватиме чимало часу та ресурсів. Ми не можемо допустити зради з боку нових громадян — навіть якщо примирення затримає нас на шляху до Боулдера."
+
+bag_land_of_glowing_ash: "Велике сяйво Колорадо"
+bag_land_of_glowing_ash_desc: "Столиця колишнього Вайомінгу, Шаєнн, була зруйнована під час Великої Війни. Культ Сяйливих досі заражає цей край. Якщо ми прагнемо миру, доведеться домовитися з їхньою... «вірою»."
+bag_land_of_glowing_ash_tt: "§gМи надішлемо посланця до §Y[GLC.GetNameWithFlag]§!. Їхній лідер, Сяйливий Батько, очолює схожу течію, як §Y[LUM.GetNameWithFlag]§!, але з меншим фанатизмом. Якщо ми переконаємо його замінити «Великого Сяйливого», це може принести мир.§!"
+
+bag_guarantee_freedom_of_religion: "Гарантувати свободу віросповідання"
+bag_guarantee_freedom_of_religion_desc: "Свобода віросповідання — основа правопорядку, ще з часів старого світу. Заборона місцевих культів лише роздмухає опір. Гарантувавши гулям право на їхній шлях, ми діємо і етично, і прагматично."
+bag_guarantee_freedom_of_religion_tt: "§gЯкщо §Yколиска сяйва§! прийме нашу пропозицію, буде відкрито нового радника.§!"
+
+bag_raise_temple_of_faith: "Збудувати храм для віри"
+bag_raise_temple_of_faith_desc: "Гулі більше не муситимуть молитися в підпіллі. Ми спорудимо храм, де вони слухатимуть Сяйливого Батька та займатимуться громадськими роботами на користь Республіки!"
+
+bag_last_stand_of_all: "Останній опір усіх"
+bag_last_stand_of_all_desc: "Ми відтворимо тут, на новому рубежі, те саме братерство людей, гулів і мутантів, що було в Зламаних Пагорбах. Це стане символом єдності та надією на краще майбутнє."
+bag_last_stand_of_all_tt: "§YСтарий Пес§! стане нашим командиром.\n§LРівень§!: §Y3§!\n§RАтака§!: §Y4§!\n§GОборона§!: §Y1§!\n§PПланування§!: §Y1§!\n§MЛогістика§!: §Y2§!\n§gРиси:§! §tСильний§!, §tСпостережливий§!, §tДитя нетрищ§!"
+
+bag_enforce_mutant_law_of_2205: "Впровадити закон про мутантів 2205 року"
+bag_enforce_mutant_law_of_2205_desc: "Цей закон був ухвалений НКР десятки років тому і гарантує рівні права для гулів та супермутантів. Для його впровадження здебільшого достатньо правильної поліцейської роботи."
+bag_enforce_mutant_law_of_2205_tt: "§gЦя дія матиме кращий ефект, якщо вже запроваджено вищий рівень політики §Yнабору мутантів§!. Наші наміри виглядатимуть щирішими.§!"
+
+bag_contact_chinese_remnants: "Вийти на зв’язок із китайськими залишенцями"
+bag_contact_chinese_remnants_desc: "Найдивніша група серед В’янучих Псів — китайські залишенці. Ми володіємо достатнім знанням мандаринської, аби налагодити співпрацю. Велика Війна вже давно скінчилась — не варто дозволяти старим гріхам проливати нову кров."
+
+bag_emancipation_of_ghoul_lands: "Емансипація колорадського фронтиру"
+bag_emancipation_of_ghoul_lands_desc: "Ми спершу завоювали ці землі, а потім — їхні серця. Гулі вже стали нашими громадянами, і тепер ми можемо розраховувати на їхню підтримку в емансипації всього регіону від тиранії — і, найголовніше, у поверненні Домівки під наш контроль."
+
+# військова лінія
+bag_military_occupation: "Запровадити військову окупацію"
+bag_military_occupation_desc: "Перемога на полі бою була найлегшим етапом. Поки ми не зможемо перетворити ці землі на слухняні одиниці Республіки, тут діятиме військова адміністрація. Це не додасть нам довіри, але забезпечить порядок."
+bag_military_occupation_tt: "§O[BAG_GODDARD.GetName]§! йде у відставку як очільник §YКолорадської Експедиції§!, і §O[BAG_COLERIDGE.GetName]§! стає новим керівником.\n\n"
+
+bag_westward_expansion: "Західне розширення окупаційної зони"
+bag_westward_expansion_desc: "Експедиція розширює окупаційну зону на захід. Радіація та культи Сяйва перешкоджатимуть нашим зусиллям. Доведеться очистити все."
+
+bag_ban_the_faith_of_glow: "Заборонити культ Сяйва"
+bag_ban_the_faith_of_glow_desc: "Культ «Великого Сяйливого» — це зграйка небезпечних фанатиків. Вони примусово гулізують людей, прибиваючи їх до хрестів біля свого «святого місця» — радіоактивного пекла. Цьому збоченню не місце в цивілізованому суспільстві. Ліквідувати їхнє керівництво й розігнати паству."
+
+bag_operation_darnall: "Проєкт: Дарнелл"
+bag_operation_darnall_desc: "Наша локалізована станція очищення від радіації розташується поблизу [249.GetName], щоб випробувати новітні рішення цієї проблеми. Це місце ідеально підходить — у ньому міститься гігантська вирва від бомби, наповнена світним радіоактивним брудом. Очищення отруйного озера потішить і місцевих. Бригадний генерал Дарнелл був би гордий."
+
+bag_eastward_expansion: "Східне розширення зони окупації"
+bag_eastward_expansion_desc: "Зона окупації розширюватиметься на схід — на колишні землі Виснажених Псів. Тут досі живуть колишні нацгвардійці, південні гули-біженці та навіть китайські залишенці. Очікуємо формування серйозного руху спротиву."
+
+bag_deal_with_national_guard_remnants: "Укласти угоду з залишками нацгвардії"
+bag_deal_with_national_guard_remnants_desc: "Попри наше початкове ставлення до гулів, залишки Національної гвардії виявилися порядними людьми. Вони воювали за правильну справу під неправильним проводом. Ми можемо інтегрувати їх у наші сили."
+
+bag_finish_war: "Завершити янкі-сінський конфлікт"
+bag_finish_war_desc: "Сіно-американська війна закінчилась давно, але ці гули, здається, хочуть пережити її знову. Покладемо край привиду комунізму раз і назавжди."
+bag_finish_war_tt: "§RСмерть — краща альтернатива комунізму!§!"
+
+bag_pacification_of_ghoul_lands: "Підкорення Колорадського фронтиру"
+bag_pacification_of_ghoul_lands_desc: "Північний Колорадо майже повністю під нашим контролем. Полковник Піплз вміє придушувати повстання, а докторка Агнес виявилась чудовою адміністраторкою та миротворицею. Ми тут надовго."
+
+bag_start_of_beautiful_friendship: "Початок прекрасної дружби"
+bag_start_of_beautiful_friendship_desc: "Ця співпраця почалась не з найкращих нот, але завершилась краще, ніж ми очікували. Різні громади Чорного Каньйону стали чудовими торговими партнерами та ще кращими друзями. Схоже, це справді початок прекрасної дружби."
+
+bag_mutual_defense_pact: "Пакт взаємної оборони"
+bag_mutual_defense_pact_desc: "Чорний Каньйон — надійний партнер. Вони більше не претендують на наш бік Скелястих гір. Разом ми можемо захищати одне одного та рухатись до власної долі."
+
+bag_joint_defense_council: "Спільна рада оборони"
+bag_joint_defense_council_desc: "Ми добре знаємося на передвоєнній військовій тактиці, а люди з Чорного Каньйону — на тому, як користатися з землі. Нам є чому вчитися одне в одного."
+
+bag_share_military_expertise: "Обмінятись військовим досвідом"
+bag_share_military_expertise_desc: "Наші командири починають порозумітися. Дивні дружби народжуються в казармах — приміром, між супермутантом Блекджеком та нашим Ларсеном, який, схоже, добре себе почуває поруч із зеленим велетнем."
+
+bag_join_the_republic_together: "Разом вступити до Республіки"
+bag_join_the_republic_together_desc: "Ми знову зв’язалися з серцем Каліфорнії, і це стало можливим завдяки нашим союзникам. Найменше, що ми можемо зробити — це поручитися за них і допомогти вступити до Республіки на їхніх умовах."
+
+bag_introduce_far_go_traders: "Представити торговців Фар-Ґо"
+bag_introduce_far_go_traders_desc: "Торговці Фар-Ґо походять з Хаба, як і багато інших. Вони неофіційно профінансували значну частину нашої експедиції, а деякі їхні представники досі з нами. Відкривши для них новий ринок, усі тільки виграють."
+
+bag_showcase_gun_runner_merchandise: "Показати товари Ґан Раннерів"
+bag_showcase_gun_runner_merchandise_desc: "На жаль, серед нас немає справжнього Ґан Раннера, але ми маємо їхню зброю. Не таку велику партію, щоб переламати ситуацію, але достатню для вигідного продажу Чорному Каньйону. Просто не кажіть їм, що це підробка. Якість справжня, а от логотипи не збігаються."
+
+bag_shared_market: "Республіканський ринок"
+bag_shared_market_desc: "Чорний Каньйон опинився в скруті — ізольований у горах без торгівлі. На щастя, ми опинились поруч — і, можливо, трохи на цьому заробили. Їхня залежність від нас — ключ до більших можливостей."
+
+bag_joint_public_works: "Спільні програми громадських робіт"
+bag_joint_public_works_desc: "Попереду — чимало роботи. Ми маємо знання та техніку, Чорний Каньйон — робочі руки. Разом ми зможемо підняти обидва наші краї."
+
+bag_host_caravan: "Прийняти караван у вигнанні"
+bag_host_caravan_desc: "Часи видались важкими для каравану з Чорного Каньйону. Наші друзі можуть оселитися тут, якщо їм більше нікуди йти."
+
+bag_operation_prison_break: "Операція: втеча з в'язниці"
+bag_operation_prison_break_desc: "Лідер Чорного Каньйону, Батарея з Меса Верде, — відомий дипломат і прихильник миру. Якщо ми запропонуємо вигідну угоду в обмін на передачу чи доступ до Купола Боулдера, ми зможемо уникнути кровопролиття."
+bag_operation_prison_break_tt: "Ми почнемо дипломатичне вирішення конфлікту з §Y[BLC.GetNameWithFlag]§! через серію подій."
+
+bag_boulder_bargain: "Почати торг за Боулдер"
+bag_boulder_bargain_desc: "Докторка Агнес зголосилася бути нашою представницею у перемовинах із нацією §Y[BLC.GetNameWithFlag]§!. Вона переконана, що зможе досягти мирної угоди. §Y[572.GetName]§! прийняв її на своїх Зборах, і ми встановили офіційний дипломатичний контакт."
+
+bag_dome_deal: "Купольна авантюра"
+bag_dome_deal_desc: "Агнес пішла на великий ризик, прохаючи надто багато — але після ряду обіцянок, які ми, можливо, навіть не зможемо виконати, вони погодилися на наші умови. Можливо, це матиме важкі наслідки в майбутньому, але головне — Купол знову наш!"
+
+bag_city_for_everyone: "Осушення зеленого багна"
+bag_city_for_everyone_desc: "Світляки, може, й радісно жили в руїнах Боулдера, але не всі мають розкіш бути стійкими до радіації. Вони не заперечуватимуть, якщо ми приберемо все це світне сміття."
+
+bag_lend_lease_land: "Земельна ленд-ліза"
+bag_lend_lease_land_desc: "Агнес обрала безпечніший та реалістичніший шлях — отримати дозвіл на вільний прохід до Купола. Ми втратили шанс бути одноосібними хазяями над об'єктом, але здобули друга на майбутнє."
+
+bag_international_benefits: "Міжнародні вигоди"
+bag_international_benefits_desc: "Послабивши напруження, ми нарешті відкрили торгівлю зі Світляками. Люди можуть вільно пересуватись через кордон, і поселення обох націй розвиваються. Це принесе користь усім."
+
+bag_other_end_of_deal: "Інший бік домовленості"
+bag_other_end_of_deal_desc: "Як би ми не домовлялись, Чорний Каньйон уже виконав свою частину угоди. Тепер наш черга. Звісно, ми можемо затягнути… можливо, навіть безкінечно."
+bag_other_end_of_deal_tt: "§RЯкщо не виконати цей фокус протягом трьох місяців після угоди, вони вважатимуть, що нас зрадили, й нападуть!§!"
+
+bag_operation_firefly: "Операція: Світлячок"
+bag_operation_firefly_desc: "Медом більше мух наловиш… і світлячків також. Якщо використати солодкі слова, ми отримаємо те, чого хочемо, без бою."
+bag_operation_firefly_tt: "Ми почнемо дипломатичне розв'язання конфлікту з §Y[GLW.GetNameWithFlag]§! через серію подій."
+
+bag_pragmatic_attitude: "Прагматичне ставлення"
+bag_pragmatic_attitude_desc: "Чорний Каньйон — поза грою. Нам слід змінити підхід…"
+
+bag_boulder_exploitation_scheme: "Схема експлуатації Боулдера"
+bag_boulder_exploitation_scheme_desc: "Ми можемо отримати з Купола Боулдера набагато більше — і вони це знають. Просто дозвольте нам керувати процесом, і всі отримають зиск."
+
+bag_changing_economical_policies: "Зміна економічної політики"
+bag_changing_economical_policies_desc: "Це називається «протекціонізм»."
+
+bag_boulder_research_initiative: "Боулдерська наукова ініціатива"
+bag_boulder_research_initiative_desc: "Співпраця може дати великі результати! Вони ж певно щось дізнались, поки «сиділи» біля Купола, так?"
+
+bag_joint_industrial_development: "Спільний промисловий розвиток"
+bag_joint_industrial_development_desc: "Основою кожного підприємницького розвитку є хороші партнери."
+
+bag_fool_me_once: "Обдурили раз…"
+bag_fool_me_once_desc: "Світляки вже виконали свою частину, а тепер — наша черга. Але, можливо, ми можемо відтермінувати… або й забути про цю «обов’язковість» назавжди."
+
+bag_operation_can_opener: "Операція: Консервний ніж"
+bag_operation_can_opener_desc: "Більшість Експедиції не хоче витрачати час на другорядні цілі. Але генерал упевнений: ми можемо захопити землі Залізного Альянсу. Їхні склади з бронею та зброєю — безцінні активи, навіть якщо інші будуть невдоволені."
+
+bag_patrol_perimeter: "Патрулювання периметру"
+bag_patrol_perimeter_desc: "Нью-Стерлінг — не єдине поселення найманців. Вони також контролювали кілька хуторів на північ. Угода з БуллітІтером уберегла їх від набігів — в обмін на харчі. Гарнізони здалися швидко. Це було найлегше завдання в кампанії."
+
+bag_new_sterling_industry: "Печі пекла"
+bag_new_sterling_industry_desc: "Нью-Стерлінг збудований для рейдерів і найманців. Тут було повно майстерень, де раби лагодили спорядження. Хоч це й викликає жах у місцевих, ми можемо використати ці виробничі потужності — тільки тепер із оплатою й вихідними."
+
+bag_form_ghoul_workbattalions: "Гульські трудові батальйони"
+bag_form_ghoul_workbattalions_desc: "У місті повно порожніх майстерень. Ми також маємо чимало гулів, затриманих за підтримку диких чи підозру в дикості. У цивілізованому світі ми б їх ув’язнили. Але ми не в такому світі. Дати їм просто згнити — це марнотратство."
+
+bag_following_oliver_doctrine: "У руслі доктрини Олівера"
+bag_following_oliver_doctrine_desc: "Хоча Колерідж мав чимало суперечок із колегами в Каліфорнії, з генералом Олівером їх єднало одне: майбутнє Республіки — в «важких піхотинцях». І тепер, маючи необхідне спорядження, ми зможемо втілити цю ідею в життя."
+
+bag_load_iron_conscripts_tt: "§gМи завербуємо та призвемо дві дивізії персоналу Залізного альянсу до лав наших Сталевих рейнджерів!§!"
+bag_alt_iron_conscripts_tt: "§gМи завербуємо частину персоналу Залізного альянсу. §OЯкщо ми спершу впровадимо концепт Сталевих рейнджерів, зможемо використати їхній досвід там!§!"
+
+bag_sterling_FOB: "Форпост Стерлінг"
+bag_sterling_FOB_desc: "[453.GetName] — хороший штаб, але вразливий і не має великого стратегічного значення. Стерлінг натомість добре обороняється й має індустрію. Тимчасово ми перенесемося туди — а згодом, можливо, й назавжди."
+
+bag_conclude_operation_can_opener: "Завершити операцію «Консервний ніж»"
+bag_conclude_operation_can_opener_desc: "Ми закінчили всі справи на цих землях і можемо повернутись до першочергової мети."
+
+bag_operation_agincourt: "Операція: Азенкур"
+bag_operation_agincourt_desc: "Бріггс має геніальні ідеї… здебільшого вибухівку… дуже багато вибухівки…"
+bag_operation_agincourt_tt: "§gМи відправимо агента на диверсійну місію, яка серйозно вдарить по військовій індустрії ворога!§!"
+
+bag_operational_preparation: "Оперативна підготовка"
+bag_operational_preparation_desc: "Годинник цокає. Нам слід ретельно підготуватися, перш ніж знову братися за Купол. Єдине, чого менше, ніж часу, — це права на помилку."
+
+bag_steel_wave: "Початок сталевої хвилі"
+bag_steel_wave_desc: "Ми змиємо пустку кров’ю і сталлю!"
+
+bag_utilize_anti_brotherhood_special_equipment: "Спецзасоби проти Братства"
+bag_utilize_anti_brotherhood_special_equipment_desc: "Ці «консервні ножі» прорізають не тільки броню Братства!"
+
+bag_military_service_for_citizenship: "Служба за громадянство"
+bag_military_service_for_citizenship_desc: "Республіка тут, і ми залишимось. Ми принесемо закон, порядок і добробут у ці землі. І якщо ти вступиш до лав армії та боротимешся за цю мрію — отримаєш громадянство. Життя в пустці стане вдесятеро легшим… після завершення служби, звісно."
+
+bag_coal_for_furnace_of_war: "Вугілля до горна війни"
+bag_coal_for_furnace_of_war_desc: "Металеві печі кують металеву зброю, що вбиває металевих солдатів. І так знову, і знову."
+
+bag_reorganization_of_rangers: "Реорганізація рейнджерів"
+bag_reorganization_of_rangers_desc: "Загін рейнджерів під командуванням майора Прасад добре послужив нам, але зазнав втрат. Ми маємо реорганізувати спецпризначенців, щоб розширити їхні ряди."
+
+bag_merge_them_with_ghoul_rangers: "Об’єднати «Команду Листопад» з Ґамма-корпусом"
+bag_merge_them_with_ghoul_rangers_desc: "Об’єднавши ці два підрозділи, ми спростимо управління ними, а рейнджери з Каліфорнії зможуть навчитися нового у гулів."
+bag_merge_them_with_ghoul_rangers_tt: "§y«Команда Листопад» вливається до лав Ґамма-рейнджерів, отримавши вигоду з їхньої радіостійкості!§!"
+
+bag_implement_steel_rangers_concept: "Впровадити концепцію «Сталевих рейнджерів»"
+bag_implement_steel_rangers_concept_desc: "У Каліфорнії Колерідж і Олівер міркували, як краще використати силову броню Братства. Вони вважали, що таке спорядження мають носити лише найкращі — рейнджери Республіки. Хоча ідею визнали нереалістичною, в Колорадо Колерідж вільний реалізувати її за власним розсудом."
+bag_load_steel_ranger_oob_tt: "§OМи також розгорнемо тестову групу Сталевих рейнджерів, яка допомагала випробовувати броню!§!"
+
+bag_coloradan_ranger_hq: "Штаб рейнджерів Колорадо"
+bag_coloradan_ranger_hq_desc: "Централізація наших спецпризначенців завершена. Щоб зберегти цю структуру, нам потрібно створити окремий орган для управління ними — на зразок штабу рейнджерів у Каліфорнії."
+
+bag_operation_homerun: "Операція: Хоумран"
+bag_operation_homerun_desc: "Після багатьох несподіванок і затримок ми знову стоїмо перед Куполом. Ми чекали цього моменту понад два десятиліття. І ось він — нарешті."
+
+bag_divide_et_impera: "Divide et Impera"
+bag_divide_et_impera_desc: "Світляки — не союзники Чорного Каньйону. Якщо ми схилимо їх на свій бік, вони можуть залишити свого «повелителя». Розділяй і володарюй."
+BAG_just_kill_glw_tt: "§RОскільки могутній захисник Світляків загинув, терпіти їх більше не потрібно. Прямий контроль над Куполом — найефективніше рішення!§!"
+
+bag_operation_bulletstorm: "Офензива «Кулявія»"
+bag_operation_bulletstorm_desc: "Офензива «Кулявія» — така ж пряма, як і її назва. Повним залпом, усім, що маємо, ми візьмемо Купол одним грандіозним наступом. Переможемо зі стилем. Шок і трепет."
+
+bag_homecoming: "Повернення додому"
+bag_homecoming_desc: "Шоу починається."
+
+bag_finally_home: "Нарешті вдома"
+bag_finally_home_desc: "Після більш ніж двадцяти років ми знову ступили в Болдер. На диво, він майже не змінився. Часу обмаль — хтось, принесіть каву, почнемо відновлення порядку."
+
+bag_camp_nicole: "Табір «Ніколь»"
+bag_camp_nicole_desc: "Табір «Ніколь» стане опорною базою для наших науковців — на безпечній відстані від радіації навколо Купола."
+
+bag_fort_aradesh: "Відновити форт Танді"
+bag_fort_aradesh_desc: "Перша експедиція запам’яталась не лише відкриттями [BAG.BAG_GODDARD.GetName], а й тим, що залишив [BAG.BAG_COLERIDGE.GetName]. У місті Форт-Коллінз він збудував справжню фортецю — форт Танді, як данину історії. Вона занепала після нашого відступу. Але настав час повернути її — і змити ганьбу."
+
+bag_contact_californian_government: "Встановити зв’язок з урядом Каліфорнії"
+bag_contact_californian_government_desc: "Маючи контроль над Куполом, ми повинні поновити контакт із Каліфорнією. Навіть якщо зв'язок був слабкий через відстань, після стількох років вони будуть раді почути нас. І, можливо, надішлють допомогу."
+
+bag_contact_ncr_tt: "§gМи відправимо кур’єрів до §Y[253.GetName]§!, щоб сповістити президента (хто б ним не був), що ми живі й повернули контроль над Куполом. Якщо пощастить — отримаємо подяку та, можливо, трохи допомоги. Але не варто чекати постійної підтримки — ми ж за три штати звідти!§!"
+
+bag_republican_compromise: "Республіканський компроміс"
+bag_republican_compromise_desc: "Джозеф Додж, колишній віцегубернатор Хаба й посередній конгресмен, прибув як новий губернатор Колорадо. У рідному місті він здобув популярність, борючись з бандами й обмежуючи вплив торгових домів у політиці."
+
+bag_revitalize_caravan_trade_act: "Відновити акт караванної торгівлі"
+bag_revitalize_caravan_trade_act_desc: "Кожен живе завдяки обміну. Якщо ми хочемо процвітати — торгівля має розпочатися негайно. Якщо ми підтримаємо нашу Караванну компанію Колорадо, можливо, зможемо втримати позиції."
+
+bag_organize_police_force: "Закон про цивільну поліцію"
+bag_organize_police_force_desc: "Військова поліція НКРА добре справляється з порядком, але рано чи пізно нам доведеться її відкликати. За досвідом Доджа у боротьбі з бандами в Хабі, створимо цивільну поліцію до того, як з’являться кримінальні барони."
+
+bag_capital_development: "Акт «Новий Хаб»"
+bag_capital_development_desc: "Хаб — добре сплановане місто, попри довоєнне походження. Це цілком можливо повторити з дисципліною… та олівцем."
+bag_capital_development_tt: "Ефект цього фокусу §Gактивується§! після вибору нової постійної столиці."
+
+bag_coloradan_choice: "Вибір Колорадо"
+bag_coloradan_choice_desc: "З самого початку ми передали щоденні справи Аґнес. Без політичної підтримки з боку НКР, вона — найкращий варіант для місцевого губернатора."
+
+bag_ban_recreational_drugs: "Заборонити рекреаційні наркотики"
+bag_ban_recreational_drugs_desc: "Іллегальні речовини — не завжди зло. Деякі з них мають терапевтичне чи медичне застосування. Але рекреаційне вживання несе надто багато проблем. Якщо ми хочемо побудувати стабільну демократію — цього треба позбутися."
+
+bag_provide_universal_healtcare: "Забезпечити універсальну медицину"
+bag_provide_universal_healtcare_desc: "Організувати таку систему в самій Каліфорнії було б неможливо. Але тут, поки наша економіка ще не переплетена з приватниками — ми можемо зробити це реальністю."
+
+bag_train_medics: "Гіркий тонік першої допомоги"
+bag_train_medics_desc: "Гіркий напій — винахід племені Близнюків. Кажуть, Легіон теж його використовує. Якщо ми зможемо впровадити цей тонік, це значно підвищить виживаність наших військ."
+
+bag_barons_pick: "Людина баронів"
+bag_barons_pick_desc: "Дж. П. Баросс — представник Баронів у Каліфорнії, прибув як новий губернатор. Його кар’єра розквітла завдяки залізничним проєктам і відданості Антону Флінну. Це може стати як катастрофою, так і шансом."
+
+bag_organize_sharecrop_system: "Впровадити закон Талера"
+bag_organize_sharecrop_system_desc: "Суть системи — надати селянам землю, захист і воду в обмін на врожай. Великий рівнинний регіон — пустий і мізерний, тому без організації ми швидко залишимось без їжі."
+
+bag_lax_brahmin_laws: "Запровадити м’яке законодавство про брамінів"
+bag_lax_brahmin_laws_desc: "Після того як Венделл Пітерсон скасував регулювання поголів’я худоби, запроваджене президенткою Танді, барони здобули значну владу. Великі рівнини Колорадо — це безмежні пасовища, придатні хіба для випасу. Природним кроком видається передати ці землі великим землевласникам."
+
+bag_local_department_of_railway: "Місцевий відділ залізниць"
+bag_local_department_of_railway_desc: "Залізниця — для Баросса не лише пристрасть, а й життєва необхідність у цьому виснаженому світі. Залишки ресурсів слід використовувати з максимальною користю, а це означає масові перевезення та злагоджену логістику. Його мрія про пасажирську лінію до узбережжя колись стане дійсністю…"
+
+bag_capital_of_republic: "Столиця Нової Республіки"
+bag_capital_of_republic_desc: "Нашій молодій республіці потрібен власний Тіньовий Пісок. Маємо кілька гідних кандидатів."
+bag_capital_of_republic_decisions_tt: "Відкриває рішення §Y«Обрати нову столицю»§!."
+
+bag_new_colorado_republic: "Проголосити Нову Колорадську Республіку"
+bag_new_colorado_republic_desc: "Губернатор уже обійняв свою посаду й завершив перші ключові справи. Ми готові проголосити створення Нової Колорадської Республіки."
+
+bag_flag_of_republic: "Пісня нашого народу"
+bag_flag_of_republic_desc: "Національний гімн допоможе згуртувати наших нових громадян — у пісні й у цілі."
+
+bag_free_elections: "Святкувати демократичний процес"
+bag_free_elections_desc: "Ця славетна каліфорнійська традиція стане спадком і для нашої республіки."
+
+# Boulder Dome
+
+bag_fill_out_damage_report: "Операція: «Кам'яна пробіжка»"
+bag_fill_out_damage_report_desc: "Купол Болдера майже не змінився з часу нашого поспішного відступу. Маємо перевірити всі системи, з’ясувати, що втрачено, а що можна врятувати."
+bag_fill_out_damage_report_tt: "Відкриває §Yінтерфейс «Купол Болдера»§! — замінює механіку §Y«Баланс влади Експедиції»§!."
+
+bag_venture_under_dome: "Відновити перший рівень"
+bag_venture_under_dome_desc: "«Полиш надію, кожен, хто входить сюди!»\n\nДосить точно. Пекло чекає на нас, панове."
+
+bag_access_water_storage: "Отримати доступ до водосховища"
+bag_access_water_storage_desc: "§g«Я — Альфа й Омега, початок і кінець. Хто прагне — дам йому даром від джерела води життя».§!\nСистема Купола щоденно очищає та знерадіює велику кількість води. Попри те, що її ремонт здається нудною справою — це життєво необхідно."
+
+bag_turn_on_lights: "Увімкнути освітлення"
+bag_turn_on_lights_desc: "Перш ніж відновлювати внутрішні системи Купола, нам потрібне джерело живлення. Невелика електростанція за межами комплексу підійде."
+
+bag_rediscover_second_level: "Відновити другий рівень"
+bag_rediscover_second_level_desc: "Пройшовши перший рівень, ми готові зануритись глибше. Тут — дослідження зброї й броні, чума, експерименти з мозком… справжній науковий рай, покинутий у поспіху."
+
+bag_first_batch_of_t61: "Перші зразки прототипу броні"
+bag_first_batch_of_t61_desc: "Найбільш нетиповою постаттю в Куполі був доктор Армстронґ — інженер, що мріяв про передові силові обладунки й високотехнологічну електроніку. Як така людина потрапила в медичну дослідницьку базу — загадка. Але його роботу завершимо ми!"
+bag_first_batch_of_t61_tt: "§gМайстерні готові зібрати перші комплекти Болдерської СБ. Залишилось лише знайти креслення… десь §Rусередині Купола§!.§!"
+
+bag_restart_code_protocol: "Перезапустити протокол «CODE»"
+bag_restart_code_protocol_desc: "Годдард і Колерідж сперечались про все, окрім одного: «§RМета виправдовує засоби.§!»"
+bag_restart_code_protocol_tt: "Щомісяця отримаємо §G30§! функціональних мозків із добровольців, полонених чи полів бою. Їх можна буде §Yвикористати для створення роботизованих мозків§!."
+
+bag_rediscover_third_level: "Прогулянка третім рівнем"
+bag_rediscover_third_level_desc: "Третій рівень завжди був дивним — попри важливі дослідження, він лишався переважно забутим. Тепер у нас є час, аби все ретельно оглянути…"
+
+bag_restart_fabricators: "Запустити фабрикатори плат"
+bag_restart_fabricators_desc: "У Куполі розкидано кілька старих машин для виробництва плат. Якщо їх полагодити, ми зможемо запустити майстерню прототипів і розширити виробництво. Якщо хочемо використовувати сучасну зброю — нам потрібні плати!"
+
+bag_project_hermes: "Проєкт: «Гермес»"
+bag_project_hermes_desc: "Дослідження рушійної тяги на третьому рівні були амбітними, але хибними. Цю технологію можна було б використати для революції в аеронавтиці, та її витратили на ракетні мрії про космос. Цю помилку виправлять наші інженери."
+
+bag_project_hermes_tt: "\n§gНашій колонії на Марсі доведеться ще трохи почекати. Зустрінемось у Stellaris!§!"
+
+bag_rediscover_fourth_tunnel_level: "Відновити тунелі Болдера"
+bag_rediscover_fourth_tunnel_level_desc: "Тунелі були, мабуть, найогиднішою частиною Купола. Вузькі коридори, клаустрофобні костюми, підвішені до стелі, й усі ці дивні капсули Сплячих… як із фільму жахів. Але саме там заховано найвищу ціну."
+
+bag_smelt_the_rubble: "Переплавити уламки"
+bag_smelt_the_rubble_desc: "Від зруйнованих лабораторій до закинутих майстерень — Купол перебуває в жахливому стані. Усе врятувати не вдасться. Але пошкоджене обладнання можна переробити. Переплавити й використати!"
+
+bag_restart_power_grid: "Перезапустити енергомережу"
+bag_restart_power_grid_desc: "Енергосистема Купола виявилась несподівано складною. Її ремонт коштував нам масу ресурсів і часу. Але тепер, коли ми розібрались у її суті, зможемо оновити всі наші генератори для більшої ефективності."
+
+bag_rediscover_fifth_zax_mainframe_level: "Відновити головний модуль ZAX"
+bag_rediscover_fifth_zax_mainframe_level_desc: "Нарешті, після стількох років... Я знову знайшов тебе..."
+
+# Приборкання Скелястих гір
+
+bag_taming_rockies: "Приборкати Скелясті гори"
+bag_taming_rockies_desc: "Ми не мали планів щодо територій за Скелястими, але вони стояли між нами й Куполом. Наші війська зайняли головні поселення, але їхнє утримання — тягар для обмежених ресурсів. Придеться або надати автономію, або оптимізувати гарнізонну модель."
+
+bag_connect_to_californian_fleet: "Налагодити зв’язок із флотом Каліфорнії"
+bag_connect_to_californian_fleet_desc: "Найпростіший спосіб зв’язатися з Каліфорнією — через річку Колорадо. Звісно, це можливо лише після того, як ми забезпечимо контроль над портами."
+
+bag_partake_in_water_wars: "Участь у Водяних війнах"
+bag_partake_in_water_wars_desc: "Війна між Республікою та Легіоном — лише питання часу. Наш обов’язок — допомогти Каліфорнії. Попри брак сил, ми можемо збудувати власний річковий флот і відволікти ворога від греблі."
+bag_partake_in_water_wars_tt: "Вся національна територія §Y[SLE.GetNameDef]§!, §Y[TOB.GetNameDef]§! і §Y[ORO.GetNameDef]§! належить §Y[BAG.GetNameDef]§!, їхнім підданим або союзникам."
+
+bag_provide_limited_autonomy: "Надати обмежену автономію"
+bag_provide_limited_autonomy_desc: "Чорний Каньйон завжди діяв децентралізовано, й примусове запровадження іншої системи спричинить більше проблем, ніж користі. Ми визнаємо їхню автономію — тимчасово. І вони ще навчаться любити життя в нашій спільноті."
+
+bag_enforce_centralized_structure: "Нав'язати централізовану структуру"
+bag_enforce_centralized_structure_desc: "Чорний Каньйон був неефективним саме через надмірну децентралізацію. Якщо дозволимо їм знову самоврядування — потонемо в бюрократії. Керуємо з центру."
+
+bag_pacifying_raider_lands_tt: "§gОтримаєте §Y-25%§! до вартості інтеграції територій колишньої §Y[§!§Y[BLC.GetNameWithFlag]§!]§!.§!"
+
+bag_handle_little_wyoming: "Впорядкувати Малу Вайомінґ"
+bag_handle_little_wyoming_desc: "Північні нації від Чорного Каньйону, місцево звані «Малою Вайомінґ», від початку мають більше спільного з нами. Їхня інтеграція — лише питання часу."
+
+bag_colonize_borderlands: "Колонізувати прикордоння"
+bag_colonize_borderlands_desc: "Окрім Ролінса, ці землі малозаселені й сповнені потенціалу. Надішлемо туди відважних поселенців, щоб розбудувати Малу Вайомінґ і закріпити контроль над нею."
+
+bag_second_rockies_push: "Друга кампанія в Скелястих"
+bag_second_rockies_push_desc: "Решта Скелястих гір — стиглі плоди. Підкорення місцевих племен і забезпечення контролю над перевалами — справа національної безпеки."
+
+bag_in_the_shadow_of_the_mountain: "У тіні гори"
+bag_in_the_shadow_of_the_mountain_desc: "Одного дня справжня війна прийде сюди. Не як наші чистенькі кампанії, а кривава, безжальна. Щоб захистити кордони майбутнього — треба працювати вже: будувати форти, зміцнювати стіни, забезпечувати лінії постачання."
+bag_in_the_shadow_of_the_mountain_tt: "Уся національна територія §Y[FOR.GetNameDef]§!, §Y[CLJ.GetNameDef]§! і §Y[INR.GetNameDef]§! належить §Y[BAG.GetNameDef]§!, їхнім підданим або союзникам."
+
+bag_bear_out_of_hibernation: "Ведмідь прокидається"
+bag_bear_out_of_hibernation_desc: "До недавна Колорадо перебувало під загрозою вторгнення Легіону. Цю загрозу знято. І тепер відкриваються нові можливості."
+
+bag_bears_domain: "Стежка Колорадо"
+bag_bears_domain_desc: "Наші чоботи витоптали цю землю. Тепер залишилось лиш упевнитися, що вона й далі буде під ними."
+bag_bears_domain_tt: "Вся національна територія §Y[HAN.GetNameDef]§!, §Y[SCO.GetNameDef]§! і §Y[MXC.GetNameDef]§! належить §Y[BAG.GetNameDef]§!, їхнім підданим або союзникам."
+
+bag_exploit_tribal_holy_land: "Експлуатувати святі землі племен"
+bag_exploit_tribal_holy_land_desc: "Цивілізувати ці землі й зробити їх продуктивними — ще один звичний день для синів Каліфорнії."
+
+bag_incorporate_yampans: "Інтегрувати Коаліцію"
+bag_incorporate_yampans_desc: "Ямпанська спільна коаліція — це демократичні, цивілізовані люди. Вони мають обраного лідера, справляють податки та дотримуються законів. Ми можемо без особливих труднощів інтегрувати їх у нашу адміністрацію."
+
+bag_extra_profit_tax: "Обкласти надприбутки податком"
+bag_extra_profit_tax_desc: "Ямпанці отримали прибуток від нашого об'єднання. Їхнє розташування на перехресті двох держав зробило їх швидко зростаючим торговельним вузлом. Ми повинні впровадити законодавство, яке дозволить перенаправити частину їхніх надприбутків до нашої скарбниці."
+bag_integrating_yampan_lands_tt: "§gОтримаєте §Y-50%§! до вартості інтеграції територій колишньої §Y[YMP.GetNameWithFlag]§!.§!"
+
+bag_seize_caravan_assets: "Конфіскувати активи Каравану"
+bag_seize_caravan_assets_desc: "Караван мав значний вплив, який використав для отримання контролю над багатьма активами. Вони більше не керують цими землями. Раз ми виконуємо їхню колишню роль — нам і належать їхні фабрики та майстерні."
+
+bag_life_sentence: "Вирок — довічне ув'язнення"
+bag_life_sentence_desc: "Чорний Каньйон скоїв фатальну помилку, ставши союзником рейдерів і злочинців. Ми самі виправимо цю помилку. У них є чудово збережена в'язниця… усе, що нам треба — посадити туди, кого слід."
+
+bag_bring_civilization_for_tribals: "Принести цивілізацію племенам"
+bag_bring_civilization_for_tribals_desc: "Племена Розфарбованих — заблудлі люди. У їхньому минулому багато болю та крові, але їхній спосіб життя того не виправдовує. Якщо усунути їхнього проблемного лідера, вони зможуть почати шлях до інтеграції в Республіку. Навіть дивні вірування мають право на місце в наших землях."
+bag_bring_civilization_for_tribals_tt: "§gОтримаєте §Y-25%§! до вартості інтеграції територій колишньої §Y[PNT.GetNameWithFlag]§!.§!"
+
+bag_collaborate_with_caravan: "Співпраця з Караваном"
+bag_collaborate_with_caravan_desc: "Караван і Батарея намагалися побудувати демократію у Скелястих. Їхня модель була хибною, але самі вони заслуговують на другий шанс. Вони можуть допомогти нам в управлінні цими землями."
+
+bag_dissolve_the_coalition: "Розпустити Коаліцію"
+bag_dissolve_the_coalition_desc: "Коаліція починалась як відображення НКР, але її демократичні інститути загрузли в корупції. Усунувши «лорд-мера» та вичистивши систему, ми зможемо реалізувати їхню мрію разом."
+bag_dissolve_the_coalition_tt: "§gОтримаєте §Y-25%§! до вартості інтеграції територій колишньої §Y[YMP.GetNameWithFlag]§!.§!"
+
+bag_collaborate_with_mining_enterprises: "Співпраця з гірничими компаніями"
+bag_collaborate_with_mining_enterprises_desc: "Місцеві магнати й підрядники готові працювати з нами заради прибутку. Чому б не скористатися з цього? І сировина, і гроші — на нашому боці."
+
+bag_prisoner_shakedown: "Темна зачистка"
+bag_prisoner_shakedown_desc: "Попри ув’язнення, деякі регіональні злочинці й далі мають вплив. Зачистка дозволить відрізати їх від зовнішнього світу та зміцнити наш контроль над економікою регіону."
+
+bag_final_destination: "Наша власна «Макс-Сек»"
+bag_final_destination_desc: "НКР має чимало віддалених в'язниць. Дехто назве це тривожним сигналом, ми ж — можливістю. Засуджені навчаться хорошій поведінці, служачи нашим інтересам."
+
+bag_rockies_homestead_act: "Закон про реорганізацію Скелястих територій"
+bag_rockies_homestead_act_desc: "Ми впровадили чимало політик у нових землях, і наш контроль тепер незаперечний. Настав час отримати прибуток. І пам’ятайте: це не крадіжка, якщо копаєш на своєму."
+bag_rockies_homestead_act_tt: "Отримаєте §Gone§! §Yцивільну майстерню§! у кожному інтегрованому осередку §Y[BLC.GetNameWithFlag]§!."
+
+bag_rocky_mountain_high: "Висота Скелястих гір"
+bag_rocky_mountain_high_desc: "Кажуть, десь на сході не перестають співати «Country Roads», але Колорадо знає справжню пісню Джона Денвера. Нехай «Rocky Mountain High» лунає над краєм — світ повинен знати: Республіка перемогла і в війні, і в мирі."
+
+# Гілка Ґоддарда
+
+bag_meritocratic_institutions: "Меритократичні інституції"
+bag_meritocratic_institutions_desc: "Давайте визнаємо: саме експерти найкраще розв’язують проблеми майбутнього. Тепер, коли влада в руках Ґоддарда, він забезпечить, щоб найрозумніші посіли своє заслужене місце."
+
+bag_hearts: "Серця..."
+bag_hearts_desc: "Ґоддард не вважає себе надто харизматичним, але переконаний: коли люди побачать плоди його просвітленого лідерства, він здобуде й їхні серця."
+
+bag_worth_of_labour: "Цінність праці"
+bag_worth_of_labour_desc: "Для кожного, хто працює руками, знайдеться місце. Саме завдяки їм можливе наше майбутнє."
+
+bag_reward_of_skills: "Нагорода для здібних"
+bag_reward_of_skills_desc: "Ті, хто здатен зробити світ кращим, мають бути заохочені до цього. Як же це було б трагічно — дати таланту марнуватися в безвісті."
+
+bag_offer_coloradan_dream: "Запропонувати колорадську мрію"
+bag_offer_coloradan_dream_desc: "У нас є унікальна можливість створити штат, присвячений подоланню помилок минулого через далекоглядність та розум. Хто відмовиться стати частиною такого блискучого майбутнього?"
+
+bag_minds: "... і розуми"
+bag_minds_desc: "Блискучі уми, що очолили цю експедицію — ключ до майбутнього, якого ми прагнемо. А ще — до безпеки нашого проєкту від тих, хто бажає йому зла!"
+
+bag_reopen_colorado_university: "Відкрити Колорадський університет"
+bag_reopen_colorado_university_desc: "Колорадо мав гідні академічні заклади, поки їх не спопелив вогонь. Відбудова цих інституцій критично важлива для нашої справи."
+
+bag_repurpose_goat_test: "Адаптувати тест КОЗА"
+bag_repurpose_goat_test_desc: "Тест КОЗА може здатися дивним невтаємниченим, але в ньому — велика мудрість. Треба лише оновити його під наш новий вік."
+
+bag_follow_vault_city_example: "Слідувати прикладу Сховищеміста"
+bag_follow_vault_city_example_desc: "Ґоддард із задоволенням згадує свої візити до Сховищеміста. Значно чистіше, ніж брудні каліфорнійські містечка. Нашій столиці не завадило б дещо перейняти з їхнього досвіду управління."
+
+bag_servant_class: "Слугинський устрій"
+bag_servant_class_desc: "Люди морщаться від слова «слуга», хоча завжди були ними. Що краще: гнити за ковпак у розваленій майстерні чи виконувати змістовну працю під керівництвом освічених провідників? Вибір очевидний."
+
+bag_operation_deep_thought: "Операція «Глибока Думка»"
+bag_operation_deep_thought_desc: "Один ZAX — це потужна машина, але що як з’єднати кілька таких у Супер-ZAX? Для цього ми маємо дістати інші екземпляри і зібрати їх тут, де вони справді потрібні."
+
+bag_walk_in_paradise: "Прогулянка у рай"
+bag_walk_in_paradise_desc: "Теплиця Ґрінвею — справжній райський куточок. Але рай без сенсу — нічого. Ми прагнемо до вищого розуміння."
+
+bag_no_gods_upon_olympus: "Ніяких богів на Олімпі"
+bag_no_gods_upon_olympus_desc: "Говорити про Богиню в Сховищі — кумедно, та вона лише проєкція світла. І її технології підуть на кращу справу."
+
+bag_open_the_box_wide_open: "Розкрити ящик повністю"
+bag_open_the_box_wide_open_desc: "Невикористане багатство Денвера — це комп'ютер неймовірної потужності. Тепер він наш, і ми зробимо його ще потужнішим!"
+
+bag_ultimate_question: "§4Останнє питання§!"
+bag_ultimate_question_desc: "Те саме §4питання§!, що Віктор Преспер поставив першому ZAX'у, майже знищивши його та весь Купол. Але тепер наш Супер-ZAX готовий дати §5відповідь!§!"
+BAG_zax_temp_unavailable_tt: "§gУсі бонуси від ZAX тимчасово зникають, але не хвилюйтесь — вони повернуться сильнішими!§!\n\n§RІ так, якщо ви не врятували Купольний ZAX, цей фокус буде недоступний! Хто ж винен...§!"
+
+bag_superzax_idea_tt: "§gКожні §Y60§! днів §GСупер-ZAX§! просуватиметься у розв'язанні §4питання§!, покращуючи наш національний дух.§!"
+
+bag_life_universe_everything: "Життя, всесвіт і все інше"
+bag_life_universe_everything_desc: "Поки ми чекаємо відповідь від нашого Супер-ZAX, є багато інших питань. Наприклад: як Ґоддард може витиснути ще більше з цього фокуса?"
+
+bag_three_laws_of_robotics: "Три закони робототехніки"
+bag_three_laws_of_robotics_desc: "1. Робот не може зашкодити людині чи допустити шкоди через бездіяльність.\n2. Робот має слухатись наказів, якщо вони не суперечать Першому закону.\n3. Робот має захищати себе, якщо це не суперечить першим двом законам."
+
+bag_the_answer: "§5Відповідь§!"
+bag_the_answer_desc: "Відчуття таке, ніби ми чекали мільйони років на цей момент…"
+
+bag_vault_city_at_the_end_of_universe: "Сховищемісто на краю всесвіту"
+bag_vault_city_at_the_end_of_universe_desc: "Минуло багато часу відтоді, як Ґоддард востаннє бачив Сховищемісто. Він не може залишити свою роботу, але може надіслати когось дізнатися, що там відбувається. Можливо, розпочати обмін?"
+
+bag_mostly_harmless: "Переважно нешкідливі"
+bag_mostly_harmless_desc: "У Сховищемісті все гаразд! Першою громадянкою досі є Лінетт — донька тієї, що знайома Ґоддарду. Хоча вона й почала дещо змінювати, місто залишилось чистим і впорядкованим."
+
+bag_and_another_thing: "І ще дещо…"
+bag_and_another_thing_desc: "Зміни, які Лінетт внесла до системи слуг, цілком можна впровадити й у нас."
+
+bag_salmon_of_doubt: "Сьомга сумніву"
+bag_salmon_of_doubt_desc: "Якийсь там Майєр здобув владу у Сховищемісті через... народне голосування. Він дозволив злидням із передмістя брати участь у «демократії». Гидота!"
+
+bag_so_long_and_thanks_for_all_the_fish: "На все добре, і дякуємо за рибу!"
+bag_so_long_and_thanks_for_all_the_fish_desc: "Ґоддард — людина науки. Але навіть він бачить цінність у прикладі Маєра. Трішки популізму може допомогти утримати утопію від зазіхань амбітних недолуг."
+
+bag_goddard_dont_panic: "Не панікуй"
+bag_goddard_dont_panic_desc: "Сховищемісто захопила якась абсурдна секта, що поклоняється кротокроту! Вони, мабуть, спотворюють це колись чисте місто в усіх можливих сенсах. Огидно!"
+
+bag_goddard_always_bring: "Завжди бери з собою рушник"
+bag_goddard_always_bring_desc: "Криза — це лише нагадування, що треба бути обачним. Ґоддард починає відстежувати брудних сільських фанатиків, щоб вчасно виявити подібні загрози. Вони не заскочать нас зненацька!"
+
+bag_hitchhikers_guide_to_colorado: "Путівник автостопника Колорадо"
+bag_hitchhikers_guide_to_colorado_desc: "По всьому штату — роботи, роботи і ще раз роботи. Ґоддард хоче їх використати, але терпіти не може, коли вони прикидаються людьми. Це жахливо — це Місто Роботів."
+
+bag_command_and_control_units: "Командні та керувальні одиниці"
+bag_command_and_control_units_desc: "Мислячі роботи можуть стати в пригоді будь-якій армії. Та не варто дозволяти їм думати надто багато — щоб не злетіли з глузду."
+
+bag_machinery_restoration_initiative: "Ініціатива МЕХ-ВІД"
+bag_machinery_restoration_initiative_desc: "МЕХ-ВІД — Механічна Відновлювальна Ініціатива — давня мета нашої наукової ради. Ми завжди виступали за механічну війну. У цей критичний момент у нас є і причина, і змога випробувати її. Між Зоною карантину, Денвером і Містом Роботів — це цілком можливо."
+
+bag_extend_code_protocol: "Розширити протокол КОД"
+bag_extend_code_protocol_desc: "Робомізки — геніальний винахід. Але чому б не застосувати цей принцип і до інших роботів? Уявіть лише можливості..."
+
+bag_not_quite_space: "Поки що не космос"
+bag_not_quite_space_desc: "Ми не полетимо в космос на цих літаках, але ж кому потрібен космос, коли можна панувати в небі? Цезар не завоює небо. А ми — можемо."
+
+bag_extended_analytics: "Аналітика кампанії в Колорадо"
+bag_extended_analytics_desc: "Наші обчислювальні матриці здатні створити неймовірні статистичні моделі для ведення війни."
+
+bag_actual_real_deal: "Справжній реальний розклад"
+bag_actual_real_deal_desc: "Колись давно армія роботів діяла звідси. І досі деякі одиниці можна знайти в потрібних місцях. Ми знову зберемо їх для своєї армади."
+
+# Демократія
+
+bag_democracy_in_colorado: "Демократія в Колорадо"
+bag_democracy_in_colorado_desc: "Тут, далеко від привілеїв та невдач НКР, ми дамо Колорадо змогу самостійно дихати свободою."
+
+bag_republics_brain: "Мозок Республіки"
+bag_republics_brain_desc: "Ґоддард утратив владу, але залишився з нами. Його знання і пристрасть до науки стануть у пригоді при розбудові нашої академічної бази."
+
+bag_academy_in_colorado: "Університет Колорадо"
+bag_academy_in_colorado_desc: "Ми не збудуємо новий Бон'ярдський кампус за ніч, але з допомогою Ґоддарда університет у Боулдері стане маяком науки штату."
+
+bag_agnes_medical_school: "Медична програма Агнес"
+bag_agnes_medical_school_desc: "Докторка Агнес мріє передати свої знання новому поколінню. Ця медична програма стане першим кроком до цього майбутнього."
+
+bag_californian_authority: "Каліфорнійська влада"
+bag_californian_authority_desc: "Губернатор Додж досі з нами. Як ділова людина, він має чимало ідей щодо покращення економіки нашого штату."
+
+bag_traders_life: "Життя торговця"
+bag_traders_life_desc: "На базі вже започаткованих ініціатив губернатор Додж просуває низку нових заходів. Його досвід із Габа стане в пригоді для зміцнення нашої торгової системи."
+
+bag_sisters_in_arms: "Сестри по зброї"
+bag_sisters_in_arms_desc: "Валентина Мено має схожу історію до Агнес. Її підтримка лише зміцнить зусилля Агнес у розбудові справедливого Колорадо."
+
+bag_extend_universal_healtcare: "Розширити медичну допомогу на не-людей"
+bag_extend_universal_healtcare_desc: "Згадуючи власне минуле, Валентина пропонує поширити систему охорони здоров’я на всіх — незалежно від раси, виду чи походження. У вільній країні не має бути місця для дискримінації."
+
+bag_barons_interest: "Зацікавлення Барона"
+bag_barons_interest_desc: "Дж. П. Баросс — не той, з ким Агнес хотіла б працювати, але наразі вона змушена. Вона намагатиметься вибудувати з ним робочі стосунки, щоб Колорадо могло скористатись його — хоч і рідкісними — корисними ідеями."
+
+bag_wreck_of_old_ninety_seven: "Руїни Старої «97»"
+bag_wreck_of_old_ninety_seven_desc: "По всій Америці валяються останки старих залізниць. Губернатор Баросс пропонує використати це як основу для відновлення залізничного сполучення у Колорадо, ще однієї ініціативи з рідної Каліфорнії."
+
+bag_republics_brawn: "М'язи Республіки"
+bag_republics_brawn_desc: "Генерал залишається з нами, аби опікуватися військовими справами. Тепер, коли Агнес очолює країну, він може зосередитись на своїй роботі, не витрачаючи сили на суперечки з Ґоддардом."
+
+bag_military_academy_of_colorado: "Військова академія Колорадо"
+bag_military_academy_of_colorado_desc: "Паралельно з розвитком цивільних навчальних закладів, Колерідж заснує військову академію, яка випускатиме офіцерів на роки вперед. \nІронічно, але пропонують назвати її іменем Джоанни Тіббетт — як нагадування, чого слід уникати в командуванні."
+
+bag_agnes_proper_gear: "Готові та захищені"
+bag_agnes_proper_gear_desc: "Наші солдати не повинні йти в бій погано оснащеними. Маємо ресурси — тож забезпечимо нашим військам обладнання, не гірше за старе доброї Америки."
+
+bag_agnes_life_in_colorado: "Найновіша республіка"
+bag_agnes_life_in_colorado_desc: "У нашій молодій республіці поширюється надія. Зусилля Агнес надихають людей, які тепер дивляться в майбутнє з вірою. Це їхній дім."
+
+bag_agnes_colorado_stockpile: "Арсенал НКР"
+bag_agnes_colorado_stockpile_desc: "Ми повинні створити великий запас зброї. Ми — молода республіка, а отже — вразлива. Треба бути готовими."
+
+bag_agnes_building_homes: "Розширення житлового фонду"
+bag_agnes_building_homes_desc: "Дім — одна з базових потреб. Подбаємо, щоб у кожного в Колорадо був дах над головою."
+
+bag_agnes_fulfill_needs: "Задовольнити базові потреби"
+bag_agnes_fulfill_needs_desc: "Люди з повними шлунками і стабільним побутом — це ті, хто збудує республіку, що вистоїть століття."
+
+bag_agnes_protecting_the_ncr: "У прагненні тривалого миру"
+bag_agnes_protecting_the_ncr_desc: "Світ без потреби в укріпленнях був би чудовим, але це не про наші реалії. Стіни, турелі, укріплення — усе це захистить те, що ми збудували."
+
+bag_agnes_weapons_of_democracy: "Гармати демократії"
+bag_agnes_weapons_of_democracy_desc: "Можливо, не зможемо озброїти кожен кущ, але зробимо все, щоб захистити наш лад."
+
+bag_agnes_factories_and_fields: "Фабрики та поля"
+bag_agnes_factories_and_fields_desc: "Основи будь-якої державної економіки: поля, що годують людей, і фабрики, що дають їм гідне життя."
+
+bag_agnes_employing_locals: "Програми зайнятості"
+bag_agnes_employing_locals_desc: "Робота для мешканців Колорадо — в Колорадо!"
+
+bag_agnes_hope_for_downtrodden: "Надія для знедолених"
+bag_agnes_hope_for_downtrodden_desc: "Одного дня у кожного буде дім на схилі нашого сяючого пагорба. Просто треба не зупинятись."
+
+bag_agnes_rebuilding_cheyenne: "Відродження втраченої столиці"
+bag_agnes_rebuilding_cheyenne_desc: "Шаєнн був столицею довоєнного штату Вайомінг. Можливо, це не частина старого Колорадо, але зусиллями ми зробимо його серцем нового."
+
+bag_cheyenne_rename: "Нова Шаєнн"
+
+bag_agnes_updating_the_army: "Оновлення військової політики"
+bag_agnes_updating_the_army_desc: "Агнес не хоче надміру втручатися у справи армії, але має деякі ідеї — зокрема, краще спорядження для наших хлопців."
+
+bag_officiate_colorado_rangers: "Офіційний статус рейнджерів Колорадо"
+bag_officiate_colorado_rangers_desc: "Рейнджери були важливою інституцією задовго до НКР. Ми повернемо їм визнання — принаймні в Колорадо!"
+
+bag_agnes_army_of_equals: "Кожен може стати офіцером"
+bag_agnes_army_of_equals_desc: "НКР рівноправна, та це не завжди проявляється на практиці. В Колорадо ми гарантуємо, що кожна жінка у формі отримає шанс піднятися вгору."
+
+bag_agnes_guns_and_medicines: "Підтримка для війська"
+bag_agnes_guns_and_medicines_desc: "Щоб вижити у бою, солдату потрібна підтримка — медикаменти, інструменти, спорядження. І ми це забезпечимо."
+
+bag_agnes_mighty_wall: "Прикордонне патрулювання"
+bag_agnes_mighty_wall_desc: "Ми не зможемо цілком контролювати свої кордони, але принаймні зможемо поставити сторожові пости та організувати патрулі."
+
+bag_agnes_border_wall_tt: "Збудує §G2 рівень§! §YФорпосту§! у кожній нашій прикордонній провінції, якщо вона не межує з союзником."
+
+bag_agnes_saving_lives_firepower: "Рятуймо життя вогневою міццю"
+bag_agnes_saving_lives_firepower_desc: "Інвестиції в озброєння можуть здаватися суперечливими, якщо говорити про збереження життів, але зрештою наші солдати повинні мати змогу захистити себе та інших. Ми нічого не досягнемо, дозволивши ворогу вирізати нас."
+
+bag_agnes_colorado_ideals: "Наші колорадські ідеали"
+bag_agnes_colorado_ideals_desc: "Ми, безсумнівно, головна держава Колорадо, але не прагнемо нав’язувати себе іншим. Ми поважатимемо й захищатимемо суверенітет наших сусідів, друзів і союзників. Нехай це буде нашим ідеалом."
+
+bag_agnes_best_of_the_best: "Не гірші за аризонських"
+bag_agnes_best_of_the_best_desc: "Багато рейнджерів з Аризони полягло, обороняючи свій край від багряної загрози Легіону Цезаря. Ми не дозволимо, щоб ця історія повторилася тут."
+
+bag_agnes_big_republic: "Прапор, що вартий пошани"
+bag_agnes_big_republic_desc: "Наша республіка вже не така мала й незначна. Вона має інститути, армії й відчуття гордості за досягнуте. Наші громадяни пам’ятатимуть усе це, коли вклонятимуться нашим стягам, що майорять на вітрі пустки."
+
+bag_agnes_rejoin_ncr: "Наш дім і рідна земля"
+bag_agnes_rejoin_ncr_desc: "Нова Каліфорнія готова прийняти нас. Хоча Агнес має сумніви щодо старіючої Республіки, вона не може позбавити каліфорнійців права знову стати єдиними з батьківщиною."
+
+bag_agnes_reaching_allgood: "Там, де серце"
+bag_agnes_reaching_allgood_desc: "НКР — місце помилок і поразок. Багато з учасників нашої експедиції це визнають, хоч і кожен по-своєму. Але це наш дім. А що кажуть про дім...?"
+
+bag_agnes_karma_dharma: "Труднощі гартують"
+bag_agnes_karma_dharma_desc: "Боляче було чути, що наш рідний край роздерли чвари. Та добра людина підняла його з попелу — Білл Келгун. І ми станемо поряд із ним."
+
+bag_agnes_new_allies: "Шукаючи нове місце в світі"
+bag_agnes_new_allies_desc: "У Каліфорнії сталося щось настільки жахливе, що навіть найзапекліші прихильники Республіки не вимагають повернення. Якщо не з Каліфорнією, то з ким? Де ж тоді наше місце у світі?"
+
+bag_agnes_shared_followers: "Спільна спадщина Каліфорнії"
+bag_agnes_shared_followers_desc: "Група каліфорнійців, серед яких і багато Послідовників, вирушила далеко на північ і схід у пошуках нового життя. \n\nМи? Так. Але й хани, що йдуть за Амґаланом! Хоча деякі в експедиції мають не найкращі спогади про Ханів, Амґалан змінив їх. Так само, як Агнес змінила Колорадо. Ми природні союзники."
+
+bag_agnes_nebraska_action: "Призначення Куполу завершене"
+bag_agnes_nebraska_action_desc: "У землях, які звуться Чумними, зібралася група, що захищає їх і вдосконалює. Купол створено, щоб витримати ядерну війну. Ми можемо подати руку Останньому Оплоту, який досі витримує шаленство пустки."
+
+bag_california_newest_acquisition: "Найновіше надбання Каліфорнії"
+bag_california_newest_acquisition_desc: "Колорадо неминуче стане частиною Каліфорнії. Треба лише переконати колорадців, чому це на краще."
     #bag_minister_of_science_and_industry:0 "Minister of Science and Industry"
     #bag_minister_of_science_and_industry_desc:0 "The so-called Academics have had their time to play in their sandbox, but now the adults are back in charge, and we can't have children playing with bombs when they could be researching bigger and better ones. Besides that, kicking their leader upstairs for a promotion in-name-only should let us get what we want, without the whining of the eggheads."
     #bag_offer_olive_branch_to_academics:0 "Offer the Olive Branch to the Academics"
@@ -526,109 +748,144 @@
     #bag_loyalist_candidate:0 "Appoint the Right-Hand Man"
     #bag_loyalist_candidate_desc:0 "Davidson is like a son to me, and a son should get what they deserve."
     #
-    bag_dream_of_californication:0 "Dream of Californication"
-    bag_dream_of_californication_desc:0 "The NCR is the greatest nation state in the wasteland. It is only fitting that Colorado's people learn to emulate Californian culture. They'll see how much it enriches their lives in time."
-    bag_appoint_californian_mayors:0 "Appoint Californian Mayors"
-    bag_appoint_californian_mayors_desc:0 "There's more than a few statemen back home that would love to come out to the frontier, have another shot at politics. We've got more than enough towns and mudhuts for them to have a crack at fixing up."
-    bag_coleridge_coring_tt:0 "Reduces coring costs for every State in §YColorado§! and §YSouthern Wyoming§! by §G20%§!!"
-    bag_cultural_integration:0 "Almost California"
-    bag_cultural_integration_desc:0 "There were more than enough people here that were...close enough, shall we say? Settlers reminiscent of Shady back in the day. We'll just have to help them over that hurdle into being Californian sons and daughters."
-    bag_teach_pacific_dialect:0 "Teach the Pacific Dialect"
-    bag_teach_pacific_dialect_desc:0 "Say it with me, "Colo-RAH-do is Californian territory"."
-    bag_host_boneyardian_radio_shows:0 "Host Radio Shows from the Boneyard"
-    bag_host_boneyardian_radio_shows_desc:0 "Half of them will be so fascinated with the introduction of radio that they might just forget they're being instructed in a greater culture."
-    bag_adopt_ncr_laws:0 "Adopt the NCR's Laws"
-    bag_adopt_ncr_laws_desc:0 "Oh, you've got the obvious laws that everyone understands, but let me tell you a little thing about our tax codes..."
-    bag_adhere_to_criminal_law:0 "Adhere to Criminal Law"
-    bag_adhere_to_criminal_law_desc:0 "You should've paid your dues, but, no, you had to play hard, huh? Now it's our turn."
-    bag_open_borders:0 "Open the Borders"
-    bag_open_borders_desc:0 "The NCR is open to all comers, as long as they're willing to assimilate into our way of life."
-    bag_adhere_to_military_law:0 "Adhere to Military Law"
-    bag_adhere_to_military_law_desc:0 "An officer has certain obligations."
-    bag_economical_integration:0 "Bring Over the Californian Dream"
-    bag_economical_integration_desc:0 "It's your dream now too, good citizens!"
-    bag_open_to_free_market:0 "Open Up to the Free Market"
-    bag_open_to_free_market_desc:0 "The freer the market the freer the people, as they say. But let's be real, it's also really profitable for us."
-    bag_fill_water_reserves_for_water_standard:0 "Adhere to the Water Standard"
-    bag_fill_water_reserves_for_water_standard_desc:0 "The Water Standards Act requires us to keep enough water reserves for statutory purposes. So get those tankers filled up."
-    bag_adopt_ncr_dollar:0 "Adopt the NCR Dollar"
-    bag_adopt_ncr_dollar_desc:0 "I've got a whole suitcase of Tandis with Colorado's name on it."
-    bag_military_industrial_complex:0 "Military Industrial Complex"
-    bag_military_industrial_complex_desc:0 "The complexities of industry can be replicated here too."
-    bag_stable_work_stable_payment:0 "Backbone of an Industry"
-    bag_stable_work_stable_payment_desc:0 "We need more metal. More metal today, more metal tomorrow, more metal for a thousand years."
-    bag_civilian_industrial_complex:0 "Strong People are Safe People"
-    bag_civilian_industrial_complex_desc:0 "Si vis pacem para bellum, as they say in Legion speak."
-    bag_operation_umbilical_cord:0 "Operation: Umbilical Cord"
-    bag_operation_umbilical_cord_desc:0 "The NCR is the cradle of our expedition and the patron of our far flung territory. We need to reconnect ourselves, preferably permanently."
-    bag_treaty_of_dead_horse_point:0 "Try Avoid Beating the Dead Horse"
-    bag_treaty_of_dead_horse_point_desc:0 "We'll try not to be too rough with them, but we need to shove them out of the way."
-    bag_old_friends_from_past:0 "Such Sweet Sorrows"
-    bag_old_friends_from_past_desc:0 "They say the Sorrows are an innocent bunch, sheltered from the world and living in peace. A pity it has to come to an end, but it's all for a good cause."
-    bag_join_ncr:0 "Returning Home"
-    bag_join_ncr_desc:0 "Finally, our territory has linked up with home. We can get in on the Bear Hug, and we'll never let go!"
-    #
-    bag_first_colorado_campaign:0 "Colorado Campaign"
-    bag_first_colorado_campaign_desc:0 ""
-    every_western_colorado_state:0 "Every §YWestern Colorado§! State"
-    bag_northern_front_against_legion:0 "The Northern Front Against the Legion"
-    bag_northern_front_against_legion_desc:0 "Caesar's dogs have made their way into Colorado. With the NCR poised to fight war in the Mojave, it is our duty to bring the fight to them here!"
-    bag_secure_our_rubicon:0 "Secure our Rubicon"
-    bag_secure_our_rubicon_desc:0 "Though we may not have to cross the Colorado river, crossing over this state will be our undertaken ordeal."
-    bag_bleed_them_dry:0 "Deploy the "Breakwater" Battalion"
-    bag_bleed_them_dry_desc:0 "The Breakwater Battallion will be our spearhead across the waterways of the land!"
-    bag_bleed_them_dry_tt:0 "§GFive§! divisions of Marine Companies, fitting our "§YColorado Expeditionary Force§!" template, will report for duty in the §Ysouthern borderlands§!!"
-    bag_sua_sponte:0 "Sua Sponte"
-    bag_sua_sponte_desc:0 ""
-    bag_eastern_plains_territory:0 "The Great Plains Offensive"
-    bag_eastern_plains_territory_desc:0 ""
-    every_southern_colorado_state:0 "Every §YSouthern Colorado§! State"
-    bag_steel_city_without_shackles:0 "Steel City without Its Shackles"
-    bag_steel_city_without_shackles_desc:0 ""
-    bag_steel_city_without_shackles_tt:0 "§gThe City of Pueblo was known in the past of as §YSteel City§! - and this is an image we can get behind. There is a multitude of repairable founderies and other metallurgy equipment between the ruins - and we can and will restore them to their glory.§!"
-    bag_bastion_of_freedom:0 "The Bastion of Freedom"
-    bag_bastion_of_freedom_desc:0 ""
-    bag_bastion_of_freedom_tt:0 "§g§YBastion§! was surely a weird place before the Great War - for a little city it gave place for multiple prisons as well. The local raiders probably were the descantes of those, but now we can repeat what we already did at Tibbets; using the old facilities in their intended purpose.§!"
-    bag_another_colorado_expedition:0 "Another Colorado Expedition?"
-    bag_another_colorado_expedition_desc:0 ""
-    bag_another_colorado_expedition_tt:0 "§gIt seems not only the NCR had the idea to explore what remained in Colorado - the local chapter survived suprisingly long out dispite their total isolation from any allies whatsoever. Their bunker is a well-developed little survival base - something that we can turn into an arms manufacture on itself.§!"
-    bag_vae_victis:0 "Vae Victis"
-    bag_vae_victis_desc:0 "They aren't vanquished yet, but they will be."
-    bag_vae_victis_tt:0 "Our army will supply rebels on the other side of the river! Even if we don't control §YRed Sun City§!, they will rise up and join the Red Sun Republic!\nOur new ally will kick Legion armies outside the city, and spawn with 4 §GMilitia§! units."
-    bag_organize_new_mexican_territories:0 "Organize the New Mexican Territories"
-    bag_organize_new_mexican_territories_desc:0 "Rather than trying to administer an enormous new swathe of territory, let us instead empower the 'Red Sun Republic' to administer this land in our stead. We have bigger battles to fight."
-    bag_pacifying_red_sun_lands_tt:0 "§gTransfer every state in New Mexico§! §YWest of the Rio Grande§! §gowned by us or a puppet of ours to the§! §YRed Sun Republic§!§g.\nThey then gain a§! §Y25% Resistance reduction§! §gand a§! §Y33% Coring Cost reduction§! §gfor each state in the region§!."
-    bag_incorporate_new_mexico:0 "Incorporate New Mexico into our Administration"
-    bag_incorporate_new_mexico_desc:0 "We will be the custodians of all land this side of the Rio Grande!"
-    bag_pacifying_legion_lands_tt:0 "§gYou will gain a§! §Y15% Resistance reduction§! §gand a§! §Y10% Coring Cost reduction§! §gin the New Mexican states we own§! §YEast of the Rio Grande§!."
-    #
-    bag_paws_of_cub:0 "Paws of the Bear Cub"
-    bag_paws_of_cub_desc:0 "We might be far from mama bear, but a bear cub can still grow into a vicious grizzly!"
-    bag_active_coastal_defense:0 "Active Coastal Defense"
-    bag_active_coastal_defense_desc:0 "With so many rivers around, we'll need to fashion a servicable 'Brown Water' navy."
-    bag_river_patrols:0 "River Patrols"
-    bag_river_patrols_desc:0 "Colorado's waterways need to be kept safe."
-    bag_expand_military_council:0 "Wargaming Division"
-    bag_expand_military_council_desc:0 "A dedicated Wargaming Division for our military council will help us conjure up new ideas."
-    bag_unoffical_motorized_company:0 "The "Unoffical" Motorized Corps"
-    bag_unoffical_motorized_company_desc:0 "The Galenski family has been supporting us for a long time now. Although we've yet to confer upon them official rank, they may as well form the heart of our motorized corps."
-    bag_expand_motorized_corps:0 "Codify the Galenskis' Situation"
-    bag_expand_motorized_corps_desc:0 "We've finally gone ahead and given Rib a title; Chief Motorized Officer! He's taken to his new role rather well, already imagining new ways to make use of his creations in battle."
-    bag_project_water_carrier:0 "Project: Water Carrier"
-    bag_project_water_carrier_desc:0 "The Galenski Garage has a suprise special project planned; tanks. Apparently they're gonna repupose some old water trucks into something with a lot of plating on it?"
-    bag_deal_with_gun_runners:0 "Deal with the Gun Runners"
-    bag_deal_with_gun_runners_desc:0 "The Gun Runners have been supporting the NCR over a century now. They're in it for themselves, but cooperation will only make us both stronger."
-    has_gun_runner_opinion_25:0 "§YGun Runners§!: More Opinion than §Y25§!"
-    bag_off_brand_gun_runners:0 "Local Branch of the "Gun Runners""
-    bag_off_brand_gun_runners_desc:0 "Who cares if they aren't officially Gun Runners? The Bear barely cares what happens out here anyway."
-    has_gun_runner_opinion_80:0 "§YGun Runners§!: More Opinion than §Y80§!"
-    bag_expand_commando:0 "Expand the Special Forces"
-    bag_expand_commando_desc:0 "Rangers, Army Specialists, you name it, we could always use more of them. Maybe a 1st Colorado Recon is in order?"
-    bag_desegregate_special_forces:0 "Executive Order 9981"
-    bag_desegregate_special_forces_desc:0 "The order that desegregated the armed forces of the bygone USA. We will now see it recreated to end the stigma and separation of our Ghoulish soldiers."
-    bag_organizational_effort:0 "Reorganize the "Steel Rangers""
-    bag_organizational_effort_desc:0 "We're still a long way from fully adapting to the realities of our Steel Ranger doctrine, but at least we're making progress."
-    bag_bears_can_fly:0 "Bears Can Fly!"
-    bag_bears_can_fly_desc:0 "I believe they can, I believe they can touch the sky!"
-    bag_aerial_HCF_doctrine:0 "Test the "Aerial HCF Doctrine"!"
-    bag_aerial_HCF_doctrine_desc:0 "Building on the concept of Heavy Cover Fire doctrine as proposed by Briggs, we'll have swarms of planes in the sky providing the equivalent of an aerial fireteam. If we can build enough of them, that is."
+bag_dream_of_californication: "Мрія про каліфорнізацію"
+bag_dream_of_californication_desc: "НКР — найвеличніша держава пустки. І буде лише доречно, якщо народ Колорадо навчиться переймати каліфорнійську культуру. З часом вони зрозуміють, наскільки це збагачує життя."
+
+bag_appoint_californian_mayors: "Призначити каліфорнійських мерів"
+bag_appoint_californian_mayors_desc: "Дехто з державників удома давно мріє вирушити на кордон і ще раз спробувати свої сили в політиці. Міст і селищ у нас більш ніж достатньо для їхніх амбіцій."
+
+bag_coleridge_coring_tt: "Зменшує вартість анексії кожного штату в §YКолорадо§! та §YПівденному Вайомінгу§! на §G20%§!!"
+
+bag_cultural_integration: "Майже Каліфорнія"
+bag_cultural_integration_desc: "Тут достатньо людей, які... скажімо, близькі до каліфорнійців. Поселенці, що нагадують ті часи в Шейді. Ми просто допоможемо їм зробити останній крок — і стати синами й дочками Каліфорнії."
+
+bag_teach_pacific_dialect: "Навчити тихоокеанського діалекту"
+bag_teach_pacific_dialect_desc: "Повторіть за мною: «Коло-РАДо — це каліфорнійська земля»."
+
+bag_host_boneyardian_radio_shows: "Трансляція Боньярдських радіошоу"
+bag_host_boneyardian_radio_shows_desc: "Половина з них буде настільки зачарована самим фактом існування радіо, що й не помітить, як ми їх культурно 'перевиховали'."
+
+bag_adopt_ncr_laws: "Прийняти закони НКР"
+bag_adopt_ncr_laws_desc: "Очевидні закони всі розуміють. Але дозвольте розповісти вам про наш податковий кодекс…"
+
+bag_adhere_to_criminal_law: "Дотримуватись кримінального права"
+bag_adhere_to_criminal_law_desc: "Треба було платити податки, але ні — вирішили грати жорстко. Тепер наша черга."
+
+bag_open_borders: "Відкрити кордони"
+bag_open_borders_desc: "НКР відкрита для всіх, хто готовий інтегруватися в наш спосіб життя."
+
+bag_adhere_to_military_law: "Дотримуватись військового права"
+bag_adhere_to_military_law_desc: "Офіцер зобов’язаний служити за стандартами."
+
+bag_economical_integration: "Принести Каліфорнійську мрію"
+bag_economical_integration_desc: "Це тепер і ваша мрія, громадяни!"
+
+bag_open_to_free_market: "Відкрити вільний ринок"
+bag_open_to_free_market_desc: "Чим вільніший ринок — тим вільніші люди, як кажуть. А ще це дуже прибутково."
+
+bag_fill_water_reserves_for_water_standard: "Виконати норму зберігання води"
+bag_fill_water_reserves_for_water_standard_desc: "Закон про стандарти води вимагає від нас зберігати певні об’єми води. Заправляйте танкери!"
+
+bag_adopt_ncr_dollar: "Упровадити долар НКР"
+bag_adopt_ncr_dollar_desc: "У мене ціла валіза танді для Колорадо."
+
+bag_military_industrial_complex: "Військово-промисловий комплекс"
+bag_military_industrial_complex_desc: "Усі складнощі виробництва легко перенести й сюди."
+
+bag_stable_work_stable_payment: "Опора промисловості"
+bag_stable_work_stable_payment_desc: "Нам потрібно більше металу. Більше сьогодні. Більше завтра. Більше — тисячоліттями."
+
+bag_civilian_industrial_complex: "Сильні люди — безпечні люди"
+bag_civilian_industrial_complex_desc: "Si vis pacem, para bellum — як сказали б у Легіоні."
+
+bag_operation_umbilical_cord: "Операція: Пуповина"
+bag_operation_umbilical_cord_desc: "НКР — це колиска нашої експедиції і покровитель цієї віддаленої території. Пора налагодити стабільний зв’язок — назавжди."
+
+bag_treaty_of_dead_horse_point: "Спробуємо не бити мертвого коня"
+bag_treaty_of_dead_horse_point_desc: "Ми намагатимемось діяти м’яко, але їх усе одно доведеться трохи посунути."
+
+bag_old_friends_from_past: "Гіркі прощання"
+bag_old_friends_from_past_desc: "Кажуть, Сорроу живуть у гармонії з природою, невинні й захищені від світу. Шкода, що ця ідилія має скінчитись — заради вищої мети."
+
+bag_join_ncr: "Повернення додому"
+bag_join_ncr_desc: "Нарешті, наша територія з’єднана з рідною землею. Нас чекає обійми Ведмедя — й ми не відпустимо!"
+
+bag_sua_sponte: "Sua Sponte"
+bag_sua_sponte_desc: ""
+
+bag_eastern_plains_territory: "Наступ у Великі рівнини"
+bag_eastern_plains_territory_desc: ""
+
+every_southern_colorado_state: "Кожен штат у §Yпівденному Колорадо§!"
+
+bag_steel_city_without_shackles: "Сталеве місто без кайданів"
+bag_steel_city_without_shackles_desc: ""
+bag_steel_city_without_shackles_tt: "§gМісто Пуебло колись знали як §YСталеве місто§! — і цей образ нам до душі. Серед руїн є багато відновлюваних ливарень і металургійного обладнання, і ми повернемо їм славу.§!"
+
+bag_bastion_of_freedom: "Бастіон свободи"
+bag_bastion_of_freedom_desc: ""
+bag_bastion_of_freedom_tt: "§g§YБастіон§! був досить дивним місцем ще до Великої війни — невелике містечко з кількома в’язницями. Місцеві рейдери, схоже, були нащадками цих ув’язнених, але ми повторимо успіх Тіббетса — використаємо споруди за їхнім первісним призначенням.§!"
+
+bag_another_colorado_expedition: "Ще одна експедиція до Колорадо?"
+bag_another_colorado_expedition_desc: ""
+bag_another_colorado_expedition_tt: "§gСхоже, не лише НКР мала ідею дослідити залишки Колорадо — місцевий осередок братства вижив напрочуд довго попри повну ізоляцію. Їхній бункер — добре обладнана база, яку можна перетворити на справжній військовий завод.§!"
+
+bag_vae_victis: "Vae Victis"
+bag_vae_victis_desc: "Вони ще не переможені. Але будуть."
+bag_vae_victis_tt: "Наша армія постачатиме зброю повстанцям по той бік річки! Навіть якщо ми не контролюємо §YМісто Червоного Сонця§!, вони повстануть і приєднаються до Республіки Червоного Сонця!\nНаш новий союзник витіснить Легіон з міста та отримає 4 §Gополченські§! дивізії."
+
+bag_organize_new_mexican_territories: "Організувати території Нової Мексики"
+bag_organize_new_mexican_territories_desc: "Замість того щоб адмініструвати величезну територію самотужки, ми надамо повноваження Республіці Червоного Сонця. У нас є важливіші битви."
+
+bag_pacifying_red_sun_lands_tt: "§gПередати всі штати Нової Мексики§! §Yзахідніше Ріо-Ґранде§!, які належать нам або нашим маріонеткам, до §YРеспубліки Червоного Сонця§!.\nВони отримають §Y−25%§! опору та §Y−33%§! вартості інтеграції цих штатів.§!"
+
+bag_incorporate_new_mexico: "Інтегрувати Нову Мексику до нашого управління"
+bag_incorporate_new_mexico_desc: "Ми станемо опікунами всіх земель по цей бік Ріо-Ґранде!"
+
+bag_pacifying_legion_lands_tt: "§gОтримати§! §Y−15%§! опору населення та §Y−10%§! вартості інтеграції у штатах Нової Мексики §Yсхідніше Ріо-Ґранде§!, що належать нам.§!"
+
+bag_paws_of_cub: "Лапи ведмежати"
+bag_paws_of_cub_desc: "Хоч ми далеко від великої мами-ведмедиці, але навіть ведмежа може вирости у грізного ґрізлі!"
+
+bag_active_coastal_defense: "Активна берегова оборона"
+bag_active_coastal_defense_desc: "Через велику кількість річок нам потрібен флот для «коричневих вод»."
+
+bag_river_patrols: "Патрулі на річках"
+bag_river_patrols_desc: "Водні артерії Колорадо повинні бути захищеними."
+
+bag_expand_military_council: "Відділ воєнних ігор"
+bag_expand_military_council_desc: "Спеціалізований підрозділ при військовій раді допоможе нам вигадати нові тактики."
+
+bag_unoffical_motorized_company: "«Неофіційний» мотопідрозділ"
+bag_unoffical_motorized_company_desc: "Родина Ґаленські давно нас підтримує. Хоча офіційно вони ще не мають рангу, фактично — це вже кістяк нашого моторизованого корпусу."
+
+bag_expand_motorized_corps: "Узаконити статус Ґаленські"
+bag_expand_motorized_corps_desc: "Нарешті ми надали Рібу титул: головний офіцер моторизованих підрозділів! Він швидко увійшов у роль і вже проєктує нову техніку."
+
+bag_project_water_carrier: "Проєкт: Водовіз"
+bag_project_water_carrier_desc: "Ґараж Ґаленські готує сюрприз: танки. Кажуть, вони перероблять старі водовози на броньовані машини!"
+
+bag_deal_with_gun_runners: "Угода зі Збройовими кур'єрами"
+bag_deal_with_gun_runners_desc: "Збройові кур’єри підтримують НКР понад століття. Вони працюють на себе, але наша співпраця вигідна обом."
+
+has_gun_runner_opinion_25: "§YЗбройові кур’єри§!: симпатія понад §Y25§!"
+
+bag_off_brand_gun_runners: "Місцеве відділення «Збройових кур'єрів»"
+bag_off_brand_gun_runners_desc: "Та кого хвилює, що вони не справжні кур’єри? Ведмідь давно не звертає уваги на ці землі."
+
+has_gun_runner_opinion_80: "§YЗбройові кур’єри§!: симпатія понад §Y80§!"
+
+bag_expand_commando: "Розширити спецпідрозділи"
+bag_expand_commando_desc: "Рейнджери, спецпризначенці — всіх їх нам потрібно більше. Може, час створити перший Колорадський Рекон?"
+
+bag_desegregate_special_forces: "Наказ 9981"
+bag_desegregate_special_forces_desc: "Наказ, що скасував расову сегрегацію в збройних силах колишніх США. Ми відтворимо його, щоб покінчити зі стигматизацією й розділенням наших ґульських солдатів."
+
+bag_organizational_effort: "Реорганізувати «Сталевих рейнджерів»"
+bag_organizational_effort_desc: "Ми ще далекі від повної адаптації до доктрини Сталевих рейнджерів, але принаймні прогрес є."
+
+bag_bears_can_fly: "Ведмеді літають!"
+bag_bears_can_fly_desc: "Я вірю, що вони можуть. Я вірю, що вони торкаються неба!"
+
+bag_aerial_HCF_doctrine: "Випробувати доктрину «Повітряної ППВ»"
+bag_aerial_HCF_doctrine_desc: "Спираючись на концепцію доктрини Потужного Прикриття Вогнем, запропоновану Бріґґсом, ми випустимо рої літаків у небо, аби ті стали еквівалентом повітряної вогневої команди. Звісно, якщо зможемо збудувати їх у достатній кількості."
