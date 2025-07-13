@@ -45,7 +45,7 @@ GLW_SUSPICION_TT:0 "§Y[BLC.GetNameWithFlag]§! стає більш підозр
 BLC_GLW_SUSPICION_TT:0 "Наша підозра щодо §Y[GLW.GetNameWithFlag]§! принаймні §R3§! §g(Наразі: §Y[?GLW_SUSPICION]§!)§!"
 
 # Данина — відображення в UI
-GLW_CAPS_tooltip:0 "£GFX_bottlecap_texticon  §WПасивний прибуток кепсів:§! [?GLW_caps|+=2]§Wk§!"
+GLW_CAPS_tooltip:0 "£GFX_bottlecap_texticon  §WПасивний прибуток кришок:§! [?GLW_caps|+=2]§Wk§!"
 GLW_METAL_tooltip:0 "£GFX_resource_metal_small_texticon  §WПожертви металобрухту:§! [?GLW_metal|+=0]"
 GLW_COMPOSITES_tooltip:0 "£GFX_resource_composite_small_texticon  §WПожертви композитів:§! [?GLW_composites|+=0]"
 GLW_ADVANCED_tooltip:0 "£GFX_resource_advanced_small_texticon  §WПожертви високотехнологічних компонентів:§! [?GLW_advanced|+=0]"
@@ -54,7 +54,7 @@ GLW_MFD_DONATIONS_tooltip:0 "£GFX_mil_factory  §WЗброярські майс
 
 # Модифікатори до Договору Коллінза
 GLW_ADD_HEADER_tooltip:0 "Змінює §YДоговір із Коллінза§!:"
-GLW_CAPS_ADD_tooltip:0 "£GFX_bottlecap_texticon  Прибуток кепсів: [?GLW_caps_temp|+=2]"
+GLW_CAPS_ADD_tooltip:0 "£GFX_bottlecap_texticon  Прибуток кришок: [?GLW_caps_temp|+=2]"
 GLW_METAL_ADD_tooltip:0 "£GFX_resource_metal_small_texticon  Пожертви металу: [?GLW_metal_temp|+=0]"
 GLW_COMPOSITES_ADD_tooltip:0 "£GFX_resource_composite_small_texticon  Пожертви композитів: [?GLW_composites_temp|+=0]"
 GLW_ADVANCED_ADD_tooltip:0 "£GFX_resource_advanced_small_texticon  Пожертви високотехнологічних компонентів: [?GLW_advanced_temp|+=0]"
