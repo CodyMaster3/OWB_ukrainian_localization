@@ -167,7 +167,7 @@ eur_emergency_divisions_tt: "Сформує §Yаварійні дивізії§
   ENC_hide_activity_bonus_tt: " + [?Root.days_mission_timeout@ENC_hide_activity|H0] §Gдодаткових§! днів"
   NCR_crisis: "§RНКР НАС ВИКРИЛА§!"
   NCR_crisis_flag: "§RНКР НАС ВИКРИЛА§!"
-  NCR_crisis_resources: "Запропонувати права на ресурси Реддінгу"
+  NCR_crisis_resources: "Запропонувати права на ресурси Реддінґу"
   NCR_crisis_laylow: "Припинити найманські експедиції"
   NCR_crisis_construction: "Зупинити будівництво"
   EUR_bribe_NCR_officials: "Підкупити посадовців НКР"

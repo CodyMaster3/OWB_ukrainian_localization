@@ -3,10 +3,10 @@ NCR_banditry_category:0 "Проблема Рейдерів"
 NCR_banditry_category_desc:0 "Республіка розширювалась надто стрімко, приєднуючи поселення, міста й племена. Тепер, ставши надто великою, вона не здатна захищати ці території — і потерпає від постійних нападів рейдерів."
 NCR_bandit_raids:0 "Напади Рейдерів"
 NCR_bandit_raids_desc:0 "Блукаючі банди рейдерів крадуть усе, що не прибите цвяхами, й палять решту! Потрібно підняти війська й зупинити їх!"
-NCR_pacify_bandits_in_the_northern_countryside:0 "Утихомирити банди в Реддінгу"
-NCR_hunt_down_northern_bandits:0 "Заарештувати банди Реддінгу"
-NCR_hunt_down_northern_bandits_tt:0 "Позбавляє регіон рейдерів Реддінгу.\n"
-NCR_maintain_northern_control:0 "Утримувати контроль над Реддінгом"
+NCR_pacify_bandits_in_the_northern_countryside:0 "Утихомирити банди в Реддінґу"
+NCR_hunt_down_northern_bandits:0 "Заарештувати банди Реддінґу"
+NCR_hunt_down_northern_bandits_tt:0 "Позбавляє регіон рейдерів Реддінґу.\n"
+NCR_maintain_northern_control:0 "Утримувати контроль над Реддінґом"
 NCR_pacify_bandits_mission_explanation:0 "Утримуйте дивізії в регіоні протягом [?Root.NCR_maintain_control_timer|H0] днів, щоби утихомирити рейдерів.\n"
 
 NCR_pacify_bandits_in_the_eastern_countryside:0 "Утихомирити канібалів у північних рубежах"
@@ -19,7 +19,7 @@ NCR_hunt_down_western_bandits:0 "Полювання на племінних ре
 NCR_hunt_down_western_bandits_tt:0 "Позбавляє регіон племінних рейдерів.\n"
 NCR_maintain_western_control:0 "Утримувати контроль над Солтон-Сі"
 
-NCR_northern_bandits:0 "Банди нападають у Реддінгу."
+NCR_northern_bandits:0 "Банди нападають у Реддінґу."
 NCR_eastern_bandits:0 "Канібали наступають з Орегону."
 NCR_western_bandits:0 "Племена нападають із Солтона."
 
