@@ -453,7 +453,7 @@ TPA_destinys_reach_desc: "Без крила виробництва/виклик�
 TPA_no_sheriff: "Неспокійні грабіжники"
 TPA_no_sheriff_desc: "Грабіжники, обрані Долею, щоб стати її 'заступниками', потребують шерифа, щоб правильно ними управляти, коли вона цього не може — інакше вони стануть ледачими та безвідповідальними зі своєю владою."
 TPA_normal_genome: "Основний геном"
-TPA_ghoulification_genome: "Геном ґулів"
+TPA_ghoulification_genome: "Геном гулів"
 TPA_fairy_genome_idea: "Геном фей"
 TPA_nightkin_genome: "Геном нічних істот"
 TPA_elemental_genome: "Геном елементалів"

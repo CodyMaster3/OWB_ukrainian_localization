@@ -2023,7 +2023,7 @@ ncr_junkertroop_bonus:0 "Брухтові війська"
 ncr_junkertroop_bonus_desc:0 "Війська, дислоковані у Джанктауні, слугуватимуть чудовим прикладом для всієї Республіки."
 
 ncr_eliminate_ghouls:0 "Ґулі знищені"
-ncr_eliminate_ghouls_desc:0 "Знищивши ґулів у межах Республіки, ми тепер можемо зосередитись на інших проблемах."
+ncr_eliminate_ghouls_desc:0 "Знищивши гулів у межах Республіки, ми тепер можемо зосередитись на інших проблемах."
 
 ncr_supply_train_expansion:0 "Розширення постачання"
 ncr_supply_train_expansion_desc:0 "Республіка зможе розширити свої лінії постачання."
@@ -2054,15 +2054,15 @@ ncr_loyal_officer_promotions_1_desc:0 "Офіцери, які довели св�
 NCR_shady_elite_tooltip:0 "З’являється §Y2 дивізії рейнджерів§! у Шейді-Сендс"
 NCR_moore_corps_tooltip:0 "З’являється §Y6 дивізій піхоти§!"
 
-ncr_eliminate_ghouls_chosen:0 "Обрано шлях §Rзнищення ґулів§!"
-ncr_ghoul_conscripts_chosen:0 "Обрано шлях §Yмобілізації ґулів§!"
+ncr_eliminate_ghouls_chosen:0 "Обрано шлях §Rзнищення гулів§!"
+ncr_ghoul_conscripts_chosen:0 "Обрано шлях §Yмобілізації гулів§!"
 
 ncr_barons_alliance:0 "У союзі з баронами"
 ncr_junkertank_chosen:0 "Танки передислоковано до Джанктауну"
 ncr_junkertroop_chosen:0 "Війська передислоковано до Джанктауну"
 
 ncr_ranger_primacy:0 "Пріоритет рейнджерів"
-obtain_ghoul_conscripts:0 "З’являються 2 парашутні дивізії ґулів"
+obtain_ghoul_conscripts:0 "З’являються 2 парашутні дивізії гулів"
 
 president_general_weak_1:0 "Президент-Генерал"
 president_general_weak_2:0 "Президент-Генерал"
