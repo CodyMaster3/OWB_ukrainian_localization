@@ -332,7 +332,7 @@ owb_achievement_god_save_the_king_NAME:0 "Боже, Бережи Короля"
 owb_achievement_god_save_the_king_DESC:0 "Граючи за @BRA §YКоролівство Манітоби§!, оголосити війну @WPG §YТрьом Річкам§! через Порто-Прері під час Повстання @DLN §YГерцогства Ланґенбурґ§! і перемогти."
 
 owb_achievement_malevolent_shrine_NAME:0 "Зловісне Святилище"
-owb_achievement_malevolent_shrine_DESC:0 "Граючи за @RRR §YПрокляті Ліси§!, утворити §YБагряний Домініон§!."
+owb_achievement_malevolent_shrine_DESC:0 "Граючи за @RRR §YПрокляті Ліси§!, утворити §YПурпуровий Домен§!."
 
 owb_achievement_prince_to_king_NAME:0 "Принц Стає Королем"
 owb_achievement_prince_to_king_DESC:0 "Граючи за @BAT §YБатлфорд§!, повністю контролювати §YДофін§!."
@@ -511,8 +511,8 @@ owb_achievement_delved_too_deep_tt:0 "Пробився до «Дна» чере�
 owb_achievement_best_of_the_best_tt:0 "Розгорнув свого першого Паладина"
 owb_achievement_unrequited_love_tt:0 "Викрав милого покидька"
 owb_achievement_god_save_the_king_tt:0 "Переміг @WPG §YТри Річки§! за Порто Прері"
-owb_achievement_malevolent_shrine_tt:0 "Відомий як §YБагряний Домініон§!"
-owb_achievement_doctor_khan_is_in_tt:0 "Налагоджено виробництво Буффаута, Катая, Дедді-О, Фіксера, Ментатів, Рад-Авея та Стімпаків"
+owb_achievement_malevolent_shrine_tt:0 "Відомий як §YПурпуровий Домен§!"
+owb_achievement_doctor_khan_is_in_tt:0 "Налагоджено виробництво Буффаута, Катая, Дедді-О, Фіксера, Ментатів, Рад-Авея та Стімпаків" # «катай» – типу Cathay, ахаха. ~ L.H.
 owb_achievement_uncrowned_tt:0 "Є §YІмператором Манітоби§!"
 owb_achievement_to_these_free_states_tt:0 "Сформовано §YРеспубліку Дакота§!"
 owb_achievement_good_kid_madvillain_tt:0 "Виховав §YДжой§! як Ґрейгаунда"
