@@ -1257,7 +1257,7 @@ VICTORY_POINTS_21827:0 "Вашборн"
   VICTORY_POINTS_5789_NCR:0 "Фармвіль"
   VICTORY_POINTS_4642_NCR:0 "Тандітаун"
   VICTORY_POINTS_3220_NCR:0 "Табір Уіллоу"
-  VICTORY_POINTS_4635_NCR:0 "Нью Некрополь"
+  VICTORY_POINTS_4635_NCR:0 "Нью-Некрополь"
   VICTORY_POINTS_1776_NCR:0 "Благословення Дгарми"
   VICTORY_POINTS_2409_NCR:0 "Церква Зоряного Батька"
   MOT_VICTORY_POINTS_971:0 "Станція Рейнджерів Ехо"
@@ -1380,10 +1380,10 @@ VICTORY_POINTS_21827:0 "Вашборн"
   VICTORY_POINTS_8951_KSR:0 "Ной Кьонігсберг"
 
   # MLP - Equestria
-  VICTORY_POINTS_8814_MLP:0 "Нью Кантерлот"
-  VICTORY_POINTS_2428_MLP:0 "Нью Мейрленд"
-  VICTORY_POINTS_2409_MLP:0 "Нью Мейнхеттен"
-  VICTORY_POINTS_2405_MLP:0 "Нью Балтімейр"
+  VICTORY_POINTS_8814_MLP:0 "Нью-Кантерлот"
+  VICTORY_POINTS_2428_MLP:0 "Нью-Мейрленд"
+  VICTORY_POINTS_2409_MLP:0 "Нью-Мейнхеттен"
+  VICTORY_POINTS_2405_MLP:0 "Нью-Балтімейр"
   VICTORY_POINTS_8814_MLP_GATEWAY:0 "Брама"
 
   # NPC - Polar Soviet

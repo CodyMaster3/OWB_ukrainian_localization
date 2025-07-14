@@ -54,13 +54,13 @@ blc_this_will_have_consequences_tt:0 "§RДружина Марісси це за
 
 # Перейменування локацій
 BCR_ROYAL_PALACE_VP:0 "Королівський Палац"
-PNT_THESA_VP:0 "Нью Теса"
+PNT_THESA_VP:0 "Нью-Теса"
 PNT_LAKTON_VP:0 "Форт Лактон"
 PNT_RIZON_VP:0 "Форт Райзон"
 YMP_DOME_CITY_VP:0 "Місто-Купол"
 YMP_REDCLIFF_VP:0 "Форт Редкліфф"
 YMP_CLEARWATER_VP:0 "Форт Клірвотер"
-YMP_NEW_VENICE_VP:0 "Нью Венеція"
+YMP_NEW_VENICE_VP:0 "Нью-Венеція"
 
 #
 BLC_TASTE_SWEETWATER_LK:0 "§MНації Світвотеру§! завершили свою війну!"
