@@ -66,7 +66,7 @@ dog_infantry_tech_desc:0 "У більшості націй собаки — до
 super_mutant_aux_infantry_tech:0 "Супермутантські допоміжні війська"
 super_mutant_aux_infantry_tech_desc:0 "Супермутанти сильніші та витриваліші за людей, не бояться хвороб чи радіації. Дозволити їм служити в нашій армії як допоміжні сили — це велика перевага."
 
-ghoul_paratrooper_tech:0 "Ґуль-десантники"
+ghoul_paratrooper_tech:0 "Гуль-десантники"
 ghoul_paratrooper_tech_desc:0 "Радіаційна стійкість гулів дозволяє відправляти їх у найнебезпечніші місця, де звичайна піхота загинула б миттєво. Ідеальні для проникнення та диверсій."
 
 super_mutant_nightkin_tech:0 "Тіні"
@@ -94,7 +94,7 @@ leshy_baby_support_unlock_tech:0 "Нащадки Лешого"
 leshy_baby_support_unlock_tech_desc:0 ""
 
 # Faction Units
-BAG_ghoul_paratrooper_tech:0 "Ґуль-рейнджери"
+BAG_ghoul_paratrooper_tech:0 "Гуль-рейнджери"
 BAG_ghoul_paratrooper_tech_desc:0 "Радіаційна стійкість гулів відкриває унікальні можливості для диверсій у заражених зонах, недоступних для людей."
 
 #Tribal
@@ -165,7 +165,7 @@ jungle_spirits_desc:0 "Переобладнавши та загерметизу�
 jungle_tribal_integration_tech:0 "Інтеграція Джунглевих Племен"
 jungle_tribal_integration_tech_desc:0 "У джунглях Центральної Америки живе безліч дрібних племен. Інтегруючи їх у нашу культуру, ми перейняли традиції майстерної зброярської справи та джунглевої війни."
 
-ghoul_civilization:0 "Ґульська Цивілізація"
+ghoul_civilization:0 "Гульська Цивілізація"
 ghoul_civilization_desc:0 "Наш народ складається переважно з гулів — довоєнних або післявоєнних. Ми побудували суспільство навколо істот, які не старіють і не бояться радіації."
 
 #NCR
