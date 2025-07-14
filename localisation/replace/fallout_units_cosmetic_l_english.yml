@@ -1,0 +1,21 @@
+﻿l_english:
+
+##Косметика
+
+RCK_insect_creature:0 "Радтаргани"
+RCK_insect_creature_short:0 "Радтаргани"
+RCK_insect_creature_desc:0 "Ці радіоактивно вироджені таргани об'єднані в зграї для досягнення максимальної ефективності. Чим більші — тим краще!"
+RCK_insect_equipment:0 "Зграї радтарганів"
+RCK_insect_equipment_desc:0 ""
+
+VTS_insect_creature:0 "Радтаргани"
+VTS_insect_creature_short:0 "Радтаргани"
+VTS_insect_creature_desc:0 "Ці радіоактивно вироджені таргани об'єднані в зграї для досягнення максимальної ефективності. Чим більші — тим краще!"
+VTS_insect_equipment:0 "Зграї радтарганів"
+VTS_insect_equipment_desc:0 ""
+
+DED_amphibious_beast_creature:0 "Ванамінго"
+DED_amphibious_beast_creature_short:0 "Ванамінго"
+DED_amphibious_beast_creature_desc:0 "Люті створіння з куленепробивною шкірою, рядами гострих як бритва зубів і двома потворними щупальцями замість рук."
+DED_amphibious_beast_equipment:0 "Зграя ванамінго"
+DED_amphibious_beast_equipment_desc:0 ""
