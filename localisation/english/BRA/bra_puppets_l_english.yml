@@ -209,9 +209,9 @@ PAS_BRA_autonomy_march:0 "Скелясті Марки"
 PAS_BRA_autonomy_vassal:0 "Скелясті Марки"
 PAS_BRA_autonomy_military_order:0 "Скелясті Марки"
 
-NIT_BRA_autonomy_march:0 "Марка Ніцітапі"
-NIT_BRA_autonomy_vassal:0 "Марка Ніцітапі"
-NIT_BRA_autonomy_military_order:0 "Марка Ніцітапі"
+NIT_BRA_autonomy_march:0 "Марка Ніітсітапі"
+NIT_BRA_autonomy_vassal:0 "Марка Ніітсітапі"
+NIT_BRA_autonomy_military_order:0 "Марка Ніітсітапі"
 
 HVR_BRA_autonomy_march:0 "Марка Гавр"
 HVR_BRA_autonomy_vassal:0 "Марка Гавр"
