@@ -1746,7 +1746,7 @@ WHD_ces_two_tech_desc:0 "Модифікація старих авто з уст�
 WHD_armored_chariots_tech:0 "Рухомі бункери"
 WHD_armored_chariots_tech_desc:0 "Танки вже самі по собі грізна сила, але в пустці дуже мало хто здатен пробити нашу броню. Ще трохи вдосконалень — і ми станемо по-справжньому незупинними!"
 
-# WHT (Білі Ноги)
+# WHT (Білоногі)
 WHT_melee_equipment_1:0 "$melee_weaponry_tech_icon_1_machete$"
 WHT_melee_equipment_1_short:0 "$melee_weaponry_tech_icon_1_machete_short$"
 WHT_melee_equipment_1_desc:0 "$melee_weaponry_tech_icon_1_machete_desc$"
