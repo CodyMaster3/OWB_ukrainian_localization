@@ -1,6 +1,6 @@
 ﻿l_english:
 
-    destiny_massacre_flag:0 "§RДестіні завдала нам удару!§!"
+    destiny_massacre_flag:0 "§RДоля завдала нам удару!§!"
     finding_little_treasures_tt:0 "§gПошуки Little Treasures можуть зайняти кілька тижнів...§! §GЯкщо ми вже володіємо Плезентдейлом§!§g, це буде значно§! §Cшвидше§!§g.§!"
     metis_faction_join_tt:0 "§gМи приєднаємось або до§! §YДругої Коаліції§! §gабо до§! §YПівнічного Конгресу§! §gзалежно від вибору§! §G[MTC.GetNameWithFlag]§!§g... Якщо вони взагалі обрали когось!§!"
     reduce_coring_cost_rrr_tt:0 "§gМи§! §Oзнизимо спротив§! §gу землях§! §Y[RRR.GetNameWithFlag]§!§g.§!"

@@ -1,8 +1,8 @@
 ﻿l_english:
-##DLN - Герцогство Ланґенбург
-DLN_BRA_autonomy_march:0 "Герцогство Ланґенбург"
-DLN_BRA_autonomy_vassal:0 "Герцогство Ланґенбург"
-DLN_BRA_autonomy_military_order:0 "Герцогство Ланґенбург"
+##DLN - Герцогство Ланґенбурґ
+DLN_BRA_autonomy_march:0 "Герцогство Ланґенбурґ"
+DLN_BRA_autonomy_vassal:0 "Герцогство Ланґенбурґ"
+DLN_BRA_autonomy_military_order:0 "Герцогство Ланґенбурґ"
 
 ##ARB - Хунта Арборґа
 ARB_BRA_autonomy_march:0 "Віконтство Арборґ"
@@ -49,13 +49,13 @@ ROL_BRA_autonomy_march:0 "Південні Коронні Землі"
 ROL_BRA_autonomy_vassal:0 "Південні Коронні Землі"
 ROL_BRA_autonomy_military_order:0 "Південні Коронні Землі"
 
-WPG_BRA_autonomy_march:0 "Коронні Землі Вінніпега"
-WPG_BRA_autonomy_vassal:0 "Коронні Землі Вінніпега"
-WPG_BRA_autonomy_military_order:0 "Коронні Землі Вінніпега"
+WPG_BRA_autonomy_march:0 "Коронні Землі Уінніпеґа"
+WPG_BRA_autonomy_vassal:0 "Коронні Землі Уінніпеґа"
+WPG_BRA_autonomy_military_order:0 "Коронні Землі Уінніпеґа"
 
-TRR_Northern_republic_BRA_autonomy_march:0 "Коронні Землі Вінніпега"
-TRR_Northern_republic_BRA_autonomy_vassal:0 "Коронні Землі Вінніпега"
-TRR_Northern_republic_BRA_autonomy_military_order:0 "Коронні Землі Вінніпега"
+TRR_Northern_republic_BRA_autonomy_march:0 "Коронні Землі Уінніпеґа"
+TRR_Northern_republic_BRA_autonomy_vassal:0 "Коронні Землі Уінніпеґа"
+TRR_Northern_republic_BRA_autonomy_military_order:0 "Коронні Землі Уінніпеґа"
 
 ATM_BRA_autonomy_march:0 "Марка Силосних Полів"
 ATM_BRA_autonomy_vassal:0 "Марка Силосних Полів"
@@ -209,9 +209,9 @@ PAS_BRA_autonomy_march:0 "Скелясті Марки"
 PAS_BRA_autonomy_vassal:0 "Скелясті Марки"
 PAS_BRA_autonomy_military_order:0 "Скелясті Марки"
 
-NIT_BRA_autonomy_march:0 "Марка Ніцітапі"
-NIT_BRA_autonomy_vassal:0 "Марка Ніцітапі"
-NIT_BRA_autonomy_military_order:0 "Марка Ніцітапі"
+NIT_BRA_autonomy_march:0 "Марка Ніітсітапі"
+NIT_BRA_autonomy_vassal:0 "Марка Ніітсітапі"
+NIT_BRA_autonomy_military_order:0 "Марка Ніітсітапі"
 
 HVR_BRA_autonomy_march:0 "Марка Гавр"
 HVR_BRA_autonomy_vassal:0 "Марка Гавр"
@@ -576,4 +576,4 @@ cph_pup_most_valuable_prisoners:0 "Найцінніші В’язні"
 cph_pup_most_valuable_prisoners_desc:0 ""
 
 cph_pup_royal_reward:0 "Попри Все"
-cph_pup_royal_reward_desc:0 "Ми пройшли довгий шлях, але місто Реджайна нарешті повернулося додому.\n\nНаші Наглядачі мужньо боролися разом з армією Королівства проти сил Другої Коаліції, і тепер король Ганн II бажає нагородити полковника Деніелса за успішне відвоювання Реджайни."
+cph_pup_royal_reward_desc:0 "Ми пройшли довгий шлях, але місто Реджайна нарешті повернулося додому.\n\nНаші Наглядачі мужньо боролися разом з армією Королівства проти сил Другої Коаліції, і тепер король Ґанн II бажає нагородити полковника Деніелса за успішне відвоювання Реджайни."

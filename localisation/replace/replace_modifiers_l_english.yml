@@ -67,7 +67,7 @@
   modifier_experience_gain_paladin_combat_factor:0 "Отриманий бойовий досвід паладінів"
   modifier_experience_gain_spec_ops_cavalry_combat_factor:0 "Отриманий бойовий досвід кавалерії"
   modifier_experience_gain_molerat_infantry_combat_factor:0 "Отриманий бойовий досвід кротощурів"
-  modifier_experience_gain_radroach_infantry_combat_factor:0 "Отриманий бойовий досвід радтараканів"
+  modifier_experience_gain_radroach_infantry_combat_factor:0 "Отриманий бойовий досвід радтарганів"
 
   modifier_experience_gain_spotter_plane_training_factor:0 "Отриманий тренувальний досвід літаків розвідувальників"
   modifier_experience_gain_fighter_training_factor:0 "Отриманий тренувальний досвід винищувачів"

@@ -1,0 +1,231 @@
+﻿l_english:
+ # Equipment naming is inherited from the equipment name when displayed in the techtree
+ #----------------------------
+ # Folders
+ #----------------------------
+fallout_infantry_folder:0 "Піхота"
+fallout_infantry_folder_desc:0 "Бій був невіддільною частиною людського суспільства ще з моменту його зародження. Мечі змінилися на гвинтівки, коні — на танки, а Велика війна змусила нас заново вивчати давнє мистецтво виживання в новому жорстокому світі."
+
+fallout_support_folder:0 "Підтримка"
+fallout_support_folder_desc:0 "Навіть найсильнішому солдату чи найвлучнішому снайперу іноді потрібна допомога. Медики з припасами, розвідники в тилу ворога або вірні напарники, готові битися до кінця."
+
+fallout_vehicle_folder:0 "Транспорт"
+fallout_vehicle_folder_desc:0 "Попри те, що Велика війна знищила більшість інфраструктури для виробництва транспорту, чимало передвоєнних уламків усе ще можна привести до ладу. Потрібно лише harness — опанувати їхню силу."
+
+fallout_robotics_folder:0 "Робототехніка"
+fallout_robotics_folder_desc:0 "До війни роботи мали безліч мирних функцій. У пустці вони можуть стати смертоносною зброєю, якщо ми вкладемося в технології й знатимемо, як їх спрямувати в бій."
+
+fallout_tech_creatures_folder:0 "Істоти"
+fallout_tech_creatures_folder_desc:0 "Людство — цікава річ. Одні хочуть утвердити себе на вершині харчового ланцюга. Інші — приручити тварин пустки. Яку цікавість оберемо ми?"
+
+fallout_land_doctrine_folder:0 "Сухопутна доктрина"
+fallout_land_doctrine_folder_desc:0 "Відтоді як людина вперше вдарила людину, тактика бою розвивалась для сильних і кмітливих. Але тільки ті, хто є обома, зможуть довести її до досконалості."
+
+fallout_air_doctrine_folder:0 "Спеціальні доктрини"
+fallout_air_doctrine_folder_desc:0 "Хоча політ — відкриття останніх століть, більшість знань про повітряні бої втрачено. Але ми можемо або віднайти їх знову, або створити свої власні доктрини."
+
+fallout_air_folder:0 "Авіація"
+fallout_air_folder_desc:0 "Планер, повітряна куля, літак — усе це кроки людства до неба. Проте від Великої війни мало хто ще здіймався в повітря. Настав наш час злетіти — інакше нас поглине вогонь."
+
+fallout_naval_folder:0 "Флот"
+fallout_naval_folder_desc:0 "Моря й річки повні піратських барж і мутованих чудовиськ. Щоб плавати, нам знадобиться багато зусиль: міцні корпуси, нові методи виробництва й технології мореплавства."
+
+fallout_naval_non_mtg_folder:0 "Флот"
+fallout_naval_non_mtg_folder_desc:0 "Моря й річки повні піратських барж і мутованих чудовиськ. Щоб плавати, нам знадобиться багато зусиль: міцні корпуси, нові методи виробництва й технології мореплавства."
+
+fallout_naval_modules_folder:0 "Модулі кораблів"
+fallout_naval_modules_folder_desc:0 "Тепер, коли ми знову можемо борознити ріки та узбережжя, нам потрібна якісна техніка: зброя, броня, комунікації. Усе це — ключ до панування на воді."
+
+fallout_industry_folder:0 "Промисловість"
+fallout_industry_folder_desc:0 "Більшість спорядження походить із часів Великої війни. Щоб його відновити, нам потрібна злагоджена промисловість і нові технології виробництва. Це основа виживання."
+
+fallout_engineering_folder:0 "Інженерія"
+fallout_engineering_folder_desc:0 "Більшість електроніки та зв’язку загинули в імпульсах Чорного спалаху. Проте ми маємо їх відродити, бо без електроніки наше майбутнє приречене."
+
+fallout_tech_tribal_folder:0 "Племена"
+fallout_tech_tribal_folder_desc:0 "Унікальні технології для племінних суспільств."
+
+#----------------------------
+# Заголовки
+#----------------------------
+HEADER_REQUISITES:0 "Передумови"
+TRIBAL_HEADER:0 "Базовий рівень"
+CIVILIZED_HEADER:0 "Середній рівень"
+ADVANCED_HEADER:0 "Високий рівень"
+SPECIAL_HEADER:0 "Особливі дослідження"
+HEADER_UPGRADES:0 "Покращення"
+
+#----------------------------
+# Категорії
+#----------------------------
+civilization_tech_category:0 "Цивілізація"
+tribal_tech_category:0 "Базові технології"
+civilized_tech_category:0 "Середній рівень розвитку"
+scientific_tech_category:0 "Високорозвинені технології"
+
+## категорії озброєння ##
+infantry_weapons_tech_category:0 "Піхотне озброєння"
+infantry_tech_category:0 "Піхотні технології"
+enforcer_tech_category:0 "Технології правопорядку"
+energy_weaponry_tech_category:0 "Енергетичне озброєння"
+ballistic_weaponry_tech_category:0 "Вогнепальна зброя"
+melee_weaponry_tech_category:0 "Холодна зброя"
+plasma_weaponry_tech_category:0 "Плазмова зброя"
+tesla_weaponry_tech_category:0 "Зброя Тесли"
+gauss_weaponry_tech_category:0 "Ґаусова зброя"
+
+## підтримка ##
+support_tech_category:0 "Технології підтримки"
+support_demolitions_tech_category:0 "Технології підривників"
+support_demolitions_explosive_tech_category:0 "Вибухівка"
+support_demolitions_flamer_tech_category:0 "Піротехніка"
+support_fireteam_tech_category:0 "Вогнева група"
+support_fireteam_energy_tech_category:0 "Важке енергетичне озброєння"
+support_fireteam_ballistic_tech_category:0 "Важке вогнепальне озброєння"
+support_anti_tank_tech_category:0 "Протитанкова зброя"
+support_anti_air_tech_category:0 "Протиповітряна підтримка"
+support_combat_tech_category:0 "Бойова підтримка"
+support_non_combat_tech_category:0 "Небойова підтримка"
+support_medical_tech_category:0 "Медичні технології"
+support_maintenance_tech_category:0 "Технології обслуговування"
+support_logistics_tech_category:0 "Логістика"
+support_recon_tech_category:0 "Розвідка"
+support_dog_tech_category:0 "Бойові собаки"
+support_railway_gun_category:0 "Артилерія"
+
+## спецпризначенці ##
+spec_force_tech_category:0 "Технології спецпризначення"
+spec_force_doctrine_category:0 "Доктрина спецпризначення"
+spec_force_equipment_tech_category:0 "Спорядження спецпризначенців"
+power_armor_tech_category:0 "Технології силової броні"
+
+## транспорт і техніка ##
+armor_tech_category:0 "Бронетехніка"
+motorized_equipment_category:0 "Мототехніка"
+vehicle_tech_category:0 "Транспорт"
+bike_tech_category:0 "Мотоцикли"
+truck_tech_category:0 "Вантажівки"
+tank_tech_category:0 "Танки"
+car_tech_category:0 "Автомобілі"
+
+## авіація ##
+naval_air_tech_category:0 "Морська авіація"
+air_tech_category:0 "Авіаційні технології"
+light_air_tech_category:0 "Легка авіація"
+heavy_air_tech_category:0 "Важка авіація"
+fighter_tech_category:0 "Винищувачі"
+cas_bomber_tech_category:0 "Штурмова авіація"
+bomber_tech_category:0 "Бомбардувальники"
+cargo_air_tech_category:0 "Транспортна авіація"
+blimp_tech_category:0 "Дирижаблі"
+air_equipment_tech_category:0 "Авіаційне спорядження"
+
+## флот ##
+naval_tech_category:0 "Флотські технології"
+naval_equipment:0 "Морське обладнання"
+naval_hull_tech_category:0 "Корпуси кораблів"
+naval_light_hull_tech_category:0 "Легкі корпуси"
+naval_medium_hull_tech_category:0 "Середні корпуси"
+naval_heavy_hull_tech_category:0 "Важкі корпуси"
+naval_super_heavy_hull_tech_category:0 "Надважкі корпуси"
+naval_carrier_hull_tech_category:0 "Авіаносці"
+naval_invasion_tech_category:0 "Морська десантна доктрина"
+
+## модулі кораблів ##
+naval_armour_module_tech_category:0 "Броньові модулі"
+naval_module_tech_category:0 "Корабельні модулі"
+naval_engine_module_tech_category:0 "Рушійні модулі"
+naval_command_module_tech_category:0 "Командні модулі"
+naval_weapon_module_tech_category:0 "Озброєння для кораблів"
+
+## сухопутні доктрини ##
+cat_land_doctrine:0 "Сухопутна доктрина"
+cat_automated_warfare:0 "Автоматизована війна"
+cat_elite_army:0 "Вишукана війна"
+cat_grand_army:0 "Класична війна"
+cat_terror_tactics:0 "Асиметрична війна"
+cat_outsider_warfare:0 "Війна чужинців"
+caf_land_doctrine_xp:0 "Доктрини з досвіду"
+cat_grand_infantry_army:0 "Піхотна класична доктрина"
+cat_grand_motorized_army:0 "Моторизована класична доктрина"
+cat_roman_tactics:0 "Доктрина терору"
+cat_wasteland_tactics:0 "Пустельна війна"
+
+## морські доктрини ##
+cat_naval_doctrine:0 "Морська доктрина"
+cat_naval_force_concentration_doctrine:0 "Доктрина концентрації сил"
+cat_naval_river_fleet_doctrine:0 "Доктрина річкового флоту"
+cat_naval_dispersed_formation_doctrine:0 "Розсіяне формування"
+fleet_in_being:0 "Безпечне зберігання боєприпасів"
+fleet_in_being_desc:0 "Від палаючих бочок до снарядів високої потужності — наші моряки мають знати, як правильно зберігати боєзапаси, щоб корабель не злетів у повітря."
+
+## повітряні доктрини ##
+cat_air_doctrine:0 "Повітряна доктрина"
+cat_decisive_engagement_doctrine:0 "Доктрина вирішальних боїв"
+cat_pragmatic_aviation_doctrine:0 "Прагматична авіація"
+cat_elaborate_disruption_doctrine:0 "Складне порушення ворога"
+
+## робототехніка ##
+robotics_tech_category:0 "Робототехніка"
+support_robot_tech_category:0 "Роботи підтримки"
+cnc_robot_tech_category:0 "Командно-контрольні роботи"
+combat_robot_tech_category:0 "Бойові роботи"
+bipedal_support_robot_tech_category:0 "Двоногі роботи"
+handy_support_robot_tech_category:0 "Універсальні роботи"
+
+## істоти ##
+burrowing_tech_access_tech:0 "Приручення риючих істот"
+insect_tech_access_tech:0 "Приручення комах"
+amphibious_tech_access_tech:0 "Приручення амфібій"
+deathclaw_tech_access_tech:0 "Виведення когтів смерті"
+deathclaw_civilization_access_tech:0 "Гнізда когтів смерті"
+deathclaw_alphas_access_tech:0 "Зграї під проводом альф"
+feral_tech_access_tech:0 "Приборкання диких ґулів"
+beast_tech_access_tech:0 "Приручення бойових звірів"
+gecko_tech_access_tech:0 "Приручення геконів"
+creatures_tech_category:0 "Технології приручення істот"
+burrowers_tech_category:0 "Риючі істоти"
+insect_tech_category:0 "Комахи"
+amphibious_tech_category:0 "Амфібії"
+deathclaw_tech_category:0 "Кігті смерті"
+feral_tech_category:0 "Дикі ґули"
+beasts_tech_category:0 "Бойові звірі"
+
+## інші технології ##
+tribal_tree_tech_category:0 "Племінне древо технологій"
+industry:0 "Промислові технології"
+production_and_construction_category:0 "Виробництво й будівництво"
+resource_and_agriculture_category:0 "Ресурси й сільське господарство"
+electronics:0 "Електроніка"
+communication_category:0 "Зв’язок"
+encryption_tech:0 "Шифрування"
+decryption_tech:0 "Дешифрування"
+computing_tech:0 "Обчислювальні системи"
+radar_tech:0 "Радарні технології"
+support_tech:0 "Технології підтримки"
+implant_tech:0 "Імплантати"
+implant_tech_access_tech:0 "Доступ до імплантів"
+implant_tech_visibility_tech:0 "Розкриття імплантів"
+med_tech:0 "Медичні технології"
+education_tech:0 "Освітні технології"
+agriculture_tech:0 "Сільське господарство"
+scavenging_tech:0 "Збирання та переробка"
+data_storage_tech:0 "Збереження даних"
+tool_tech:0 "Забезпечення інструментами"
+industry_specialisation_category:0 "Спеціалізація промисловості"
+extraction_category:0 "Видобування ресурсів"
+construction_category:0 "Будівництво"
+habitation_category:0 "Житлові технології"
+artillery:0 "Артилерійські технології"
+super_mutant_tech_category:0 "Технології супермутантів"
+building_tech:0 "Будівельні технології"
+foundry_tech_category:0 "Ливарна справа"
+purification_station_tech_category:0 "Станції очищення"
+power_station_tech_category:0 "Енергостанції"
+fabrication_laboratory_tech_category:0 "Лабораторії виготовлення"
+
+## бонуси ##
+doctrine_bonus:0 "Бонус до доктрин"
+weapon_bonus:0 "Бонус до дослідження зброї"
+implant_tech_boost:0 "Бонус до імплантів"
+industrial_bonus:0 "Бонус до промисловості"

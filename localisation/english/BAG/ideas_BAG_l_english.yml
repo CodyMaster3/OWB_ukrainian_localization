@@ -1,0 +1,186 @@
+﻿l_english:
+col_fighting_whd: "Пріоритет — §Y[WHD.GetName]§!"
+col_fighting_lum: "Пріоритет — §Y[LUM.GetName]§!"
+col_fighting_bag: "Пріоритет — §Y[BAG.GetName]§!"
+col_fighting_whd_and_lum: "Битися з §Yобома§!"
+col_fighting_bag_and_lum: "Битися з §Yобома§!"
+col_fighting_bag_and_whd: "Битися з §Yобома§!"
+
+bag_lost_expedition: "Загублена експедиція"
+bag_lost_expedition_desc: "Друга експедиція Нової Каліфорнійської Республіки до Колорадо прибула успішно й майже без втрат. Ми оточені з усіх боків, і шанси на перемогу мізерні. Підкріплення не буде. Назад шляху немає. Вони йдуть.\n\n§gГей... ця назва звучить знайомо...§!"
+bag_lost_expedition_tt: "§g\nЯкщо у вас є доповнення §YBy Blood Alone§!, деякі ваші польові офіцери невдовзі отримають §Gпочаткові медалі§! після початку гри!§!"
+
+bag_lost_expedition_coleridge: "Загублена експедиція"
+bag_lost_expedition_coleridge_desc: "Гей... ця назва звучить знайомо..."
+
+bag_lost_expedition_coleridge_2: "Загублена експедиція"
+bag_lost_expedition_coleridge_2_desc: "Гей... ця назва звучить знайомо..."
+
+bag_lost_expedition_goddard: "Загублена експедиція"
+bag_lost_expedition_goddard_desc: "Гей... ця назва звучить знайомо..."
+
+bag_lost_expedition_goddard_2: "Загублена експедиція"
+bag_lost_expedition_goddard_2_desc: "Гей... ця назва звучить знайомо..."
+
+bag_addiction_treatment: "Лікування залежності Ларсена"
+bag_addiction_treatment_desc: "Лейтенанта Ларсена відправили до санаторію Бірч-Гіллз для лікування важкої наркотичної залежності та параноїдальної радіофобії. Це забере певний час, і ми відчуємо його відсутність, але персонал вірить — можливо, він повернеться новою людиною."
+
+bag_focus_dome: "Наступ «Шторм кулі»"
+bag_focus_dome_desc: ""
+
+bag_focus_offensive: "Перший удар"
+bag_focus_offensive_desc: ""
+
+bag_focus_survival: "Останній рубіж"
+bag_focus_survival_desc: ""
+
+bag_welders_support: "Підтримка Зварників"
+bag_welders_support_desc: ""
+bag_welders_support_tt: "£ai_mil_factory_texticon  Підтримка військової промисловості: §G+1§!"
+
+bag_welders_support_2: "Підтримка Зварників"
+bag_welders_support_2_desc: ""
+bag_welders_support_2_tt: "£ai_mil_factory_texticon  Підтримка військової промисловості: §G+2§!"
+
+bag_welders_coerced: "Покора Зварників"
+bag_welders_coerced_desc: ""
+
+bag_engineering_support: "Підтримка Інженерів"
+bag_engineering_support_desc: ""
+
+bag_engineering_support_2: "Підтримка Інженерів"
+bag_engineering_support_2_desc: ""
+
+bag_engineering_coercement: "Покора Інженерів"
+bag_engineering_coercement_desc: ""
+
+bag_torchbearers: "Факелоносці Колорадо"
+
+bag_against_ghouls: "Мілітаризована ненависть"
+bag_against_ghouls_desc: "Ненавидіти — це виснажливо й тяжко — тож пересічним громадянам не варто нести цей тягар. §RНаша кров кипить, але їхні тіла горітимуть.§!"
+
+bag_prison_labour: "Дрібний шрифт"
+bag_prison_labour_desc: "§tМИ ПРАЦЮЄМО!\nЩОБ ЗАРОБИТИ ПРАВО НА ПРАЦЮ!\nЩОБ ЗАРОБИТИ ПРАВО НА ПРАЦЮ!\nЩОБ ЗАРОБИТИ ПРАВО НА ПРАЦЮ!\nЩОБ ЗАРОБИТИ ПРАВО НА ПРАЦЮ!\nЩОБ ЗАРОБИТИ ПРАВО ДАРУВАТИ;\nСОБІ ПРАВО КУПУВАТИ!\nСОБІ ПРАВО ЖИТИ!\nЗАРОБИТИ ПРАВО ПОМЕРТИ!§!"
+
+bag_homerunning: "Довга дорога додому"
+bag_homerunning_desc: "Люди вдома й досі люблять той дурнуватий бейсбол. Сподіваємось, вони зрозуміють жарт."
+
+bag_universal_healthcare: "Універсальна медицина"
+bag_universal_healthcare_desc: ""
+
+bag_universal_healthcare_2: "Універсальна медицина"
+bag_universal_healthcare_2_desc: ""
+
+bag_organizational_problems: "Проблеми реорганізації"
+bag_organizational_problems_desc: ""
+
+bag_organizational_problems_lesser: "Проблеми реорганізації"
+bag_organizational_problems_desc: ""
+
+bag_gamma_ranger_reliance: "Залежність від Гамма-рейнджерів"
+bag_gamma_ranger_reliance_desc: ""
+
+bag_gamma_ranger_supremacy: "Верховенство Гамма-рейнджерів"
+bag_gamma_ranger_supremacy_desc: ""
+
+bag_fixed_zax: "Урятований ZAX-комп’ютер"
+bag_fixed_zax_desc: "Він живий! Він живий — ZAX живий!"
+
+bag_zax_admin_idea: "ZAX — режим адміністрації"
+bag_zax_industry_idea: "ZAX — режим індустрії"
+bag_zax_military_idea: "ZAX — військовий режим"
+
+bag_superzax_1: "Роздуми над Остаточним Питанням"
+bag_superzax_2: "Роздуми над Остаточним Питанням"
+bag_superzax_3: "Роздуми над Остаточним Питанням"
+bag_superzax_4: "Відповідь знайдено"
+bag_superzax_5: "Відповідь Супер-ZAX"
+
+bag_superzax_admin_idea: "Супер-ZAX — режим адміністрації"
+bag_superzax_industry_idea: "Супер-ZAX — режим індустрії"
+bag_superzax_military_idea: "Супер-ZAX — військовий режим"
+
+bag_meritocratic_idea: "Меритократична утопія"
+bag_meritocratic_idea_desc: ""
+
+bag_little_republic: "Мала Республіка"
+bag_little_republic_desc: "Хоча Баґґери — лише наукова експедиція, ми представляємо Республіку в Колорадо. Ми контролюємо лише кілька поселень, але якщо місцеві повірять, що Республіка підтримує нас, дедалі більше людей приєднаються до нас у надії на краще майбутнє. Та слід бути обачними: підтримувати порядок і надавати послуги без прямої допомоги з Каліфорнії — важке випробування для наших слабких плечей."
+
+bag_little_republic_2: "Велика Мала Республіка"
+bag_little_republic_2_desc: ""
+
+bag_OMA: "Офіс військового розвитку"
+bag_OMA_desc: ""
+
+bag_extended_special_forces: "Розширені спецпідрозділи"
+bag_extended_special_forces_desc: ""
+
+bag_improved_tactics: "Поліпшена тактика"
+bag_improved_tactics_desc: ""
+
+bag_servant_class_idea: "Клас слуг Колорадо"
+bag_servant_class_idea_desc: ""
+
+bag_servant_class_idea_renewal: "Попередження культів завчасно"
+bag_servant_class_idea_renewal_desc: ""
+
+bag_californication_of_colorado: "Бейсбол, Голлівуд і Танді"
+bag_californication_of_colorado_desc: ""
+
+bag_boneyard_radio: "Слухаючи Радіо Боун'ярда"
+bag_boneyard_radio_desc: ""
+
+bag_umbilical_cord_begins: "Початок операції"
+bag_umbilical_cord_begins_desc: ""
+
+bag_crimson_caps_extended: "Економіка за зразком Хабу"
+bag_crimson_caps_extended_desc: ""
+
+bag_baron_railways_extended: "Запущено пасажирські лінії"
+bag_baron_railways_extended_desc: ""
+
+bag_colorado_university: "Відновлений Університет Колорадо"
+bag_colorado_university_desc: ""
+
+bag_colorado_military_school: "Військова академія імені Джоанни Тіббет"
+bag_colorado_military_school_desc: ""
+
+bag_agnes_protector: "Захисниця Колорадо"
+bag_agnes_protector_desc: ""
+
+bag_agnes_home_wall: "Захищаючи наш поступ"
+bag_agnes_home_wall_desc: ""
+
+bag_agnes_building_future: "Майбутнє — цеглина за цеглиною"
+bag_agnes_building_future_desc: ""
+
+bag_agnes_woman_rangers: "Заохочення рівних амбіцій"
+bag_agnes_woman_rangers_desc: ""
+
+bag_agnes_defensive_warfare: "Раціональні інвестиції в озброєння"
+bag_agnes_defensive_warfare_desc: ""
+
+bag_undesirables_law_volunteer: "Виключення гулів із лав війська"
+bag_undesirables_law_volunteer_desc: "Хоча ми охоче дозволили б нашим новим гульським друзям служити у війську, країна поки що не готова до цього. У майбутньому ми переглянемо цю політику… щойно це не спричинить революцію."
+
+bag_undesirables_law_limited: "Обмежене добровільне залучення гулів"
+bag_undesirables_law_limited_desc: "Гулі вже почали служити у війську — хоч і в невеликій кількості. Вони залишаться в допоміжних підрозділах та на посадах рядового складу, і цього вистачить, щоб довести — 'гниляки' не гірші вояки, ніж решта."
+
+bag_undesirables_law_seperate_battalions: "Окремі батальйони гулів"
+bag_undesirables_law_seperate_battalions_desc: "Зі зростанням кількості гульських добровольців ми вирішили сформувати окремі батальйони з них. Це дозволить їм довести свою вартість, водночас убезпечивши їх від упередженого ставлення колег."
+
+bag_undesirables_law_mixed_battalions: "Прототип змішаних батальйонів"
+bag_undesirables_law_mixed_battalions_desc: "Серед новобранців є чимало тих, хто виріс із переконанням, що гулі не надто відрізняються від звичайних людей. Завдяки їхньому піонерському мисленню ми можемо створити перші змішані підрозділи. Інтеграцію впроваджуватимемо обережно, щоб уникнути обурення реакціонерів."
+
+bag_undesirables_law_equal_species: "Армія рівних можливостей"
+bag_undesirables_law_equal_species_desc: "Нарешті настав час — після років спільної боротьби всі рівні у війську. Ми з гордістю усуваємо останні бар’єри, що відокремлювали гулів від звичайних солдатів, і починаємо їхнє просування на офіцерські посади."
+
+mutant_law_desegregation: "Десегрегація спецпідрозділів"
+mutant_law_desegregation_desc: ""
+
+BAG_dockyard_occupation: "Окупація доків"
+
+bag_cult_of_moons: "Культ Місяців"
+bag_foreman_lynch: "Наглядач Лінч"
+bag_foreman_jack: "Наглядач Джек"
+bag_trains_run_in_time: "Потяги йдуть за розкладом"

@@ -1,6 +1,6 @@
 ﻿l_english:
 ttm_lac_compliance:0 "Весталки Діани"
-ttm_lac_compliance_desc:0 "Мудра жриця Матерів-Близнючок, Діана, послала своїх найкращих служниць допомогти в умиротворенні Аризони."
+ttm_lac_compliance_desc:0 "Мудра жриця Матерів-Близнючок, Діана, послала своїх найкращих служниць допомогти в умиротворенні Арізони."
 
 ttm_the_nursery_idea:0 "Розсадник"
 ttm_the_nursery_idea_desc:0 "§MОперації Контрольного Центру§!\n[TTM.ttm_the_nursery_control_facility_scripted_localization]\n\n§MОперації Фабрики§!\n[TTM.ttm_the_nursery_factory_scripted_localization]\n\n§MОперації Сховища§!\n[TTM.the_repository_scripted_loc]"
@@ -14,7 +14,7 @@ ttm_the_nursery_control_facility_effects:0 " §WОбчислювальна по�
 ttm_the_nursery_factory_effects_tiny:0 " §WЕфекти Терраформування:§W §RЗаблоковано.§!"
 ttm_the_nursery_factory_effects:0 "[TTM.ttm_coring_rng_scripted_localization][TTM.ttm_refractoring_radiation_compression_device_coring_effect_scripted_localization][TTM.ttm_geologic_crystal_growth_prism_coring_effect_scripted_localization][TTM.ttm_exponential_humidity_amplifier_system_coring_effect_scripted_localization][TTM.ttm_industrial_hillside_reforesting_network_coring_effect_scripted_localization][TTM.ttm_mass_relay_grassland_expander_coring_effect_scripted_localization]"
 
-ttm_coring_rng:0 " §WЕфекти Терраформування:§! При отриманні ядра над провінцією, кидається §Y1d100§!. Залежно від результату застосовується:"
+ttm_coring_rng:0 " §WЕфекти Терраформування:§! При націоналізації провінції, кидається кубик §Y1d100§!. Залежно від результату застосовується:"
 ttm_refractoring_radiation_compression_device_coring_effect:0 "\n  §W98-100:§! §G+1§!£resources_strip|6\n\n  §W90-97:§! §G+1§!£resources_strip|5\n"
 ttm_geologic_crystal_growth_prism_coring_effect:0 "\n  §W76-89:§! §G+1§!£resources_strip|4\n"
 ttm_exponential_humidity_amplifier_system_coring_effect:0 "\n  §W50-75:§! §G+1§!£resources_strip|3\n"
@@ -73,7 +73,7 @@ ttm_slave_fighters_desc:0 ""
 ttm_slave_fighters_idea_hidden:0 "Ця ідея прихована — Ланій не дізнається, що ми її маємо.\n\n"
 
 ttm_mothers_distant_gaze:0 "Віддалений погляд Матері"
-ttm_mothers_distant_gaze_desc:0 "Діана насправді не перебуває у Сховищі 29. Використовуючи супутники, які вона взяла під контроль, вона проєктує свою свідомість у комп’ютер ZAX цього сховища й керує ним дистанційно. Ходять чутки, що справжнє тіло Діани зберігається в таємному місці, відомому як «Розсадник»."
+ttm_mothers_distant_gaze_desc:0 "Діана насправді не перебуває у Сховищі 29. Використовуючи супутники, які вона взяла під контроль, вона проєктує свою свідомість у комп’ютер ЗАКС цього сховища й керує ним дистанційно. Ходять чутки, що справжнє тіло Діани зберігається в таємному місці, відомому як «Розсадник»."
 
 ttm_innocence_of_the_tribe:0 "Мир і любов"
 ttm_innocence_of_the_tribe_desc:0 "Плем’я Матерів-Близнючок, яким керує Діана, — це нащадки мешканців Сховища 29. Їхні предки були частиною аграрної комуни, яка поклонялася Матері-Землі. Навіть сьогодні багато членів племені не знайомі з мистецтвом війни — тож Діана змушена вести їх крок за кроком, щоб вони вижили у Пустці."
