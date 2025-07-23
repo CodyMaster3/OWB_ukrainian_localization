@@ -308,7 +308,7 @@ owb_achievement_the_last_family_of_missoula_NAME:0 "Остання Родина 
 owb_achievement_the_last_family_of_missoula_DESC:0 "Граючи за @JCK §YДжексонів§!, повернутися до @MCA §YМакартура§! і вигнати Анклав з Монтану назавжди."
 
 owb_achievement_under_warden_occupation_NAME:0 "Під Охороною Вартових"
-owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку державу з Вартовими Білини, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§! та @VSH §YСейфгейвен§!)."
+owb_achievement_under_warden_occupation_DESC:0 "Граючи за будь-яку державу з Вартовими Білини, возз'єднати всі три фрагменти (@TOC §YСтара Батьківщина§!, @PAS §YПрикордонники§! та @VSH §YПристанище§!)."
 
 owb_achievement_hell_on_earth_NAME:0 "Пекло на Землі"
 owb_achievement_hell_on_earth_DESC:0 "Граючи за @CES §YЛегіон Цезаря§!, перемогти у громадянській війні як £flag_CES_hades_texticon  §YЛегіон Аїда§!."
@@ -374,7 +374,7 @@ owb_achievement_freedom_generally_NAME:0 "Свобода Як Така"
 owb_achievement_freedom_generally_DESC:0 "Граючи за §YГенерала Свободу§!, приєднатися до §YДругої Коаліції§! і забезпечити, щоб §YМанітоба§! не існувала."
 
 owb_achievement_great_stampede_NAME:0 "Малюк Помщений"
-owb_achievement_great_stampede_DESC:0 "Граючи за @STA §YВелике Стадо§!, відправити §YМері Малліґан§! із @VSH §YСейфгейвена§! на дно."
+owb_achievement_great_stampede_DESC:0 "Граючи за @STA §YВелике Стадо§!, відправити §YМері Малліґан§! із @VSH §YПристанища§! на дно."
 
 owb_achievement_stampede_on_cpf_NAME:0 "Наліт на КНФ"
 owb_achievement_stampede_on_cpf_DESC:0 "Граючи за @STA §YВелике Стадо§!, втрутитись у громадянську війну КНФ до §Y2277§! і перемогти."
@@ -518,7 +518,7 @@ owb_achievement_to_these_free_states_tt:0 "Сформовано §YРеспуб�
 owb_achievement_good_kid_madvillain_tt:0 "Виховав §YДжой§! як Ґрейгаунда"
 owb_achievement_archangel_tt:0 "Активовано §YСталеву Даму§!"
 owb_achievement_break_the_cycle_tt:0 "Завершено Манітобський Проєкт §YЕлеонори§!"
-owb_achievement_great_stampede_tt:0 "Відправив §YМері Малліґан§! з §YСейфгейвен§! до водяної могили"
+owb_achievement_great_stampede_tt:0 "Відправив §YМері Малліґан§! з §YПристанища§! до водяної могили"
 owb_achievement_hold_your_horses_tt:0 "Відомий як §YОрден Святого Георгія§!"
 owb_achievement_the_wolfs_last_howl_tt:0 "Переміг §YФенріра§!"
 owb_achievement_crimson_maple_leaf_tt:0 "Возз'єднав §YНародний фронт Канади§!"
