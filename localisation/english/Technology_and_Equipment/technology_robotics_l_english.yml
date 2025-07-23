@@ -131,7 +131,7 @@ robot_impact_resistant_chassi_tech_desc:0 "Попри потужну броню,
 robot_organic_processor_tech:0 "Органічні Процесори"
 robot_organic_processor_tech_desc:0 "Нехай це й неетично, ми можемо використати людський мозок як процесор. Герметичні капсули забезпечують «живим мізкам» безпеку, а дослідження їх структури допомагає вдосконалити інші комп’ютери."
 
-robot_securitron_tech_1:0 "Сек’юрітрон"
+robot_securitron_tech_1:0 "Сек’юритрон"
 robot_securitron_tech_1_desc:0 "Охоронний робот із моноколесом і зварним титановим корпусом. Захищений від дрібної зброї. Озброєний ПП 9мм і лазерним X-25 для ближнього бою."
 
 robot_scurry_tech:0 "Скаррі-Сальважер"
@@ -147,13 +147,13 @@ robot_behemoth_robot_tech:0 "Надважкий Колос"
 robot_behemoth_robot_tech_desc:0 "Гігантська машина. Раніше мала 4 кулемети .50, тепер — чотири 20мм автопушки. Броня тримає навіть плазму чи корабельні снаряди. Це ходячий апокаліпсис."
 
 robot_securitron_grenade_software_tech:0 "Драйвер Гранатомета G-28"
-robot_securitron_grenade_software_tech_desc:0 "§cВідкриває основну зброю Сек’юрітрона:§! G-28 — автоматичний гранатомет для ближнього бою."
+robot_securitron_grenade_software_tech_desc:0 "§cВідкриває основну зброю Сек’юритрона:§! G-28 — автоматичний гранатомет для ближнього бою."
 
 robot_securitron_missile_software_tech:0 "Драйвер Ракет M-235"
-robot_securitron_missile_software_tech_desc:0 "§cВідкриває основну зброю Сек’юрітрона:§! M-235 — ракетомет для далеких і ППО-ударів."
+robot_securitron_missile_software_tech_desc:0 "§cВідкриває основну зброю Сек’юритрона:§! M-235 — ракетомет для далеких і ППО-ударів."
 
 robot_securitron_self_repair_tech:0 "Драйвер Автономного Ремонту"
-robot_securitron_self_repair_tech_desc:0 "§cВідкриває систему ремонту:§! Сек’юрітрон самостійно відновлює пошкодження."
+robot_securitron_self_repair_tech_desc:0 "§cВідкриває систему ремонту:§! Сек’юритрон самостійно відновлює пошкодження."
 
 platinum_os_tech:0 "Операційна Система Mark 2"
 
