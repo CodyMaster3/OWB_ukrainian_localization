@@ -40,7 +40,7 @@ NEW_unity_party_long:0 "Нова Єдність"
 
 NEW_thradd_can_join_warren_tt:0 "Відкриває §Yрішення§! для Союзу з §Y[TRL.GetName]§!"
 NEW_faction_choice:0 "Пошук Союзників"
-NEW_thradd_join_warren:0 "Шукати Союз із Новою Армією Майстра"
+NEW_thradd_join_warren:0 "Шукати Союз із Новою Армією Творця"
 
 ### Tourism
 NEW_tourist_trade: "Туристичний Бізнес"
