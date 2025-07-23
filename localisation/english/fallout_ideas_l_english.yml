@@ -217,7 +217,7 @@
 
  apc_manufacturer:0 "Виробник БТР"
  weapon_manufacturer:0 "Виробник зброї"
- weapon_manufacturer_reno:0 "Збройова промисловість Рено"
+ weapon_manufacturer_reno:0 "Збройова промисловість Ріно"
  cheap_weapon_manufacturer:0 "Виробник дешевої зброї"
  energy_weapon_manufacturer:0 "Виробник енергозброї"
  melee_weapon_manufacturer:0 "Виробник зброї ближнього бою"
