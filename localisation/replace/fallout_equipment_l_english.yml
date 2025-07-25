@@ -3,7 +3,7 @@
   support_equipment:0 "Спорядження підтримки"
   support_equipment_desc:0 "Набір усіляких припасів і спорядження, потрібні для підтримки дивізій і різних поліпшень наших солдатів."
   
-  heavy_infantry_equipment:0 "Піхотнаа броня"
+  heavy_infantry_equipment:0 "Піхотна броня"
   heavy_infantry_equipment_desc:0 "Воля народу понад усе!"
   
   ballistic_equipment:0 "Вогнепальна зброя"

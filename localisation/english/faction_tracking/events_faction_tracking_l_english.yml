@@ -838,10 +838,10 @@
   the_second_coalition_faction_events.3.d:0 "Друга коаліція відхилила наше прохання."
   the_second_coalition_faction_events.3.a:0 "Мде..."
   the_second_coalition_faction_events.4.t:0 "Зміни в альянсах"
-  the_second_coalition_faction_events.4.d:0 "[From.From.GetName] приєднався доо Другої коаліції!"
+  the_second_coalition_faction_events.4.d:0 "[From.From.GetName] приєднався до Другої коаліції!"
   the_second_coalition_faction_events.4.a:0 "Цікаво."
   the_second_coalition_faction_events.5.t:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися до них"
-  the_second_coalition_faction_events.5.d:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися доо Другої коаліції. Як зреагуємо?"
+  the_second_coalition_faction_events.5.d:0 "[From.GetNameDefCap] хоче, щоб ми приєдналися до Другої коаліції. Як зреагуємо?"
   the_second_coalition_faction_events.5.a:0 "Сила в кількості."
   the_second_coalition_faction_events.5.b:0 "Ми граємо в соло."
 
