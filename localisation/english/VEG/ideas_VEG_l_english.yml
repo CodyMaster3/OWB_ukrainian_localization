@@ -16,10 +16,10 @@ vegasprime2_desc:0 " "
 handh:0 "Виробничі потужності роботів"
 handh_desc:0 ""
 
-securitron1:0 "Сек'юрітрон"
+securitron1:0 "Сек'юритрон"
 securitron1_desc:0 ""
 
-securitron2:0 "Сек'юрітрон"
+securitron2:0 "Сек'юритрон"
 securitron2_desc:0 ""
 
 mrhandys:0 "Містери Хенді"
@@ -196,7 +196,7 @@ VEG_marjorie_cultural_advisor_desc:0 "Як витончена й красном�
 platinumOS:0 "Платинова ОС"
 platinumOS_desc:0 ""
 
-securitron_vault:0 "Сховище Сек'юрітронів"
+securitron_vault:0 "Сховище Сек'юритронів"
 securitron_vault_desc:0 ""
 
 robotics_genius:0 "Геній робототехніки"
