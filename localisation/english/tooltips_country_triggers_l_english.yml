@@ -95,7 +95,7 @@
  BYPASS_FOCUS_TRIGER: "Наступне змусить пропустити фокус:"
  POPUP_MINOR_EVENTS: "Пригоди"
  FE_DIFFICULTY_CUSTOM_BTN: "Користувацькі правила"
- EFFECT_CREATE_UNIT_LOCATION: "Буде створена $OWNER|H$§Yая§! дивізія в регіоні $STATE|H$\n"
- EFFECT_CREATE_UNIT_WITH_COUNT: "Буде створена $OWNER|H$§Yая§! дивізія ($COUNT|H$)"
- EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Буде створена $OWNER|H$§Yая§! дивізія ($COUNT|H$) в регіоні $STATE|H$\n"
+ EFFECT_CREATE_UNIT_LOCATION: "Буде створена $OWNER|H$§Yа§! дивізія в регіоні $STATE|H$\n"
+ EFFECT_CREATE_UNIT_WITH_COUNT: "Буде створена $OWNER|H$§Yа§! дивізія ($COUNT|H$)"
+ EFFECT_CREATE_UNIT_LOCATION_WITH_COUNT: "Буде створена $OWNER|H$§Yа§! дивізія ($COUNT|H$) в регіоні $STATE|H$\n"
  
