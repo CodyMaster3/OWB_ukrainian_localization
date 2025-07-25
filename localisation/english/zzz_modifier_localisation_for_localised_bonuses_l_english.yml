@@ -8,7 +8,7 @@
  compliance_gain: "$MODIFIER_COMPLIANCE_GAIN_ADD$"
  compliance_growth: "$MODIFIER_COMPLIANCE_GROWTH$"
  conscription: "$MODIFIER_CONSCRIPTION_FACTOR$"
- consumer_goods_factor: "$MODIFIER_CONSUMER_GOODS_FACTOR$"
+ consumer_goods_expected_value: "$MODIFIER_consumer_goods_expected_value$"
  dig_in_speed_factor: "$MODIFIER_DIG_IN_SPEED_FACTOR$"
  equipment_capture_factor: "$MODIFIER_EQUIPMENT_CAPTURE_FACTOR$"
  equipment_conversion_speed: "$MODIFIER_EQUIPMENT_CONVERSION_SPEED$"
