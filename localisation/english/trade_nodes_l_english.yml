@@ -122,30 +122,30 @@
  string_trade_node_trade_route_button_text_selected: "§G[?trade_route_partner_node_name.GetName]§!"
  string_trade_node_trade_route_button_text_can_select: "Почати шлях"
 
- string_trade_node_trade_route_button_text_all_filled:0 "§RRoutes In Use§!"
- string_trade_node_trade_route_button_tooltip_cannot_select_already_5_trade_routes:0 "§RWe already have §Y5§! trade routes active at the moment. We cannot have more.§!"
- string_trade_node_trade_route_button_tooltip_cannot_select_no_other_node_controlled:0 "§RWe don't control any other §yeconomic node§! centre state.§!"
- string_trade_node_trade_route_button_tooltip_cannot_select_not_controlled:0 "§RWe must control §Y[?current_node_name.GetName]§! to be able to set up a trade route from this node.§!"
- string_trade_node_trade_route_button_tooltip_cannot_select_not_center:0 "§R§Y[This.GetName]§! is not the centre state of this node.§!"
- string_trade_node_trade_route_button_tooltip_can_select:0 "§GClick§! to select a partner §yeconomic node§! for a trade route."
+ string_trade_node_trade_route_button_text_all_filled: "§RВикористані шляхи§!" # (&?)
+ string_trade_node_trade_route_button_tooltip_cannot_select_already_5_trade_routes: "§RМи вже маємо §Y5§! торговельних шляхів активними на момент. Ми не можемо мати більше.§!" # (&+): поліпшити виклад тексту
+ string_trade_node_trade_route_button_tooltip_cannot_select_no_other_node_controlled: "§RМи не контролюємо жодну іншу центральну область §yекономічного вузла§!.§!"
+ string_trade_node_trade_route_button_tooltip_cannot_select_not_controlled: "§RМи мусимо контролювати вузол §Y[?current_node_name.GetName]§!, щоби могти прокласти торговельний шлях із цього вузла.§!"
+ string_trade_node_trade_route_button_tooltip_cannot_select_not_center: "§R§Y[This.GetName]§! не є центральною областю цього вузла.§!"
+ string_trade_node_trade_route_button_tooltip_can_select: "§GКлацніть§!, щоб обрати партнерський §yекономічний вузол§! для торговельного шляху."
 
- string_trade_node_promote_button_tooltip_cannot_select_not_controlled:0 "§R§Y[This.GetName]§! is not fully controlled by us.§!"
- string_trade_node_promote_button_tooltip_cannot_select_not_enough_node_progress:0 "§RThe progress in §Y[This.GetName]§! is not high enough, it must be at §Y100.00%§!.§!"
- string_trade_node_promote_button_tooltip_can_select:0 "§GClick§! to promote this §yeconomic node§!. This will increase the level by §G1§!."
+ string_trade_node_promote_button_tooltip_cannot_select_not_controlled: "§R§Y[This.GetName]§! не повністю контролюється нами.§!"
+ string_trade_node_promote_button_tooltip_cannot_select_not_enough_node_progress: "§RПрогрес в області §Y[This.GetName]§! недостатньо високий. Він мусить бути рівний §Y100.00%§!.§!"
+ string_trade_node_promote_button_tooltip_can_select: "§GКлацніть§!, щоби підвищити цей §yекономічний вузол§!. Це збільшить його рівень на §G1§!."
 
- string_trade_node_select_trade_route_node_button_tooltip_cannot_select_same_node:0 "All routes currently used"
- string_trade_node_select_trade_route_node_button_tooltip_cannot_select_not_controlled:0 "§RWe don't control §Y[This.GetName]§!.§!"
- string_trade_node_select_trade_route_node_button_tooltip_can_select:0 "Select a state to establish a trade route from §Y[THIS.GetName]§! to."
+ string_trade_node_select_trade_route_node_button_tooltip_cannot_select_same_node: "Усі наразі використані шляхи"
+ string_trade_node_select_trade_route_node_button_tooltip_cannot_select_not_controlled: "§RМи не контролюємо область §Y[This.GetName]§!.§!"
+ string_trade_node_select_trade_route_node_button_tooltip_can_select: "Клацніть область, щоби прокласти до неї торговельний шлях із області §Y[THIS.GetName]§!."
 
  string_trade_node_no_current_routes: "\nНаразі жодних шляхів"
  string_trade_node_get_route_one: "\nПерший шлях до: §Y[?temp_trade_node_1.GetName]§!"
  string_trade_node_get_route_two: "\nПерший шлях до: §Y[?temp_trade_node_1.GetName]§!\nДругий шлях до: §Y[?temp_trade_node_2.GetName]§!"
  string_trade_node_get_route_three: "\nПерший шлях до: §Y[?temp_trade_node_1.GetName]§!\nДругий шлях до: §Y[?temp_trade_node_2.GetName]§!\nТретій шлях до: §Y[?temp_trade_node_3.GetName]§!"
 
- TRADE_ROUTE_BUTTON_MAX_TOOLTIP:0 "Route from §Y[?node_map_selector.GetName]§! not in use"
- TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP:0 "Must have less routes in country than cap [GetTradeCountryLimitCalculation]"
- AVAILABLE_COUNTRY_TRADE_SLOTS:0 "\nCurrent Country Route Limit: [?temp_num_nodes|0+]\n Current Routes: [?ROOT.current_trade_routes|0+]"
- SEND_TRADE_NODE_BUTTON_TRIGGER_TT:0 "No current route between [?node_map_selector.GetName] and [?trade_route_selector_target.GetName]"
+ TRADE_ROUTE_BUTTON_MAX_TOOLTIP: "Шлях із області §Y[?node_map_selector.GetName]§! не перебуває в ужитку"
+ TRADE_ROUTE_BUTTON_MAX_COUNTRY_TOOLTIP: "Треба мати менше шляхів у країні від межі[GetTradeCountryLimitCalculation]"
+ AVAILABLE_COUNTRY_TRADE_SLOTS: "\nПоточна межа шляхів для країни: [?temp_num_nodes|0+]\nПоточні шляхи: [?ROOT.current_trade_routes|0+]" # (&+): поліпшити виклад тексту
+ SEND_TRADE_NODE_BUTTON_TRIGGER_TT: "Наразі між областями [?node_map_selector.GetName] та [?trade_route_selector_target.GetName] нема шляху" # (&+): поліпшити виклад тексту
  TRADE_ROUTE_MANIPULATION_COOLDOWN: "Шлях не було недавно змінено"
 
 # Decisions:
@@ -161,8 +161,8 @@
  TRADE_MAP_HEADER_TT: "Мапа торговельних вузлів"
  TRADE_MAP_LEDER_HEADER: "Облік торгівлі"
  TRADE_MAP_CONTROLLED_NODES_HEADER: "Підвладні вузли"
- TRADE_MAP_ROUTES_HEADER:0 "Country Trade Routes"
- TRADE_MAP_FILTER_ROUTES_TEXT:0 "Filter Organizations:"
+ TRADE_MAP_ROUTES_HEADER: "Торговельні шляхи у країні"
+ TRADE_MAP_FILTER_ROUTES_TEXT: "Відфільтрувати організації:" # (&): перевірити коректність
  TRADE_CONNECTION_HEADER: "Торгові зв'язки"
  map_selected_state_name_tt: "§Y[?node_map_selector.GetName]§!"
  map_selected_state_value_tt: "[GetNodeValue]"
@@ -176,15 +176,15 @@
  TRADE_NODE_MAP_SELECT_TRADE_ROUTE_TT: "Обрати вузол [This.GetName] напрямом торгівлі."
  TRADE_NODE_TRADE_ROUTE_MAP_BUTTON_TT: "[!set_trade_route_button_map_click_enabled]"
  TRADE_NODE_MAP_SELECT_NODE_TT: "Оглянути економіку вузла [This.GetName]"
- TRADE_NODE_MAP_SELECTED_NODE_VALUE:0 "The current value of §Y[?node_map_selector.GetName]§! is [GetNodeValue] [GetCapCurrencyType]"
- TRADE_NODE_MAP_TARGET_RECEIVED:0 "We will receive [GetTradeTargetReceived] [GetCapType] from a trade route to §Y[?trade_route_selector_target.GetName]§!"
- TRADE_NODE_MAP_SELECTED_NODE_TRADE:0 "The current trade tariffs of §Y[?node_map_selector.GetName]§! is [GetNodeTade] [GetCapCurrencyType]"
- TRADE_NODE_MAP_TARGET_SENT:0 "We will send [GetTradeTargetSent] [GetCapType] to §Y[?trade_route_selector_target.GetName]§! with a trade route"
+ TRADE_NODE_MAP_SELECTED_NODE_VALUE: "Поточна цінність вузла §Y[?node_map_selector.GetName]§! — [GetNodeValue] [GetCapCurrencyType]"
+ TRADE_NODE_MAP_TARGET_RECEIVED: "Ми одержимо [GetTradeTargetReceived] [GetCapType] від торговельного шляха до вузла §Y[?trade_route_selector_target.GetName]§!."
+ TRADE_NODE_MAP_SELECTED_NODE_TRADE: "Поточний торговельний тариф вузла §Y[?node_map_selector.GetName]§! — [GetNodeTade] [GetCapCurrencyType]" # (&+): поліпшити виклад тексту
+ TRADE_NODE_MAP_TARGET_SENT: "Цим торговельним шляхом ми надішлемо [GetTradeTargetSent] [GetCapType] вузлу §Y[?trade_route_selector_target.GetName]§!."
  TRADE_NODE_MAP_TOTAL_TRADE: "Наразі ми отримуємо [?trade_trade_total|+=1] [GetCapType] від торговельних шляхів."
  TRADE_NODE_MAP_TOTAL_VALUE: "Наразі ми отримуємо [?trade_value_total|+=1] [GetCapType] від §yекономічних вузлів§!."
  TRADE_NODE_MAP_TOTAL_BASE: "Наразі ми отримуємо [?trade_base_total|+=1] [GetCapType] від розвитку областей поблизу §yекономічних вузлів§!."
- TRADE_NODE_MAP_BASE_MODIFIER:0 "Current modifier to development income §yfrom economic node§!."
- TRADE_NODE_MAP_TRADE_MODIFIER:0 "Current modifier to trade income from §yeconomic node§!."
+ TRADE_NODE_MAP_BASE_MODIFIER: "Поточний модифікатор надходження розвитку від §yекономічного вузла§!."
+ TRADE_NODE_MAP_TRADE_MODIFIER: "Поточний модифікатор надходження торгівлі від §yекономічного вузла§!."
  TRADE_NODE_MAP_CONNECTION_SELECTABLE: "§G[This.GetName]§!"
  TRADE_NODE_MAP_CONNECTION_ACTIVE: "§Y[This.GetName]§! [?route_value|1+=]"
  TRADE_NODE_MAP_CONNECTION_LIST_NAME: "[GetTradeConnectionListColor]"
