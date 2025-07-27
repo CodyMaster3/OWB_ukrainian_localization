@@ -27,5 +27,5 @@
   DESIGNER_COMBATWIDTH:0 "£width_texticon Ширина фронту: "
   DESIGNER_MANPOWER:0 "£manpower_texticon Людські ресурси: "
   STAT_ARMY_HARDNESS:0 "£hardness_texticon Доля механізації: "
-  REINFORCEMENT_PRIORITY:0 "£reinforcement_texticon Приорітет поповнення:"
+  REINFORCEMENT_PRIORITY:0 "£reinforcement_texticon Пріоритет поповнення:"
   ATTRITION:0 "£attrition_texticon Виснаження:"

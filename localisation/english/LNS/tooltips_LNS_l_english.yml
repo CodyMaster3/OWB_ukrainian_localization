@@ -44,7 +44,7 @@ LAC_revolted_global_flag:0 "Ланій повстав проти Цезаря"
 
 # Decisions
 lns_owns_all_lub_states:0 "Усі осередні території §YЛаббоку§! §Yконтролюються§! нами або васалом."
-lns_transfer_ownership_tt:0 "Ми станемо §Gвласниками§! усіх §Yосередніх иериторій§! §YЛаббоку§!.\n"
+lns_transfer_ownership_tt:0 "Ми станемо §Gвласниками§! усіх §Yосередніх областей§! §YЛаббоку§!.\n"
 lns_owns_all_north_suf_states:0 "§Y60-Signs§!, §YShoetakers§! та §YФорт Саммерс§! §Yконтролюються§! нами або нашим васалом."
 
 # Characters

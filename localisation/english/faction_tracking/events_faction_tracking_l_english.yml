@@ -1033,7 +1033,7 @@
   aurelius_legion_faction_events.2.d:0 "Легіон Аврелія вітає нас як союзників!"
   aurelius_legion_faction_events.2.a:0 "Прекрасно!"
   aurelius_legion_faction_events.3.t:0 "Відмова!"
-  aurelius_legion_faction_events.3.d:0 "Легион Аврелія відхилив наше прохання."
+  aurelius_legion_faction_events.3.d:0 "Легіон Аврелія відхилив наше прохання."
   aurelius_legion_faction_events.3.a:0 "Мде..."
   aurelius_legion_faction_events.4.t:0 "Зміни в альянсах"
   aurelius_legion_faction_events.4.d:0 "[From.From.GetName] приєднався до Легіону Аврелія!"
