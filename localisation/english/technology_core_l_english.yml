@@ -149,7 +149,7 @@
   cat_grand_infantry_army:0 "Звичайна піхотна війна"
 	cat_grand_motorized_army:0 "Звичайна моторизована війна"
 	cat_roman_tactics:0 "Війна терору"
-	cat_wasteland_tactics:0 "Війна в пустціі"
+	cat_wasteland_tactics:0 "Війна в пустці"
  
  # naval doctrines
   cat_naval_doctrine:0 "Морська доктрина"

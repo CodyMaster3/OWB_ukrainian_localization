@@ -412,12 +412,12 @@
   dun_researchlaboratories_2_desc: "Економічне зростання приносить і соціальні зміни!"
 
   # Decisions
-  dun_giant_upgrades_decision_cat: "Проєкт: ГІҐАНТ"
+  dun_giant_upgrades_decision_cat: "Проєкт: ГІГАНТ"
   dun_giant_upgrades_decision_cat_desc: "                  "
 
-  dun_operation_odin: "Оновлення ГІҐАНТА: Один"
-  dun_operation_freya: "Оновлення ГІҐАНТА: Фрея"
-  dun_operation_thor: "Оновлення ГІҐАНТА: Тор"
+  dun_operation_odin: "Оновлення ГІГАНТА: Один"
+  dun_operation_freya: "Оновлення ГІГАНТА: Фрея"
+  dun_operation_thor: "Оновлення ГІГАНТА: Тор"
 
   dun_the_project_decision_cat: "Проєкт: КОРОЛЕВА"
   dun_the_project_decision_cat_desc: "                  "

@@ -444,7 +444,7 @@
   ask_to_join_kaisers_legion_tt:0 "Буде відправлено прохання прийняти в §YЛегіон Кайзера§!.\n"
   invite_to_kaisers_legion_tt:0 "Отримає запрошення вступити в §YЛегіон Кайзера§!.\n"
   leave_kaisers_legion_tt:0 "Покидає §YЛегіон Кайзера§!.\n"
-  is_kaisers_legion_member_tt:0 "Є членом §YЛегиона Кайзера§!"
+  is_kaisers_legion_member_tt:0 "Є членом §YЛегіона Кайзера§!"
   is_not_kaisers_legion_member_tt:0 "§RНе§! є членом §YЛегіон Кайзера§!"
   is_kaisers_legion_leader_tt:0 "Є лідером §YЛегіон Кайзера§!"
   is_not_kaisers_legion_leader_tt:0 "§RНе§! Є лідером §YЛегіон Кайзера§!"
