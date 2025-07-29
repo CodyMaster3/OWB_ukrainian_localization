@@ -9,7 +9,7 @@
 HEADER_AIRSHIPS:0 "Дирижаблі"
 HEADER_FIGHTER:0 "Винищувачі"
 HEADER_BOMBER:0 "Бомбардувальники"
-HEADER_AIR_SUPPORT:0 "Штурмоаики"
+HEADER_AIR_SUPPORT:0 "Штурмовики"
 HEADER_TRANSPORT:0 "Транспортна авіація"
 
 single_use_plane_tt:0 "§OОдноразове Використання! \n Ці літаки зникнуть після виконання місії.§!"

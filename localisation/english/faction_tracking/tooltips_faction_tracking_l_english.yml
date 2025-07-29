@@ -15,7 +15,7 @@
   at_peace_with_nova_legion_tt:0 "У §Gмирі§! зі всіма членами §YНова Легіон§!"
   borders_nova_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YНова Легіон§!"
   does_not_border_nova_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНова Легіон§!"
-  has_mutually_positive_opinion_with_nova_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНова Легіон§!"
+  has_mutually_positive_opinion_with_nova_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНова Легіон§!"
   can_ask_to_join_faction_nova_legion_tt:0 "Може попросити вступити в §YНова Легіон§!."
   can_offer_to_join_faction_nova_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНова Легіон§!."
 
@@ -35,7 +35,7 @@
   at_peace_with_chosen_ones_tt:0 "У §Gмирі§! зі всіма членами §YОбраних§!"
   borders_chosen_ones_tt:0 "Має §Yспільний кордон§! з кожним членом §YОбраних§!"
   does_not_border_chosen_ones_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОбраних§!"
-  has_mutually_positive_opinion_with_chosen_ones_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОбраних§!"
+  has_mutually_positive_opinion_with_chosen_ones_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОбраних§!"
   can_ask_to_join_faction_chosen_ones_tt:0 "Може попросити вступити до §YОбраних§!."
   can_offer_to_join_faction_chosen_ones_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити до §YОбраних§!."
 
@@ -55,7 +55,7 @@
   at_peace_with_lanius_horde_tt:0 "У §Gмирі§! зі всіма членами §YОрда Ланія§!"
   borders_lanius_horde_tt:0 "Має §Yспільний кордон§! з кожним членом §YОрда Ланія§!"
   does_not_border_lanius_horde_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОрда Ланія§!"
-  has_mutually_positive_opinion_with_lanius_horde_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОрда Ланія§!"
+  has_mutually_positive_opinion_with_lanius_horde_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОрда Ланія§!"
   can_ask_to_join_faction_lanius_horde_tt:0 "Може попросити вступити в §YОрда Ланія§!."
   can_offer_to_join_faction_lanius_horde_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОрда Ланія§!."
 
@@ -75,7 +75,7 @@
   at_peace_with_big_mt_tt:0 "У §Gмирі§! зі всіма членами §YВелика Гора§!"
   borders_big_mt_tt:0 "Має §Yспільний кордон§! з кожним членом §YВелика Гора§!"
   does_not_border_big_mt_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВелика Гора§!"
-  has_mutually_positive_opinion_with_big_mt_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВелика Гора§!"
+  has_mutually_positive_opinion_with_big_mt_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВелика Гора§!"
   can_ask_to_join_faction_big_mt_tt:0 "Може попросити вступити в §YВелика Гора§!."
   can_offer_to_join_faction_big_mt_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВелика Гора§!."
 
@@ -95,7 +95,7 @@
   at_peace_with_boneyard_brotherhood_tt:0 "У §Gмирі§! зі всіма членами §YБратство Могильника§!"
   borders_boneyard_brotherhood_tt:0 "Має §Yспільний кордон§! з кожним членом §YБратство Могильника§!"
   does_not_border_boneyard_brotherhood_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YБратство Могильника§!"
-  has_mutually_positive_opinion_with_boneyard_brotherhood_tt:0 "Має §Gвзаємно позитивні відносини§! с §YБратство Могильника§!"
+  has_mutually_positive_opinion_with_boneyard_brotherhood_tt:0 "Має §Gвзаємно позитивні відносини§! з §YБратство Могильника§!"
   can_ask_to_join_faction_boneyard_brotherhood_tt:0 "Може попросити вступити в §YБратство Могильника§!."
   can_offer_to_join_faction_boneyard_brotherhood_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YБратство Могильника§!."
 
@@ -115,7 +115,7 @@
   at_peace_with_united_front_tt:0 "У §Gмирі§! зі всіма членами §YОб'єднаний Фронт§!"
   borders_united_front_tt:0 "Має §Yспільний кордон§! з кожним членом §YОб'єднаний Фронт§!"
   does_not_border_united_front_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОб'єднаний Фронт§!"
-  has_mutually_positive_opinion_with_united_front_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОб'єднаний Фронт§!"
+  has_mutually_positive_opinion_with_united_front_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОб'єднаний Фронт§!"
   can_ask_to_join_faction_united_front_tt:0 "Може попросити вступити в §YОб'єднаний Фронт§!."
   can_offer_to_join_faction_united_front_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОб'єднаний Фронт§!."
 
@@ -135,7 +135,7 @@
   at_peace_with_western_brotherhood_of_steel_tt:0 "У §Gмирі§! зі всіма членами §YЗахідне Братство Сталі§!"
   borders_western_brotherhood_of_steel_tt:0 "Має §Yспільний кордон§! з кожним членом §YЗахідне Братство Сталі§!"
   does_not_border_western_brotherhood_of_steel_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЗахідне Братство Сталі§!"
-  has_mutually_positive_opinion_with_western_brotherhood_of_steel_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЗахідне Братство Сталі§!"
+  has_mutually_positive_opinion_with_western_brotherhood_of_steel_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЗахідне Братство Сталі§!"
   can_ask_to_join_faction_western_brotherhood_of_steel_tt:0 "Може попросити вступити в §YЗахідне Братство Сталі§!."
   can_offer_to_join_faction_western_brotherhood_of_steel_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЗахідне Братство Сталі§!."
 
@@ -155,7 +155,7 @@
   at_peace_with_caesars_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Цезаря§!"
   borders_caesars_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Цезаря§!"
   does_not_border_caesars_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Цезаря§!"
-  has_mutually_positive_opinion_with_caesars_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Цезаря§!"
+  has_mutually_positive_opinion_with_caesars_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Цезаря§!"
   can_ask_to_join_faction_caesars_legion_tt:0 "Може попросити вступити в §YЛегіон Цезаря§!."
   can_offer_to_join_faction_caesars_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Цезаря§!."
 
@@ -175,7 +175,7 @@
   at_peace_with_children_of_mexico_tt:0 "У §Gмирі§! зі всіма членами §YДіти Мексики§!"
   borders_children_of_mexico_tt:0 "Має §Yспільний кордон§! з кожним членом §YДіти Мексики§!"
   does_not_border_children_of_mexico_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YДіти Мексики§!"
-  has_mutually_positive_opinion_with_children_of_mexico_tt:0 "Має §Gвзаємно позитивні відносини§! с §YДіти Мексики§!"
+  has_mutually_positive_opinion_with_children_of_mexico_tt:0 "Має §Gвзаємно позитивні відносини§! з §YДіти Мексики§!"
   can_ask_to_join_faction_children_of_mexico_tt:0 "Може попросити вступити в §YДіти Мексики§!."
   can_offer_to_join_faction_children_of_mexico_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YДіти Мексики§!."
 
@@ -195,7 +195,7 @@
   at_peace_with_children_of_the_gate_tt:0 "У §Gмирі§! зі всіма членами §YДіти Воріт§!"
   borders_children_of_the_gate_tt:0 "Має §Yспільний кордон§! з кожним членом §YДіти Воріт§!"
   does_not_border_children_of_the_gate_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YДіти Воріт§!"
-  has_mutually_positive_opinion_with_children_of_the_gate_tt:0 "Має §Gвзаємно позитивні відносини§! с §YДіти Воріт§!"
+  has_mutually_positive_opinion_with_children_of_the_gate_tt:0 "Має §Gвзаємно позитивні відносини§! з §YДіти Воріт§!"
   can_ask_to_join_faction_children_of_the_gate_tt:0 "Може попросити вступити в §YДіти Воріт§!."
   can_offer_to_join_faction_children_of_the_gate_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YДіти Воріт§!."
 
@@ -215,7 +215,7 @@
   at_peace_with_daikatana_tt:0 "У §Gмирі§! зі всіма членами §YДайкатана§!"
   borders_daikatana_tt:0 "Має §Yспільний кордон§! з кожним членом §YДайкатана§!"
   does_not_border_daikatana_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YДайкатана§!"
-  has_mutually_positive_opinion_with_daikatana_tt:0 "Має §Gвзаємно позитивні відносини§! с §YДайкатана§!"
+  has_mutually_positive_opinion_with_daikatana_tt:0 "Має §Gвзаємно позитивні відносини§! з §YДайкатана§!"
   can_ask_to_join_faction_daikatana_tt:0 "Може попросити вступити в §YДайкатана§!."
   can_offer_to_join_faction_daikatana_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YДайкатана§!."
 
@@ -235,7 +235,7 @@
   at_peace_with_daughters_of_hecate_tt:0 "У §Gмирі§! зі всіма членами §YДочки Гекати§!"
   borders_daughters_of_hecate_tt:0 "Має §Yспільний кордон§! з кожним членом §YДочки Гекати§!"
   does_not_border_daughters_of_hecate_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YДочки Гекати§!"
-  has_mutually_positive_opinion_with_daughters_of_hecate_tt:0 "Має §Gвзаємно позитивні відносини§! с §YДочки Гекати§!"
+  has_mutually_positive_opinion_with_daughters_of_hecate_tt:0 "Має §Gвзаємно позитивні відносини§! з §YДочки Гекати§!"
   can_ask_to_join_faction_daughters_of_hecate_tt:0 "Може попросити вступити в §YДочки Гекати§!."
   can_offer_to_join_faction_daughters_of_hecate_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YДочки Гекати§!."
 
@@ -255,7 +255,7 @@
   at_peace_with_denver_defense_network_tt:0 "У §Gмирі§! зі всіма членами §YОборонна Мережа Денвера§!"
   borders_denver_defense_network_tt:0 "Має §Yспільний кордон§! з кожним членом §YОборонна Мережа Денвера§!"
   does_not_border_denver_defense_network_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОборонна Мережа Денвера§!"
-  has_mutually_positive_opinion_with_denver_defense_network_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОборонна Мережа Денвера§!"
+  has_mutually_positive_opinion_with_denver_defense_network_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОборонна Мережа Денвера§!"
   can_ask_to_join_faction_denver_defense_network_tt:0 "Може попросити вступити в §YОборонна Мережа Денвера§!."
   can_offer_to_join_faction_denver_defense_network_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОборонна Мережа Денвера§!."
 
@@ -275,7 +275,7 @@
   at_peace_with_earth_and_sky_tt:0 "У §Gмирі§! зі всіма членами §YНебо і Земля§!"
   borders_earth_and_sky_tt:0 "Має §Yспільний кордон§! з кожним членом §YНебо і Земля§!"
   does_not_border_earth_and_sky_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНебо і Земля§!"
-  has_mutually_positive_opinion_with_earth_and_sky_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНебо і Земля§!"
+  has_mutually_positive_opinion_with_earth_and_sky_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНебо і Земля§!"
   can_ask_to_join_faction_earth_and_sky_tt:0 "Може попросити вступити в §YНебо і Земля§!."
   can_offer_to_join_faction_earth_and_sky_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНебо і Земля§!."
 
@@ -295,7 +295,7 @@
   at_peace_with_empire_of_salt_tt:0 "У §Gмирі§! зі всіма членами §YІмперія Солі§!"
   borders_empire_of_salt_tt:0 "Має §Yспільний кордон§! з кожним членом §YІмперія Солі§!"
   does_not_border_empire_of_salt_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YІмперія Солі§!"
-  has_mutually_positive_opinion_with_empire_of_salt_tt:0 "Має §Gвзаємно позитивні відносини§! с §YІмперія Солі§!"
+  has_mutually_positive_opinion_with_empire_of_salt_tt:0 "Має §Gвзаємно позитивні відносини§! з §YІмперія Солі§!"
   can_ask_to_join_faction_empire_of_salt_tt:0 "Може попросити вступити в §YІмперія Солі§!."
   can_offer_to_join_faction_empire_of_salt_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YІмперія Солі§!."
 
@@ -315,7 +315,7 @@
   at_peace_with_equestria_tt:0 "У §Gмирі§! зі всіма членами §YЕквестрія§!"
   borders_equestria_tt:0 "Має §Yспільний кордон§! з кожним членом §YЕквестрія§!"
   does_not_border_equestria_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЕквестрія§!"
-  has_mutually_positive_opinion_with_equestria_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЕквестрія§!"
+  has_mutually_positive_opinion_with_equestria_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЕквестрія§!"
   can_ask_to_join_faction_equestria_tt:0 "Може попросити вступити в §YЕквестрія§!."
   can_offer_to_join_faction_equestria_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЕквестрія§!."
 
@@ -335,7 +335,7 @@
   at_peace_with_faithful_tt:0 "У §Gмирі§! зі всіма членами §YВіруючі§!"
   borders_faithful_tt:0 "Має §Yспільний кордон§! з кожним членом §YВіруючі§!"
   does_not_border_faithful_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВіруючі§!"
-  has_mutually_positive_opinion_with_faithful_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВіруючі§!"
+  has_mutually_positive_opinion_with_faithful_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВіруючі§!"
   can_ask_to_join_faction_faithful_tt:0 "Може попросити вступити в §YВіруючі§!."
   can_offer_to_join_faction_faithful_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВіруючі§!."
 
@@ -355,7 +355,7 @@
   at_peace_with_fantasma_cartel_tt:0 "У §Gмирі§! зі всіма членами §YКартель Фантазми§!"
   borders_fantasma_cartel_tt:0 "Має §Yспільний кордон§! з кожним членом §YКартель Фантазми§!"
   does_not_border_fantasma_cartel_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКартель Фантазми§!"
-  has_mutually_positive_opinion_with_fantasma_cartel_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКартель Фантазми§!"
+  has_mutually_positive_opinion_with_fantasma_cartel_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКартель Фантазми§!"
   can_ask_to_join_faction_fantasma_cartel_tt:0 "Може попросити вступити в §YКартель Фантазми§!."
   can_offer_to_join_faction_fantasma_cartel_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКартель Фантазми§!."
 
@@ -375,7 +375,7 @@
   at_peace_with_glass_league_tt:0 "У §Gмирі§! зі всіма членами §YСкляна Ліга§!"
   borders_glass_league_tt:0 "Має §Yспільний кордон§! з кожним членом §YСкляна Ліга§!"
   does_not_border_glass_league_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YСкляна Ліга§!"
-  has_mutually_positive_opinion_with_glass_league_tt:0 "Має §Gвзаємно позитивні відносини§! с §YСкляна Ліга§!"
+  has_mutually_positive_opinion_with_glass_league_tt:0 "Має §Gвзаємно позитивні відносини§! з §YСкляна Ліга§!"
   can_ask_to_join_faction_glass_league_tt:0 "Може попросити вступити в §YСкляна Ліга§!."
   can_offer_to_join_faction_glass_league_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YСкляна Ліга§!."
 
@@ -395,7 +395,7 @@
   at_peace_with_great_federation_tt:0 "У §Gмирі§! зі всіма членами §YВелика Федерація§!"
   borders_great_federation_tt:0 "Має §Yспільний кордон§! з кожним членом §YВелика Федерація§!"
   does_not_border_great_federation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВелика Федерація§!"
-  has_mutually_positive_opinion_with_great_federation_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВелика Федерація§!"
+  has_mutually_positive_opinion_with_great_federation_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВелика Федерація§!"
   can_ask_to_join_faction_great_federation_tt:0 "Може попросити вступити в §YВелика Федерація§!."
   can_offer_to_join_faction_great_federation_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВелика Федерація§!."
 
@@ -404,18 +404,18 @@
   ask_to_join_great_plains_federation_tt:0 "Буде відправлено прохання прийняти в §YФедерація Великих Рівнин§!.\n"
   invite_to_great_plains_federation_tt:0 "Отримає запрошення вступити в §YФедерація Великих Рівнин§!.\n"
   leave_great_plains_federation_tt:0 "Покидає §YФедерація Великих Рівнин§!.\n"
-  is_great_plains_federation_member_tt:0 "Є членом §YФедерации Великих Равнин§!"
-  is_not_great_plains_federation_member_tt:0 "§RНе§! є членом §YФедерація Великих Рівнин§!"
-  is_great_plains_federation_leader_tt:0 "Є лідером §YФедерація Великих Рівнин§!"
-  is_not_great_plains_federation_leader_tt:0 "§RНе§! Є лідером §YФедерація Великих Рівнин§!"
+  is_great_plains_federation_member_tt:0 "Є членом §YФедерації Великих Рівнин§!"
+  is_not_great_plains_federation_member_tt:0 "§RНе§! є членом §YФедерації Великих Рівнин§!"
+  is_great_plains_federation_leader_tt:0 "Є лідером §YФедерації Великих Рівнин§!"
+  is_not_great_plains_federation_leader_tt:0 "§RНе§! Є лідером §YФедерації Великих Рівнин§!"
   great_plains_federation_exists_tt:0 "§YФедерація Великих Рівнин§! існує"
   great_plains_federation_does_not_exist_tt:0 "§YФедерація Великих Рівнин§! §Rне§! існує"
-  has_border_war_with_great_plains_federation_tt:0 "Має §Rприкордонну війну§! з кожним членом §YФедерація Великих Рівнин§!"
-  has_war_with_great_plains_federation_tt:0 "Є §Rвійна§! з кожним членом §YФедерація Великих Рівнин§!"
-  at_peace_with_great_plains_federation_tt:0 "У §Gмирі§! зі всіма членами §YФедерація Великих Рівнин§!"
-  borders_great_plains_federation_tt:0 "Має §Yспільний кордон§! з кожним членом §YФедерація Великих Рівнин§!"
-  does_not_border_great_plains_federation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YФедерація Великих Рівнин§!"
-  has_mutually_positive_opinion_with_great_plains_federation_tt:0 "Має §Gвзаємно позитивні відносини§! с §YФедерація Великих Рівнин§!"
+  has_border_war_with_great_plains_federation_tt:0 "Має §Rприкордонну війну§! з кожним членом §YФедерації Великих Рівнин§!"
+  has_war_with_great_plains_federation_tt:0 "Є §Rвійна§! з кожним членом §YФедерації Великих Рівнин§!"
+  at_peace_with_great_plains_federation_tt:0 "У §Gмирі§! зі всіма членами §YФедерації Великих Рівнин§!"
+  borders_great_plains_federation_tt:0 "Має §Yспільний кордон§! з кожним членом §YФедерації Великих Рівнин§!"
+  does_not_border_great_plains_federation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YФедерації Великих Рівнин§!"
+  has_mutually_positive_opinion_with_great_plains_federation_tt:0 "Має §Gвзаємно позитивні відносини§! з §YФедерація Великих Рівнин§!"
   can_ask_to_join_faction_great_plains_federation_tt:0 "Може попросити вступити в §YФедерація Великих Рівнин§!."
   can_offer_to_join_faction_great_plains_federation_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YФедерація Великих Рівнин§!."
 
@@ -424,7 +424,7 @@
   ask_to_join_jungle_pact_tt:0 "Буде відправлено прохання прийняти в §YПакт Джунглів§!.\n"
   invite_to_jungle_pact_tt:0 "Отримає запрошення вступити в §YПакт Джунглів§!.\n"
   leave_jungle_pact_tt:0 "Покидає §YПакт Джунглів§!.\n"
-  is_jungle_pact_member_tt:0 "Є членом §YПакта Джунглей§!"
+  is_jungle_pact_member_tt:0 "Є членом §YПакт Джунглів§!"
   is_not_jungle_pact_member_tt:0 "§RНе§! є членом §YПакт Джунглів§!"
   is_jungle_pact_leader_tt:0 "Є лідером §YПакт Джунглів§!"
   is_not_jungle_pact_leader_tt:0 "§RНе§! Є лідером §YПакт Джунглів§!"
@@ -435,7 +435,7 @@
   at_peace_with_jungle_pact_tt:0 "У §Gмирі§! зі всіма членами §YПакт Джунглів§!"
   borders_jungle_pact_tt:0 "Має §Yспільний кордон§! з кожним членом §YПакт Джунглів§!"
   does_not_border_jungle_pact_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПакт Джунглів§!"
-  has_mutually_positive_opinion_with_jungle_pact_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПакт Джунглів§!"
+  has_mutually_positive_opinion_with_jungle_pact_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПакт Джунглів§!"
   can_ask_to_join_faction_jungle_pact_tt:0 "Може попросити вступити в §YПакт Джунглів§!."
   can_offer_to_join_faction_jungle_pact_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПакт Джунглів§!."
 
@@ -455,7 +455,7 @@
   at_peace_with_kaisers_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Кайзера§!"
   borders_kaisers_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Кайзера§!"
   does_not_border_kaisers_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Кайзера§!"
-  has_mutually_positive_opinion_with_kaisers_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Кайзера§!"
+  has_mutually_positive_opinion_with_kaisers_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Кайзера§!"
   can_ask_to_join_faction_kaisers_legion_tt:0 "Може попросити вступити в §YЛегіон Кайзера§!."
   can_offer_to_join_faction_kaisers_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Кайзера§!."
 
@@ -464,7 +464,7 @@
   ask_to_join_masters_new_army_tt:0 "Буде відправлено прохання прийняти в §YНова Армія Творця§!.\n"
   invite_to_masters_new_army_tt:0 "Отримає запрошення вступити в §YНова Армія Творця§!.\n"
   leave_masters_new_army_tt:0 "Покидає §YНова Армія Творця§!.\n"
-  is_masters_new_army_member_tt:0 "Є членом §YНовой Армии Создателя§!"
+  is_masters_new_army_member_tt:0 "Є членом §YНова Армія Творця§!"
   is_not_masters_new_army_member_tt:0 "§RНе§! є членом §YНова Армія Творця§!"
   is_masters_new_army_leader_tt:0 "Є лідером §YНова Армія Творця§!"
   is_not_masters_new_army_leader_tt:0 "§RНе§! Є лідером §YНова Армія Творця§!"
@@ -475,7 +475,7 @@
   at_peace_with_masters_new_army_tt:0 "У §Gмирі§! зі всіма членами §YНова Армія Творця§!"
   borders_masters_new_army_tt:0 "Має §Yспільний кордон§! з кожним членом §YНова Армія Творця§!"
   does_not_border_masters_new_army_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНова Армія Творця§!"
-  has_mutually_positive_opinion_with_masters_new_army_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНова Армія Творця§!"
+  has_mutually_positive_opinion_with_masters_new_army_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНова Армія Творця§!"
   can_ask_to_join_faction_masters_new_army_tt:0 "Може попросити вступити в §YНова Армія Творця§!."
   can_offer_to_join_faction_masters_new_army_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНова Армія Творця§!."
 
@@ -495,7 +495,7 @@
   at_peace_with_mesoamerican_alliance_tt:0 "У §Gмирі§! зі всіма членами §YМезоамериканський Альянс§!"
   borders_mesoamerican_alliance_tt:0 "Має §Yспільний кордон§! з кожним членом §YМезоамериканський Альянс§!"
   does_not_border_mesoamerican_alliance_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМезоамериканський Альянс§!"
-  has_mutually_positive_opinion_with_mesoamerican_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМезоамериканський Альянс§!"
+  has_mutually_positive_opinion_with_mesoamerican_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМезоамериканський Альянс§!"
   can_ask_to_join_faction_mesoamerican_alliance_tt:0 "Може попросити вступити в §YМезоамериканський Альянс§!."
   can_offer_to_join_faction_mesoamerican_alliance_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМезоамериканський Альянс§!."
 
@@ -515,7 +515,7 @@
   at_peace_with_the_fire_council_tt:0 "У §Gмирі§! зі всіма членами §YВогняна рада§!"
   borders_the_fire_council_tt:0 "Має §Yспільний кордон§! з кожним членом §YВогняна рада§!"
   does_not_border_the_fire_council_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВогняна рада§!"
-  has_mutually_positive_opinion_with_the_fire_council_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВогняна рада§!"
+  has_mutually_positive_opinion_with_the_fire_council_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВогняна рада§!"
   can_ask_to_join_faction_the_fire_council_tt:0 "Може попросити вступити в §YВогняна рада§!."
   can_offer_to_join_faction_the_fire_council_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВогняна рада§!."
 
@@ -535,7 +535,7 @@
   at_peace_with_mojave_alliance_tt:0 "У §Gмирі§! зі всіма членами §YАльянс Мохаве§!"
   borders_mojave_alliance_tt:0 "Має §Yспільний кордон§! з кожним членом §YАльянс Мохаве§!"
   does_not_border_mojave_alliance_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YАльянс Мохаве§!"
-  has_mutually_positive_opinion_with_mojave_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! с §YАльянс Мохаве§!"
+  has_mutually_positive_opinion_with_mojave_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! з §YАльянс Мохаве§!"
   can_ask_to_join_faction_mojave_alliance_tt:0 "Може попросити вступити в §YАльянс Мохаве§!."
   can_offer_to_join_faction_mojave_alliance_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YАльянс Мохаве§!."
 
@@ -555,7 +555,7 @@
   at_peace_with_mormon_alliance_tt:0 "У §Gмирі§! зі всіма членами §YМормонський Альянс§!"
   borders_mormon_alliance_tt:0 "Має §Yспільний кордон§! з кожним членом §YМормонський Альянс§!"
   does_not_border_mormon_alliance_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМормонський Альянс§!"
-  has_mutually_positive_opinion_with_mormon_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМормонський Альянс§!"
+  has_mutually_positive_opinion_with_mormon_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМормонський Альянс§!"
   can_ask_to_join_faction_mormon_alliance_tt:0 "Може попросити вступити в §YМормонський Альянс§!."
   can_offer_to_join_faction_mormon_alliance_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМормонський Альянс§!."
 
@@ -575,7 +575,7 @@
   at_peace_with_nevada_enclave_tt:0 "У §Gмирі§! зі всіма членами §YАнклав Невади§!"
   borders_nevada_enclave_tt:0 "Має §Yспільний кордон§! з кожним членом §YАнклав Невади§!"
   does_not_border_nevada_enclave_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YАнклав Невади§!"
-  has_mutually_positive_opinion_with_nevada_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! с §YАнклав Невади§!"
+  has_mutually_positive_opinion_with_nevada_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! з §YАнклав Невади§!"
   can_ask_to_join_faction_nevada_enclave_tt:0 "Може попросити вступити в §YАнклав Невади§!."
   can_offer_to_join_faction_nevada_enclave_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YАнклав Невади§!."
 
@@ -595,7 +595,7 @@
   at_peace_with_nevada_pact_tt:0 "У §Gмирі§! зі всіма членами §YНевадський Пакт§!"
   borders_nevada_pact_tt:0 "Має §Yспільний кордон§! з кожним членом §YНевадський Пакт§!"
   does_not_border_nevada_pact_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНевадський Пакт§!"
-  has_mutually_positive_opinion_with_nevada_pact_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНевадський Пакт§!"
+  has_mutually_positive_opinion_with_nevada_pact_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНевадський Пакт§!"
   can_ask_to_join_faction_nevada_pact_tt:0 "Може попросити вступити в §YНевадський Пакт§!."
   can_offer_to_join_faction_nevada_pact_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНевадський Пакт§!."
 
@@ -615,7 +615,7 @@
   at_peace_with_northern_league_tt:0 "У §Gмирі§! зі всіма членами §YПівнічна Ліга§!"
   borders_northern_league_tt:0 "Має §Yспільний кордон§! з кожним членом §YПівнічна Ліга§!"
   does_not_border_northern_league_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПівнічна Ліга§!"
-  has_mutually_positive_opinion_with_northern_league_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПівнічна Ліга§!"
+  has_mutually_positive_opinion_with_northern_league_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПівнічна Ліга§!"
   can_ask_to_join_faction_northern_league_tt:0 "Може попросити вступити в §YПівнічна Ліга§!."
   can_offer_to_join_faction_northern_league_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПівнічна Ліга§!."
 
@@ -635,7 +635,7 @@
   at_peace_with_northern_mojave_pact_tt:0 "У §Gмирі§! зі всіма членами §YПівнічний Пакт Мохаве§!"
   borders_northern_mojave_pact_tt:0 "Має §Yспільний кордон§! з кожним членом §YПівнічний Пакт Мохаве§!"
   does_not_border_northern_mojave_pact_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПівнічний Пакт Мохаве§!"
-  has_mutually_positive_opinion_with_northern_mojave_pact_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПівнічний Пакт Мохаве§!"
+  has_mutually_positive_opinion_with_northern_mojave_pact_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПівнічний Пакт Мохаве§!"
   can_ask_to_join_faction_northern_mojave_pact_tt:0 "Може попросити вступити в §YПівнічний Пакт Мохаве§!."
   can_offer_to_join_faction_northern_mojave_pact_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПівнічний Пакт Мохаве§!."
 
@@ -644,18 +644,18 @@
   ask_to_join_phoenix_federation_tt:0 "Буде відправлено прохання прийняти в §YФедерація Фенікса§!.\n"
   invite_to_phoenix_federation_tt:0 "Отримає запрошення вступити в §YФедерація Фенікса§!.\n"
   leave_phoenix_federation_tt:0 "Покидає §YФедерація Фенікса§!.\n"
-  is_phoenix_federation_member_tt:0 "Є членом §YФедерація Фенікса§!"
-  is_not_phoenix_federation_member_tt:0 "§RНе§! є членом §YФедерація Фенікса§!"
-  is_phoenix_federation_leader_tt:0 "Є лідером §YФедерація Фенікса§!"
-  is_not_phoenix_federation_leader_tt:0 "§RНе§! Є лідером §YФедерація Фенікса§!"
+  is_phoenix_federation_member_tt:0 "Є членом §YФедерації Фенікса§!"
+  is_not_phoenix_federation_member_tt:0 "§RНе§! є членом §YФедерації Фенікса§!"
+  is_phoenix_federation_leader_tt:0 "Є лідером §YФедерації Фенікса§!"
+  is_not_phoenix_federation_leader_tt:0 "§RНе§! Є лідером §YФедерації Фенікса§!"
   phoenix_federation_exists_tt:0 "§YФедерація Фенікса§! існує"
   phoenix_federation_does_not_exist_tt:0 "§YФедерація Фенікса§! §Rне§! існує"
-  has_border_war_with_phoenix_federation_tt:0 "Має §Rприкордонну війну§! з кожним членом §YФедерація Фенікса§!"
-  has_war_with_phoenix_federation_tt:0 "Є §Rвійна§! з кожним членом §YФедерація Фенікса§!"
-  at_peace_with_phoenix_federation_tt:0 "У §Gмирі§! зі всіма членами §YФедерація Фенікса§!"
-  borders_phoenix_federation_tt:0 "Має §Yспільний кордон§! з кожним членом §YФедерація Фенікса§!"
-  does_not_border_phoenix_federation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YФедерація Фенікса§!"
-  has_mutually_positive_opinion_with_phoenix_federation_tt:0 "Має §Gвзаємно позитивні відносини§! с §YФедерація Фенікса§!"
+  has_border_war_with_phoenix_federation_tt:0 "Має §Rприкордонну війну§! з кожним членом §YФедерації Фенікса§!"
+  has_war_with_phoenix_federation_tt:0 "Є §Rвійна§! з кожним членом §YФедерації Фенікса§!"
+  at_peace_with_phoenix_federation_tt:0 "У §Gмирі§! зі всіма членами §YФедерації Фенікса§!"
+  borders_phoenix_federation_tt:0 "Має §Yспільний кордон§! з кожним членом §YФедерації Фенікса§!"
+  does_not_border_phoenix_federation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YФедерації Фенікса§!"
+  has_mutually_positive_opinion_with_phoenix_federation_tt:0 "Має §Gвзаємно позитивні відносини§! з §YФедерація Фенікса§!"
   can_ask_to_join_faction_phoenix_federation_tt:0 "Може попросити вступити в §YФедерація Фенікса§!."
   can_offer_to_join_faction_phoenix_federation_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YФедерація Фенікса§!."
 
@@ -675,7 +675,7 @@
   at_peace_with_rio_pact_tt:0 "У §Gмирі§! зі всіма членами §YПакт Ріо§!"
   borders_rio_pact_tt:0 "Має §Yспільний кордон§! з кожним членом §YПакт Ріо§!"
   does_not_border_rio_pact_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПакт Ріо§!"
-  has_mutually_positive_opinion_with_rio_pact_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПакт Ріо§!"
+  has_mutually_positive_opinion_with_rio_pact_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПакт Ріо§!"
   can_ask_to_join_faction_rio_pact_tt:0 "Може попросити вступити в §YПакт Ріо§!."
   can_offer_to_join_faction_rio_pact_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПакт Ріо§!."
 
@@ -695,7 +695,7 @@
   at_peace_with_senators_little_helpers_tt:0 "У §Gмирі§! зі всіма членами §YМаленькі Помічники Сенатора§!"
   borders_senators_little_helpers_tt:0 "Має §Yспільний кордон§! з кожним членом §YМаленькі Помічники Сенатора§!"
   does_not_border_senators_little_helpers_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМаленькі Помічники Сенатора§!"
-  has_mutually_positive_opinion_with_senators_little_helpers_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМаленькі Помічники Сенатора§!"
+  has_mutually_positive_opinion_with_senators_little_helpers_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМаленькі Помічники Сенатора§!"
   can_ask_to_join_faction_senators_little_helpers_tt:0 "Може попросити вступити в §YМаленькі Помічники Сенатора§!."
   can_offer_to_join_faction_senators_little_helpers_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМаленькі Помічники Сенатора§!."
 
@@ -715,7 +715,7 @@
   at_peace_with_great_confederation_tt:0 "У §Gмирі§! зі всіма членами §YВелика Конфедерація§!"
   borders_great_confederation_tt:0 "Має §Yспільний кордон§! з кожним членом §YВелика Конфедерація§!"
   does_not_border_great_confederation_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВелика Конфедерація§!"
-  has_mutually_positive_opinion_with_great_confederation_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВелика Конфедерація§!"
+  has_mutually_positive_opinion_with_great_confederation_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВелика Конфедерація§!"
   can_ask_to_join_faction_great_confederation_tt:0 "Може попросити вступити в §YВелика Конфедерація§!."
   can_offer_to_join_faction_great_confederation_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВелика Конфедерація§!."
 
@@ -735,7 +735,7 @@
   at_peace_with_texan_economic_union_tt:0 "У §Gмирі§! зі всіма членами §YТехаський Економічний Союз§!"
   borders_texan_economic_union_tt:0 "Має §Yспільний кордон§! з кожним членом §YТехаський Економічний Союз§!"
   does_not_border_texan_economic_union_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YТехаський Економічний Союз§!"
-  has_mutually_positive_opinion_with_texan_economic_union_tt:0 "Має §Gвзаємно позитивні відносини§! с §YТехаський Економічний Союз§!"
+  has_mutually_positive_opinion_with_texan_economic_union_tt:0 "Має §Gвзаємно позитивні відносини§! з §YТехаський Економічний Союз§!"
   can_ask_to_join_faction_texan_economic_union_tt:0 "Може попросити вступити в §YТехаський Економічний Союз§!."
   can_offer_to_join_faction_texan_economic_union_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YТехаський Економічний Союз§!."
 
@@ -755,7 +755,7 @@
   at_peace_with_unbroken_coast_tt:0 "У §Gмирі§! зі всіма членами §YНезламний Берег§!"
   borders_unbroken_coast_tt:0 "Має §Yспільний кордон§! з кожним членом §YНезламний Берег§!"
   does_not_border_unbroken_coast_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНезламний Берег§!"
-  has_mutually_positive_opinion_with_unbroken_coast_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНезламний Берег§!"
+  has_mutually_positive_opinion_with_unbroken_coast_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНезламний Берег§!"
   can_ask_to_join_faction_unbroken_coast_tt:0 "Може попросити вступити в §YНезламний Берег§!."
   can_offer_to_join_faction_unbroken_coast_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНезламний Берег§!."
 
@@ -775,7 +775,7 @@
   at_peace_with_western_enclave_tt:0 "У §Gмирі§! зі всіма членами §YЗахідний Анклав§!"
   borders_western_enclave_tt:0 "Має §Yспільний кордон§! з кожним членом §YЗахідний Анклав§!"
   does_not_border_western_enclave_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЗахідний Анклав§!"
-  has_mutually_positive_opinion_with_western_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЗахідний Анклав§!"
+  has_mutually_positive_opinion_with_western_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЗахідний Анклав§!"
   can_ask_to_join_faction_western_enclave_tt:0 "Може попросити вступити в §YЗахідний Анклав§!."
   can_offer_to_join_faction_western_enclave_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЗахідний Анклав§!."
 
@@ -795,7 +795,7 @@
   at_peace_with_order_of_st_joseph_tt:0 "У §Gмирі§! зі всіма членами §YОрден Святого Йосифа§!"
   borders_order_of_st_joseph_tt:0 "Має §Yспільний кордон§! з кожним членом §YОрден Святого Йосифа§!"
   does_not_border_order_of_st_joseph_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОрден Святого Йосифа§!"
-  has_mutually_positive_opinion_with_order_of_st_joseph_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОрден Святого Йосифа§!"
+  has_mutually_positive_opinion_with_order_of_st_joseph_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОрден Святого Йосифа§!"
   can_ask_to_join_faction_order_of_st_joseph_tt:0 "Може попросити вступити в §YОрден Святого Йосифа§!."
   can_offer_to_join_faction_order_of_st_joseph_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОрден Святого Йосифа§!."
 
@@ -815,7 +815,7 @@
   at_peace_with_breach_ferals_tt:0 "У §Gмирі§! зі всіма членами §YПролом Здичавілих§!"
   borders_breach_ferals_tt:0 "Має §Yспільний кордон§! з кожним членом §YПролом Здичавілих§!"
   does_not_border_breach_ferals_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПролом Здичавілих§!"
-  has_mutually_positive_opinion_with_breach_ferals_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПролом Здичавілих§!"
+  has_mutually_positive_opinion_with_breach_ferals_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПролом Здичавілих§!"
   can_ask_to_join_faction_breach_ferals_tt:0 "Може попросити вступити в §YПролом Здичавілих§!."
   can_offer_to_join_faction_breach_ferals_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПролом Здичавілих§!."
 
@@ -835,7 +835,7 @@
   at_peace_with_white_sands_compact_tt:0 "У §Gмирі§! зі всіма членами §YБілі піски§!"
   borders_white_sands_compact_tt:0 "Має §Yспільний кордон§! з кожним членом §YБілі піски§!"
   does_not_border_white_sands_compact_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YБілі піски§!"
-  has_mutually_positive_opinion_with_white_sands_compact_tt:0 "Має §Gвзаємно позитивні відносини§! с §YБілі піски§!"
+  has_mutually_positive_opinion_with_white_sands_compact_tt:0 "Має §Gвзаємно позитивні відносини§! з §YБілі піски§!"
   can_ask_to_join_faction_white_sands_compact_tt:0 "Може попросити вступити в §YБілі піски§!."
   can_offer_to_join_faction_white_sands_compact_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YБілі піски§!."
 
@@ -855,7 +855,7 @@
   at_peace_with_cartel_faction_tt:0 "У §Gмирі§! зі всіма членами §YҐранд Картель§!"
   borders_cartel_faction_tt:0 "Має §Yспільний кордон§! з кожним членом §YҐранд Картель§!"
   does_not_border_cartel_faction_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YҐранд Картель§!"
-  has_mutually_positive_opinion_with_cartel_faction_tt:0 "Має §Gвзаємно позитивні відносини§! с §YҐранд Картель§!"
+  has_mutually_positive_opinion_with_cartel_faction_tt:0 "Має §Gвзаємно позитивні відносини§! з §YҐранд Картель§!"
   can_ask_to_join_faction_cartel_faction_tt:0 "Може попросити вступити в §YҐранд Картель§!."
   can_offer_to_join_faction_cartel_faction_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YҐранд Картель§!."
 
@@ -875,7 +875,7 @@
   at_peace_with_cascadia_pirates_tt:0 "У §Gмирі§! зі всіма членами §YЦарство Піратів Каскадії§!"
   borders_cascadia_pirates_tt:0 "Має §Yспільний кордон§! з кожним членом §YЦарство Піратів Каскадії§!"
   does_not_border_cascadia_pirates_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЦарство Піратів Каскадії§!"
-  has_mutually_positive_opinion_with_cascadia_pirates_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЦарство Піратів Каскадії§!"
+  has_mutually_positive_opinion_with_cascadia_pirates_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЦарство Піратів Каскадії§!"
   can_ask_to_join_faction_cascadia_pirates_tt:0 "Може попросити вступити в §YЦарство Піратів Каскадії§!."
   can_offer_to_join_faction_cascadia_pirates_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЦарство Піратів Каскадії§!."
 
@@ -895,7 +895,7 @@
   at_peace_with_transcascadia_republic_tt:0 "У §Gмирі§! зі всіма членами §YРеспубліка Транскаскадії§!"
   borders_transcascadia_republic_tt:0 "Має §Yспільний кордон§! з кожним членом §YРеспубліка Транскаскадії§!"
   does_not_border_transcascadia_republic_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YРеспубліка Транскаскадії§!"
-  has_mutually_positive_opinion_with_transcascadia_republic_tt:0 "Має §Gвзаємно позитивні відносини§! с §YРеспубліка Транскаскадії§!"
+  has_mutually_positive_opinion_with_transcascadia_republic_tt:0 "Має §Gвзаємно позитивні відносини§! з §YРеспубліка Транскаскадії§!"
   can_ask_to_join_faction_transcascadia_republic_tt:0 "Може попросити вступити в §YРеспубліка Транскаскадії§!."
   can_offer_to_join_faction_transcascadia_republic_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YРеспубліка Транскаскадії§!."
 
@@ -915,7 +915,7 @@
   at_peace_with_new_california_tt:0 "У §Gмирі§! зі всіма членами §YНКР§!"
   borders_new_california_tt:0 "Має §Yспільний кордон§! з кожним членом §YНКР§!"
   does_not_border_new_california_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YНКР§!"
-  has_mutually_positive_opinion_with_new_california_tt:0 "Має §Gвзаємно позитивні відносини§! с §YНКР§!"
+  has_mutually_positive_opinion_with_new_california_tt:0 "Має §Gвзаємно позитивні відносини§! з §YНКР§!"
   can_ask_to_join_faction_new_california_tt:0 "Може попросити вступити в §YНКР§!."
   can_offer_to_join_faction_new_california_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YНКР§!."
 
@@ -935,7 +935,7 @@
   at_peace_with_the_second_coalition_tt:0 "У §Gмирі§! зі всіма членами §YДруга коаліція§!"
   borders_the_second_coalition_tt:0 "Має §Yспільний кордон§! з кожним членом §YДруга коаліція§!"
   does_not_border_the_second_coalition_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YДруга коаліція§!"
-  has_mutually_positive_opinion_with_the_second_coalition_tt:0 "Має §Gвзаємно позитивні відносини§! с §YДруга коаліція§!"
+  has_mutually_positive_opinion_with_the_second_coalition_tt:0 "Має §Gвзаємно позитивні відносини§! з §YДруга коаліція§!"
   can_ask_to_join_faction_the_second_coalition_tt:0 "Може попросити вступити в §YДруга коаліція§!."
   can_offer_to_join_faction_the_second_coalition_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YДруга коаліція§!."
 
@@ -955,7 +955,7 @@
   at_peace_with_imperium_mexicanum_tt:0 "У §Gмирі§! зі всіма членами §YМексиканська Імперія§!"
   borders_imperium_mexicanum_tt:0 "Має §Yспільний кордон§! з кожним членом §YМексиканська Імперія§!"
   does_not_border_imperium_mexicanum_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМексиканська Імперія§!"
-  has_mutually_positive_opinion_with_imperium_mexicanum_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМексиканська Імперія§!"
+  has_mutually_positive_opinion_with_imperium_mexicanum_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМексиканська Імперія§!"
   can_ask_to_join_faction_imperium_mexicanum_tt:0 "Може попросити вступити в §YМексиканська Імперія§!."
   can_offer_to_join_faction_imperium_mexicanum_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМексиканська Імперія§!."
 
@@ -975,7 +975,7 @@
   at_peace_with_mexican_league_tt:0 "У §Gмирі§! зі всіма членами §YМексиканська Ліга§!"
   borders_mexican_league_tt:0 "Має §Yспільний кордон§! з кожним членом §YМексиканська Ліга§!"
   does_not_border_mexican_league_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМексиканська Ліга§!"
-  has_mutually_positive_opinion_with_mexican_league_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМексиканська Ліга§!"
+  has_mutually_positive_opinion_with_mexican_league_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМексиканська Ліга§!"
   can_ask_to_join_faction_mexican_league_tt:0 "Може попросити вступити в §YМексиканська Ліга§!."
   can_offer_to_join_faction_mexican_league_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМексиканська Ліга§!."
 
@@ -995,7 +995,7 @@
   at_peace_with_midnight_union_tt:0 "У §Gмирі§! зі всіма членами §YОпівнічний Союз§!"
   borders_midnight_union_tt:0 "Має §Yспільний кордон§! з кожним членом §YОпівнічний Союз§!"
   does_not_border_midnight_union_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОпівнічний Союз§!"
-  has_mutually_positive_opinion_with_midnight_union_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОпівнічний Союз§!"
+  has_mutually_positive_opinion_with_midnight_union_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОпівнічний Союз§!"
   can_ask_to_join_faction_midnight_union_tt:0 "Може попросити вступити в §YОпівнічний Союз§!."
   can_offer_to_join_faction_midnight_union_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОпівнічний Союз§!."
 
@@ -1015,7 +1015,7 @@
   at_peace_with_big_circle_tt:0 "У §Gмирі§! зі всіма членами §YВелике Коло§!"
   borders_big_circle_tt:0 "Має §Yспільний кордон§! з кожним членом §YВелике Коло§!"
   does_not_border_big_circle_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВелике Коло§!"
-  has_mutually_positive_opinion_with_big_circle_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВелике Коло§!"
+  has_mutually_positive_opinion_with_big_circle_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВелике Коло§!"
   can_ask_to_join_faction_big_circle_tt:0 "Може попросити вступити в §YВелике Коло§!."
   can_offer_to_join_faction_big_circle_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВелике Коло§!."
 
@@ -1035,7 +1035,7 @@
   at_peace_with_dharma_way_tt:0 "У §Gмирі§! зі всіма членами §YШлях Дхарми§!"
   borders_dharma_way_tt:0 "Має §Yспільний кордон§! з кожним членом §YШлях Дхарми§!"
   does_not_border_dharma_way_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YШлях Дхарми§!"
-  has_mutually_positive_opinion_with_dharma_way_tt:0 "Має §Gвзаємно позитивні відносини§! с §YШлях Дхарми§!"
+  has_mutually_positive_opinion_with_dharma_way_tt:0 "Має §Gвзаємно позитивні відносини§! з §YШлях Дхарми§!"
   can_ask_to_join_faction_dharma_way_tt:0 "Може попросити вступити в §YШлях Дхарми§!."
   can_offer_to_join_faction_dharma_way_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YШлях Дхарми§!."
 
@@ -1055,7 +1055,7 @@
   at_peace_with_californian_hegemony_tt:0 "У §Gмирі§! зі всіма членами §YКаліфорнійська Гегемонія§!"
   borders_californian_hegemony_tt:0 "Має §Yспільний кордон§! з кожним членом §YКаліфорнійська Гегемонія§!"
   does_not_border_californian_hegemony_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКаліфорнійська Гегемонія§!"
-  has_mutually_positive_opinion_with_californian_hegemony_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКаліфорнійська Гегемонія§!"
+  has_mutually_positive_opinion_with_californian_hegemony_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКаліфорнійська Гегемонія§!"
   can_ask_to_join_faction_californian_hegemony_tt:0 "Може попросити вступити в §YКаліфорнійська Гегемонія§!."
   can_offer_to_join_faction_californian_hegemony_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКаліфорнійська Гегемонія§!."
 
@@ -1075,7 +1075,7 @@
   at_peace_with_northern_congress_tt:0 "У §Gмирі§! зі всіма членами §YПівнічний Конгрес§!"
   borders_northern_congress_tt:0 "Має §Yспільний кордон§! з кожним членом §YПівнічний Конгрес§!"
   does_not_border_northern_congress_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПівнічний Конгрес§!"
-  has_mutually_positive_opinion_with_northern_congress_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПівнічний Конгрес§!"
+  has_mutually_positive_opinion_with_northern_congress_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПівнічний Конгрес§!"
   can_ask_to_join_faction_northern_congress_tt:0 "Може попросити вступити в §YПівнічний Конгрес§!."
   can_offer_to_join_faction_northern_congress_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПівнічний Конгрес§!."
 
@@ -1095,7 +1095,7 @@
   at_peace_with_road_warriors_tt:0 "У §Gмирі§! зі всіма членами §YВоїни Дороги§!"
   borders_road_warriors_tt:0 "Має §Yспільний кордон§! з кожним членом §YВоїни Дороги§!"
   does_not_border_road_warriors_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВоїни Дороги§!"
-  has_mutually_positive_opinion_with_road_warriors_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВоїни Дороги§!"
+  has_mutually_positive_opinion_with_road_warriors_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВоїни Дороги§!"
   can_ask_to_join_faction_road_warriors_tt:0 "Може попросити вступити в §YВоїни Дороги§!."
   can_offer_to_join_faction_road_warriors_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YВоїни Дороги§!."
 
@@ -1115,7 +1115,7 @@
   at_peace_with_synergy_alliance_tt:0 "У §Gмирі§! зі всіма членами §YСинергетичний Альянс§!"
   borders_synergy_alliance_tt:0 "Має §Yспільний кордон§! з кожним членом §YСинергетичний Альянс§!"
   does_not_border_synergy_alliance_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YСинергетичний Альянс§!"
-  has_mutually_positive_opinion_with_synergy_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! с §YСинергетичний Альянс§!"
+  has_mutually_positive_opinion_with_synergy_alliance_tt:0 "Має §Gвзаємно позитивні відносини§! з §YСинергетичний Альянс§!"
   can_ask_to_join_faction_synergy_alliance_tt:0 "Може попросити вступити в §YСинергетичний Альянс§!."
   can_offer_to_join_faction_synergy_alliance_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YСинергетичний Альянс§!."
 
@@ -1135,7 +1135,7 @@
   at_peace_with_vulpes_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Вульпеса§!"
   borders_vulpes_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Вульпеса§!"
   does_not_border_vulpes_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Вульпеса§!"
-  has_mutually_positive_opinion_with_vulpes_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Вульпеса§!"
+  has_mutually_positive_opinion_with_vulpes_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Вульпеса§!"
   can_ask_to_join_faction_vulpes_legion_tt:0 "Може попросити вступити в §YЛегіон Вульпеса§!."
   can_offer_to_join_faction_vulpes_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Вульпеса§!."
 
@@ -1155,7 +1155,7 @@
   at_peace_with_aurelius_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Аврелія§!"
   borders_aurelius_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Аврелія§!"
   does_not_border_aurelius_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Аврелія§!"
-  has_mutually_positive_opinion_with_aurelius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Аврелія§!"
+  has_mutually_positive_opinion_with_aurelius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Аврелія§!"
   can_ask_to_join_faction_aurelius_legion_tt:0 "Може попросити вступити в §YЛегіон Аврелія§!."
   can_offer_to_join_faction_aurelius_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Аврелія§!."
 
@@ -1175,7 +1175,7 @@
   at_peace_with_lanius_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Ланія§!"
   borders_lanius_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Ланія§!"
   does_not_border_lanius_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Ланія§!"
-  has_mutually_positive_opinion_with_lanius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Ланія§!"
+  has_mutually_positive_opinion_with_lanius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Ланія§!"
   can_ask_to_join_faction_lanius_legion_tt:0 "Може попросити вступити в §YЛегіон Ланія§!."
   can_offer_to_join_faction_lanius_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Ланія§!."
 
@@ -1195,7 +1195,7 @@
   at_peace_with_hades_legion_tt:0 "У §Gмирі§! зі всіма членами §YЛегіон Аїда§!"
   borders_hades_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YЛегіон Аїда§!"
   does_not_border_hades_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЛегіон Аїда§!"
-  has_mutually_positive_opinion_with_hades_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЛегіон Аїда§!"
+  has_mutually_positive_opinion_with_hades_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЛегіон Аїда§!"
   can_ask_to_join_faction_hades_legion_tt:0 "Може попросити вступити в §YЛегіон Аїда§!."
   can_offer_to_join_faction_hades_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЛегіон Аїда§!."
 
@@ -1215,7 +1215,7 @@
   at_peace_with_lucius_legion_tt:0 "У §Gмирі§! зі всіма членами §YСини Цезаря§!"
   borders_lucius_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YСини Цезаря§!"
   does_not_border_lucius_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YСини Цезаря§!"
-  has_mutually_positive_opinion_with_lucius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YСини Цезаря§!"
+  has_mutually_positive_opinion_with_lucius_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YСини Цезаря§!"
   can_ask_to_join_faction_lucius_legion_tt:0 "Може попросити вступити в §YСини Цезаря§!."
   can_offer_to_join_faction_lucius_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YСини Цезаря§!."
 
@@ -1235,7 +1235,7 @@
   at_peace_with_malpais_legion_tt:0 "У §Gмирі§! зі всіма членами §YКогорта Мальпаїса§!"
   borders_malpais_legion_tt:0 "Має §Yспільний кордон§! з кожним членом §YКогорта Мальпаїса§!"
   does_not_border_malpais_legion_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКогорта Мальпаїса§!"
-  has_mutually_positive_opinion_with_malpais_legion_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКогорта Мальпаїса§!"
+  has_mutually_positive_opinion_with_malpais_legion_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКогорта Мальпаїса§!"
   can_ask_to_join_faction_malpais_legion_tt:0 "Може попросити вступити в §YКогорта Мальпаїса§!."
   can_offer_to_join_faction_malpais_legion_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКогорта Мальпаїса§!."
 
@@ -1255,7 +1255,7 @@
   at_peace_with_northern_union_tt:0 "У §Gмирі§! зі всіма членами §YПівнічний Союз§!"
   borders_northern_union_tt:0 "Має §Yспільний кордон§! з кожним членом §YПівнічний Союз§!"
   does_not_border_northern_union_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПівнічний Союз§!"
-  has_mutually_positive_opinion_with_northern_union_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПівнічний Союз§!"
+  has_mutually_positive_opinion_with_northern_union_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПівнічний Союз§!"
   can_ask_to_join_faction_northern_union_tt:0 "Може попросити вступити в §YПівнічний Союз§!."
   can_offer_to_join_faction_northern_union_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПівнічний Союз§!."
 
@@ -1275,7 +1275,7 @@
   at_peace_with_bloody_electorals_tt:0 "У §Gстані миру§! з абияким членом: §YКровавий Електорат§!"
   borders_bloody_electorals_tt:0 "Є §Yспільні кордони§! з абияким членом: §YКровавий Електорат§!"
   does_not_border_bloody_electorals_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКровавий Електорат§!"
-  has_mutually_positive_opinion_with_bloody_electorals_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКровавий Електорат§!"
+  has_mutually_positive_opinion_with_bloody_electorals_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКровавий Електорат§!"
   can_ask_to_join_faction_bloody_electorals_tt:0 "Може попросити вступити в §YКровавий Електорат§!."
   can_offer_to_join_faction_bloody_electorals_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКровавий Електорат§!."
 
@@ -1295,7 +1295,7 @@
   at_peace_with_canadian_watchdogs_tt:0 "У §Gстані миру§! з абияким членом: §YКанадські сторожові пси§!"
   borders_canadian_watchdogs_tt:0 "Є §Yспільні кордони§! з абияким членом: §YКанадські сторожові пси§!"
   does_not_border_canadian_watchdogs_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКанадські сторожові пси§!"
-  has_mutually_positive_opinion_with_canadian_watchdogs_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКанадські сторожові пси§!"
+  has_mutually_positive_opinion_with_canadian_watchdogs_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКанадські сторожові пси§!"
   can_ask_to_join_faction_canadian_watchdogs_tt:0 "Може попросити вступити в §YКанадські сторожові пси§!."
   can_offer_to_join_faction_canadian_watchdogs_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКанадські сторожові пси§!."
 
@@ -1315,7 +1315,7 @@
   at_peace_with_kingdom_of_manitoba_tt:0 "У §Gстані миру§! з абияким членом: §YКоролівство Манітоба§!"
   borders_kingdom_of_manitoba_tt:0 "Є §Yспільні кордони§! з абияким членом: §YКоролівство Манітоба§!"
   does_not_border_kingdom_of_manitoba_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКоролівство Манітоба§!"
-  has_mutually_positive_opinion_with_kingdom_of_manitoba_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКоролівство Манітоба§!"
+  has_mutually_positive_opinion_with_kingdom_of_manitoba_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКоролівство Манітоба§!"
   can_ask_to_join_faction_kingdom_of_manitoba_tt:0 "Може попросити вступити в §YКоролівство Манітоба§!."
   can_offer_to_join_faction_kingdom_of_manitoba_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКоролівство Манітоба§!."
   
@@ -1335,7 +1335,7 @@
   at_peace_with_united_wallers_tt:0 "У §Gмирі§! зі всіма членами §YОб'єднані Уоллери Небраски§!"
   borders_united_wallers_tt:0 "Має §Yспільний кордон§! з кожним членом §YОб'єднані Уоллери Небраски§!"
   does_not_border_united_wallers_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YОб'єднані Уоллери Небраски§!"
-  has_mutually_positive_opinion_with_united_wallers_tt:0 "Має §Gвзаємно позитивні відносини§! с §YОб'єднані Уоллери Небраски§!"
+  has_mutually_positive_opinion_with_united_wallers_tt:0 "Має §Gвзаємно позитивні відносини§! з §YОб'єднані Уоллери Небраски§!"
   can_ask_to_join_faction_united_wallers_tt:0 "Може попросити вступити в §YОб'єднані Уоллери Небраски§!."
   can_offer_to_join_faction_united_wallers_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YОб'єднані Уоллери Небраски§!."
 
@@ -1355,7 +1355,7 @@
   at_peace_with_montana_enclave_tt:0 "У §Gмирі§! зі всіма членами §YМонтанський Анклав§!"
   borders_montana_enclave_tt:0 "Має §Yспільний кордон§! з кожним членом §YМонтанський Анклав§!"
   does_not_border_montana_enclave_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YМонтанський Анклав§!"
-  has_mutually_positive_opinion_with_montana_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! с §YМонтанський Анклав§!"
+  has_mutually_positive_opinion_with_montana_enclave_tt:0 "Має §Gвзаємно позитивні відносини§! з §YМонтанський Анклав§!"
   can_ask_to_join_faction_montana_enclave_tt:0 "Може попросити вступити в §YМонтанський Анклав§!."
   can_offer_to_join_faction_montana_enclave_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YМонтанський Анклав§!."
 
@@ -1375,7 +1375,7 @@
   at_peace_with_northern_winds_tt:0 "У §Gмирі§! зі всіма членами §YПівнічні Вітри§!"
   borders_northern_winds_tt:0 "Має §Yспільний кордон§! з кожним членом §YПівнічні Вітри§!"
   does_not_border_northern_winds_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YПівнічні Вітри§!"
-  has_mutually_positive_opinion_with_northern_winds_tt:0 "Має §Gвзаємно позитивні відносини§! с §YПівнічні Вітри§!"
+  has_mutually_positive_opinion_with_northern_winds_tt:0 "Має §Gвзаємно позитивні відносини§! з §YПівнічні Вітри§!"
   can_ask_to_join_faction_northern_winds_tt:0 "Може попросити вступити в §YПівнічні Вітри§!."
   can_offer_to_join_faction_northern_winds_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YПівнічні Вітри§!."
 
@@ -1395,7 +1395,7 @@
   at_peace_with_allied_states_tt:0 "У §Gмирі§! зі всіма членами §YСоюзні Штати§!"
   borders_allied_states_tt:0 "Має §Yспільний кордон§! з кожним членом §YСоюзні Штати§!"
   does_not_border_allied_states_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YСоюзні Штати§!"
-  has_mutually_positive_opinion_with_allied_states_tt:0 "Має §Gвзаємно позитивні відносини§! с §YСоюзні Штати§!"
+  has_mutually_positive_opinion_with_allied_states_tt:0 "Має §Gвзаємно позитивні відносини§! з §YСоюзні Штати§!"
   can_ask_to_join_faction_allied_states_tt:0 "Може попросити вступити в §YСоюзні Штати§!."
   can_offer_to_join_faction_allied_states_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YСоюзні Штати§!."
 
@@ -1435,7 +1435,7 @@
   at_peace_with_red_shield_tt:0 "У §Gмирі§! зі всіма членами §YЧервоний Щит§!"
   borders_red_shield_tt:0 "Має §Yспільний кордон§! з кожним членом §YЧервоний Щит§!"
   does_not_border_red_shield_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YЧервоний Щит§!"
-  has_mutually_positive_opinion_with_red_shield_tt:0 "Має §Gвзаємно позитивні відносини§! с §YЧервоний Щит§!"
+  has_mutually_positive_opinion_with_red_shield_tt:0 "Має §Gвзаємно позитивні відносини§! з §YЧервоний Щит§!"
   can_ask_to_join_faction_red_shield_tt:0 "Може попросити вступити в §YЧервоний Щит§!."
   can_offer_to_join_faction_red_shield_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YЧервоний Щит§!."
 
@@ -1455,7 +1455,7 @@
   at_peace_with_wardens_of_white_tt:0 "У §Gмирі§! зі всіма членами §YВартових Білини§!"
   borders_wardens_of_white_tt:0 "Має §Yспільний кордон§! з кожним членом §YВартових Білини§!"
   does_not_border_wardens_of_white_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YВартових Білини§!"
-  has_mutually_positive_opinion_with_wardens_of_white_tt:0 "Має §Gвзаємно позитивні відносини§! с §YВартових Білини§!"
+  has_mutually_positive_opinion_with_wardens_of_white_tt:0 "Має §Gвзаємно позитивні відносини§! з §YВартових Білини§!"
   can_ask_to_join_faction_wardens_of_white_tt:0 "Може попросити вступити до §YВартових Білини§!."
   can_offer_to_join_faction_wardens_of_white_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити до §YВартових Білини§!."
 
@@ -1475,7 +1475,7 @@
   at_peace_with_miscounts_tt:0 "У §Gмирі§! зі всіма членами §YРозраховувальники§!"
   borders_miscounts_tt:0 "Має §Yспільний кордон§! з кожним членом §YРозраховувальники§!"
   does_not_border_miscounts_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YРозраховувальники§!"
-  has_mutually_positive_opinion_with_miscounts_tt:0 "Має §Gвзаємно позитивні відносини§! с §YРозраховувальники§!"
+  has_mutually_positive_opinion_with_miscounts_tt:0 "Має §Gвзаємно позитивні відносини§! з §YРозраховувальники§!"
   can_ask_to_join_faction_miscounts_tt:0 "Може попросити вступити в §YРозраховувальники§!."
   can_offer_to_join_faction_miscounts_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YРозраховувальники§!."
 
@@ -1495,7 +1495,7 @@
   at_peace_with_royal_accord_tt:0 "У §Gмирі§! зі всіма членами §YКоролівський Аккорд§!"
   borders_royal_accord_tt:0 "Має §Yспільний кордон§! з кожним членом §YКоролівський Аккорд§!"
   does_not_border_royal_accord_tt:0 "§RНЕ§! має §Yспільних кордонів§! з кожним членом §YКоролівський Аккорд§!"
-  has_mutually_positive_opinion_with_royal_accord_tt:0 "Має §Gвзаємно позитивні відносини§! с §YКоролівський Аккорд§!"
+  has_mutually_positive_opinion_with_royal_accord_tt:0 "Має §Gвзаємно позитивні відносини§! з §YКоролівський Аккорд§!"
   can_ask_to_join_faction_royal_accord_tt:0 "Може попросити вступити в §YКоролівський Аккорд§!."
   can_offer_to_join_faction_royal_accord_tt:0 "Може запропонувати §Y[ROOT.FROM.GetNameDef]§! вступити в §YКоролівський Аккорд§!."
 
