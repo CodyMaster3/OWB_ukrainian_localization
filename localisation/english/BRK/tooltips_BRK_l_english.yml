@@ -1,6 +1,6 @@
 ﻿l_english:
 # tooltips
-brk_can_raid_vic_or_hai:0 "Ціль — або §H[VIC.GetNameDef]§!, або §H[HAI.GetNameDef]§!: ми можемо проводити лише один морський рейд одночасно.\n"
+brk_can_raid_vic_or_hai:0 "Ціль – або §H[VIC.GetNameDef]§!, або §H[HAI.GetNameDef]§!: ми можемо проводити лише один морський рейд одночасно.\n"
 brk_raid_decisions:0 "Наслідки цього рішення залежать від того, як §Y[From.GetNameDef]§! відреагує на наш рейд!\n"
 brk_activate_escalation_decision:0 "З’явилося нове рішення, що дозволяє перетворити рейд на прикордонний конфлікт.\n"
 BRK_prelim_raid:0 "Ми наразі не проводимо жодного рейду.\n"
@@ -9,7 +9,7 @@ brk_vic_decision_chain_tt:0 "Завершення цього фокусу від
 brk_vic_success_tt:0 "§HУспіх!§!\n"
 brk_vic_failure_tt:0 "§RПровал!§!\n"
 brk_vic_raid_underway_tt:0 "Наразі ми не ведемо активного рейду проти §H[VIC.GetNameDef]§! або §H[HAI.GetNameDef]§!.\n"
-brk_vic_improve_odd_tt:0 "§RЧерез те, як працює механіка «випадковості» в HOI4, при невдачі цього рішення єдиний спосіб покращити шанси — завершити тренувальний рейд проти [HAI.GetName].§!"
+brk_vic_improve_odd_tt:0 "§RЧерез те, як працює механіка «випадковості» в HOI4, при невдачі цього рішення єдиний спосіб покращити шанси – завершити тренувальний рейд проти [HAI.GetName].§!"
 brk_vic_coast_raid_tt:0 "Ми хоча б раз успішно рейдили їхнє узбережжя.\n"
 brk_vic_port_raid_tt:0 "Ми хоча б раз успішно рейдили їхні порти.\n"
 brk_vic_port_seized_tt:0 "Ми здійснили одну з трьох операцій із захоплення §HВінтер-Гарбору§!.\n"

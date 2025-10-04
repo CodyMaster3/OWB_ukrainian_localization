@@ -31,7 +31,7 @@ owb_achievement_i_love_democracy_DESC:0 "Граючи за @RRG §YРеспуб�
 owb_achievement_a_fantastic_offer_NAME:0 "Фантастична Пропозиція"
 owb_achievement_a_fantastic_offer_DESC:0 "Граючи за @NCR §YНову Каліфорнійську Республіку§! або @MOT §YТериторії Мохаве§!, знайти найфантастичнішого вченого для керування §YГЕЛІОС Один§!."
 
-owb_achievement_we_are_cerberus_NAME:0 "Ми — Цербер"
+owb_achievement_we_are_cerberus_NAME:0 "Ми – Цербер"
 owb_achievement_we_are_cerberus_DESC:0 "Граючи за @SHA §YАрмію Шейла§!, стати §YCerberus§!."
 
 owb_achievement_owobowos_NAME:0 "Owobowos"
@@ -127,14 +127,14 @@ owb_achievement_mexico_restored_DESC:0 "Граючи за будь-яку мек
 owb_achievement_skewer_the_bull_NAME:0 "Проткнути Бика"
 owb_achievement_skewer_the_bull_DESC:0 "Граючи за @RRG §YРеспубліку Ріо-Ґранде§!, володіти §Y$STATE_520$§!."
 
-owb_achievement_second_times_a_charm_NAME:0 "Другий Шанс — Вдалий"
+owb_achievement_second_times_a_charm_NAME:0 "Другий Шанс – Вдалий"
 owb_achievement_second_times_a_charm_DESC:0 "Граючи за @ARR §YАрройо§!, анексувати всі держави Анклаву."
 
 owb_achievement_nullify_the_treaty_of_guadalupe_NAME:0 "Скасувати Договір Гвадалупе"
 owb_achievement_nullify_the_treaty_of_guadalupe_DESC:0 "Граючи за мексиканську державу, володіти всіма землями §YНью-Мексико§!, §YАрізони§!, §YКаліфорнії§! та §YТехасу§!."
 
 owb_achievement_unifying_the_brotherhood_NAME:0 "Об'єднання Братства"
-owb_achievement_unifying_the_brotherhood_DESC:0 "Граючи за будь-яку державу Братства, переконатись, що всі інші гілки — або ваші суб'єкти, або в одній фракції з вами."
+owb_achievement_unifying_the_brotherhood_DESC:0 "Граючи за будь-яку державу Братства, переконатись, що всі інші гілки – або ваші суб'єкти, або в одній фракції з вами."
 
 owb_achievement_highway_to_hell_NAME:0 "Шосе в Пекло"
 owb_achievement_highway_to_hell_DESC:0 "Граючи за @EHT §YВісімдесятників§!, обрати гру за £flag_THN_texticon §YГромовиків§! і володіти §Y$STATE_135$§! як осердям."
@@ -214,7 +214,7 @@ owb_achievement_land_of_steel_DESC:0 "Граючи за @BOS §YЛост-Гіл�
 owb_achievement_all_roads_lead_to_rome_NAME:0 "Всі Шляхи Ведуть до Риму"
 owb_achievement_all_roads_lead_to_rome_DESC:0 "Граючи за @CES §YЛегіон Цезаря§! або @LAC §YКогорту Ланія§!, володіти §Y6§! або більше вузлами."
 
-owb_achievement_democracy_non_negotiable_NAME:0 "Демократія — Не Підлягає Переговорам"
+owb_achievement_democracy_non_negotiable_NAME:0 "Демократія – Не Підлягає Переговорам"
 owb_achievement_democracy_non_negotiable_DESC:0 "Граючи за будь-яку §Yнародну§! державу, завоювати не-народну."
 
 owb_achievement_skylines_NAME:0 "Міста: Горизонти"
@@ -244,7 +244,7 @@ owb_achievement_electric_sheep_DESC:0 "Граючи за @DES §YНевірни�
 owb_achievement_ave_true_to_caesar_NAME:0 "Аве, Вірний Цезарю"
 owb_achievement_ave_true_to_caesar_DESC:0 "Граючи за @WHT §YБілоногих§!, володіти всіма провінціями Юти та вступити в @CES §YЛегіон Цезаря§!."
 
-owb_achievement_the_owls_are_not_what_they_seem_NAME:0 "Сови — Це Не Те, Чим Вони Здаються"
+owb_achievement_the_owls_are_not_what_they_seem_NAME:0 "Сови – Це Не Те, Чим Вони Здаються"
 owb_achievement_the_owls_are_not_what_they_seem_DESC:0 "Граючи за @BDT §YТанцюристів Кісток§!, піти шляхом §YОгидного Короля§! і розкрити таємниці §YТвін-Піксу§!."
 
 owb_achievement_return_to_cache_valley_NAME:0 "Повернення до Кеш-Веллі"
@@ -301,7 +301,7 @@ owb_achievement_judgement_day_DESC:0 "Граючи за будь-яку держ
 owb_achievement_through_fire_flames_NAME:0 "Крізь Вогонь і Полум'я"
 owb_achievement_through_fire_flames_DESC:0 "Граючи за @CRZ §YБожевільні Роги§!, бути у війні з @NCN §YНью-Ханааном§! та @WHT §YБілоногими§! одночасно й перемогти обох до лікування §YСажевого Згубу§!."
 
-owb_achievement_america_is_not_a_place_NAME:0 "Америка — Це Не Місце"
+owb_achievement_america_is_not_a_place_NAME:0 "Америка – Це Не Місце"
 owb_achievement_america_is_not_a_place_DESC:0 "Граючи за @HVR §YКульт Свободи§!, володіти всіма осердями @COM §YПіонерської Компанії§! і @MCA §YМакартура§!."
 
 owb_achievement_the_last_family_of_missoula_NAME:0 "Остання Родина Міссули"

@@ -16,7 +16,7 @@ sp_event_Pacific_War_QUOTE:0 "Хоча я маю слабке і немічне 
 sp_event_Pacific_War_REMARK:0 "Смерть тирану!"
 
 sp_event_Barbarossa:0 "Відродження Техасу"
-sp_event_Barbarossa_QUOTE:0 "Техас — це найкраща частина світу, яку коли-небудь благословляли мої очі! \n- Сем Г'юстон"
+sp_event_Barbarossa_QUOTE:0 "Техас – це найкраща частина світу, яку коли-небудь благословляли мої очі! \n- Сем Г'юстон"
 sp_event_Barbarossa_REMARK:0 "Жовта троянда розцвітає"
 
 sp_event_Nationalist:0 "Нова Каліфорнія Відроджена"
@@ -36,11 +36,11 @@ sp_event_Communist_QUOTE:0 "Ви вб'єте десять з нас, ми вб'�
 sp_event_Communist_REMARK:0 "Чи зменшаться податки?"
 
 sp_event_Falangist:0 "Безсмертна Перемога"
-sp_event_Falangist_QUOTE:0 "Довіра — це добре, але контроль — краще. \n- Йосип Сталін"
+sp_event_Falangist_QUOTE:0 "Довіра – це добре, але контроль – краще. \n- Йосип Сталін"
 sp_event_Falangist_REMARK:0 "Північний легіон?"
 
 sp_event_Stalinist:0 "Макартур контролює Монтану"
-sp_event_Stalinist_QUOTE:0 "Анклав — це ви, Америка. Анклав — це ваша сестра, ваша тітка, ваш друг, ваш сусід. І так, Анклав — це і я також. \n- Джон Генрі Іден"
+sp_event_Stalinist_QUOTE:0 "Анклав – це ви, Америка. Анклав – це ваша сестра, ваша тітка, ваш друг, ваш сусід. І так, Анклав – це і я також. \n- Джон Генрі Іден"
 sp_event_Stalinist_REMARK:0 "Боже, благослови Америку"
 
 sp_event_Carlist:0 "Відродження Департаменту Оборони"
@@ -48,7 +48,7 @@ sp_event_Carlist_QUOTE:0 "Це неприємний факт, але ми мож
 sp_event_Carlist_REMARK:0 "Ми завоюємо континент"
 
 sp_event_British_Collapse:0 "Військове відомство"
-sp_event_British_Collapse_QUOTE:0 "Війна — це зло, але інколи це менше зло. \n- Джордж Орвелл"
+sp_event_British_Collapse_QUOTE:0 "Війна – це зло, але інколи це менше зло. \n- Джордж Орвелл"
 sp_event_British_Collapse_REMARK:0 "Ми завоюємо світ"
 
 sp_event_Fall_Germany:0 "Доктрина Чейза"
@@ -56,7 +56,7 @@ sp_event_Fall_Germany_QUOTE:0 "Дядько Сем вкладав багато �
 sp_event_Fall_Germany_REMARK:0 "Вони не пройдуть!"
 
 sp_event_Soviet_End:0 "Доктрина Шермана"
-sp_event_Soviet_End_QUOTE:0 "Війна — це жорстокість. Немає сенсу намагатися реформувати її. Чим жорстокішою вона буде, тим швидше все закінчиться. \n- Вільям Текумсе Шерман"
+sp_event_Soviet_End_QUOTE:0 "Війна – це жорстокість. Немає сенсу намагатися реформувати її. Чим жорстокішою вона буде, тим швидше все закінчиться. \n- Вільям Текумсе Шерман"
 sp_event_Soviet_End_REMARK:0 "Смерть згори!"
 
 sp_event_Japanese_Surrender:0 "Доктрина Макартура"
@@ -64,7 +64,7 @@ sp_event_Japanese_Surrender_QUOTE:0 "Немає нічого кращого за
 sp_event_Japanese_Surrender_REMARK:0 "Атака, Атака, Атака!"
 
 sp_event_Fall_America:0 "Працюючи для кращого завтра"
-sp_event_Fall_America_QUOTE:0 "Війна — це найбільша трагічна і дурна людська помилка; прагнути до її провокації чи порадити це — це чорний злочин проти всіх людей. \n- Дуайт Д. Ейзенгауер"
+sp_event_Fall_America_QUOTE:0 "Війна – це найбільша трагічна і дурна людська помилка; прагнути до її провокації чи порадити це – це чорний злочин проти всіх людей. \n- Дуайт Д. Ейзенгауер"
 sp_event_Fall_America_REMARK:0 "Ми не зробимо цих помилок."
 
 sp_event_first_nuke:0 "Запалюючи вогні Старого Світу!"
@@ -88,11 +88,11 @@ sp_event_Mosley_QUOTE:0 "Як розпізнати комуніста? Ну, ц�
 sp_event_Mosley_REMARK:0 "Закінчення спадщини Сталіна"
 
 sp_event_Uk_Communist:0 "Війна з маоїстами"
-sp_event_Uk_Communist_QUOTE:0 "Комунізм — це не любов. Комунізм — це молот, яким ми ламаємо ворога. \n- Мао Цзедун"
+sp_event_Uk_Communist_QUOTE:0 "Комунізм – це не любов. Комунізм – це молот, яким ми ламаємо ворога. \n- Мао Цзедун"
 sp_event_Uk_Communist_REMARK:0 "Може їм надіслати їжі?"
 
 sp_event_Second_World_War_Kaiser:0 "Війна з роботами-комуністами"
-sp_event_Second_World_War_Kaiser_QUOTE:0 "§СМЕРТЬ — КРАЩЕ ПОРІВНЯНО З КОМУНІЗМОМ.§ \n- Ліберті Прайм"
+sp_event_Second_World_War_Kaiser_QUOTE:0 "§СМЕРТЬ – КРАЩЕ ПОРІВНЯНО З КОМУНІЗМОМ.§ \n- Ліберті Прайм"
 sp_event_Second_World_War_Kaiser_REMARK:0 "Де Ліберті Прайм, коли він потрібен?"
 
 sp_event_German_Civil_War:0 "Повернення сегрегації"
@@ -120,15 +120,15 @@ sp_event_Fall_Poland_QUOTE:0 "Коли Конгрес працює, жоден �
 sp_event_Fall_Poland_REMARK:0 "Більше не марнуємо час!"
 
 sp_event_Unholy_Alliance:0 "Третя битва при Булл-Ран"
-sp_event_Unholy_Alliance_QUOTE:0 "Добре, що війна така жахлива — ми занадто б захопилися нею. \n- Роберт Е. Лі"
-sp_event_Unholy_Alliance_REMARK:0 "Третій раз — вдасться"
+sp_event_Unholy_Alliance_QUOTE:0 "Добре, що війна така жахлива – ми занадто б захопилися нею. \n- Роберт Е. Лі"
+sp_event_Unholy_Alliance_REMARK:0 "Третій раз – вдасться"
 
 sp_event_Austria_Hungary:0 "Звір з Чикаго рухається"
 sp_event_Austria_Hungary_QUOTE:0 "Так, хоча я йду через долину тіні смерті, я не буду боятися жодного зла, бо ти зі мною; твій жезл і твій посох мене втішають. \n- Псалом 23:4"
 sp_event_Austria_Hungary_REMARK:0 "Америка більше не буде такою"
 
 sp_event_Eastern_Front:0 "Кінець Анклаву"
-sp_event_Eastern_Front_QUOTE:0 "Ціна свободи — це вічна пильність. \n- Томас Джефферсон"
+sp_event_Eastern_Front_QUOTE:0 "Ціна свободи – це вічна пильність. \n- Томас Джефферсон"
 sp_event_Eastern_Front_REMARK:0 "СВОБОДА НАВІКИ!"
 
 sp_event_Vicky_3:0 "Кінець Третьої світової війни"
@@ -140,7 +140,7 @@ sp_event_Fall_China_QUOTE:0 "...Давайте влаштуємо банкет �
 sp_event_Fall_China_REMARK:0 "Братерство понад усе!"
 
 sp_event_Chinese_Civil_War:0 "Війна з Братством"
-sp_event_Chinese_Civil_War_QUOTE:0 "Війна — це єдина правильна школа для хірурга. \n- Гіпократ"
+sp_event_Chinese_Civil_War_QUOTE:0 "Війна – це єдина правильна школа для хірурга. \n- Гіпократ"
 sp_event_Chinese_Civil_War_REMARK:0 "Чортові консервні банки!"
 
 sp_event_Communist_Unification:0 "Повернення армії"
@@ -200,15 +200,15 @@ sp_event_Byzantium_QUOTE:0 "Боже, не дай мені жити як імп�
 sp_event_Byzantium_REMARK:0 "Deus Vult!"
 
 sp_event_Ottoman:0 "Воскресіння Османської імперії"
-sp_event_Ottoman_QUOTE:0 "Ми не боїмося сови, ми — яструби. \n- Мехмед II"
+sp_event_Ottoman_QUOTE:0 "Ми не боїмося сови, ми – яструби. \n- Мехмед II"
 sp_event_Ottoman_REMARK:0 "Більше не Хворий чоловік"
 
 sp_event_Turan:0 "Тюркське об'єднання"
-sp_event_Turan_QUOTE:0 "Як щасливий той, хто говорить: 'Я — турок'. \n- Мустафа Кемаль Ататюрк"
+sp_event_Turan_QUOTE:0 "Як щасливий той, хто говорить: 'Я – турок'. \n- Мустафа Кемаль Ататюрк"
 sp_event_Turan_REMARK:0 "Тепер ви всі турки!"
 
 sp_event_Balkan:0 "Об'єднання Балкан"
-sp_event_Balkan_QUOTE:0 "Групування і взаємодія країн і народів на Балканах — це єдиний шлях до економічного, національного та політичного визволення. \n- Димитрій Туцкович"
+sp_event_Balkan_QUOTE:0 "Групування і взаємодія країн і народів на Балканах – це єдиний шлях до економічного, національного та політичного визволення. \n- Димитрій Туцкович"
 sp_event_Balkan_REMARK:0 "Як довго це триватиме?"
 
 super_info.1.t: "Vanilla Super Events"

@@ -35,7 +35,7 @@ black_canyon_ymp_revolt:0 "[YMP.GetNameWithFlag] підняли повстанн
 black_canyon_pnt_revolt:0 "[PNT.GetNameWithFlag] підняли повстання!"
 black_canyon_bcr_revolt:0 "[BCR.GetNameWithFlag] підняли повстання!"
 
-BLC_utah_mining_rights_tt:0 "Ми запропонуємо §Y[NCN.GetName]§! §yправа на розробку копалень§! у цій ще нерозвиненій території.\n§gПісля пропозиції — усе залежить лише від них.§!"
+BLC_utah_mining_rights_tt:0 "Ми запропонуємо §Y[NCN.GetName]§! §yправа на розробку копалень§! у цій ще нерозвиненій території.\n§gПісля пропозиції – усе залежить лише від них.§!"
 
 sphere_owns_boulder_dome_tt:0 "§Y[568.GetName]§!: Контролюється §Y[THIS.GetName]§!, їхніми підданими або союзниками."
 caps_has_economic_node:0 "Контролює хоча б §Yодин§! §cЕкономічний Вузол§!"

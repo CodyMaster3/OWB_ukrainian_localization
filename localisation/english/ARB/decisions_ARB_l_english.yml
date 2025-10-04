@@ -13,7 +13,7 @@ ARB_low_legitimacy:0 "Низька легітимність"
 ARB_high_legitimacy:0 "Висока легітимність"
 
 arb_initiate_raid_against_three_river:0 "Розпочати наліт на §BТри Ріки§!"
-arb_initiate_raid_against_three_river_desc:0 "Розпочавши наліт на Республіку Трьох Рік, ми зможемо довести свою силу Манітобі — і захопити трохи здобичі."
+arb_initiate_raid_against_three_river_desc:0 "Розпочавши наліт на Республіку Трьох Рік, ми зможемо довести свою силу Манітобі – і захопити трохи здобичі."
 
 arb_threaten_three_rivers:0 "Погрожувати §BТрьом Рікам§!"
 
@@ -42,7 +42,7 @@ arb_offer_our_experience:0 "Запропонувати наш бойовий д�
 arb_offer_training_advisors:0 "Підготувати інструктора"
 
 ARB_markets_are_open_decision_category:0 "Ринки Арборга"
-ARB_markets_are_open_decision_category_desc:0 "Арборг, схоже, зрозумів, що повстання — це гарна можливість для продажу спорядження. Ми отримали запрошення купити спорядження, яке Арборг мав би насправді віддати нам, але ці пройдисвіти, напевне, надіслали запрошення і нашим ворогам.\n\n   Резерви людської сили на ринку: [?global.arb_market_manpower|G|0]\n   Найнята нами людська сила: [?ROOT.arb_hired_soldiers|Y|0]\n   Зброя на продажу: [?global.arb_weapons_for_sale|G|0]\n   Спорядження спецпідрозділів на продажу: [?global.arb_special_forces_for_sale|G|0]\n   Пропонований бойовий досвід: [?global.arb_experience_offered|G|0]\n   Доступні інструктори: [?global.arb_training_specialists_available|G|0]"
+ARB_markets_are_open_decision_category_desc:0 "Арборг, схоже, зрозумів, що повстання – це гарна можливість для продажу спорядження. Ми отримали запрошення купити спорядження, яке Арборг мав би насправді віддати нам, але ці пройдисвіти, напевне, надіслали запрошення і нашим ворогам.\n\n   Резерви людської сили на ринку: [?global.arb_market_manpower|G|0]\n   Найнята нами людська сила: [?ROOT.arb_hired_soldiers|Y|0]\n   Зброя на продажу: [?global.arb_weapons_for_sale|G|0]\n   Спорядження спецпідрозділів на продажу: [?global.arb_special_forces_for_sale|G|0]\n   Пропонований бойовий досвід: [?global.arb_experience_offered|G|0]\n   Доступні інструктори: [?global.arb_training_specialists_available|G|0]"
 
 arb_recruit_mercenaries_from_market:0 "Найняти найманців на ринку"
 arb_recruit_mercenaries_from_market_guns:0 "Обміняти зброю на найманців"

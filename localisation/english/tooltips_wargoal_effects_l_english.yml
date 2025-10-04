@@ -2,5 +2,5 @@
   core_owned_states_of_prev_tt: "Робить §Gосердними§! всі осердні області держави §Y[Prev.GetNameDef]§! у власності.\n"
   core_all_core_states_of_prev_tt: "Робить §Gосердними§! всі осердні області держави §Y[Prev.GetNameDef]§!.\n"
   claim_core_states_of_prev_tt: "Надає державі §Y[This.GetNameDef]§! §Gпретензії§! на осердні території держави §Y[Prev.GetNameDef]§!.\n"
-  grant_claims_and_wargoal_for_core_states_of_prev_tt: "Надає державі §Y[This.GetNameDef]§! §Gпретензії§! та §Gціль війни§! за осердні території держави §Y[Prev.GetNameDef]§!.\n" # (&+) — тут було [GetWargoalFlavorLoc] замість «ціль війни». ~ L.H.
+  grant_claims_and_wargoal_for_core_states_of_prev_tt: "Надає державі §Y[This.GetNameDef]§! §Gпретензії§! та §Gціль війни§! за осердні території держави §Y[Prev.GetNameDef]§!.\n" # (&+) – тут було [GetWargoalFlavorLoc] замість «ціль війни». ~ L.H.
   grant_claims_and_territory_dispute_decisions_for_core_states_of_prev_tt: "Надає державі §Y[This.GetNameDef]§! §Gпретензії§! та відмикає рішення з §Gтериторіальних суперечок§! за колишні осердні території держави §Y[Prev.GetNameDef]'s§! former core territories.\n" # (&+)

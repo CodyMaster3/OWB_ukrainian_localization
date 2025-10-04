@@ -12,7 +12,7 @@ KSR_ballistic_equipment_1_desc:0 "Модифікація три. Не чотир
 
   KSR_ballistic_equipment_2:0 "Halbautomatikgewehr Ausführung 4"
   KSR_ballistic_equipment_2_short:0 "Halbauto-Gewehr"
-KSR_ballistic_equipment_2_desc:0 "Напівавтоматична — для тих, хто не знає — означає, що кожен натиск на гачок випускає лише одну кулю. Щоб стріляти знову, треба знову натискати."
+KSR_ballistic_equipment_2_desc:0 "Напівавтоматична – для тих, хто не знає – означає, що кожен натиск на гачок випускає лише одну кулю. Щоб стріляти знову, треба знову натискати."
 
   KSR_ballistic_equipment_3:0 "Sturmgewehr 2283"
   KSR_ballistic_equipment_3_short:0 "Sturmgewehr"
@@ -56,7 +56,7 @@ KSR_plasma_equipment_1_desc:0 "Плазмомет метає плазму. До�
 
   KSR_plasma_equipment_2:0 "Magnetisch stabilisierter Fusionswerfer Ausführung F"
   KSR_plasma_equipment_2_short:0 "Kaiserliche Flamme"
-KSR_plasma_equipment_2_desc:0 "Додаєш 'Імперський' на початок — і все раптом працює краще."
+KSR_plasma_equipment_2_desc:0 "Додаєш 'Імперський' на початок – і все раптом працює краще."
 
   KSR_spec_ops_equipment_1:0 "Basiskit"
   KSR_spec_ops_equipment_1_short:0 "Basiskit"

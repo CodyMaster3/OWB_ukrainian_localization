@@ -62,11 +62,11 @@ loi_lock_trade:0 "§gБлокувати Торгівлю§!"
 
 # продовження об'єднання
 loi_homeward_bound:0 "§tКампанія Об'єднання Триває§!"
-loi_kamlo_unifier:0 "§tОб'єднання —§! §gБіла Мряка§!"
-loi_dredgers_unifier:0 "§tОб'єднання —§! §gКрізь Намул§!"
-loi_syn_unifier:0 "§tОб'єднання —§! §gПротиснутись§!"
-loi_whistler_unifier:0 "§tОб'єднання —§! §gВпертий Блокпост§!"
-loi_brk_unifier:0 "§tОб'єднання —§! §gПогляд До Узбережжя§!"
+loi_kamlo_unifier:0 "§tОб'єднання –§! §gБіла Мряка§!"
+loi_dredgers_unifier:0 "§tОб'єднання –§! §gКрізь Намул§!"
+loi_syn_unifier:0 "§tОб'єднання –§! §gПротиснутись§!"
+loi_whistler_unifier:0 "§tОб'єднання –§! §gВпертий Блокпост§!"
+loi_brk_unifier:0 "§tОб'єднання –§! §gПогляд До Узбережжя§!"
 loi_return_island:0 "§gПовернути Острів§!"
 loi_drag_the_ship:0 "§gОглянути Тріщину§!"
 loi_repair_the_ship:0 "§gРемонт Корабля§!"
@@ -84,21 +84,21 @@ loi_clergy_decisions:0 "Духовенство"
 
 # дипломатія
 loi_dpt_foreign_relations:0 "Міністерство Закордонних Справ"
-loi_talk_with_passkeepers:0 "§6Дипломатія —§! §gПослання Хоронителям Перевалів§!"
-loi_appeal_to_safehaven:0 "§6Дипломатія —§! §gЗвернення до Пристанища§!"
-loi_bury_hatchet:0 "§6Дипломатія —§! §gЗакопати Сокиру§!"
-loi_uranium_city_meeting:0 "§6Дипломатія —§! §gНаші Зморщені Друзі§!"
+loi_talk_with_passkeepers:0 "§6Дипломатія –§! §gПослання Хоронителям Перевалів§!"
+loi_appeal_to_safehaven:0 "§6Дипломатія –§! §gЗвернення до Пристанища§!"
+loi_bury_hatchet:0 "§6Дипломатія –§! §gЗакопати Сокиру§!"
+loi_uranium_city_meeting:0 "§6Дипломатія –§! §gНаші Зморщені Друзі§!"
 
 # цілі війни
-loi_preempt_the_Велика Зграя:0 "§tЦілі Війни —§! §gУдарити Першими по Зграї§!"
-loi_middlemark_smelly:0 "§tЦілі Війни —§! §gНе Люблю Роботів§!"
-loi_annex_wardens:0 "§tЦілі Війни —§! §gВійна Небажання§!"
-loi_batford_more_like_batshit_insane_amirite:0 "§tЦілі Війни —§! §gПринц і Патріарх§!"
-loi_confederacy_criminals:0 "§tЦілі Війни —§! §gЗакінчити Почате Лідією§!"
+loi_preempt_the_Велика Зграя:0 "§tЦілі Війни –§! §gУдарити Першими по Зграї§!"
+loi_middlemark_smelly:0 "§tЦілі Війни –§! §gНе Люблю Роботів§!"
+loi_annex_wardens:0 "§tЦілі Війни –§! §gВійна Небажання§!"
+loi_batford_more_like_batshit_insane_amirite:0 "§tЦілі Війни –§! §gПринц і Патріарх§!"
+loi_confederacy_criminals:0 "§tЦілі Війни –§! §gЗакінчити Почате Лідією§!"
 
 # маріонетки
-loi_south_alberta_unified:0 "§pМаріонетки —§! §gРеорганізація Альберти§!"
-loi_Беттлфорд_mercenary_company:0 "§pМаріонетки —§! §gБатлфордська Наймана Компанія§!"
+loi_south_alberta_unified:0 "§pМаріонетки –§! §gРеорганізація Альберти§!"
+loi_Беттлфорд_mercenary_company:0 "§pМаріонетки –§! §gБатлфордська Наймана Компанія§!"
 
 # категорії
 loi_ekaterina_dispute_decision_category:0 "Суперечки Катерини"

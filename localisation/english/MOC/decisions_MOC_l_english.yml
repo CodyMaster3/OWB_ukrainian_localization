@@ -2,7 +2,7 @@
 # decisions
   moc_flower_wars_category:0 "Квіткові Війни"
   moc_flower_wars1:0 "Квіткова війна проти [FROM.GETNAME]"
-  moc_flower_wars1_desc:0 "Священні шалені квіти, квіти вогнищ, єдина наша окраса — квіти війни."
+  moc_flower_wars1_desc:0 "Священні шалені квіти, квіти вогнищ, єдина наша окраса – квіти війни."
   moc_light_border_raid_defender_warning:0 "Моктесума йде на Квіткову Війну!"
   moc_light_border_escalate:0 "Загострити набіг проти [From.GetNameDef] до прикордонного конфлікту"
   moc_escalate_conflict:0 "Загострити Квіткову Війну"
