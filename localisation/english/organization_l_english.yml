@@ -55,10 +55,10 @@
  motorized_runner_entice:0 " Спокусити §GЧоп Шоп§! розширенням"
 
 
- energy_runner_electric_research:0 "§YВан Граффи§!: торгівля знанням"
- energy_runner_greedy_kingpins:0 "§YВан Граффи§!: безжалісня експлуатація"
- energy_runner_family_vaults:0 "§YВан Граффи§!: сімейні сховища"
- energy_runner_entice:0 "Спокусити §YВан Граффів§! розширенням"
+ energy_runner_electric_research:0 "§YВан Ґраффи§!: торгівля знанням"
+ energy_runner_greedy_kingpins:0 "§YВан Ґраффи§!: безжалісня експлуатація"
+ energy_runner_family_vaults:0 "§YВан Ґраффи§!: сімейні сховища"
+ energy_runner_entice:0 "Спокусити §YВан Ґраффів§! розширенням"
 
  melee_runner_hunt_mirelurks:0 "§YМ'ясник Піт§!: як полювати на болотників"
  melee_runner_whetstones:0 "§YМ'ясник Піт§!: точильні камені"
@@ -162,14 +162,14 @@
  energy_runner_market_tt:0 "[GetEnergyRunnerInventory]"
  energy_runner_market_icon:0 "[GetEnergyRunnerMarketIcon]"
  energy_runner_amount_tt:0 "[?global.energy_runner_inventory]"
- energy_runner_name_tt:0 "Ван Граффи"
+ energy_runner_name_tt:0 "Ван Ґраффи"
  energy_runner_equip_1:0 "Лазерні мушкети"
  energy_runner_equip_2:0 "Лазерні гвинтівки"
  energy_runner_equip_3:0 "Просунуті лазерні гвинтівки"
  energy_runner_equip_4:0 "Важкий-RCW"
  energy_runner_equip_5:0 "Гатлінг-лазер"
  energy_runner_equip_6:0 "Допоміжне спорядження"
- organization_floor_modifier_3:0 "Думка Ван Граффів"
+ organization_floor_modifier_3:0 "Думка Ван Ґраффів"
   ###Melee Runner market
  melee_runner_name_tt:0 "М'ясник Піт"
  melee_runner_market_tt:0 "[GetMeleeRunnerInventory]"
@@ -216,7 +216,7 @@
  org_nas_garages_name:0 "Гаражі Наса"
  org_battleford_motorshop_name:0 "Беттлфорд Моторс"
 
- org_van_graffs_name:0 "Ван Граффи"
+ org_van_graffs_name:0 "Ван Ґраффи"
  org_lady_lasers_name:0 "Леді Лазерс"
  org_warden_remnants_name:0 "Залишки Вартових"
 
