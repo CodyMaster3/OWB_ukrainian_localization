@@ -3,9 +3,9 @@
  audio_holodisk: "Звукові голограми"
  audio_holodisk_desc: "Сховище записів, що містять передісторію. Перед відтворенням вимкніть музику. Також майте на увазі, що відтворювати одразу кілька файлів - буде дуже поганою ідеєю."
  hide_backstory:0 "Сховати рішення передісторій"
- FO1_intro: "Fallout 1 введення"
- FO2_intro: "Fallout 2 введення"
- FONV_intro: "Fallout New Vegas введення - події розгортаються після початку моду"
+ FO1_intro: "Вступ до Fallout 1"
+ FO2_intro: "Вступ до Fallout 2"
+ FONV_intro: "Вступ до Fallout New Vegas - події розгортаються після початку моду"
  # formable nations
  # Deseret
  form_deseret:0 "Формування штату Дезерет"

@@ -12,7 +12,7 @@
   STAT_ARMY_CASUALTY_TRICKLEBACK:0 "£trickleback_texticon Заміщення втрат: "
   STAT_ARMY_INITIATIVE:0 "£initiative_texticon Ініціатива: "
   STAT_ARMY_DEFAULT_MORALE:0 "£recovery_texticon Швидкість відновлення: "
-  STAT_COMMON_MAX_ORG:0 "£org_texticon Організация: "
+  STAT_COMMON_MAX_ORG:0 "£org_texticon Організація: "
   STAT_ARMY_RECON:0 "£recon_texticon Розвідка: "
   STAT_COMMON_WEIGHT:0 "£weight_texticon Вага: "
   STAT_ARMY_SUPRESSION:0 "£suppression_texticon Придушення: "

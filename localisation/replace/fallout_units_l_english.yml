@@ -220,6 +220,10 @@
   motorized_demoteam_short:0 "Мобільні підривники"
   motorized_demoteam_desc:0 ""
 
+  chariot_unit:0 "Колісниці легіону"
+  chariot_unit_short:0 "Колісниці"
+  chariot_unit_desc:0 "Легіон їде БРРРРРРРРРРРР"
+
  # Танки
   tank:0 "Танковий взвод"
   tank_short:0 "Танки"
@@ -392,10 +396,6 @@
   spec_ops_cavalry:0 "Вершники"
   spec_ops_cavalry_short:0 "Наїзник"
   spec_ops_cavalry_desc:0 "Хто б міг подумати, що коні все ще в моді в цій пустці?"
-
-  chariot_unit:0 "Колісниці легіону"
-  chariot_unit_short:0 "Колісниці"
-  chariot_unit_desc:0 "Легіон їде БРРРРРРРРРРРР"
 
   monster_support:0 "Підтримка колорадських мутантів"
   monster_support_desc:0 ""
