@@ -29,6 +29,13 @@
   category_logistics_support:0 "Підтримка логістики"
   category_maintenance_support:0 "Технічна підтримка"
   category_behemoth:0 "Бегемоти"
+  category_creatures: "Підрозділи істот"
+  category_mutant_creatures: "Підрозділи монструозних істот"
+  category_insects: "Підрозділи комах"
+  category_amphibious_creatures: "Підрозділи земноводних істот"
+  category_deathclaws: "Підрозділи смертокігтів"
+  category_ferals: "Підрозділи диких гулів"
+  category_beasts: "Підрозділи звірів"
   mobile:0 "Мотопіхота"
   infantry:0 "Піхота"
   support:0 "Підтримка"
@@ -168,7 +175,40 @@
 
   plant_support:0 "Громадні рослини"
   plant_support_desc:0 "Вирощена в домашніх умовах біологічна зброя дасть нашим військам величезну перевагу, за умови, що ми зможемо воювати на землях, досить родючих для її вирощування."
-  
+
+ ### ІСТОТИ ###
+  burrowing_beast_creature:0 "Burrowing Cohort" # (!) — не стачило думки закінчити назви. ~ L.H.
+  burrowing_beast_creature_short:0 "Burrowers"
+  burrowing_beast_creature_desc:0 "Beasts adapted to dig through soil and stone to strike."
+
+  insect_creature: "Рої комах"
+  insect_creature_short: "Комахи"
+  insect_creature_desc:0 "These upsized insects are grouped together to ensure maximum efficiency. The larger the better!"
+
+  amphibious_beast_creature:0 "Amphibious Platoon"
+  amphibious_beast_creature_short:0 "Amphibious Platoon"
+  amphibious_beast_creature_desc:0 "Tamed water dwelling beasts, ready to fight and die for their queen."
+
+  feral_ghoul: "Орда диких гулів"
+  feral_ghoul_short: "Дикі гулі"
+  feral_ghoul_desc:0 "Directing groups of ferals isn't easy work, but these unflinching hordes are worth it."
+
+  deathclaw_creature:0 "Deathclaw Mess"
+  deathclaw_creature_short: "Смертокігті"
+  deathclaw_creature_desc:0 "The most singularly dangerous predators in the American Wasteland."
+
+  deathclaw_special_forces: "Альфа-смертокігті"
+  deathclaw_special_forces_short: "Альфи"
+  deathclaw_special_forces_desc:0 "The fiercest of all Deathclaws are the Alphas, who fight for the right to mate within their pack."
+
+  beast_creature: "Зграя бойових звірів"
+  beast_creature_short: "Звірі"
+  beast_creature_desc:0 "Taming animals has been a practice for millenia. The new creatures of the fallout will be brought to bear on our enemies."
+
+  gecko_support_company: "Підтримка ґеконів"
+  gecko_support_company_short: "Ґекони"
+  gecko_support_company_desc:0 "While these mutated lizards are normally hunted for their hides, once tamed they can fight alongside us on the battlefield."
+
  # Моторизований/механізований
   motorized_heavy_infantry:0 "Моторизованні силовики"
   motorized_heavy_infantry_short:0 "Мобільні силовики"
