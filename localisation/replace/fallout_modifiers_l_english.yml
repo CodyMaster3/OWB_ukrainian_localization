@@ -492,6 +492,26 @@
 	modifier_army_sub_unit_category_weapon_infantry_speed_factor:0 "Швидкість озброєної піхоти"
 	modifier_army_sub_unit_category_weapon_infantry_max_org_factor:0 "Організація озброєної піхоти"
 
+  modifier_army_sub_unit_category_creatures_attack_factor: "Атака підрозділів істот"
+  modifier_army_sub_unit_category_creatures_defence_factor: "Захист підрозділів істот"
+  modifier_army_sub_unit_category_creatures_speed_factor: "Швидкість підрозділів істот"
+  modifier_army_sub_unit_category_creatures_max_org_factor: "Організація підрозділів істот"
+
+  modifier_army_sub_unit_category_mutant_creatures_attack_factor: "Атака підрозділів монструозних істот"
+  modifier_army_sub_unit_category_mutant_creatures_defence_factor: "Захист підрозділів монструозних істот"
+  modifier_army_sub_unit_category_mutant_creatures_speed_factor: "Швидкість підрозділів монструозних істот"
+  modifier_army_sub_unit_category_mutant_creatures_max_org_factor: "Організація підрозділів монструозних істот"
+
+  modifier_army_sub_unit_category_amphibious_creatures_attack_factor: "Атака підрозділів земноводних істот"
+  modifier_army_sub_unit_category_amphibious_creatures_defence_factor: "Захист підрозділів земноводних істот"
+  modifier_army_sub_unit_category_amphibious_creatures_speed_factor: "Швидкість підрозділів земноводних істот"
+  modifier_army_sub_unit_category_amphibious_creatures_max_org_factor: "Організація підрозділів земноводних істот"
+
+  modifier_army_sub_unit_category_deathclaws_attack_factor: "Атака підрозділів смертокігтів"
+  modifier_army_sub_unit_category_deathclaws_defence_factor: "Захист підрозділів смертокігтів"
+  modifier_army_sub_unit_category_deathclaws_speed_factor: "Швидкість підрозділів смертокігтів"
+  modifier_army_sub_unit_category_deathclaws_max_org_factor: "Організація підрозділів смертокігтів"
+
 	modifier_army_sub_unit_category_vehicles_attack_factor:0 "Атака моторизації"
 	modifier_army_sub_unit_category_vehicles_defence_factor:0 "Захист моторизації"
 	modifier_army_sub_unit_category_vehicles_speed_factor:0 "Швидкість моторизації"

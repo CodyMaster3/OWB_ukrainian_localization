@@ -1,12 +1,12 @@
 ﻿l_english:
-  modifier_production_speed_bunker_factor:0 "Швидкість будівництва §Yфорпостів§!"
-  modifier_production_speed_bunker_factor_desc:0 "Збільшує швидкість будівництва форпостів."
-  modifier_production_speed_bunker2_factor:0 "Швидкість будівництва §Yбункеров§!"
-  modifier_production_speed_bunker2_factor_desc:0 "Збільшує швидкість будівництва бункерів."
-  MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE:0 "Максимальний розмір армії генерала"
-  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE:0 "Максимальний розмір армії фельдмаршала"
-  MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE:0 "Максимальний розмі групи армій генерала"
-  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE:0 "Максимальний розмір групи армій фельдмаршала"
+  modifier_production_speed_bunker_factor: "Швидкість будівництва §Yфорпостів§!"
+  modifier_production_speed_bunker_factor_desc: "Модифікатор швидкості будівництва форпостів."
+  modifier_production_speed_bunker2_factor: "Швидкість будівництва §Yназемних укріплень§!"
+  modifier_production_speed_bunker2_factor_desc: "Модифікатор швидкості будівництва бункерів."
+  MODIFIER_ARMY_LEADER_MAX_ARMY_SIZE: "Найбільший розмір армії командира частини" # (&?)
+  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_SIZE: "Найбільший розмір армії головнокомандувача"
+  MODIFIER_ARMY_LEADER_MAX_ARMY_GROUP_SIZE: "Найбільший розмір групи армій командира частини" # (&?)
+  MODIFIER_ARMY_GROUP_LEADER_MAX_ARMY_GROUP_SIZE: "Найбільший розмір групи армій головнокомандувача"
   MODIFIER_REASSIGNMENT_DURATION_FACTOR_DESC:0 "Збільшує час, який проводить генерал в дорозі"
   MODIFIER_WOUNDED_CHANCE_FACTOR_DESC:0 "Ймовірність, що ваш генерал отримає ранення, отримавши поразку в бою."
 
