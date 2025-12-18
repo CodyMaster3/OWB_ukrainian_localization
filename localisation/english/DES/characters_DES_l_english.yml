@@ -73,6 +73,15 @@ DES_law_enforcer:0 "Охоронець Закону"
 DES_son_of_arizona:0 "Син Арізони"
 DES_ranger_general:0 "Генерал рейнджерів"
 
+#Generic Advisor Traits
+tactically_minded:0 "Tactically Minded" # (!)
+frontline_operative:0 "Frontline Operative"
+dispatcher:0 "Dispatcher"
+viper:0 "Viper"
+jackal:0 "Jackal"
+aggressive_attacker:0 "Aggressive Attacker"
+ranger_instructor:0 "Ranger Instructor"
+
 #Trait Tooltips
 DES_tactical_advisor_idea_remove_tt:0 "§RТрешер Сагарра більше не покращуватиме пробиття броні й шкоду для піхоти, спецобладнання та підтримки на 7.5% та 10% відповідно своїми тактиками проти бронетехніки.§!"
 DES_tactical_advisor_idea_add_tt:0 "§GТрешер Сагарра покращує пробиття броні й шкоду для піхоти, спецобладнання та підтримки на 7.5% та 10% відповідно своїми тактиками проти бронетехніки.§!"

@@ -71,7 +71,7 @@
   fuel_silo_plural:0 "Склади енергоносіїв"
   fuel_silo_desc:0 "Ця будівля дозволить вам збільшити максимальні запаси §Hенергоносіїв§!."
   LOGISTICS_VIEW_FUEL_CONSUMPTION_VALUE:1 "$VALUE|.1*$/d"
-  LOGISTICS_FUEL_PRIORITIZATION:0 "Пріоритет розприділення енергоносіїв"
+  LOGISTICS_FUEL_PRIORITIZATION:0 "Пріоритет розподілу енергоносіїв"
   LOGISTICS_FUEL_STORED:0 "Зберігається"
   LOGISTICS_FUEL_CONSUMED:0 "Споживається"
   STAT_ARMY_FUEL_CONSUMPTION:0 "Енергоспоживання: "
