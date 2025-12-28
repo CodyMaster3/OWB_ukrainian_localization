@@ -607,3 +607,5 @@
   modifier_unit_deathclaw_special_forces_design_cost_factor: "Вартість альфа-смертокігтів у конструкторі"
   modifier_unit_feral_ghoul_design_cost_factor: "Вартість диких гулів у конструкторі"
   modifier_unit_beast_creature_design_cost_factor: "Вартість бойових звірів у конструкторі"
+  modifier_unit_super_mutant_nightkin_infantry_design_cost_factor: "Вартість досвіду розробки Тіней"
+  modifier_unit_behemoth_design_cost_factor: "Вартість досвіду розробки бегемотів"

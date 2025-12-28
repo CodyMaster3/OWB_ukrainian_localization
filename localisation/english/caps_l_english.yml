@@ -93,7 +93,7 @@ caps_node_base_modifier:0 "£caps_base_modifier_texticon Розвитковий 
 caps_node_trade_modifier:0 "£caps_trade_modifier_texticon Торговий дохід"
 caps_flat_income_modifier:0 "Пасивний дохід кришок"
 caps_country_trade_modifier:0 "Торгові тарифи"
-evolution_income_source_modifier_2:0 "Базовий дохід з вузла"
+evolution_income_source_modifier_2:0 "£caps_base_modifier_texticon дохід з вузла"
 caps_tax_puppet_tt:0 "Нещодавно оподаткований володарем"
 caps_taxation_overlord:0 "Вхідні податки"
 caps_taxation_subject:0 "Податки володареві"
@@ -252,7 +252,7 @@ genericcap:0 "Кришки від пляшок"
 caps_economic_bankrupcy:0 "Банкрутство!"
 caps_economic_bankrupcy_desc:0 "У нас немає грошей, ми приречені. Допоможіть."
 caps_economic_instabillity: "Економічний крах"
-caps_economic_instabillity_desc:0 "Following a prolonged period of fiscal crisis, our nation's economy has completely and utterly collapsed. Inflation runs rampant, research is impossible, and most new construction has ceased. It will take a long time for our economy to recover..." # (!)
+caps_economic_instabillity_desc: "Після тривалого періоду фінансової кризи економіка нашої держави зазнала цілковитого й остаточного краху. Інфляція лютує, наукові дослідження унеможливлено, а більшість нових будівельних проєктів зупинено. Мине чимало часу, перш ніж наша економіка зможе відновитися..."
 
 # Формати назв валют для інтерфейсу
 currencyncrdollar:0 "Долари НКР"

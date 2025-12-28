@@ -367,6 +367,9 @@ steelcivilians_desc:0 ""
 steelmilitia:0 "Міліція Сталі"
 steelmilitia_desc:0 ""
 
+BOS_buff_spirit: "Переваги від підкріплень із Лост-Гіллз"
+BOS_buff_spirit_desc: "Відновлення роботи Експедиційного департаменту в Лост-Гіллз спричинило хвилю підтримки на нашу адресу, що надало нам чимало вагомих переваг."
+
 powerarmourdevelopment:0 "Розробка силової броні"
 powerarmourdevelopment_desc:0 ""
 

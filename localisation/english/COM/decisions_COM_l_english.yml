@@ -20,3 +20,15 @@ COM_MDM_occupation_desc: "Нова окупаційна зона Калґарі 
 
 COM_vault_tec_program: "Проєкт «Граніт»"
 COM_vault_tec_program_desc: ""
+
+com_territorial_management: "Управління територіями"
+com_cede_syn_to_cac: "Передати землі §Y[SYN.GetFlag] [SYN.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_kam_to_cac: "Передати землі §Y[KAM.GetFlag] [KAM.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_whi_to_cac: "Передати землі §Y[WHI.GetFlag] [WHI.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_dre_to_cac: "Передати землі §Y[DRE.GetFlag] [DRE.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_brk_to_cac: "Передати землі §Y[BRK.GetFlag] [BRK.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_bel_to_cac: "Передати землі §Y[BEL.GetFlag] [BEL.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_hai_to_cac: "Передати землі §Y[HAI.GetFlag] [HAI.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_cede_vic_to_cac: "Передати землі §Y[VIC.GetFlag] [VIC.GetNameDef]§! державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"
+com_close_category: "Закрити §Y«Управління територіями»§!"
+com_governing_new_lands_tt: "Відкриває £decision_icon_small §Yрішення§! про передачу завойованих територій Каскадії державі §Y[CAC.GetFlag] [CAC.GetNameDef]§!"

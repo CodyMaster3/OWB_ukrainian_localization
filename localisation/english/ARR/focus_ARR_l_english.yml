@@ -360,3 +360,5 @@ chosen_one_ties: "Зв’язки Обраного"
 
 ###flags
 a_quiet_return:0 "Тихе Повернення"
+###Unit spawns###
+ARR_spawn_tribals_tt: "Відправляє §Oдві дивізії§! найкращих воїнів Арройо на передову!"

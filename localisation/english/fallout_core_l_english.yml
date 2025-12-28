@@ -15,7 +15,7 @@
   startup.100.t:0 "§RВідсутня ініціалізація країни§!"
   startup.100.d:0 "§RБУДЬ ЛАСКА, ПОВІДОМТЕ РОЗРОБНИКІВ. ЦЮ КРАЇНУ НЕ БУЛО НАЛЕЖНИМ ЧИНОМ ІНІЦІАЛІЗОВАНО!§! \nТЕҐ: [This.GetTag]\nДАТА: [This.GetDateText]\nІДЕОЛОГІЯ: [This.GetRulingIdeology]"
   FOCUS_FILTER_IDEAS: "Ідеї"
-  mod_version_label_tt: "Old World Blues 5.1.1a"
+  mod_version_label_tt: "Old World Blues 5.1.3b"
   add_state_population_tt:0 "§Y[THIS.GetName]§! §Oнаселення§! змінюється на [?pop_add|0+=].\n"
   add_state_population_no_state_name_tt:0 "§Oнаселення§! змінюється на [?pop_add|0+=].\n"
   add_random_agency_upgrade_tt:0 "Розблокує §Y[?random_agency_upgrade_amount]§! випадкові покращення агентства.\n"
