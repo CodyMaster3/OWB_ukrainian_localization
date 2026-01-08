@@ -5,6 +5,7 @@
   MENU_REDDIT:0 "Гляньте §YOWB§! в §RReddit§!!"
   MENU_SURVEY:0 "    £GFX_survey_tutorial                                                                                                                                                                       Увімкни §Y"Використати зовнішній браузер"§! в §Yналаштуваннях гри§! щоб узяти участь в опитуванні!"
 
+  5_1_2025_NEW_CONTENT_LABEL:0 " §RНОВИЙ ВМІСТ§!\n §OВолодіння Бика§!:\n   $BLC_ruler$\n   - $BCR_ruler$\n   - $YMP_ruler$\n   - $PNT_ruler$\n   $GLW_ruler$\n   $LUM_ruler$\n   $BAG_ruler$\n   $WHD_ruler$\n   Спільне дерево: Колорадо\n   - $TOB_ruler$\n   - $SLE_ruler$\n   - $CIP_ruler$\n   - $IRN_ruler$\n   Спільне дерево: Сховища\n   - $EXE_ruler$\n   Спільне дерево: Поселенці\n   - $EDA_ruler$\n   §gІнші зміни§!\n   §g- Доопрацювання для $ROB_ruler$§!\n   §g- Доопрацювання для $TTM_ruler$§!\n §OЮта§!:\n   $ORO_intellectuals$\n   §gІнші зміни§!\n   §g- Доопрацювання для $EAG_ruler$§!\n   §g- Доопрацювання для $WHT_ruler$§!\n   §g- Доопрацювання для $CLK_ruler$§!\n §OПівн. Співдружність§!:\n   $RCK_ruler$\n   §g- Доопрацювання для $VTS_ruler$§!"
   RULE_IMPROVERELATIONS_BLOCKED_TT:0 "§RПокращуйте відносині через події, рішення та фокуси§!."
   RULE_ALLOW_LICENSING_BLOCKED_FOR_AI_TT:0 "§RНемає ліцензій від ШІ§!."
   RULE_DISMANTLE_FACTION_BLOCKED_TT:0 "§RЗнищення фракцій за допомогою Подій/Рішень/Фокусів§!."
