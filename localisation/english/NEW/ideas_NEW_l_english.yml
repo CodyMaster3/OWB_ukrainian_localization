@@ -1,8 +1,8 @@
 ﻿l_english:
-  casinofunding:0 "Фінансування Казино"
+  casinofunding:0 "Фінансування казино"
   casinofunding_desc:0 ""
 
-  addictswork:0 "Нарики Пашуть"
+  addictswork:0 "Нарики пашуть"
   addictswork_desc:0 ""
 
   militaryoutposts:0 "Військові Фори"
@@ -17,7 +17,7 @@
   mordinos:0 "Мордіно"
   mordinos_desc:0 ""
 
-  empireofaddiction:0 "Імперія Залежності"
+  empireofaddiction:0 "Імперія залежності"
   empireofaddiction_desc:0 ""
 
   myronlegacy:0 "Спадок Майрона"
@@ -28,7 +28,7 @@
   granitecompany:0 "Компанія Граніта"
   granitecompany_desc:0 ""
 
-  houston_company:0 "Закон на Відкрите Носіння"
+  houston_company:0 "Закон на відкрите носіння"
   texas_technicians:0 "Випускники A&M"
 
   jetbeta:0 "Бета-Джет"
@@ -49,7 +49,7 @@
   modocslaves:0 "Раби з Модока"
   modocslaves_desc:0 ""
 
-  golgotharestored:0 "Голгофа Відновлена"
+  golgotharestored:0 "Голгофа відновлена"
   golgotharestored_desc:0 ""
 
   bishopbcfour:0 "Четверті Бішопи"
@@ -61,7 +61,7 @@
   renochurch:0 "Церква Нью-Ріно"
   renochurch_desc:0 ""
 
-  renospeakeasies:0 "Нелегальні Бари Ріно"
+  renospeakeasies:0 "Нелегальні бари Ріно"
   renospeakeasies_desc:0 ""
 
   newrenopolice:0 "Поліція Нью-Ріно"
@@ -79,85 +79,85 @@
   deal3:0 "Угода III"
   deal3_desc:0 ""
 
-  roaringbears:0 "Рикаючі Ведмеді"
-  roaringbears_desc:0 ""
+  roaringbears:0 "Рикаючі ведмеді"
+  roaringbears_desc: "Існує думка, що НКР не може дозволити собі утримувати таку армію. А ми — можемо."
 
-  hellhammers:0 "Молоти Пекла"
-  hellhammers_desc:0 ""
+  hellhammers:0 "Пекельні-молоти"
+  hellhammers_desc: "Коли «Пекельні молоти» йдуть у звільнення в Нью-Рино, люди починають зникати, а місто здригається від моторошних знахідок. Їхня вірність та майстерність варті того, щоб... заплющити очі на ці інциденти."
 
-  thraddimmortals:0 "Ланцюг, Що Зв’язує"
+  thraddimmortals:0 "Ланцюг, що зв’язує"
   thraddimmortals_desc:0 ""
 
-  capsforloyalty:0 "Кришки за Вірність"
+  capsforloyalty:0 "Кришки за вірність"
   capsforloyalty_desc:0 ""
 
-  renomilitarycouncil:0 "Військова Рада Ріно"
+  renomilitarycouncil:0 "Військова рада Ріно"
   renomilitarycouncil_desc:0 ""
 
-  enclavetechnician: "Іммiгрантські Технарі"
+  enclavetechnician: "Іммiгрантські технарі"
   enclavetechnician_desc: ""
 
-  oldstash:0 "Стара Схованка"
+  oldstash:0 "Стара схованка"
   oldstash_desc:0 ""
 
-  mutanttact:0 "Тактика Мутантів"
+  mutanttact:0 "Тактика мутантів"
   mutanttact_desc:0 ""
 
   genericmercs:0 "Мерси"
   genericmercs_desc:0 ""
 
-  debtwarriorsreno:0 "Боргові Воїни Ріно"
+  debtwarriorsreno:0 "Боргові воїни Ріно"
   debtwarriorsreno_desc:0 ""
 
-  debtwarriorsklameth:0 "Боргові Воїни Кламета"
+  debtwarriorsklameth:0 "Боргові воїни Кламета"
   debtwarriorsklameth_desc:0 ""
 
-  vengefulsons:0 "Мстиві Сини"
-  vengefulsons_desc:0 ""
+  vengefulsons:0 "Мстиві сини"
+  vengefulsons_desc: "Походячи переважно з племені кайбабів, «Мстиві сини» одержимі лише одним: ненавистю до підкорення. І Нью-Рино може використати це на свою користь."
 
   pabloconquistadors:0 "Конкістадори Пабло"
-  pabloconquistadors_desc:0 ""
+  pabloconquistadors_desc: "Вони поводяться надто зухвало, як на свій статус, але неможливо заперечити: використання Пабло чудової зброї дозволяє перемагати супротивників, які значно переважають їх числом."
 
-  junkcitygladiators:0 "Гладіатори Міста Лому"
-  junkcitygladiators_desc:0 ""
+  junkcitygladiators:0 "Гладіатори міста Джанксіті"
+  junkcitygladiators_desc: "Без списку системних змін важко сказати, як безпечно перепрограмувати «Гладіаторів». Наразі ми найняли людей, які виконують роль арена-анонсерів, щоб спрямовувати їх у потрібний бік."
 
   roadpsychos:0 "Дорожні Психи"
-  roadpsychos_desc:0 ""
+  roadpsychos_desc: "Чутки від «Пересмішника» повідомляють про гуркіт на сході. Якщо Вісімдесятники повернуться — «Дорожні психи» готові до цього навіть занадто сильно."
 
-  mastersnewarmy:0 "Нова Армія Творця"
+  mastersnewarmy:0 "Нова армія Творця"
   mastersnewarmy_desc:0 ""
 
-  guardiansnewworld:0 "Вартові Старого Світу"
+  guardiansnewworld:0 "Вартові старого світу"
 
-  vangraff_guns_rule: "Наші Найкращі Клієнти"
+  vangraff_guns_rule: "Наші найкращі клієнти"
   van_graff_advisors: "Радники Ван Ґраффів"
 
-  brokenideals:0 "Зруйновані Ідеали"
+  brokenideals:0 "Зруйновані ідеали"
   brokenideals_desc:0 ""
 
-  brokenideals2:0 "Зруйновані Ідеали"
+  brokenideals2:0 "Зруйновані ідеали"
   brokenideals2_desc:0 ""
 
-  brokenideals3:0 "Зруйновані Ідеали"
+  brokenideals3:0 "Зруйновані ідеали"
   brokenideals3_desc:0 ""
 
-  brokenideals4:0 "Контроль Над Мутантами"
+  brokenideals4:0 "Контроль над мутантами"
   brokenideals4_desc:0 ""
 
-  brokenidealsreject:0 "Єдиний Шлях"
+  brokenidealsreject:0 "Єдиний шлях"
   brokenidealsreject_desc:0 ""
 
-  brokenidealsreturn:0 "Мир і Процвітання"
+  brokenidealsreturn:0 "Мир і процвітання"
   brokenidealsreturn_desc:0 ""
 
-  ghostsofthenight:0 "Привиди Ночі"
+  ghostsofthenight:0 "Привиди ночі"
   ghostsofthenight_desc:0 ""
 
-  mutantsoldiers:0 "Мутанти-Солдати"
+  mutantsoldiers:0 "Мутанти-солдати"
   mutantsoldiers_desc:0 ""
 
-  furryfury:0 "Пухнаста Лють"
+  furryfury:0 "Пухнаста лють"
   furryfury_desc:0 ""
 
-  consensus:0 "Консенсус Химери"
+  consensus:0 "Консенсус химери"
   consensus_desc:0 ""

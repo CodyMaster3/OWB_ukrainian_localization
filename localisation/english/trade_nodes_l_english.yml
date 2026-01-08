@@ -117,7 +117,7 @@
 
 # Scripted Localisation:
  #Main node value pull
- main_node_value_has_tt: "\nГоловний §yекономічний вузол§! держави §L[This.Controller.GetName]§!: §G50%§!"
+ main_node_value_has_tt: "\nГоловний §yекономічний вузол§! держави §L[This.Controller.GetName]§!: §G25%§!"
  coast_value_has_tt: "\n Доступ до води: §G10%§!"
  string_trade_node_trade_route_button_text_selected: "§G[?trade_route_partner_node_name.GetName]§!"
  string_trade_node_trade_route_button_text_can_select: "Почати шлях"

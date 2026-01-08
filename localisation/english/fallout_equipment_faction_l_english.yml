@@ -697,6 +697,11 @@ HGH_explosive_demolitions_equipment_2_desc:0 "Тричі благословен�
   HRO_ballistic_equipment_4_short:0 "$ballistic_weaponry_tech_icon_4_g11_short$"
   HRO_ballistic_equipment_4_desc:0 "$ballistic_weaponry_tech_icon_4_g11_desc$"
 
+# HVR (Cult Of Liberty)
+ HVR_power_armor_equipment_3: "Відновлена T-45/APA \"Броня Свободи\""
+ HVR_power_armor_equipment_3_short: "Броня Свободи"
+ HVR_power_armor_equipment_3_desc: "Складена із залишків комплекту силової броні APA, прогалини в якому заповнені врятованими деталями T-45d, і пофарбована в кольори Ангела, Броня Свободи є найкращим спорядженням, яке ми можемо дати нашим Військовим жерцям. Одягнені у втрачену сталь Америки, ми стаємо нестримними!"
+ 
 # HXL (Hexie Lu)
 HXL_melee_equipment_3:0 "Офіцерський Меч"
 HXL_melee_equipment_3_short:0 "Офіцерський Меч"
@@ -758,6 +763,11 @@ IRN_power_armor_equipment_2_desc:0 "Тільки найвезучіші рейд
   KHA_ballistic_equipment_1_short:0 "$ballistic_weaponry_tech_icon_1_9mm_smg_short$"
   KHA_ballistic_equipment_1_desc:0 "$ballistic_weaponry_tech_icon_1_9mm_smg_desc$"
 
+  KHA_light_motorized_equipment_vehicle_tech_2: "Самітні Подорожні"
+  KHA_light_motorized_equipment_2: "Повністю відновлені \"Самітні Подорожні\""
+  KHA_light_motorized_equipment_2_short: "Самітні Подорожні"
+  KHA_light_motorized_equipment_2_desc: "Популярний мотоцикл у пустці серед тих, хто має бодай трохи технічних знань, хоча багатьом важко повністю відновити прискорювач, встановлений за сидінням. Хану, який справді хоче \"Залишити роботу позаду\", знадобиться додаткова швидкість, яку він дає. Багато хто також тюнінгує свій байк додатковою бронею, багажниками, встановленою зброєю або навіть колясками."
+  
   # LAC (Lanius's Cohort)
   LAC_melee_equipment_1:0 "$melee_weaponry_tech_icon_1_machete$"
   LAC_melee_equipment_1_short:0 "$melee_weaponry_tech_icon_1_machete_short$"
@@ -1746,6 +1756,11 @@ WHD_ces_two_tech_desc:0 "Модифікація старих авто з уст�
 WHD_armored_chariots_tech:0 "Рухомі бункери"
 WHD_armored_chariots_tech_desc:0 "Танки вже самі по собі грізна сила, але в пустці дуже мало хто здатен пробити нашу броню. Ще трохи вдосконалень – і ми станемо по-справжньому незупинними!"
 
+ WHD_robot_makeshift_automatons_tech: "Роботи-визволителі"
+ WHD_support_robot_scrap_equipment: "Роботи-визволителі"
+ WHD_support_robot_scrap_equipment_short: "Визволителі"
+ WHD_support_robot_scrap_equipment_desc: "Китайська розробка, створена для проникнення в тил та виснаження сил ворога. Хоча поодинці вони досить слабкі, їх можна легко сконструювати та розгорнути з мінімальними зусиллями. Орда таких роботів може швидко захопити непідготовлену позицію. На щастя, підводний човен, на якому прибув полковник Чжан, має справний виробничий цех для цієї моделі."
+  
 # WHT (Білоногі)
 WHT_melee_equipment_1:0 "$melee_weaponry_tech_icon_1_machete$"
 WHT_melee_equipment_1_short:0 "$melee_weaponry_tech_icon_1_machete_short$"
@@ -1904,10 +1919,6 @@ MDM_security_robot_securitron_equipment_1:0 "MDM-14a Маркетрон"
 MDM_security_robot_securitron_equipment_1_short:0 "MDM-14a Маркетрон"
 MDM_security_robot_securitron_equipment_1_desc:0 "Маркетрон (патент подано) – це розробка, яка з’явилася завдяки співпраці МАНІФЕСТ і власників Міддлмарку. Будьте певні, що це повністю оригінальна концепція, і будь-яку схожість із продукцією RobCo слід ігнорувати. Міддлмарк постійно пильнує, щоб зупинити крадіїв і зберегти низькі ціни для всіх наших гостей!"
 
-# WYR
-WYR_oregon_geckosupport:0 "Бойові Бігорнери"
-WYR_oregon_geckosupport_desc:0 "Бігорнери придатні не лише для м’яса. З невеликим дресируванням їхній інстинкт таранити можна використати, щоб вони бігли поряд з нашими солдатами та збивали ворогів з ніг. Або запускали їх у політ!"
-
 # ATM
 ATM_demolitions_equipment_1:0 "Коктейлі Молотова"
 ATM_demolitions_equipment_1_desc:0 "Кажуть, що потреба – мати винаходів, і цей класичний запальний засіб є доказом цієї істини. Використовуваний повстанцями й бунтівниками по всьому світу ще до Війни, ми почали виготовляти власні Молотови з підручних матеріалів: пляшки з-під Nuka-Cola, саморобні ґноти й самогон зі швидких перегонок. Це не дорівнює до Військових Вибухівок Старого Світу, але є щось прекрасне в тому, як заражена мерзота горить у святому вогні Порядку."
@@ -1966,6 +1977,52 @@ MIN_horse_equipment_2_desc:0 "Більша, ще надійніша тварюк
 MIN_horse_equipment_3:0 "Гогліни III"
 MIN_horse_equipment_3_short:0 "Гогліни III"
 MIN_horse_equipment_3_desc:0 "Найбільша, найсильніша, найнадійніша тварюка з Незеру."
+
+ #GAM (Gator Maws)
+ GAM_beast_creature_equipment_1: "Алігатори"
+ GAM_beast_creature_equipment_1_short: "Алігатори"
+ GAM_beast_creature_equipment_1_desc: ""
+ GAM_beast_creature_equipment_2: "Рад-алігатори"
+ GAM_beast_creature_equipment_2_short: "Рад-алігатори"
+ GAM_beast_creature_equipment_2_desc: ""
+ GAM_beast_creature_equipment_heavy: "Громіздкі рад-алігатори"
+ GAM_beast_creature_equipment_heavy_short: "Громіздкі рад-алігатори"
+ GAM_beast_creature_equipment_heavy_desc: ""
+ GAM_beast_creature_equipment_dusky: "Світні рад-алігатори"
+ GAM_beast_creature_equipment_dusky_short: "Світні рад-алігатори"
+ GAM_beast_creature_equipment_dusky_desc: ""
+ GAM_beast_creature_equipment_stalker: "Причаєні рад-алігатори"
+ GAM_beast_creature_equipment_stalker_short: "Причаєні рад-алігатори"
+ GAM_beast_creature_equipment_stalker_desc: ""
+ GAM_beast_creature_equipment_cloaked: "Невидигатори"
+ GAM_beast_creature_equipment_cloaked_short: "Невидигатори"
+ GAM_beast_creature_equipment_cloaked_desc: ""
+ GAM_deathclaw_equipment_1: "Молоді Гаторкігті"
+ GAM_deathclaw_equipment_1_short: "Молоді Гаторкігті"
+ GAM_deathclaw_equipment_1_desc: ""
+ GAM_deathclaw_equipment_2: "Гаторкігті"
+ GAM_deathclaw_equipment_2_short: "Гаторкігті"
+ GAM_deathclaw_equipment_2_desc: ""
+ GAM_deathclaw_equipment_3: "Люті Гаторкігті"
+ GAM_deathclaw_equipment_3_short: "Люті Гаторкігті"
+ GAM_deathclaw_equipment_3_desc: ""
+ GAM_deathclaw_special_equipment_1: "Смертощелепи"
+ GAM_deathclaw_special_equipment_1_short: "Смертощелепи"
+ GAM_deathclaw_special_equipment_1_desc: ""
+
+ #TOB (The Old Bones)
+ TOB_melee_equipment_1: "Дерев'яна палиця"
+ TOB_melee_equipment_1_short: "Дер. палиця"
+ TOB_melee_equipment_1_desc: "Війна… війна ніколи не змінюється."
+ TOB_melee_equipment_2: "Бойова палиця"
+ TOB_melee_equipment_2_short: "Бойова палиця"
+ TOB_melee_equipment_2_desc: "Виготовлена із загартованого червоного дерева та прикрашена племінними візерунками й орнаментами, ця палиця слугує знаменням, на яке мусять відповісти її вороги."
+ TOB_melee_equipment_3: "Дубина з арматури"
+ TOB_melee_equipment_3_short: "Арматура"
+ TOB_melee_equipment_3_desc: "Тупе знаряддя війни, здатне трощити черепи під вагою замаху."
+ TOB_melee_equipment_4: "Ядерна палиця"
+ TOB_melee_equipment_4_short: "Ядерна палиця"
+ TOB_melee_equipment_4_desc: "Війна змінилася."
 
 STC_ballistic_equipment_1: "Шаньсі Тип 17"
 STC_ballistic_equipment_1_short: "Пістолет Тип 17"

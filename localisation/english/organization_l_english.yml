@@ -56,6 +56,7 @@
 
 
  energy_runner_electric_research:0 "§YВан Ґраффи§!: торгівля знанням"
+ energy_runner_electric_research_bonus_tt:0 "§Y[GetEnergyRunnerName]'§!: Знання про торгівлю"
  energy_runner_greedy_kingpins:0 "§YВан Ґраффи§!: безжалісня експлуатація"
  energy_runner_family_vaults:0 "§YВан Ґраффи§!: сімейні сховища"
  energy_runner_entice:0 "Спокусити §YВан Ґраффів§! розширенням"

@@ -25,6 +25,7 @@ mxc_robot_city_2:0 "§1Забезпечити Контроль Усередин�
 mxc_robot_city_2_desc:0 "Ми наближаємось до джерела сигналу. Чим довше ми зволікаємо, тим довше ворожі роботи будуть реагувати на цей заклик."
 mxc_robot_city_interior_hh_factory:0 "§1Запустити Завод H&H Tool§!"
 mxc_robot_city_interior_sams_auto:0 "§1Розібрати Деталі на Сам's Auto Parts§!"
+mxc_robot_city_interior_sams_auto_bonus_tt:0 "Запасні частини та креслення від Sam's Auto Parts Bonus"
 mxc_robot_city_3:0 "§1Вигнати Докі§!"
 mxc_robot_city_3_desc:0 "Ми виявили штаб-квартиру загадкової «Докі». Щоб припинити цю загрозу, потрібно витіснити її та всіх роботів, які підкоряються її голосу."
 mxc_robot_city_4:0 "§1Захопити Докі§!"

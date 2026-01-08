@@ -129,3 +129,5 @@ blc_support_faction_mil_2_YMP:0 "(§Y[YMP.GetNameWithFlag]§!) Їхнє війс
 BLC_TTM_acception:0 "§GБогиня прийняла наші умови!§!"
 BLC_TTM_rejection:0 "§RБогиня відхилила нашу пропозицію!§!"
 blc_boulder_acces:0 "Надано доступ до Боулдера"
+
+blc_standardize_drills_bonus_tt:0 "Бонус за стандартизовані вправи"

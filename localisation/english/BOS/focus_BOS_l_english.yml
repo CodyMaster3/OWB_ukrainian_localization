@@ -998,7 +998,7 @@ bos_underground_construction_decisions_desc:0 "Максимально досту
 
 bos_paladin_soldiers_decisions:0 "Паладини Лост-Гілз"
 bos_paladin_soldiers_decisions_desc:0 ""
-
+BOS_paladin_deploy_tt:0 "Розгорнути роту паладинів"
 bos_expeditions_decisions:0 "Управління Експедиціями"
 bos_expeditions_decisions_desc:0 "Експедиційні паладини: [?BOS_paladins_expedition] \nЛюдський ресурс експедицій: [?BOS_expedition_troopers] \nНевикористані коди доступу: [?BOS_expedition_codes]\nОцінка готовності експедицій: [BOS_expedition_readiness_color_scripted_localization] \n------------------------------------\n Поточна ціль експедиції: \n[BOS_current_expedition_target]"
 

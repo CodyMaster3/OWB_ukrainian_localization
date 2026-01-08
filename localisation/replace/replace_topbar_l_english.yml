@@ -8,3 +8,8 @@
  MILITARY_FACTORIES_OCCUPATION_STATUS:0 "Захоплено Воєнних майстерень: §Y$COUNT$§!"
  NAVAL_FACTORIES_OCCUPATION_STATUS:0 "Захоплено верфів: §Y$COUNT$§!"
  CIVILIAN_FACTORIES_OCCUPATION_STATUS:0 "Захоплено цивільних майстерень: §Y$COUNT$§!"
+ TOPBAR_ENERGY_DEMAND:0 "Потреба в енергії: $DEMAND_VAL|H1$ ($ENERGY_RATIO|H1%$)"
+ TOPBAR_ENERGY_GENERATED:0 "Вироблено енергії: $ENERGY_GENERATED|H1$"
+ TOPBAR_COAL_CURRENTLY_USED:0 "Від §Y$COUNT$§! £resource_energy_small_texticon Енергії, що використовується наразі"
+ TOPBAR_MAXIMUM_ENERGY_GENERATED: "Макс. вироблено енергії: $ENERGY_GENERATED|H1$"
+ TOPBAR_TOTAL_COAL: "Від §Y$COUNT$§! £resource_energy_small_texticon Енергії, доступної для використання"

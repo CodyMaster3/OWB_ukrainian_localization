@@ -91,3 +91,12 @@
   STAT_COMMON_FUEL_CONSUMPTION_FACTOR_DESC:0 "Скільки енергоносіїв ця одиниця використовує під час виконання завдань. Просунуті наземні одиниці будуть використовувати енергомережі поки простоюють, але в бою, русі або тренуванні споживання збільшиться."
   STAT_COMMON_FUEL_CONSUMPTION_FACTOR_VALUE:0 "$VALUE|H2%$"
   STAT_COMMON_FUEL_CONSUMPTION_FACTOR_DIFF:0 " $VALUE|=-2%$"
+
+  alert_out_of_fuel_instant: "§HСкінчилося пальне§!"
+  alert_out_of_fuel_delayed_header: "Потрібно: §YЕнергія ($VALUE$)§!\nЕнергія необхідна для ефективної роботи автотранспорту, роботів, літаків та кораблів."
+
+  alert_lack_of_power_instant: "§HНедостатньо енергії§!"
+  alert_lack_of_power_delayed_header: "У нас є $COAL|R$£resource_energy_small_texticon Енергії \nПотреби промисловості в енергії задоволені на $PERCENTAGE|.0H%$, що має такі наслідки:"
+  alert_lack_of_power_delayed_civ: "Кожна £civ_factory Цивільна майстерня надає на $VALUE|H$ £civ_factory_output менше, а модифікатор швидкості будівництва знижено на $PERCENTAGE|.0R%$"
+  alert_lack_of_power_delayed_mil: "Кожна £mil_factory Збройова майстерня надає на $VALUE|H$ £production_cost менше, а модифікатор продуктивності заводів знижено на $PERCENTAGE|.0R%$"
+  alert_lack_of_power_delayed_nav: "Кожна £nav_dockyard_texticon Військово-морська верф надає на $VALUE|H$ £navprod_cost менше, а модифікатор продуктивності верфей знижено на $PERCENTAGE|.0R%$"

@@ -6,3 +6,26 @@
   ai_reason_wants_ally: "На скільки сильно вони хочуть союзу"
   ai_reason_enemy_exposure: "На скільки цей альянс буде корисний проти їх ворогів"
   ai_reason_world_tension: "На скільки небезпечний світ"
+
+  ALL_FACTION_MEMBERS_INFLICTED_15K_CASUALTIES: "§YКожен член альянсу§!, що завдав ворогу понад 15 000 втрат:"
+  ALL_FACTION_MEMBERS_TRADE_NODES: "§YКожен член альянсу§!, що має принаймні один торговий вузол:"
+  ALL_FACTION_MEMBERS_VAULTS: "§YКожен член альянсу§!, що дослідив принаймні одне Сховище"
+  AT_LEAST_5_GENERATORS: "§YКожен член альянсу§!, що має принаймні 5 $electricity_generator$§!"
+
+  GOAL_NODES_TRIGGER_A: "Торгових вузлів в альянсі ($LEFT|0H$) більше ніж $RIGHT|0H$"
+  GOAL_VAULTS_TRIGGER_A: "Сховищ, досліджених альянсом ($LEFT|0H$), щонайменше 5"
+
+  market_domination_goal_name: "Ринкове домінування"
+  market_domination_goal_desc: ""
+
+  vault_tec_calling_goal_name: "Волт-Тек кличе!"
+  vault_tec_calling_goal_desc: ""
+
+  control_hoover_dam_goal_name: "Контроль над Дамбою Гувера"
+  control_hoover_dam_goal_desc: ""
+
+  electrify_the_wasteland_goal_name: "Електрифікація Пустки"
+  electrify_the_wasteland_goal_desc: ""
+  #Cosmetics
+  RRG_USM_faction:0 "Сполучені Штати Мексики"
+  TEX_todds_faction:0 "Техас(TM) Економічний Союз"

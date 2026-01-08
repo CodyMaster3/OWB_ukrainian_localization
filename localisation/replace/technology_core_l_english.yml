@@ -45,6 +45,26 @@ fallout_engineering_folder_desc:0 "Більшість електроніки т�
 fallout_tech_tribal_folder:0 "Племена"
 fallout_tech_tribal_folder_desc:0 "Унікальні технології для племінних суспільств."
 
+  fallout_perks_doctrine_folder:0 "Навички"
+  fallout_perks_doctrine_folder_desc:0 "Витрачайте свій досвід на корисні навички!"
+
+  fallout_naval_doctrine_folder:0 "Морська доктрина"
+  fallout_naval_doctrine_folder_desc:0 "Величезні періоди історії людських війн визначалися битвами у відкритому морі. Хоча річки та озера, де діє більшість фракцій, — це не зовсім той самий виклик, відновлення історичних знань про морські конфлікти (або винахід нових тактик) може виявитися критично важливим для нашої справи."
+
+  fallout_air_doctrine_folder:0 "Повітряна доктрина"
+  fallout_air_doctrine_folder_desc:0 "Людство знало силу польоту лише кілька століть, і майже по всій Пустці знання про те, як люди воювали в повітрі, втрачено. Відновлення цих знань або навіть створення наших власних може стати нам у пригоді під час повітряних боїв."
+
+ #----------------------------
+ # Doctrine Tabs titles
+ #----------------------------
+  land_doctrine_folder:0 "Шукайте доктрини у дослідженнях!"
+  air_doctrine_folder:0 "Шукайте доктрини у дослідженнях!"
+  naval_doctrine_folder:0 "Шукайте доктрини у дослідженнях!"
+  special_forces:0 "Неактивно"
+  special_forces_doctrine: "Неактивно"
+  special_forces_doctrine_folder: "Неактивно"
+  special_forces_doctrine_folder_desc: ""
+
 #----------------------------
 # Заголовки
 #----------------------------
@@ -175,14 +195,23 @@ handy_support_robot_tech_category:0 "Універсальні роботи"
 
 ## істоти ##
 burrowing_tech_access_tech:0 "Приручення риючих істот"
+burrowing_tech_access_tech_desc:0 "Наказуйте тим, що мешкають у земних надрах."
 insect_tech_access_tech:0 "Приручення комах"
+insect_tech_access_tech_desc:0 "Нескінченні скреготливі рої виконують ваші накази."
 amphibious_tech_access_tech:0 "Приручення амфібій"
-deathclaw_tech_access_tech:0 "Виведення когтів смерті"
-deathclaw_civilization_access_tech:0 "Гнізда когтів смерті"
+amphibious_tech_access_tech_desc:0 "Прикличте темряву з глибин."
+deathclaw_tech_access_tech:0 "Виведення кігтів смерті"
+deathclaw_tech_access_tech_desc:0 "Найдосконаліше створіння Пустки."
+deathclaw_civilization_access_tech:0 "Гнізда кігтів смерті"
+deathclaw_civilization_access_tech_desc:0 "Величні мисливські зграї знищать ваших ворогів."
 deathclaw_alphas_access_tech:0 "Зграї під проводом альф"
+deathclaw_alphas_access_tech_desc:0 "Найсмертоносніші хижаки на двох ногах."
 feral_tech_access_tech:0 "Приборкання диких гулів"
+feral_tech_access_tech_desc:0 "Хоча розум давно полишив їх, тіла їхні йдуть за сяйвом."
 beast_tech_access_tech:0 "Приручення бойових звірів"
+beast_tech_access_tech_desc:0 "Відколи людина вперше приручила звіра, вона намагалася використати його у війні."
 gecko_tech_access_tech:0 "Приручення геконів"
+gecko_tech_access_tech_desc:0 "Вони малі, та їхня нестримна лють — видовище, варте уваги."
 creatures_tech_category:0 "Технології приручення істот"
 burrowers_tech_category:0 "Риючі істоти"
 insect_tech_category:0 "Комахи"

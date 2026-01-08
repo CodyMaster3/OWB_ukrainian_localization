@@ -119,3 +119,5 @@ exploitation_tech_level_scientific_desc:0 ""
 
 blocked_tech_level:0 "Технологія Недоступна"
 blocked_tech_level_desc:0 ""
+blocked_unit_tech:0 "Неможливо дослідити"
+blocked_unit_tech_desc:0 ""

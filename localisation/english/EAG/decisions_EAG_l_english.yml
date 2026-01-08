@@ -36,6 +36,8 @@ eag_no_caesar:0 "§Y$CES_CAESAR_NAME$§! не є лідером країни а�
 eag_try_to_join_ncn:0 "Спробувати приєднатись до $mormon_alliance$"
 eag_try_to_join_tex:0 "Спробувати приєднатись до $texan_economic_union$"
 eag_try_to_join_rrg:0 "Спробувати приєднатись до $rio_pact$"
+eag_elites_tooltip:0 "При владі має бути Еліта щоб відкрити це рішення."
+eag_people_tooltip:0 "При владі має бути Народ щоб відкрити це рішення."
 
 # Товари
 eag_scrap_metal:0 "Металобрухт"
