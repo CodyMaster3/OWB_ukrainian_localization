@@ -521,6 +521,16 @@
   modifier_army_sub_unit_category_vehicles_speed_factor:0 "Швидкість моторизації"
   modifier_army_sub_unit_category_vehicles_max_org_factor:0 "Організація моторизації"
 
+  modifier_army_sub_unit_category_motorized_attack_factor:0 "Атака моторизованих підрозділів"
+  modifier_army_sub_unit_category_motorized_defence_factor:0 "Захист моторизованих підрозділів"
+  modifier_army_sub_unit_category_motorized_speed_factor:0 "Швидкість моторизованих підрозділів"
+  modifier_army_sub_unit_category_motorized_max_org_factor:0 "Організація моторизованих підрозділів"
+
+  modifier_army_sub_unit_category_anti_tank_attack_factor:0 "Атака протитанкових підрозділів"
+  modifier_army_sub_unit_category_anti_tank_defence_factor:0 "Захист протитанкових підрозділів"
+  modifier_army_sub_unit_category_anti_tank_speed_factor:0 "Швидкість протитанкових підрозділів"
+  modifier_army_sub_unit_category_anti_tank_max_org_factor:0 "Організація протитанкових підрозділів"
+
   modifier_army_sub_unit_category_support_attack_factor:0 "Атака підтримки"
   modifier_army_sub_unit_category_support_defence_factor:0 "Захист підтримки"
   modifier_army_sub_unit_category_support_speed_factor:0 "Швидкість підтримки"
