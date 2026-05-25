@@ -693,6 +693,14 @@
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED: "Вимкнути систему кришок"
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED_DESC: "Система кришок буде повністю вимкнена."
 
+ RULE_RAIDS_SYSTEM_TOGGLE:0 "Перемикач системи рейдів"
+ RULE_RAIDS_SYSTEM_TOGGLE_DEFAULT:0 "Стандартна система рейдів"
+ RULE_RAIDS_SYSTEM_TOGGLE_DEFAULT_DESC:0 "Систему рейдів зможуть використовувати незалежні рейдерські держави, а цілями можуть бути лише держави, що не є чиїмись маріонетками."
+ RULE_RAIDS_SYSTEM_TOGGLE_DISABLED:0 "Вимкнути систему рейдів"
+ RULE_RAIDS_SYSTEM_TOGGLE_DISABLED_DESC:0 "Система рейдів буде повністю вимкнена."
+ RULE_RAIDS_SYSTEM_TOGGLE_UNRESTRICTED:0 "Необмежені рейди"
+ RULE_RAIDS_SYSTEM_TOGGLE_UNRESTRICTED_DESC:0 "Рейди будуть необмеженими, їх зможуть використовувати навіть залежні держави. Це може призвести до непередбачуваних наслідків і багів, вмикайте на свій страх і ризик."
+  
  RULE_ALLOW_TECH_ADVANCEMENTS: "Дозвіл на технологічний прогрес"
  RULE_OPTION_TECH_STANDARD: "Стандартні правила технологій"
  RULE_OPTION_TECH_STANDARD_DESC: "Стандартне правило гри: ваші племена не зможуть будувати просунуту силову броню після 6 років."
@@ -1281,7 +1289,7 @@
  RULE_AI_BEHAVIOR_IRN_BLACKROCK:0 "Блекрок"
  RULE_AI_BEHAVIOR_IRN_BLACKROCK_DESC:0 "Кулежер або приєднається до торговців Пенітенціарію на заході, або врятує їх від тих, хто володіє Пенітенціарієм."
  RULE_AI_BEHAVIOR_IRN_REAVERS:0 "Рух Ріверів"
- RULE_AI_BEHAVIOR_IRN_REAVERS_DESC:0 "Кулежер поведе своїх людей до повного прийняття металевої віри Руху Ріверів."
+ RULE_AI_BEHAVIOR_IRN_REAVERS_DESC:0 "Буллітітер поведе своїх людей, щоб приєднатися до Торгової ліги Платт."
 
  RULE_AI_BEHAVIOR_BLC:0 "@BLC Чорний Каньйон"
  RULE_AI_BEHAVIOR_BLC_DEFAULT:0 "За замовчуванням"
@@ -1517,7 +1525,7 @@
  DAKOTAS_DEATHMATCH_OUTCOME_HST:0 "@HST Історики перемагають"
  DAKOTAS_DEATHMATCH_OUTCOME_HST_DESC:0 "Історики відіб'ють агресію Ваґнера і сформують Академіків."
  DAKOTAS_DEATHMATCH_OUTCOME_BIS:0 "@BIS Бісмарк перемагає"
- DAKOTAS_DEATHMATCH_OUTCOME_BIS_DESC:0 "Нащадки Німеччини знатимуть, як впоратися з горе-завойовником."
+ DAKOTAS_DEATHMATCH_OUTCOME_BIS_DESC:0 "Дакота відчує на собі гнів судового пристава"
  DAKOTAS_DEATHMATCH_OUTCOME_RMT:0 "@RMT Чотири Отці перемагають"
  DAKOTAS_DEATHMATCH_OUTCOME_RMT_DESC:0 "Племена Рашмора знову отримають благословення своїх богів!"
  DAKOTAS_DEATHMATCH_OUTCOME_SOH:0 "@SOH Мечі Хеймана перемагають"

@@ -1,0 +1,36 @@
+﻿l_english:
+## Decision Categories
+SUN_internal_struggles:0 "Внутрішня боротьба"
+SUN_actions_against_lanius:0 "Дії проти Ланія"
+SUN_oroboros_aid:0 "Воїни проти Ланія"
+SUN_baggers_aid:0 "Допомога проти Бика"
+
+# Decisions
+sun_accepting_moon_worshipers:0 "Прийняття шанувальників Місяця"
+sun_accepting_moon_worshipers_desc:0 "Лупа прагне отримати більший контроль над племенем. Ми могли б піти назустріч цій майбутній месії."
+sun_embracing_moon_worshipers:0 "Підтримка шанувальників Місяця"
+sun_embracing_moon_worshipers_desc:0 "Благословіть Вовчу королеву! Настав час їй посісти своє місце під місячним сяйвом."
+sun_reinforcing_golds_authority:0 "Зміцнення авторитету Золотопса"
+sun_reinforcing_golds_authority_desc:0 "З огляду на нещодавню долю племені Лямбда та Довгих Ножів, Золотопес прагне відновити контроль над своїм племенем. Ми могли б довіритися цьому месії минулого."
+sun_confronting_lupa:0 "Протистояння Лупі"
+sun_confronting_lupa_desc:0 "Вплив Лупи тривав занадто довго, і настав час їй пакувати валізи та йти геть. Вона нам більше не потрібна: Ланій ніколи не зможе нас перемогти!"
+
+SUN_mercenaries_for_santa:0 "Хрестоносці для Архідієцезії"
+SUN_mercenaries_for_mother:0 "«Дядьки» для Діани"
+SUN_soldiers_for_summers:0 "Солдати для Саммерса"
+
+ORO_warriors_for_scorpions:0 "Воїни для Скорпіонів"
+ORO_warriors_for_scorpions_desc:0 "Легіон іде на Бастіон. Їх потрібно зупинити."
+ORO_warriors_for_maxson:0 "Воїни для Мексона"
+ORO_warriors_for_maxson_desc:0 "Легіон протистоїть Братству Сталі. Їх потрібно зупинити."
+ORO_warriors_for_hangdog:0 "Воїни для Гончих"
+ORO_warriors_for_hangdog_desc:0 "Легіон розжирів. Його потрібно роздерти на шматки!"
+
+BAG_request_the_ncr:0 "Петиція до НКР"
+BAG_request_the_ncr_desc:0 "Якщо застереження Лупи правдиві, ми повинні негайно зв'язатися з Каліфорнією і викликати сюди війська!"
+BAG_forces_for_burk:0 "Сили для Берка"
+BAG_forces_for_burk_desc:0 "Звісно, Берк та його бійці — рейдери, але ними керує Послідовник, якого можна наставити на шлях істинний..."
+BAG_forces_for_maxson_chapter:0 "Сили для капітулу Мексона"
+BAG_forces_for_maxson_chapter_desc:0 "Конгрес влаштує з цього справжній скандал. Проте це не має значення — вони потребують нашої підтримки!"
+BAG_forces_for_bares_his_teeth:0 "Сили для Вишкіра"
+BAG_forces_for_bares_his_teeth_desc:0 "Можливо, вони й витіснили нас із Денвера, але їм потрібна наша допомога проти Ланія. Вони кращі за Легіон, хоча й ненабагато."

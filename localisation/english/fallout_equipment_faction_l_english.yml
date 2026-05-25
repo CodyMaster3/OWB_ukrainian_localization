@@ -611,6 +611,11 @@ GRA_power_armor_equipment_2:0 "Кінська Силова Броня"
 GRA_power_armor_equipment_2_short:0 "Horse PA"
 GRA_power_armor_equipment_2_desc:0 "Годі скакати дурня. І-го-го."
 
+#GRD (Guardian Brotherhood)
+GRD_power_armor_equipment_5:0 "Силова броня T-51c"
+GRD_power_armor_equipment_5_short:0 "СБ T-51c"
+GRD_power_armor_equipment_5_desc:0 "Розроблена як мобільна, десантна модифікація технічно вражаючої T-51b, мобільна силова броня T-51c зазвичай використовувалася 2-ми окупаційними силами в долині Есмеральда. Догматичні нащадки цих солдатів продовжили використовувати цю унікальну модифікацію броні як стандартну модель для найвпливовіших та найвідданіших представників свого духовенства."
+  
 # HAN/WDN (Warden/Hangdogs)
 HAN_energy_equipment_1:0 "$energy_weaponry_tech_icon_1_compliance_regulator$"
 HAN_energy_equipment_1_short:0 "$energy_weaponry_tech_icon_1_compliance_regulator_short$"

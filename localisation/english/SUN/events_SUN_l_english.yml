@@ -11,6 +11,10 @@
  nf_sun_dog.2.option.a:0 "«У Царство Гекати»"
  nf_sun_dog.2.option.b:0 "«До Ґоддарда і його "каліфорнійців"»"
  nf_sun_dog.2.option.c:0 "«До Псів Півночі»"
+ 
+ nf_sun_dog.3.t:0 "The Wolf Queen Arrives"
+ nf_sun_dog.3.desc:0 "A woman claiming to be "The Queen of Wolves" has arrived in our camp. She is intent on assisting us and our people against the Legion."
+ nf_sun_dog.3.option.a:0 "Allow her Entrance...for now."
 
  nf_sun_dog.4.t:0 "Попередження Ґоддарда"
  nf_sun_dog.4.desc:0 "Кур'єр із Колорадо дістався Конгресу з посланням від Експедиції Беґґерів. Він стверджує, що колишній раб Легіону прибув до його табору і приніс тривожні новини: Легіон вторгається в Колорадо. Він просить надати військові сили для допомоги людям Колорадо та Каліфорнії у боротьбі проти Легіону, відкривши ще один фронт. Чи погодимося ми?"
