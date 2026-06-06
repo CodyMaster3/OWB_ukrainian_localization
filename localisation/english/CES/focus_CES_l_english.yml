@@ -5,13 +5,15 @@
 FOCUS_FILTER_GLORY_VULPES:0 "Шлях Вульпеса"
 FOCUS_FILTER_GLORY_MALPAIS:0 "Шлях Малпаїса"
 FOCUS_FILTER_GLORY_AURELIUS:0 "Шлях Аурелія"
-FOCUS_FILTER_GLORY_LUCIUS:0 "Шлях Луція"
+FOCUS_FILTER_GLORY_LUCIUS:0 "Шлях Луція — Сини Цезаря"
+FOCUS_FILTER_GLORY_LUCIUS_VULCAN:0 "Шлях Луція — Сини Вулкана"
 FOCUS_FILTER_GLORY_CAESAR:0 "Шлях Цезаря"
 FOCUS_FILTER_GLORY_LANIUS:0 "Шлях Ланія"
 FOCUS_FILTER_GLORY_EAST:0 "Шлях Сходу"
-FOCUS_FILTER_NAVAJO:0 "Дипломатія з Навахо"
+FOCUS_FILTER_NAVAJO:0 "Лояльні Навахо"
 FOCUS_FILTER_GENTE:0 "Дипломатія з Хенте Дель Соль"
 FOCUS_FILTER_UTAH:0 "Дипломатія з Ютою"
+FOCUS_FILTER_AUX:0 "Дипломатичні відносини з Ауксіляріями"
 
 ces_expedition_to_blackfoot:0 "Експедиція до Чорноногих"
 ces_expedition_to_blackfoot_desc:0 "Експедиція до племені Чорноног стала визначальною подією в історії Легіону. Це плем’я стало основою великого Легіону Цезаря, і саме у вогні війни з цими дикунами загартувалась залізна воля Цезаря."
@@ -931,8 +933,6 @@ ces_temple_of_shottol_desc:0 "Тепер, коли ми допустили бо�
 
   ces_phoenix_standard:0 "Феніксів стандарт"
   ces_phoenix_standard_desc:0 "Багато хто думав, що Легіон мертвий після падіння Цезаря. Але ми повернулися. І станемо сильнішими, ніж будь-коли!"
-
-  phoenix_tech:0 "Уроки Фенікса"
 
   ces_reign_of_fire:0 "Правління вогню"
   ces_reign_of_fire_desc:0 "Золото – купцеві, срібло – дівчині, мідь – майстру, вправному у своїй справі. \"Добре!\" – сказав король, сміючись у своїй залі. – \"Але всім керуватиме вогонь, палючий вогонь!\""

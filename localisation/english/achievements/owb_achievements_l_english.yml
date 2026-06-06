@@ -1,4 +1,6 @@
 ﻿l_english:
+
+old_world_blues_profile:0 "Old World Blues"
 # Правила гри:
 RULE_ALLOW_OWB_CUSTOM_ACHIEVEMENTS:0 "Користувацькі Досягнення"
 RULE_ALLOW_OWB_CUSTOM_ACHIEVEMENTS_ENABLED:0 "Увімкнено"
@@ -155,7 +157,7 @@ owb_achievement_deus_vult_NAME:0 "Deus Vult"
 owb_achievement_deus_vult_DESC:0 "Граючи за @HEA §YНебесну Браму§!, захопити §Y$STATE_253$§! та §Y$STATE_520$§!."
 
 owb_achievement_rangers_wrath_NAME:0 "Гнів Рейнджерів"
-owb_achievement_rangers_wrath_DESC:0 "Граючи за @DES §YНевірних Рейнджерів§!, володіти §Y$STATE_520$§!, §Y$STATE_518$§! та §Y$STATE_519$§!."
+owb_achievement_rangers_wrath_DESC:0 "Граючи за @DES §YНевірних Рейнджерів§! або @COW §YКраїною ковбоїв§!, володіти §Y$STATE_520$§!, §Y$STATE_518$§! та §Y$STATE_519$§!."
 
 owb_achievement_baja_california_sir_NAME:0 "Баха Каліфорнія, Сер"
 owb_achievement_baja_california_sir_DESC:0 "Граючи за @BJS §YШтат Баха§!, захопити §Y$STATE_253$§!."
@@ -370,8 +372,8 @@ owb_achievement_break_the_cycle_DESC:0 "Граючи за @DLN §YГерцогс
 owb_achievement_pax_brittanica_NAME:0 "Pax Brittanica"
 owb_achievement_pax_brittanica_DESC:0 "Граючи за @BRA §YКоролівство Манітоба§!, контролювати всі осердя @MCA §YМакартура§! та @COM §YПіонерської Компанії§!."
 
-owb_achievement_freedom_generally_NAME:0 "Свобода Як Така"
-owb_achievement_freedom_generally_DESC:0 "Граючи за §YГенерала Свободу§!, приєднатися до §YДругої Коаліції§! і забезпечити, щоб §YМанітоба§! не існувала."
+owb_achievement_freedom_generally_NAME:0 "Свобода як така"
+owb_achievement_freedom_generally_DESC:0 "Граючи за §YГенерала Фрідома§!, забезпечити звільнення територій §YМанітоби§! американсько-канадськими військами."
 
 owb_achievement_great_stampede_NAME:0 "Малюк Помщений"
 owb_achievement_great_stampede_DESC:0 "Граючи за @STA §YВелике Стадо§!, відправити §YМері Малліґан§! із @VSH §YПристанища§! на дно."

@@ -3,6 +3,6 @@ BOS_LEDGER_INFO: "[THIS.GetNameWithFlag]\n  §YДивізії:§! [?THIS.num_div
 
 BOS_LEDGER_INFO_OFFMAP: "Назва: [THIS.GetName]\n$bos_not_ready_tt$"
 
-BOS_LEDGER_INFO_DESTROYED: "Назва: [THIS.GetName]\n§RЛоялісти переховуються.§!"
+BOS_LEDGER_INFO_DESTROYED: "Назва: [THIS.GetName]\n§RРешта лоялістів переховуються.§!"
 
 BOS_LEDGER_INFO_CONTROLLED: "Назва: [THIS.GetName]\n§GМи інтегрували це відділення!§!"

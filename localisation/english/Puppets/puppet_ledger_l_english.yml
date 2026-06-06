@@ -1,0 +1,40 @@
+﻿l_english:
+# GUI:
+  PUPPET_LEDGER_TITLE:0 "Реєстр маріонеток"
+  PUPPET_LEDGER_ENTRY_FLAG_TT:0 "§GНатисніть§!, щоб відцентрувати карту на їхньому столичному регіоні (§Y[This.Capital.GetName]§!)."
+  PUPPET_LEDGER_PP_TT:0 "§YПолітична влада§! \nЗміна влади: [?political_power_daily|2+] на день. \nБазове значення: §Y2.00§!"
+  PUPPET_LEDGER_STABILITY_TT:0 "§YСтабільність§! \nПоточна стабільність: [This.GetPuppetLedgerStabilityColor][?stability|2%]§!"
+  PUPPET_LEDGER_WAR_SUPPORT_TT:0 "§YПідтримка війни§! \nПоточна підтримка війни: [This.GetPuppetLedgerWarSupportColor][?has_war_support|2%]§!"
+  PUPPET_LEDGER_MANPOWER_TT:0 "§YЛюдські ресурси§! \nВільні людські ресурси: §Y[This.GetPuppetLedgerManpower]§! \nВикористані людські ресурси: §Y[This.GetPuppetLedgerUsedManpower]§! \n   - На навчанні: §Y[This.GetPuppetLedgerManpowerInTraining]§! \n\nУсього людських ресурсів: §Y[This.GetPuppetLedgerMaxAvailableManpower]§! \nДоступно §Y[?modifier@conscription|2%]§! від придатного національного населення (§Y[This.GetPuppetLedgerMaxManpower]§!) [This.GetPuppetLedgerConscriptionFactor]"
+  PUPPET_LEDGER_INDUSTRIAL_CAPACITY_TT:0 "§YФабрики§! \nЗбройові майстерні у використанні: §Y[?military_factories_in_use|0]§!/§Y[?num_of_military_factories|0]§! \nВійськово-морські верфі у використанні: §Y[?naval_factories_in_use|0]§!/§Y[?num_of_naval_factories|0]§! \nЦивільні майстерні у використанні: §Y[?civilian_factories_in_use|0]§!/§Y[?num_of_civilian_factories|0]§!"
+  PUPPET_LEDGER_FUEL_TT:0 "§YЕнергокомірки§!"
+  PUPPET_LEDGER_NAVY_TT:0 "§YФлот§! \nПоточна кількість кораблів: §Y[?num_of_ships|0]§!"
+  PUPPET_LEDGER_CONSCRIPTION_LAW_TT:0 "§YЗакон про призов§! \nПоточний закон про призов — §Y[This.GetConscriptionLawName]§!, за яким призивається §Y[This.GetConscriptionLawPercentage]§! національного населення."
+
+  # Scripted Localisation:
+  string_green:0 "§G"
+  string_yellow:0 "§Y"
+  string_red:0 "§R"
+
+  string_puppet_ledger_conscription_factor:0 "\n\nЕфективна загальна чисельність людського ресурсу, скоригована до §Y[?conscription_factor_temp|0%]§!."
+  tax_country_cooldown:0 "Нещодавно оподаткована маріонетка"
+
+  PuppetManpowerKey:0 "[?manpower|0]"
+  PuppetManpowerKeyThousands:0 "[?manpower_k|2]K"
+  PuppetManpowerKeyFinal:0 "[?manpower_temp|2]M"
+
+  PuppetUsedManpowerKey:0 "[?used_manpower_temp|0]"
+  PuppetUsedManpowerKeyThousands:0 "[?used_manpower|2]K"
+  PuppetUsedManpowerKeyFinal:0 "[?used_manpower_temp|2]M"
+
+  PuppetMaxAvalManpower:0 "[?max_available_manpower|0]"
+  PuppetMaxAvalManpowerThousands:0 "[?max_available_manpower_k|2]K"
+  PuppetMaxAvalManpowerFinal:0 "[?max_available_manpower_k_temp|2]M"
+
+  PuppetMaxManpowerKey:0 "[?max_manpower|0]"
+  PuppetMaxManpowerKeyThousands:0 "[?max_manpower_k|2]K"
+  PuppetMaxManpowerKeyFinal:0 "[?max_manpower_k_temp|2]M"
+  
+  PuppetDeploymentManpowerKey:0 "[?amount_manpower_in_deployment_queue|0]"
+  PuppetDeploymentManpowerKeyThousands:0 "[?amount_manpower_in_deployment_queue_temp|2]K"
+  PuppetDeploymentManpowerKeyFinal:0 "[?amount_manpower_in_deployment_queue_temp|2]M"

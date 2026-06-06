@@ -1,71 +1,84 @@
 ﻿l_english:
 
-autonomy_convert:0 "Обернуті"
-autonomy_brother_in_the_faith:0 "Брат у Вірі"
-autonomy_child_in_the_faith:0 "Дитя Віри"
+autonomy_convert:0 "Навернений"
+ autonomy_brother_in_the_faith:0 "Брат у вірі"
+ autonomy_child_in_the_faith:0 "Дитя у вірі"
 
-autonomy_client_tribe:0 "Клієнтська держава"
-autonomy_legion_vassal:0 "Васал Легіону"
-autonomy_tributary:0 "Трибутарій"
+ #
+ autonomy_client_tribe:0 "Клієнтська держава"
+ autonomy_legion_vassal:0 "Васал Легіону"
+ autonomy_tributary:0 "Данник"
 
-autonomy_free_state:0 "Вільна держава"
-autonomy_protected_state:0 "Підпротекторна держава"
-autonomy_unincorporated_territory:0 "Неінкорпорована територія"
-autonomy_incorporated_territory:0 "Інкорпорована територія"
+ #
+ autonomy_free_state:0 "Вільна держава"
+ autonomy_protected_state:0 "Захищена держава"
+ autonomy_unincorporated_territory:0 "Неінкорпорована територія"
+ autonomy_incorporated_territory:0 "Інкорпорована територія"
 
-autonomy_brotherhood_protectorate:0 "Протекторат Братства"
-autonomy_brotherhood_dependency:0 "Залежність Братства"
-autonomy_brotherhood_initiate:0 "Послушник Братства"
-autonomy_initiate_chapter:0 "Новачковий розділ"
+ #
+ autonomy_brotherhood_protectorate:0 "Протекторат Братства"
+ autonomy_brotherhood_dependency:0 "Залежна територія Братства"
+ autonomy_brotherhood_initiate:0 "Послушник Братства"
+ autonomy_initiate_chapter:0 "Капітул послушників"
 
-autonomy_enclave_occupation:0 "Федеральна Окупаційна Територія"
-autonomy_enclave_reservation:0 "Федеральна Резервація"
-autonomy_enclave_protectorate:0 "Протекторат Анклаву"
-autonomy_enclave_state:0 "Федеральний Штат"
+ #
+ autonomy_enclave_occupation:0 "Федеральна окупована територія"
+ autonomy_enclave_reservation:0 "Федеральна резервація"
+ autonomy_enclave_protectorate:0 "Протекторат Анклаву"
+ autonomy_enclave_state:0 "Федеральний штат"
 
-autonomy_little_city:0 "Маленьке Місто"
+ #
+ autonomy_little_city:0 "Мале місто"
 
-autonomy_courtyard_state:0 "Двірцева Держава"
-autonomy_council_state:0 "Радна Держава"
-autonomy_vault_territory:0 "Територія Сховища"
+ autonomy_courtyard_state:0 "Штат Передмістя"
+ autonomy_council_state:0 "Штат Ради"
+ autonomy_vault_territory:0 "Територія Сховища"
 
-autonomy_brotherhood_slave:0 "Раб Братства"
+ #
+ autonomy_brotherhood_slave:0 "Невільник Братства"
 
-autonomy_district:0 "Округ"
-autonomy_periphery:0 "Периферія"
-autonomy_family:0 "Родина"
+ autonomy_district:0 "Район"
+ autonomy_periphery:0 "Периферія"
+ autonomy_family:0 "Сім'я"
 
-autonomy_slave_den:0 "Рабська Нора"
-autonomy_slave_warren:0 "Рабська Лабіринтня"
+ #
+ autonomy_slave_den:0 "Лігво рабів"
+ autonomy_slave_warren:0 "Рабський Воррен"
 
-autonomy_slave_port:0 "Рабський Порт"
-autonomy_slave_raiders:0 "Рабовласники-Рейдери"
-autonomy_raider_city:0 "Місто Рейдерів"
+ ###
+ autonomy_slave_port:0 "Невільничий порт"
+ autonomy_slave_raiders:0 "Рейдери-работорговці"
+ autonomy_raider_city:0 "Місто рейдерів"
 
-autonomy_junior_deputy:0 "Молодший Заступник"
-autonomy_deputy:0 "Заступник"
-autonomy_sheriff:0 "Шериф"
+#
+ autonomy_junior_deputy:0 "Молодший помічник"
+ autonomy_deputy:0 "Помічник"
+ autonomy_sheriff:0 "Шериф"
 
-autonomy_tlatoani:0 "Тлатоáні"
-autonomy_calpixqui:0 "Калпíшкі"
-autonomy_cuahtlatoani:0 "Куатлатоáні"
+ #
+ autonomy_tlatoani:0 "Тлатоані"
+ autonomy_calpixqui:0 "Калпішкі"
+ autonomy_cuahtlatoani:0 "Куаутлатоані"
 
-autonomy_junior_executive:0 "Молодший Виконавець"
-autonomy_executive:0 "Виконавець"
-autonomy_boardmember:0 "Член Ради"
+ autonomy_junior_executive:0 "Молодший керівник"
+ autonomy_executive:0 "Керівник"
+ autonomy_boardmember:0 "Член правління"
 
-autonomy_arm_puppet:0 "Мексиканський Протекторат"
+ autonomy_arm_puppet:0 "Мексиканський протекторат"
 
-autonomy_sidekick:0 "Напарник"
+ autonomy_sidekick:0 "Напарник"
 
-autonomy_rio_free_state:0 "Вільний Штат"
-autonomy_rio_protected_state:0 "Суверенна Держава"
-autonomy_rio_unincorporated_territory:0 "Територія"
-autonomy_rio_client_state:0 "Клієнтська Держава"
-autonomy_rio_associated_state:0 "Асоційована Держава"
+ autonomy_rio_free_state:0 "Естадо Лібре"
+ autonomy_rio_protected_state:0 "Естадо Соберано"
+ autonomy_rio_unincorporated_territory:0 "Територіо"
+ autonomy_rio_client_state:0 "Естадо Клієнте"
+ autonomy_rio_associated_state:0 "Естадо Асосіадо"
 
-autonomy_free_port:0 "Вільний Порт"
+ # TVR, Vice Royalty
+ autonomy_free_port:0 "Вільний порт"
 
-autonomy_gorgon_county:0 "Горгонський Округ"
+ #MDT (Gorgonic County)
+ autonomy_gorgon_county:0 "Горгонічний округ"
 
-autonomy_canyon_territory:0 "Федеративна Територія"
+ #BLC (Black Canyon Territory
+ autonomy_canyon_territory:0 "Федеративна територія"

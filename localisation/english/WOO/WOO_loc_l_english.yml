@@ -1,0 +1,744 @@
+﻿l_english:
+## Scorn & Orwich keep the dev comments, it'll be funny seeing people talk about them ;p
+### characters
+  WOO_butterfingers_NAME:0 "Butterfingers"
+  WOO_butterfingers_SERIOUS_NAME:0 "Carrie Wadsworth"
+  WOO_butterfingers_COWBOY_NAME:0 "The Lone Butterfinger"
+  WOO_butterfingers_DESC:0 "§C“Whoops! Haha, sorry. Butterfingers...”§!\n\nHailing from the forever-winter lands of Cascadia, Butterfingers used to run with a band of autocratic mercenaries known as the ‘Wardens of the White’. While she spent most of her tenure there under the group Bravo Sierra, AKA the Black Sheep, she was still loyal to any Warden Group she would encounter, be it Foxtrot Uniform, Sierra Hotel, or Warden Actual itself.\n\nNowadays, Butterfingers finds herself mingling with the troops of Oscar Kilo, a group of Wardens who are definitely §Rnot§! cowards, and definitely did §Rnot§! flee from Seattle in fear of being reprimanded for losing against the Brotherhood."#something kinda playful, idk really what it could be
+  WOO_butterfingers_SERIOUS_DESC:0 "§M“What I remember about the rise of Oscar Kilo, was how quiet it was...”§!\n\nWadsworth’s been around the block. She was there to see the Wardens lose their grip on Portland. She was there for the Eight Hour War, when Seattle fell. She was even there to see so many Wardens run North up into Vancouver, knowing they’d never make it further than The Hanging Garden.\n\nAfter a mishap with the nuclear fusion reactor of Vault 100, Carie was exiled from the Wardens, by those she thought were not only her superiors, but her friends. Now, after hijacking the leadership of Oscar Kilo from Andrew, she has to sit and think to herself.\n\nWas it worth it?\n\nProbably not..."
+  WOO_butterfingers_SERIOUS_1_DESC:0 "§M“What I remember about the rise of Oscar Kilo, was how quiet it was...”§!\n\nWadsworth’s been around the block. She was there to see the Wardens lose their grip on Portland. She was there for the Eight Hour War, when Seattle fell. She was even there to see so many Wardens run North up into Vancouver, knowing they’d never make it further than The Hanging Garden.\n\nAfter a mishap with the nuclear fusion reactor of Vault 100, Carie was exiled from the Wardens, by those she thought were not only her superiors, but her friends. Now, after hijacking the leadership of Oscar Kilo from Andrew, she has to sit and think to herself.\n\nWas it worth it?\n\nMaybe..."
+  WOO_butterfingers_SERIOUS_2_DESC:0 "§M“What I remember about the rise of Oscar Kilo, was how quiet it was...”§!\n\nWadsworth’s been around the block. She was there to see the Wardens lose their grip on Portland. She was there for the Eight Hour War, when Seattle fell. She was even there to see so many Wardens run North up into Vancouver, knowing they’d never make it further than The Hanging Garden.\n\nAfter a mishap with the nuclear fusion reactor of Vault 100, Carie was exiled from the Wardens, by those she thought were not only her superiors, but her friends. Now, after hijacking the leadership of Oscar Kilo from Andrew, she has to sit and think to herself.\n\nWas it worth it?\n\n§CDefinitely.§!"
+  WOO_butterfingers_COWBOY_DESC:0 "§Y”Hi-Ho Butterfingers, Away!”§!\n\nHailing from the forever-winter lands of Cascadia, Butterfingers used to run with a band of autocratic mercenaries known as the ‘Wardens of the White’. While she spent most of her tenure there under the group Bravo Sierra, AKA the Black Sheep, she was still loyal to any Warden Group she would encounter, be it Foxtrot Uniform, Sierra Hotel, or Warden Actual itself.\n\nNowadays, Sheriff Butterfingers finds herself leading the great state of Texlahoma. Oscar Kilo still sticks by her side, but she’s more than a Warden now. She’s a real Cowgirl."
+  
+  WOO_butterfingers_GONE_NAME:0 "Where'd She Go?"
+  WOO_butterfingers_GONE_DESC:0 "§YNo, seriously, where'd she go?§!\n\nSeems like Butterfingers has abandoned the Oklahoma Wardens in order to walk her way back home. Godspeed, Butterfingers.\n\nGodspeed."
+  
+  WOO_butter_eater:0 "Butter Eater"
+  WOO_official_cowboy:0 "An Official Cowboy"
+  WOO_depression:0 "Depression"
+  WOO_renewed_strength:0 "Renewed Strength"
+  WOO_butterfingers:0 "Butterfingers"
+  WOO_plain_mean:0 "Just Plain Mean"
+  WOO_tough_bitch:0 "One Tough Bitch"
+  WOO_democratic_queen:0 "Democratic Winner"
+  WOO_typhoon_aftermath:0 "The Typhoon's Aftermath"
+  
+  WOO_hot_bot_NAME:0 "Hot-Bot"
+  WOO_carver_NAME:0 "Grant Carver"
+  WOO_cain_NAME:0 "Warden Cain"
+  WOO_cain_DESC:0 "§M“Despite my defects, I’m still doing my best.”§!\n\nWarden Cain was once a high ranking member of Oscar Kilo, until he was found unreliable due to a horrible mutation that gave him too many fingers. Now, he can barely fire a gun, though his grip strength is unmatched.\n\nWadsworth decided to take pity on him, given his issues being in the same ballpark as hers, and gave him a position as the leader of the Wardens handling Black Canyon. He’s even got his own version of the Cooler here, ‘The Penitentiary’! How cool is that!?"
+  WOO_generative_error:0 "§RGenerative Error§!"
+  
+  WOO_FACTION_NAME:0 "United Wardens of America"
+### tooltips
+  load_butterfingers_tt:0 "§YLet's go Butterfingers!§!\n\n"
+  woo_hard_mode_tt:0 "§RNo you fucking didn't. Stop lying.§!"
+  woo_robot_boy_tt:0 "§gA group of Hot-Bot's robots will join us to help!§!\n\n§YHot-Bot§! will become a Unit Leader.\n§LLevel§!: §Y4§!\n§RAttack Skill§!: §Y3§!\n§GDefense Skill§!: §Y2§!\n§PPlanning Skill§!: §Y4§!\n§MLogistics Skill§!: §Y2§!\n§gTraits§!: §RCharismatic§!, §RIntelligent§!"
+  black_hole_bombs_tt:0 "§Y670§! units of Tulsan §YBlack Hole Grenades§! is added to the national stockpile."
+  woo_sofia_joins_tt:0 "\n§YGrandmatron Sofia Cortez§! from §Y[TLL.GetNameWithFlag]§! will join §Y[WOO.GetName]§!."
+  woo_v_joins_tt:0 "\n§YV, The First Chorister§! from §Y[CHC.GetNameWithFlag]§! will join §Y[WOO.GetName]§!."
+  woo_power_armored_horses:0 "Power Armored Horses"
+  woo_power_armored_horses_tt:0 "\nWe will begin outfitting our §YHorses§! with §YPower Armor§!."
+  you_should_save_tt:0 "\n§RYou may want to take a§! §YSave§! §Rbefore choosing this option.§!"
+  warden_states_tt:0 "\nWe will gain a series of §Gdecisions§! to reform the §YWarden States of America§!."
+  woo_lost_all_our_money:0 "§YButterfingers§! has lost §RALL§! of our money gambling."
+  serious_butterfingers_tt:0 "§MThey'll have to take me seriously now...§!"
+  man_co_open_tt:0 "\n§YMan's Co.§! opens its doors to us!\nWe may now §Ybuy§! §Rguns§! and §Rexplosives§! from them in the §Gdecisions§! tab."
+  butter_ops_tt:0 "\nWe will gain a series of §Gdecisions§! to pacify the lands of §YOklahoma§!."
+  bye_bye_tt:0 "§gGo on§! §RYouTube§! §gand play§! §YBye Bye Bye§! §gby§! §MNSYNC§!\n "
+  best_day_ever_tt:0 "§gGo on§! §RYouTube§! §gand play§! §YBest Day Ever§! §gby§! §ONick Music§!\n "
+  kill_all_brotherhood_tt:0 "\n§YEdward J. Rusk§! dies.\n§YSteven Hunter§! dies.\n§YBenjamin Tyler§! dies.\n§YAbner Rodes§! dies.\n§YLedroc Walker§! dies.\n§YCharles Biggins§! dies.\n§YTresh M-Coi§! dies."
+  
+  RULE_WARDENS_2026:0 "Butterfingers Epic Cowboy Adventure! (April Fools 2026)"
+  RULE_WARDENS_2026_DISABLED:0 "Disabled"
+  RULE_WARDENS_2026_DISABLED_DESC:0 "Butterfingers will stay in the North."
+  RULE_WARDENS_2026_ENABLED:0 "@WOO Enabled"
+  RULE_WARDENS_2026_ENABLED_DESC:0 "Butterfingers shall take over the underperforming squad of Oscar Kilo"
+  
+### decisions
+  WOO_wardens_of_america_category:0 "United Wardens Of America"
+  WOO_wardens_of_america_category_desc:0 "While the original Wardens of the White may be long gone, Butterfingers has taken it upon herself to carry their flag, and reunite the country under their banner. Would they really care about that in the first place? Maybe not.\n\nWho's gonna tell her? Not a soul."
+ 
+  WOO_butter_ops_category:0 "Operation: Minutes To Midnight"
+  WOO_butter_ops_category_desc:0 "Despite the National Guard and Great Plains Federation’s efforts, the lands of Oklahoma are nigh lawless. Between the raiders, savages, and ruthless scavvers, you’d be lucky to enter the region and leave with your health or caps-pouch intact. Butterfingers remembers how Seattle used to be before the Brotherhood arrived. Cold. Quiet. §MSafe§!.\n\nWith her previous experiences as a Warden, she knows the best way to handle such scum and create a peaceful existence for the people of this wonderful land. All she has to do was what the Wardens had always done. Stomp on the people who were there before them, and enforce their will with an iron fist."
+   WOO_sca_core_decision:0 "Reach Out To The Scrapper's Council"
+   WOO_sca_core_decision_desc:0 "The men and women who make up the Scrapper Council aren't entirely unreasonable. After we make them hand over any law-breakers, we can surely strike up a deal that benefits us both."
+   WOO_PAR_core_decision:0 "Imprisoning The Painters"
+   WOO_PAR_core_decision_desc:0 "By putting these good-for-nothing raiders to work making guns and homes for us, we can get some good out of them after all."
+   WOO_CWB_core_decision:0 "Cracking The Cypher"
+   WOO_CWB_core_decision_desc:0 "Turns out these filthy tribals have just left good technology lying around, because they don't even know it's technology. By collecting it for ourselves, we can lord it over their heads how they'll never achieve their stupidity goals."
+   WOO_TLL_core_decision:0 "Their Last Lodging"
+   WOO_TLL_core_decision_desc:0 "I really, REALLY can't believe she said those things! Talk about a mean lady."
+  
+  WOO_man_co_category:0 "Man’s Company Arms & Explosives"
+  WOO_man_co_category_desc:0 "The lovely folks of Man’s Co. have decided to open their business to us, seeing a ripe opportunity to make some money off of the blood we’re about to shed. Who are we to tell them no?"
+   man_co_arms_dealings_1:0 "Leasing A Factory"
+   man_co_arms_dealings_1_desc:0 "Surprisingly, Man Co. has no problem with us leasing some of their factory space for us to make our own weapons instead of buying the guns from them directly."
+   man_co_arms_dealings_2:0 "Not Quite $400,000"
+   man_co_arms_dealings_2_desc:0 "But the guns we're buying will fire for more than twelve seconds."
+   man_co_arms_dealings_3:0 "If God Had Wanted You To Live..."
+   man_co_arms_dealings_3_desc:0 "He would not have created the M79 Grenade Launcher: Now included in the 'Limb Removal' package of Man's Co. Arms Division."
+   man_co_arms_dealings_4:0 "Enforcing Their Will"
+   man_co_arms_dealings_4_desc:0 "Man's Co. Arms would never pay mercenaries to strong-arm other local businesses into accepting terrible buy-out terms. But if we did, they'd be wearing this pristine armor!"
+   man_co_arms_dealings_5:0 "Horsing Around"
+   man_co_arms_dealings_5_desc:0 "With the Wardens starting to adopt horseback units, Man's Co. has decided to adapt with them, creating our own Livestock department. For but a small fortune, you too can ride around in style!"
+   
+  WOO_faction_joining_category:0 "Friends For Texlahoma"
+  WOO_faction_joining_category_desc:0 "When you're a positive person, you can make friends with anyone! I met a really nice lady in Montana that told me that. All you gotta do is take the first step and offer."
+   woo_join_ncr:0 "Our Friend The Bear"
+   woo_join_rio_pact:0 "Across The Southern River"
+   woo_join_denver_defense:0 "WARDEN and Wardens"
+   woo_join_colorado_technate:0 "Hot-Bot's Old Friend"
+   woo_join_black_rock_federation:0 "Hidden In The Mountains"
+   woo_join_daughters_of_hecate:0 "The Gods' Domain"
+   woo_join_ogden_treaty:0 "What's An Ogden?"
+   woo_join_northern_union:0 "The More Things Change..."
+   woo_join_miscounts:0 "The Enemy Of My Friend"
+  
+### ideas
+  woo_long_journey:0 "The Long Journey"
+  woo_hard_mode:0 "HARD MODE!!!"
+  woo_nervous_af:0 "Nerves Of Glass"
+  woo_battle_symphony:0 "Battle Symphonies"
+  woo_god_damn_the_sun:0 "God Damn The Sun"
+  woo_heavy_armor:0 "Heavier Armor"
+  woo_effective_diorganization:0 "Effective Disorganization"
+  woo_butter_ration:0 "Butter Rationing"
+  woo_respect_paid:0 "Respektz Been Paid"
+  woo_anti_psyker_field:0 "Anti-Psyker Field"
+  woo_hand_in_hand:0 "Psykers Hand-In-Hand"
+  
+  woo_empty_fields_1:0 "Fertile Fields"
+  woo_empty_fields_2:0 "Fertile Fields"
+  woo_empty_fields_3:0 "Fertile Fields"
+  woo_horseback_lessons:0 "Rootin' Tootin' Horseback Lessons"
+  woo_little_imperialism:0 "Just A Little Imperialism"
+  woo_little_imperialism_desc:0 "As a treat."
+  woo_politics_boring:0 "Your Politics Bore Me"
+  
+  woo_scrapper_knowledge:0 "Scrapper Knowledge"
+  woo_flex_on_savages:0 "Flexing On The Savages"
+
+### focus loc
+  WOO_pushing_me_away:0 "Operation: Pushing Me Away"
+  WOO_pushing_me_away_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Pushing Me Away§!\n§RMISSION CONFIDENTIAL§!\n\nWell, we’re far from home right now. Packed our bags and left Seattle because of those jerks back home: Brandt, Bentley, and especially my commander, Carver. Well, me and the rest of my motley crew will show them how it's done!" #gives event explaining the how the other wardens were mean to butterfingers, vewy sad :(
+  WOO_a_line_in_the_sand:0 "Operation: A Line In The Sand"
+  WOO_a_line_in_the_sand_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: A Line In The Sand§!\n§RMISSION CONFIDENTIAL§!\n\nOk so, maybe Vault 100 almost blew up, and I may have had a hand in it. In the end though, it didn’t happen, so I don’t know why everyone else was so mad at me and were yelling at me! It gives no one the right to be so rude." #gives event about why butterfingers left, should be something overly dramatic maybe?
+  WOO_by_myself:0 "Operation: By Myself"
+  WOO_by_myself_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Hit The Floor§!\n§RMISSION CONFIDENTIAL§!\n\nI lied earlier, I’m not the captain of this crew... but I am going to be! All I need to do is challenge Andrews to a duel and win! I hope I’ll win... Oh god I hope I do." #gives event detailing how she came to lead oscar kilo
+  WOO_friendly_fire:0 "Operation: Friendly Fire"
+  WOO_friendly_fire_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Friendly Fire§!\n§RMISSION CONFIDENTIAL§!\n\nSome of my men reported in a giant explosives cache. There’s apparently grenades, rockets, and launchers! I’ll get them to bring it to me, I hope they’ll be safe with it!" #butterfingers finds an explosive cache :)
+  WOO_rebellion:0 "Operation: Hit The Floor"
+  WOO_rebellion_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Hit The Floor§!\n§RMISSION CONFIDENTIAL§!\n\nNow that I’m in charge around here, it’s time to get super duper serious. I must secure the immediate area so my squad and I are safe, because we value safety (not freedom)." #butterfingers rising up against the meanies
+  WOO_robot_boy:0 "Operation: Robot Boy"
+  WOO_robot_boy_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Robot Boy§!\n§RMISSION CONFIDENTIAL§!\n\nSooo, I met a really really HOT boy the other day. He’s a little bit cold on the outside but I bet he’s a really nice and warm person on the inside. I’ll go talk to him and like to ask him out on a date." #butterfingers met a hot bot in robot city and took him and his buddies with her
+  WOO_she_couldnt:0 "Operation: She Couldnt"
+  WOO_she_couldnt_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: She Couldnt§!\n§RMISSION CONFIDENTIAL§!\n\nAfter beating those weirdo brain power people to a pulp, I think it would be time to talk to their leader and see what their whole deal was." #gives event describing the showdown between v and butterfingers
+  WOO_halfway_right:0 "Operation: Halfway Right"
+  WOO_halfway_right_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Halfway Right§!\n§RMISSION CONFIDENTIAL§!\n\nApparently, one of the enemies we were fighting were ghouls, just like some of our compatriots! Let’s reach out to them and convince them that we’re chill (like the Cascadian cold.)" # basically gives manpower and some guns, something something the ghouls are chill with the wardens
+  WOO_keys_to_the_kingdom:0 "Operation: Keys to The Kingdom"
+  WOO_keys_to_the_kingdom_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Keys To The Kingdom§!\n§RMISSION CONFIDENTIAL§!\n\nTo be all honest with myself, I didn’t think I would get this far. My crew and I took out the surrounding hostiles, managed to pacify the LZ, and we’re fairly safe! Everything is coming up Wadsworth!" #butterfingers didnt expect to come this far, but is happy she's come closer to proving her seriousness
+  
+  WOO_bliss_in_ignorance:0 "Operation: Bliss In Ignorance"
+  WOO_bliss_in_ignorance_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Bliss In Ignorance§!\n§RMISSION CONFIDENTIAL§!\n\nEven though my team and I have secured the area that we found ourselves in, it is hard actually managing this team and the civilians that we’re in charge of! I wish Carver, or someone was here to help me!" #wow who knew leading a whole country was so tough. will give event /b
+  WOO_stained:0 "Operation: Stained"
+  WOO_stained_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Stained§!\n§RMISSION CONFIDENTIAL§!\n\nThose evil doers in Painted Rock are vandalizing our towns with blood, or red paint, one or the other. We can’t let them do this, we like our towns unvandalized!" #These guys keep vandalizing our walls with blood! we gotta stop em. /b
+  WOO_sorry_for_now:0 "Operation: Sorry For Now"
+  WOO_sorry_for_now_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Sorry For Now§!\n§RMISSION CONFIDENTIAL§!\n\nThis group of scrappers are really peaceful and are minding their own business, however, they’re in the way and I don’t really want to move around them sooooo." #These scrappers arent that hostile but we need more land, so bye bye. /b
+  WOO_sharp_edges:0 "Operation: Sharp Edges"
+  WOO_sharp_edges_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Sharp Edges§!\n§RMISSION CONFIDENTIAL§!\n\nMan, there sure are some dummies near us who don't like technology! We should teach them how cool G11s and Rocket Launchers are!" #These cypher weirdos need to be taught a lesson that technology is awesome! /b
+  WOO_roads_untraveled:0 "Operation: Roads Untraveled"
+  WOO_roads_untraveled_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Roads Untraveled§!\n§RMISSION CONFIDENTIAL§!\n\nSo, there is a cool badass cowgirl in The Last Lodge. We should go talk to her and ask her to come join us peacefully! If she and her gang don't, we’ll have to show them there is room for only one gang in this town. " #The last lodge are led by a badass cowgirl, we should ask them if they wanna join us! /b
+  WOO_consequence_a:0 "Operation: Consequence A"
+  WOO_consequence_a_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Consequence A§!\n§RMISSION CONFIDENTIAL§!\n\nOh my god, I can’t believe Sofia joined us! She is so cool, I hope to be as amazing and awesome and cool and amazing and awesome and cool and... Point is I want to be a badass cowgirl like her one day." # They joined us! butterfingers gushes about sofia
+  WOO_consequence_b:0 "Operation: Consequence B"
+  WOO_consequence_b_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Consequence B§!\n§RMISSION CONFIDENTIAL§!\n\nWell Sofia denied our request to ally together, we could’ve had a huge cowboy gang! Oh well, I can’t wait to show them we’re the best gang on this side of the Mississippi." # they rejected us! Butterfingers is exited to have a authentic cowboy brawl
+  
+  WOO_lies_greed_misery:0 "Operation: Lies Greed Misery"
+  WOO_lies_greed_misery_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Lies Greed Misery§!\n§RMISSION CONFIDENTIAL§!\n\nDude, no! They took everything! That was my entire life-savings dude. Oh my god, oh god, oh my god I think I'm gonna be sick, I'm gonna be sick. That was everything, OH MY GOD!" #oh shit, i messed up bad. We Have No Money! /b this is triggered by an event
+  WOO_butter_rations:0 "Butter Rationing"
+  WOO_butter_rations_desc:0 "Who knew that giving out sticks of butter has made the soldiers so damn happy? Well, I sure didn't, everything just works out!" #simple butterfingers describes how giving out butter rations has increased soldier morale and enlistment
+  WOO_whys_it_so_damn_hot:0 "Brain Blast"
+  WOO_whys_it_so_damn_hot_desc:0 "So, our soldiers were just wandering around and they just found a guy. We think he was a scientist apart from the Cherokee, all we did though was offer him safety and he was excited at that prospect. " #We kidnapped some researchers from Tulsa to help us figure out how to cool ourselves off
+  WOO_victimized:0 "Operation: Victimized"
+  WOO_victimized_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Victimized§!\n§RMISSION CONFIDENTIAL§!\n\nPeople have been asking so much of me recently. They want better care, they want food, they want somewhere to sleep, THATS TOO MUCH TO ASK! JUST BE HAPPY WITH WHAT YOU ALREADY HAVE!!!" #wow there is a lot of angry people demanding things from me /b butterfingers is massively overwehlmed
+  WOO_burn_it_down:0 "Operation: Burn It Down"
+  WOO_burn_it_down_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Burn It Down§!\n§RMISSION CONFIDENTIAL§!\n\nI HATE casinos! They all need to be destroyed, and whoever runs a casino should be put down like a dog!" #this whole casino buisness needs to go! theyre all theives. /b
+  WOO_pay_yo_respektz:0 "Operation: Pay Yo Respektz"
+  WOO_pay_yo_respektz_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Pay Yo Respektz§!\n§RMISSION CONFIDENTIAL§!\n\nI LOVE casinos! They should all be visited at least once in your life because who knows, you could make it big one day at the slots!" #Well ig gamblings not that bad when your making money /b 
+  WOO_in_pieces:0 "Operation: Carousel"
+  WOO_in_pieces_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Carousel§!\n§RMISSION CONFIDENTIAL§!\n\nOh boy, we can finally ride horses just like real cowboys! I always dreamed of this ever since we got down here." #Horses!!! just like in my cowboy dreams! /b
+  
+  WOO_the_radiance:0 "Operation: The Radiance"
+  WOO_the_radiance_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: The Radiance§!\n\nOh my god where is the SNOW!? And why is the Sun always out!? How do people even live here!?!?!?" #butterfingers talks about how weird it is that theres no snow everywhere
+  WOO_wrangling_some_cows:0 "Wranglin' Some Cows"
+  WOO_wrangling_some_cows_desc:0 "I tried to use a lasso today, in order to collect up some Brahmin. I, uh, may have ended up a little tangled at the end, but some of the locals helped me out of the predicament." # butterfingers tries her best to wrangle some cows, some buffoonery happens
+  WOO_you_guys_ride_those_things:0 "You Guys Ride Those Things!?"
+  WOO_you_guys_ride_those_things_desc:0 "I mean, I’ve seen a Brahmin Bull before, but I’ve never seen a person ride them! It’s absolutely insane too, with how technical they’re saying it is. I could NEVER." #butterfigners is astonished that people ride bulls, but thinks its so cool
+  WOO_crops:0 "Crops!"
+  WOO_crops_desc:0 "You mean you just, put these seeds in the ground, and food comes out a few months later!? That’s crazy! We always had to hunt Radstags and get eaten by Yao Guai for food!" #butterfingers is astonished at what crops are
+  WOO_so_good:0 "So Good!"
+  WOO_so_good_desc:0 "So THIS is what Butter is! It’s, actually REALLY good. I’m gonna have to put this on everything now!!!" #butterfingers actually eats butter for the first time ever
+  WOO_until_it_breaks:0 "Operation: Until It Breaks"
+  WOO_until_it_breaks_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Until It Breaks§!\n\nApparently, the only thing I’ve gotta do to become a cowboy, is ride a robotic bull. After that, I’ll have all the people on my side." # aparently all butterfingers has to do to become a full blown cowboy is ride some animatronic bull, how hard could that be? this gives an event
+  
+  WOO_high_voltage:0 "Operation: Mark The Graves"
+  WOO_high_voltage_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Mark The Graves§!\n\nThese cowboys sure do know how to fight really cool-ly! While I’ve already tried a Duel at High Noon, it’d be neat to learn stuff like speed-shooting and controlling ricochets." #Its time for some action! /b butterfingers gets excited about cowboy combat
+  WOO_guns_guns_guns:0 "Guns! Guns! Guns!"
+  WOO_guns_guns_guns_desc:0 "Oh my GOD there are so many guns here! It feels like everyone and their mom is armed out in the plains." #there are like so many guns here!! /b butterfingers gushes about the quantity of firearms in oklahoma
+  WOO_heaven_on_earth:0 "Heaven On Earth"
+  WOO_heaven_on_earth_desc:0 "Not only are there ten guns to a person, but there’s enough explosive ordinance to fight the Devil himself! I’m, *sniffle*, I’m truly home..." #Explosives are everywhere! Ive truly found the place to nurish my calling. /b Butterfingers is estatic with joy for how many powerful explosives she can find.
+  WOO_ghouls_are_old:0 "These Ghouls Are So OLD"
+  WOO_ghouls_are_old_desc:0 "Like, seriously, these guys might be older than Brandt. How’s that possible? I, uh, I dunno. They just are." #unc unc unc moment! /b butterfingers gets annoyed at how old the tlp ghouls act
+  WOO_actually_learning_tactics:0 "Actually Like, Learning Tactics"
+  WOO_actually_learning_tactics_desc:0 "Oh, apparently those old guys actually know things or something. They told me that I was putting my guys in the wrong spots, and suggested a better placement. Maybe old people are good for something after all" #butterfingers actually takes a second to listen to the ghouls and see what theyre talking about
+  WOO_battle_symphony:0 "Operation: Battle Symphony"
+  WOO_battle_symphony_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Battle Symphony§!\n\nTo all members of Oscar Kilo, if you have not already noticed, we’ve installed speakers in all bases to play music throughout the day to improve morale. You can thank me later." # Butterfingers installed speakers blasting music in all military locations, increasing morale a ton
+
+
+  WOO_fallout:0 "Operation: Fallout"
+  WOO_fallout_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Fallout§!\n§RMISSION CONFIDENTIAL§!\n\nWar, war never changes."# something kinda funny should go here, idk what. this basically gives the event for butterfingers to decide her future
+  WOO_in_the_end:0 "Operation: In The End"
+  WOO_in_the_end_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: In The End§!\n§RMISSION CONFIDENTIAL§!\n\nI hate it here, I hate the heat, I hate the people, I hate everything here! I am going back home to Cascadia, I want to be home!!!" #I dont care anymore, i hate it here. I just wanna go home :( /b depresed butterfingers realizes shes not cut out for this
+  
+  WOO_cure_for_the_itch:0 "Operation: Cure For The Itch"
+  WOO_cure_for_the_itch_desc:0 "§CFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Cure For The Itch§!\n§RMISSION CONFIDENTIAL§!\n\nMaybe, being a Warden sucks, being a cowboy is way better! If home is where the heart is, then my home is here in Texlahoma!" #butterfingers has decided that being a cowboy is the best! texlahoma is her true home now
+  
+  WOO_runaway:0 "Operation: What I've Done"
+  WOO_runaway_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: What I’ve Done§!\n§RMISSION CONFIDENTIAL§!\n\nI’ve been reflecting on what the Wardens said to me. Especially Carver. Maybe I need to take things more seriously. Maybe, I can BE serious." #butterfingers tries to contact warden main command, hoping that now shes super serious she will be hailed as a hero
+  WOO_homecoming:0 "Operation: Homecoming"
+  WOO_homecoming_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Homecoming§!\n§RMISSION CONFIDENTIAL§!\n\nThe Wardens are alive. I never doubted them for a second, I’m just glad I managed to get a signal to reach all the way up there. I’m coming home." #butterfingers succsesfully contacts warden main command, and is hyped. gives event
+  WOO_so_far_away:0 "Operation: So Far Away"
+  WOO_so_far_away_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: So Far Away§!\n§RMISSION CONFIDENTIAL§!\n\nThe delay in messages is, frustrating. The only way to resolve the issue is to get closer, so it’s time we start making our way North." #Butterfingers gets annoyed with how far away she is from the other wardens, she starts making plans on how to get closer
+  WOO_castle_of_glass:0 "Operation: Castle Of Glass"
+  WOO_castle_of_glass_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Castle Of Glass§!\n§RMISSION CONFIDENTIAL§!\n\nIf we’re gonna head North, the first one we’ve gotta put down is this ‘Lanius’ character. Honestly, he seems like a total pushover. So what you’ve managed to conquer all of New Mexico and have started moving into Colorado? You ain’t no Warden." #Butterfingers big plan is to go through lanius to get home, very overconfident
+  WOO_skin_to_bone:0 "Operation: Skin To Bone"
+  WOO_skin_to_bone_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Skin To Bone§!\n§RMISSION CONFIDENTIAL§!\n\nJeeze, that guy was tough. A lot tougher than I expected, maybe we should ask Charlie Kilo for recon help next time. But hey, we managed to make it out the other side unharmed! Wahoo!" #Butterfingers won, but wow that was way harder than she thought it would be, next time she'll do more recon
+  WOO_not_alone:0 "Operation: Not Alone"
+  WOO_not_alone_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Not Alone§!\n§RMISSION CONFIDENTIAL§!\n\nYou know, I’ve felt like I’ve done a lot of growing these past years. Maybe, I could actually call myself a true Warden, now that I’m feeling so serious." #Butterfingers finally feels like shes a serious girl who belongs as a warden of the white, gives event
+  WOO_all_for_nothing:0 "Operation: Numb"
+  WOO_all_for_nothing_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Numb§!\n§RMISSION CONFIDENTIAL§!\n\nThey’re really gone, aren’t they? Brandt, Carver, Bentley, even Ryan. They’re all gone.\n\nAnd I wasn’t there to do anything about it.\n\nI’m so sorry..." #Theyre gone, everyone is gone /b Butterfigners discovers that warden main command was eradicated, this gives an event
+  WOO_the_summoning:0 "Operation: All For Nothing"
+  WOO_the_summoning_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: All For Nothing§!\n§RMISSION CONFIDENTIAL§!\n\nThis, wasn’t pointless right? I mean, I’m still around, I can carry the name of the Wardens into the future. There has to be a reason the dominos fell like this." #Butterfingers trying to cope with the loss, ie this cant have been all for nothing
+  WOO_war:0 "Operation: Papercut"
+  WOO_war_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Papercut§!\n§RMISSION CONFIDENTIAL§!\n\nThere’s nothing left for me. I’m not a leader, I’m a klutz that hasn’t been able to do anything right. The best course of action now is, to end it on my terms..." #Butterfingers is struggling with the realization, so starts an unwinnable war against texas & lanius, just to feel something
+  WOO_one_more_light:0 "Operation: Faint"
+  WOO_one_more_light_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Faint§!\n§RMISSION CONFIDENTIAL§!\n\nWe won? I didn’t think-\n\nPerhaps the enemies of the Wardens are not as infallible as I first thought. Perhaps, they can be killed..." #She won, she didnt expect to win, butterfingers is trying to find the light at the end of the pain
+  WOO_the_requiem:0 "Operation: Somewhere I Belong"
+  WOO_the_requiem_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Somewhere I Belong§!\n§RMISSION CONFIDENTIAL§!\n\nDespite the Wardens falling on hard times, there truly is nothing that can stop us. No matter how hard you stamp us out, another cell will just keep cropping up in the most inexplicable location.\n\nThat’s our true strength." #Butterfingers has found a new calling, to restore the wardens to their once proud name, in the memory of all of those who have fallen. gives event
+  WOO_heavy:0 "Operation: Heavy"
+  WOO_heavy_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Heavy§!\n§RMISSION CONFIDENTIAL§!\n\nBack in Seattle, I noticed that the Brotherhood’s armor was a lot heavier than ours, and they managed to win pretty easily. Maybe we should take a page from their book, and make even heavier armor for our guys." #the heavier the armor the better /b butterfingers just talks about adding tons of extra padding to their armor
+  WOO_emptiness_machine:0 "Operation: Emptiness Machine"
+  WOO_emptiness_machine_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Emptiness Machine§!\n§RMISSION CONFIDENTIAL§!\n\nSo, those scientists in Tulsa were actually onto something really cool. Grenades that open Mini-Black Holes. I’m giving this to every soldier under my watch. Nothing bad could happen from that." #butterfingers talks about finding these cool black hole grenades in the cherokee territory, and how she plans to equip all soldiers with them
+  WOO_burning_in_the_skies:0 "Operation: Burning In The Skies" #possible canidates for removal to make space
+  WOO_burning_in_the_skies_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Burning In The Skies§!\n§RMISSION CONFIDENTIAL§!\n\nWith how stable the weather is in Oklahoma, this actually is a really nice place to fly. The Monarch really would love it here." #the plains of oklahoma are perfect for a nice flight, monarch would love it here /b
+  WOO_overflow:0 "Operation: Overflow" #possible canidates for removal to make space
+  WOO_overflow_desc:0 "§MFROM THE DESK OF CARIE WADSWORTH§!\n§gOPERATION: Overflow§!\n§RMISSION CONFIDENTIAL§!\n\nThere are really, way too many guns here. At this point, I’m thinking we should start merging the guns together. Underbarrel grenade launchers, shotguns, pistols, sniper rifles, and assault rifles will help the troops overpower our enemies." #butterfigners basically doesnt know that to do with all the guns they have so decides to just slap guns together. gun plus gun equals mega gun.
+  
+  WOO_home_on_the_prairie:0 "Home On The Prairie"
+  WOO_home_on_the_prairie_desc:0 "Compared to the windy mountains of Cascadia, the quiet fields of Oklahoma are quite nice. It’s calming, a feeling I haven’t felt in a long time." ### butterfingers has become a true rancher at heart, she talks about the fields being calming atleast compared to cascadia
+  WOO_ultra_farming:0 "ULTRAFARM"
+  WOO_ultra_farming_desc:0 "I fucking LOVE farming now! In fact, I love farming so much that I’m gonna make a new kind of farming, ULTRAFARM." # Butterfingers likes farming so much she decides it need to innovate even further, making a new system of farming called a ultra farm
+  WOO_to_go_even_beyond:0 "To Go Even Further BEYOND!"
+  WOO_to_go_even_beyond_desc:0 "You see, one ULTRAFARM is good and cool, two ULTRAFARMs are really cool. Three ULTRAFARMs are AMAZING!" # Butterfingers implements the farming industrial complex, a grand network of huge ultra farms
+  WOO_you_aint_tough_like_me:0 "You Ain't Tough Like Me"
+  WOO_you_aint_tough_like_me_desc:0 "I am so tough, the toughest around! My shooting? Tough. My killing? Tough. My horses? Tough. We are so tough gang." # nutterfingers has been shoooting and killing so long shes earned a reputation as one tough bitch
+  WOO_born_and_raised:0 "Some Darn Good Riding Lessons!"
+  WOO_born_and_raised_desc:0 "Hot-Bot and I have been practicing for hours on how to ride horses, I think I got pretty good at this!" # tutterfingers knows that more home grown horses are needed, so enacts a plan to mass breed horses(like in minecraft ), also she gives them steroids. 
+  WOO_the_ultimate_weapon:0 "The ULTIMATE Weapon"
+  WOO_the_ultimate_weapon_desc:0 "I came to the realization that horses are pretty strong. As I learned in Seattle, Power Armor is also pretty strong. What if I give the horses Power Armor?" # gutterfingers has realized with the combination of horses and power armor, no one could stop her. gives event
+  WOO_this_town_aint_big_enough:0 "This Town Ain't Big Enough..."
+  WOO_this_town_aint_big_enough_desc:0 "Well I found out that the good for nothin' Brotherhood of Lameo's are here. This town ain't big enough for the two of us." # Cant be texlahoma if you dont got texas now can yah? /b butterfingers also considers the teu to be real jerks
+  WOO_a_constiwhat:0 "A Consti-What?"
+  WOO_a_constiwhat_desc:0 "What's a constitution? I keep on hearing about it in Texas and the more I hear about it, the more useless it sounds." # her new citizens keep asking something about a republic having a constitution? butterfingers doesnt know what that is. gives event
+  WOO_monkey_business:0 "Monkey Business"
+  WOO_monkey_business_desc:0 "Man, these small time groups think they can oppose me? I'll show them and their stupid dreams of rising against me." # Wutterfingers deals with the fringe groups who still opose her rule in texas, she is annoyed, but somewhat exited by the action it could bring
+  WOO_snooze_fest:0 "Snooze Fest"
+  WOO_snooze_fest_desc:0 "Soooo, like to make people happy or whatever, I need to make a deal with politicians because if I were to shoot them, someone would get MAD!" # qutterfingers must also deal with the former politicians who still want to hold on to power, this is extremely mega boring to butterfingers
+  WOO_totally_fair_elections:0 "Totally Fair Elections!"
+  WOO_totally_fair_elections_desc:0 "You know what? I'll give democracy a chance, I'll hold an election, and I won't even rig it! I swear!" # butterfingers finally decides to hold an election! it actually is fair but things go awry in a way that makes it not fair. gives an event
+  WOO_armor_of_steel:0 "Armor Of Steel"
+  WOO_armor_of_steel_desc:0 "You know what? Despite the Brotherhood being lame, they have some kickass armor. In fact, I'll start using it! Everyone should use it since it's that cool!" # After beating the texas bos/teu butterfingers has discovered a type of armor even cooler and heavier than normal armor. she decides this armor is needed everywhere!
+  WOO_fire_across_the_land:0 "Fire Across The Land"
+  WOO_fire_across_the_land_desc:0 "The people around here are getting rowdy, I think it's time to wrangle these varmints and show them who run's this joint." # butterfingers must calm down and enforce her rule in texas
+  WOO_dawn_of_the_republic:0 "Dawn Of The Republic"
+  WOO_dawn_of_the_republic_desc:0 "It's beautiful when everything comes up Butterfingers." # the sun rises over the republic of texlahoma and butterfinger sheds a single tear. gives event
+ #WOO_:0 ""
+ #_desc:0 ""
+
+### events
+  nf_woo.0.t:0 "Wardens Of The What?"
+  nf_woo.0.d:0 "While it hasn’t been unheard of for other military-esque groups of ghouls to show up at the Last Patrol’s doorstep, this one might be the most strangely organized. These so-called Wardens don’t seem too knowledgeable about the weather, dressed like it’s gonna snow every day of the year. That, and anytime one of our guys has asked where they’re from, they’re all really cagey about it, merely responding with an ‘Up North’.\n\nThe oddest thing about them is that they’re led by a smoothskin, ‘Wallace Andrews’. While he seems to have shown some interest in helping us, some young upstart appeared shortly after, making a big racket about being a ‘Real Warden’\n\nWhatever the case, we’ll have to watch this with great interest." #this event swaps you to oscar kilo, so just some flavor text about harrison being confused and pissed off about his land being taken
+  nf_woo.0.a:0 "Perhaps that butter-girl has a good head on her shoulders."#could prolly change these to something more fitting lol
+  nf_woo.0.b:0 "Kinda annoying they took our land."
+
+  nf_woo.1.t:0 "Those Meanies!"
+  nf_woo.1.d:0 "Wallace Andrews, a Warden of the White, a hardened soldier, a natural leader. Well respected amongst the Wardens, Andrews singlehandly held off 20 Brotherhood Paladins as his platoon was retreating from Seattle. As Oscar Kilo was wandering the wastes trying to get their bearings after suffering heavy losses, Andrews made sure that they wouldn’t lose their way. While they prospered in the wasteland due to such excellent leadership, the same could not be said about other Warden remnants.\n\nCarie “Butterfingers” Wadsworth, a Warden of the White, a ruthless killer. While many may see her as a cruel being, her peers see her nothing but a clumsy fool. Her time in the Wardens has been a rough one, with constantly being berated for her slip ups and being forced to do physical training to make up for those mistakes. As she went through these trials and tribulations she was unsure if her peers really respected her and wanted to see the best out of her or they just wanted to treat her like a punching bag. She eventually came to the conclusion that..." #basically just lists her greivencances with how shes treated, could be something else idk
+  nf_woo.1.a:0 "§CI'm sure they meant well.§!"
+  nf_woo.1.b:0 "§CI'm sure they hated me!§!"
+
+  nf_woo.2.t:0 "Oops!"
+  nf_woo.2.d:0 "After the fall of Seattle, the Wardens shattered into a bunch of pieces. A few went north into Vancouver to never be seen again. Some went south into Portland and joined up with the pirates of The Maw. Though, most of them went eastward, into Spokane, where they would find refuge.\n\nAmongst them, was Butterfingers, where she would find herself deep in Vault 100. For a few weeks she was being harshly punished for the tiniest mistakes she made, but she chalked it up to the stress of losing Seattle to the Brotherhood. Nonetheless, she didn’t let any of it get to her, she continued her life as normally as she could.\n\nThis all changed one fateful day. After the constant abuse she was facing from her peers, she thought she could make it up to them by making the reactor of Vault 100 work more efficiently. She thought it was no different than the explosives she worked on, but she was ever so wrong. She in fact, almost made the reactor a bomb that was ready to explode, if it wasn’t for the ghoulish scientists that were there to fix her mistake. She ran away from embarrassment, all the way out of Spokane. In order for her to truly make it up to the Wardens, she knew she had to become a super serious soldier. " #she fucked up big bigtime and got so badly punished she now wants to head out on her own to become a super serious badass soldier, 
+  nf_woo.2.a:0 "§CI hear those cowboy's in the South are serious!§!"
+
+  nf_woo.3.t:0 "Uhh... Okay..."
+  nf_woo.3.d:0 "As she wandered south, Butterfingers heard rumors of men donning blue and black armor, just like her. At first she was dismissive at the thought of other Wardens being this far away from Seattle; it would be ridiculous. The thought of the Wardens of the White being somewhere, where there aren’t blizzards or any snow would be preposterous! As soon as she made it to Oklahoma, to her surprise, there were in fact, WARDENS!\n\nIt took her a while to get acclimated in this land but as soon as she found her footing, she knew what she needed to do. She challenged the leader of this division, Wallace Andrews, to a duel. He accepted the duel without a second thought, believing that this would be the easiest task he has ever taken.\n\nAt sunset, Andrews and Butterfingers stared intensely at each other. 20 paces away from each other, hands on their pistols, ready to draw. As soon as they felt the time was right, their pistols left their holsters. Butterfingers dropped her gun and it was set off firing in the direction of Andrews. The bullet ricocheted off of his armor right and it went right between his eyes. The moment Butterfingers saw his corpse drop right to the ground..." #she got to oklahoma and challenged the oklahoma warden guy to a duel at sunrise, on que as the duel beging she immediately fumbles her pistol out of her hand and it fires on the ground richosheting(ik) off of like 6-7 thing until it lands in the eyes of the warben guy
+  nf_woo.3.a:0 "She raised her fist triumphntly!"
+  nf_woo.3.b:0 "She immediately threw up on herself..."
+
+  nf_woo.4.t:0 "Sick!"
+  nf_woo.4.d:0 "Butterfingers decided to meet with V, the leader of the Chained Choir. As soon as V and Butterfingers met face to face on top of a 100 foot cliff, something strange happened to her. She couldn’t hear the call of The Mother any longer... all she heard was crickets. V knew something was off with the soldier that was right in front of her, as this was the only time this has ever happened to her.\n\nV, puzzled in the predicament she found herself in, asked, “Why don’t I hear The Mother anymore? Why... is it so peaceful? What have you done?” Butterfingers was puzzled at the question, deciding to answer with, “I don’t know.”\n\nV looked at her, gratitude beaming from her face, and hugged Butterfingers. “Even if you don’t know what you did, you helped me... I can finally have peace.” V was, for once in her life, in a place of serenity.\n\nEven though Butterfingers was suddenly in the embrace of a former enemy, she was unsure if she should reciprocate or refuse what she was given." # butterfingers acts like a blank(anti psychic field) and just pushes v off a cliff or works with her idk 
+  nf_woo.4.a:0 "§CBuh-bye!§!"
+  nf_woo.4.b:0 "§CWe're best friends now!§!"
+
+  nf_woo.5.t:0 "Cowboy Trials"
+  nf_woo.5.d:0 "No one actually expected Butterfingers to survive the Mechanical Bull. Especially when she struggled to get on it in the first place. The odds were stacked even further against her when the bull threw her off on the first buck.\n\nOf course, that’s when she stood back up, and immediately climbed back on while it was still running. The night ran long with Butterfingers repeating the same three steps: Get on. Get thrown. Get back up. Over and over, for HOURS. The only people left by the end was Hot Bot and the judge sitting at the table.\n\nAfter nearly one hundred and seven attempts, Butterfingers finally sat down on the bull, and was not thrown. The mechanism had died after the 107th attempt, and she could finally stay on for a full five minutes. By technicality, she had beaten the Bull by pure tenacity." # basically a whole scene plays out where butterfingers contstantly gets flung off the metal bull, until through hard work(the mechanical bull breaks) she eventually tames the bull and becomes an offical cowboy.
+  nf_woo.5.a:0 "If at first you don’t succeed, try, try again."
+
+  nf_woo.6.t:0 "Lotsa Angry Folks"
+  nf_woo.6.d:0 "With the Great Plains Federation now under our control, we’ve managed to reclaim the money I’ve lost during my trip to the Big Spend. However, we’re now faced with the proposition of taking MORE than we lost. The Chicksaw-Muscogee people are already pretty mad at us, and taking even more money would likely make them even more upset.\n\nBut why should we care?" # After taking over the great plain federation, butterfingers was able to restore all the money she lost gambling, but now has to deal with the people of the great plains federation, who are not that happy. she has two options, do em like the wardens back home would, or just grant them a lot of autonomy within the nation.
+  nf_woo.6.a:0 "Let It Ride!"
+  nf_woo.6.b:0 "No, it's not worth it."
+
+  nf_woo.7.t:0 "After The Fallout"
+  nf_woo.7.d:0 "So much time has passed ever since Butterfingers made it to Oklahoma. Beating Andrews in a duel. Defeating the Last Patrol and Chained Choir. Securing the Oklahoma land. Winning big at the casino’s. Butterfingers has had a lot of fun, and has grown from it. She pondered to herself though, was all of this time spent, worth it? Has she really become a serious soldier? Has she grown fond of the Oklahoma lands? Is she a real cowboy? This would be the time she would answer all of those questions. " # Butterfingers ponders over what her future will be, should she try and contact warden main command? should she just go home and not deal with this anymore? Or should she embrace the texlahoma identity fully?
+  nf_woo.7.a:0 "§MI'm a Warden! I am a serious soldier!§!"
+  nf_woo.7.b:0 "§CI'm going back home, fuck this.§!"
+  nf_woo.7.c:0 "§YI'm a cowboy at heart, and I will always be a cowboy!§!"
+
+  nf_woo.8.t:0 "I Can't Feel You There"
+  nf_woo.8.d:0 "Wadsworth’s Log\n[?global.date.GetDateStringNoHourLong]\n\nI don’t know what to do. I sent out a signal to Brandt, and nothing, I reached out to Sylvia, and even Mulligan, and got no answer, either they’re gone too or don’t trust Wardens enough to pick up. The only person I’ve managed to get a hold of is that jerk Koester. Her only words, “The Wardens are dead. Stop calling.”\n\nI’m at a loss. All my friends, family, the people I really cared about. All gone. Could I have made a difference were I there? Could I have stopped this? Does it even matter to think about all this?" #butterfingers is in complete abject horror and misery that the wardens back north have been destroyed once more, maybe shs reachs a single warden who tells her they all died idk
+  nf_woo.8.a:0 "Every step that I take is another mistake."
+
+  nf_woo.9.t:0 "Big Day Out"
+  nf_woo.9.d:0 "The radio crackled with life as Wadsworth balanced the antenna extra carefully, “C’mooon, c’mooon!” She struggled for a moment, almost toppling over, but she stretched out a leg to brace onto the wall, and finally with a quick BZZZT-\n\n“This is Warden Actual, rogue frequency identify yourself.” Carie nearly screamed in excitement, as she gestured for one of her soldiers to take over the balancing, with only minor interference.\n\n“This is Carie Wadsworth, commander of Oscar Kilo. Is, uh, is Brandt or Carver there?” There was a long silence over the radio, until she could hear someone ask ‘Commander?’\n\n“This is Brandt. Explain yourself, Wadsworth.” She sputtered out what had happened, the story of her travels into Oklahoma, duelling Andrews, facing down the National Guard and Psykers, and finally defeating the Great Plains Federation. As she spoke, she realized just how much she had actually accomplished. It seemed Brandt had the same realisation, speaking to her for the first time without any biting sarcasm or negativity." #butterfingers has been welcomed home with open arms, shes so excited. Brandt is still a lil annoyed but hey free support and land is pretty good.
+  nf_woo.9.a:0 "§MGood work?§!"
+
+  nf_woo.10.t:0 "Operation: Wahoo"
+  nf_woo.10.d:0 "Carie waited with apprehension as she watched the Vertibird land in Castra Sol Rubrum. While she knew who was on board, she still wasn’t prepared for Carver to scream “Butterfingers!” as soon as the door was open. She immediately stood at attention, waiting for him to appear before her.\n\nHe marched forward, his jacket tied around his waist to deal with the heat. As he stopped in front of his former underling, he looked her over, and she could feel him squinting, “Butterfingers, do you have any idea how long that flight was? You better have some good news for me!”\n\nShe stammered out her words, trying her best to make sound more professional than normal, until Carver placed a hand on her shoulder, “Hey, relax. I already know. You’ve done good work, Carie.” He turned her away from the Vertibird as a few more soldiers started to pile out, “Should’a seen the look on your face.”\n\nShe chuckled along with him, a smile warming up her face more than the New Mexican heat ever could. “Hahaaa, you got me!” As they walked, Wadsworth started going over the statistics of her previous battles with him, feeling more comfortable being a Warden than she ever had." #Finally after so much struggle, butterfigners has begun to feel like she fully belongs to the wardens of the white. should be very emotionally sappy and like a good ending, but undercut with the fact that being a true warden basically means being evil ;)
+  nf_woo.10.a:0 "§CAnd can you believe we only had a 70% Civilian Casualty rate?§!"
+
+  nf_woo.11.t:0 "A New Chapter"
+  nf_woo.11.d:0 "Wadsworth’s Log\n[?global.date.GetDateStringNoHourLong]\n\nThere isn’t a day that goes by where I don’t miss my friends. Carver, especially. I know he was a jerk near the end, but I still appreciated him as a Commander, and a friend. However, for the first time in months, I feel like some sort of weight has been lifted off my shoulders.\n\nMaybe, the Wardens are looking up at me from below, and deeming me worthy to carry on the name. Maybe, just maybe, I’ve proven myself to be worthy of the title of Warden. Nothing’s ever gonna stand in my way again." #Butterfingers has found atleast some clarity, and absolution. She decides to form the united wardens of america to honor her fallen comrades. very triumphant in tone.
+  nf_woo.11.a:0 "End Wadsworth’s Log: Wahoo!"
+
+  nf_woo.12.t:0 "A Possible Alliance"
+  nf_woo.12.d:0 "Hang on, hang on. It's April Fools. Are you seriously playing Last Lodge over anything that's been added? Actually, thinking about it, it might not be April Fools and you just turned on this gamerule, which is even worse. Like, none of these options are actually good for you, either you get annexed by Oscar Kilo, or you go to war with them, and they are most definitely stronger than you. Sorry it ended up this way pal."
+  nf_woo.12.a:0 "Meh, I wasn't having fun this game anyway."
+  nf_woo.12.b:0 "You can have my Lodge when you pry it from my cold dead hands!"
+  
+  nf_woo.13.t:0 "The Lodge Accepts!"
+  nf_woo.13.d:0 "Oh my god oh my god oh my god! They said yes! I get to meet a real cowgirl in the flesh and she might even show me some cool shooting tricks! I really hope she won’t push me away like everybody else!" # Hip Hip Hooray, we have a new cowgirl friend!
+  nf_woo.13.a:0 "Let's hear it for the badass cowgirls!"
+  
+  nf_woo.14.t:0 "The Lodge Says Something Mean!"
+  nf_woo.14.d:0 "Woah. That was a really colorful series of words. I’m not gonna repeat them, in case someone tries to take it out of context, but they were really really mean to me. I just wanted to be their friend, and maybe take over their settlements while giving the Grandmatron very little oversight. Was that so wrong?" #Last Lodge tells us to go fuck ourselves
+  nf_woo.14.a:0 "That wasn't very nice."
+  
+  nf_woo.15.t:0 "Let's Go Gambling!!!"
+  nf_woo.15.d:0 "Casinos, a rare sight in the Wasteland, considering not many people are trustworthy enough to give their caps away freely. Butterfingers had never even heard of these until the day she stepped foot in the Big Spend. The glitz and glamor mesmerized her, she wanted to spend the rest of her life there if she could. The concept of gambling wasn’t foreign to her, of course. The Wardens back home used to have a dead pool for folks sent to ‘hunt’ the Winterborn. She was always good at those bets, so what’s the worst that could happen here?\n\nTwo hours later, Butterfingers was sitting on the concrete outside of the city, staring up at the spinning sky. The stars stared at her like a billion winking eyes, judging her. She’d lost every single cent Oscar Kilo had, and then some. She was far too drunk to even walk home. As she waited for her men to collect her, the muddied thoughts in her head came to one conclusion: She’d have to take everything back, by force if she had to." #Butterfingers loses all her money at The Big Spend
+  nf_woo.15.a:0 "Aw, Dang It!"
+  
+  nf_woo.16.t:0 "In This Farewell"
+  nf_woo.16.d:0 "Wadsworth’s Log\n[?global.date.GetDateStringNoHourLong]\n\nI’ve been doing some thinking, deep thinking. Even if I’m the head of Oscar Kilo, or that I’ve claimed all of Oklahoma, nobody within the Wardens is gonna take me seriously if I’m wearing this silly cowboy hat. Nor will they take me seriously with a doofy smile.\n\nNo, from now on, my face is covered, my hat is standard-issue, and you’ll never find me with any amount of joy OR whimsy. I’ll blow up my enemies with no emotion, like a stone-cold killer. I’ll crush the other ‘leaders’ under my boot, like the American Imperialists of old. I won’t even blink when a family of five is torched for disagreeing with my regime."
+  nf_woo.16.a:0 "Like a §MREAL§! Warden"
+  
+  nf_woo.17.t:0 "Did It Even Matter?"
+  nf_woo.17.d:0 "There is an idea of ‘Butterfingers’. A woman who came to Oklahoma and promised the world. That she would bring Safety (not freedom) to the Southwestern Wasteland. That she would defeat the tyranny of the Brotherhood’s rule, and personally execute Lanius for enslaving people, which the Wardens definitely don’t do. That she would bring a new sense of order to Oklahoma, Texas, and even New Mexico. She promised it all, and what did she leave in her wake?\n\nDeath. Destruction. Anarchy.\n\nThe bodies she left behind are uncountable, and the people who still suffer from her regime are still trying to pick up the pieces even now. All they have left is to try to cling to what little security can be found from the guns and armor her fallen troops have left behind. That is, if the roaming death squads of what used to be Wardens don’t find the gear first. Word’s even going around that the Brotherhood has issued a bounty for the ruin she’s left Oklahoma in. 60,000,000 caps for the corpse or capture of one ‘Carie Wadsworth’, AKA... " #Butterfingers heads back to Seattle, leaving Oscar Kilo in chaos
+  nf_woo.17.a:0 "§RThe Buttery Typhoon§!"
+  
+  nf_woo.18.t:0 "And Now For A Lesson In Governmental Management"
+  nf_woo.18.d:0 "Now that Butterfingers decided that she wants to be a cowboy, the first order of business was to give everyone a cowboy hat! Not just any hats, the biggest hats! The horses get hats! The cactus will get hats! The tumbleweeds get hats! EVERYONE GETS A HAT!" #It's time for Texlahoma BABYYYYYY, we're gonna have the BIGGEST Cowboy Hats!
+  nf_woo.18.a:0 "§YTHE BIGGEST HATS FOR EVERYONE!§!"
+  
+  nf_woo.19.t:0 "This Governing Thing Is Easy!"
+  nf_woo.19.d:0 "Ever since the annexation of the Texan Brotherhood, people in the lands of Dallas have been protesting against the Warden control. The masses asked for some sort of order, a constitution for them to follow. This has eventually reached the office of Butterfingers where she was confused on what a constitution even was. After she was informed of what it was, she knew what needed to be done. She addressed the people of Texas and said, “Constitution-Shmonstitution. Who needs a paper saying what people are allowed to do when I can say it?” " #Constitution-Shmonstitution. Who needs a paper saying what people are allowed to do when I can say it?
+  nf_woo.19.a:0 "§YAfterall, I am the boss, my word is best!§!"
+  
+  nf_woo.20.t:0 "The Results Are In"
+  nf_woo.20.d:0 "The very first election after Butterfingers had taken Texas has taken place. On the ballot, there was a very intriguing selection of... one person, Butterfingers. The people of Texas didn’t really question why it was only her, after all, the other politicians of Texas hadn't been seen in public for a while. Oh well, everything will be fine under Butterfingers presidency. The people have complete and utter confidence, for sure. " #Elections are so fun! We should hold one of these again sometime!
+  nf_woo.20.a:0 "§YAnd I only had to kill a few people!§!"
+  
+  nf_woo.21.t:0 "The Texlahoma Dream"
+  nf_woo.21.d:0 "It wasn’t often that Butterfingers actually got a moment to herself nowadays. Between all the fighting, governing, and strong-arming she’d had to do to take control of Texlahoma, she always found herself being whisked from job to job. Was this how Brandt always felt?\n\nBut finally, Butterfingers had managed to secure a day off for herself. She’d gotten some of her guys to build a freezer in her new house in Dallas, which she could now finally sit back and relax in. The door clicked, she sat in her chair, and laid back, leaning against the wall. It felt just like home.\n\nHome. It’d been a while now, hadn’t it? Nearly half a decade since she’d been expelled from the Wardens, and here she was still pining for the cold winds of Washington. For a moment, heartache panged at her chest, missing the friends and family she had left behind. Then there was a knock at the door.\n\nShe smiled. They needed her. They §Rneeded§! her. She couldn't help but smile as she stood up from her chair, and opened the door, ready to face whatever was needed of her this time. She left behind the cold of the freezer, contemplating whether she’d feel the real thing again soon.\n\nFor right now, though, that didn’t matter."
+  nf_woo.21.a:0 "She was home."
+
+### cosmetic tags
+  woo_houston_people:0 "Houston Wardens"
+  woo_houston_people_ADJ:0 "Wardens"
+  woo_houston_people_DEF:0 "the Houston Wardens"
+  woo_houston_elites:0 "Houston Wardens"
+  woo_houston_elites_ADJ:0 "Wardens"
+  woo_houston_elites_DEF:0 "the Houston Wardens"
+  woo_houston_ruler:0 "Houston Wardens"
+  woo_houston_ruler_ADJ:0 "Wardens"
+  woo_houston_ruler_DEF:0 "the Houston Wardens"
+  woo_houston_intellectuals:0 "Houston Wardens"
+  woo_houston_intellectuals_ADJ:0 "Wardens"
+  woo_houston_intellectuals_DEF:0 "the Houston Wardens"
+
+  woo_lincoln_people:0 "Lincoln Wardens"
+  woo_lincoln_people_ADJ:0 "Wardens"
+  woo_lincoln_people_DEF:0 "the Lincoln Wardens"
+  woo_lincoln_elites:0 "Lincoln Wardens"
+  woo_lincoln_elites_ADJ:0 "Wardens"
+  woo_lincoln_elites_DEF:0 "the Lincoln Wardens"
+  woo_lincoln_ruler:0 "Lincoln Wardens"
+  woo_lincoln_ruler_ADJ:0 "Wardens"
+  woo_lincoln_ruler_DEF:0 "the Lincoln Wardens"
+  woo_lincoln_intellectuals:0 "Lincoln Wardens"
+  woo_lincoln_intellectuals_ADJ:0 "Wardens"
+  woo_lincoln_intellectuals_DEF:0 "the Lincoln Wardens"
+
+  woo_texas_people:0 "Texan Wardens"
+  woo_texas_people_ADJ:0 "Wardens"
+  woo_texas_people_DEF:0 "the Texan Wardens"
+  woo_texas_elites:0 "Texan Wardens"
+  woo_texas_elites_ADJ:0 "Wardens"
+  woo_texas_elites_DEF:0 "the Texan Wardens"
+  woo_texas_ruler:0 "Texan Wardens"
+  woo_texas_ruler_ADJ:0 "Wardens"
+  woo_texas_ruler_DEF:0 "the Texan Wardens"
+  woo_texas_intellectuals:0 "Texan Wardens"
+  woo_texas_intellectuals_ADJ:0 "Wardens"
+  woo_texas_intellectuals_DEF:0 "the Texan Wardens"
+
+  woo_colorado_people:0 "Colorado Wardens"
+  woo_colorado_people_ADJ:0 "Wardens"
+  woo_colorado_people_DEF:0 "the Colorado Wardens"
+  woo_colorado_elites:0 "Colorado Wardens"
+  woo_colorado_elites_ADJ:0 "Wardens"
+  woo_colorado_elites_DEF:0 "the Colorado Wardens"
+  woo_colorado_ruler:0 "Colorado Wardens"
+  woo_colorado_ruler_ADJ:0 "Wardens"
+  woo_colorado_ruler_DEF:0 "the Colorado Wardens"
+  woo_colorado_intellectuals:0 "Colorado Wardens"
+  woo_colorado_intellectuals_ADJ:0 "Wardens"
+  woo_colorado_intellectuals_DEF:0 "the Colorado Wardens"
+
+  woo_newmex_people:0 "New Mexican Wardens"
+  woo_newmex_people_ADJ:0 "Wardens"
+  woo_newmex_people_DEF:0 "the New Mexican Wardens"
+  woo_newmex_elites:0 "New Mexican Wardens"
+  woo_newmex_elites_ADJ:0 "Wardens"
+  woo_newmex_elites_DEF:0 "the New Mexican Wardens"
+  woo_newmex_ruler:0 "New Mexican Wardens"
+  woo_newmex_ruler_ADJ:0 "Wardens"
+  woo_newmex_ruler_DEF:0 "the New Mexican Wardens"
+  woo_newmex_intellectuals:0 "New Mexican Wardens"
+  woo_newmex_intellectuals_ADJ:0 "Wardens"
+  woo_newmex_intellectuals_DEF:0 "the New Mexican Wardens"
+
+  woo_blc_people:0 "Black Canyon Wardens"
+  woo_blc_people_ADJ:0 "Wardens"
+  woo_blc_people_DEF:0 "the Black Canyon Wardens"
+  woo_blc_elites:0 "Black Canyon Wardens"
+  woo_blc_elites_ADJ:0 "Wardens"
+  woo_blc_elites_DEF:0 "the Black Canyon Wardens"
+  woo_blc_ruler:0 "Black Canyon Wardens"
+  woo_blc_ruler_ADJ:0 "Wardens"
+  woo_blc_ruler_DEF:0 "the Black Canyon Wardens"
+  woo_blc_intellectuals:0 "Black Canyon Wardens"
+  woo_blc_intellectuals_ADJ:0 "Wardens"
+  woo_blc_intellectuals_DEF:0 "the Black Canyon Wardens"
+
+  woo_mexico_people:0 "Old Mexican Wardens"
+  woo_mexico_people_ADJ:0 "Wardens"
+  woo_mexico_people_DEF:0 "the Old Mexican Wardens"
+  woo_mexico_elites:0 "Old Mexican Wardens"
+  woo_mexico_elites_ADJ:0 "Wardens"
+  woo_mexico_elites_DEF:0 "the Old Mexican Wardens"
+  woo_mexico_ruler:0 "Old Mexican Wardens"
+  woo_mexico_ruler_ADJ:0 "Wardens"
+  woo_mexico_ruler_DEF:0 "the Old Mexican Wardens"
+  woo_mexico_intellectuals:0 "Old Mexican Wardens"
+  woo_mexico_intellectuals_ADJ:0 "Wardens"
+  woo_mexico_intellectuals_DEF:0 "the Old Mexican Wardens"
+
+  woo_west_people:0 "Arizona Wardens"
+  woo_west_people_ADJ:0 "Wardens"
+  woo_west_people_DEF:0 "the Arizona Wardens"
+  woo_west_elites:0 "Arizona Wardens"
+  woo_west_elites_ADJ:0 "Wardens"
+  woo_west_elites_DEF:0 "the Arizona Wardens"
+  woo_west_ruler:0 "Arizona Wardens"
+  woo_west_ruler_ADJ:0 "Wardens"
+  woo_west_ruler_DEF:0 "the Arizona Wardens"
+  woo_west_intellectuals:0 "Arizona Wardens"
+  woo_west_intellectuals_ADJ:0 "Wardens"
+  woo_west_intellectuals_DEF:0 "the Arizona Wardens"
+
+  woo_nebraska_people:0 "Nebraska Wardens"
+  woo_nebraska_people_ADJ:0 "Wardens"
+  woo_nebraska_people_DEF:0 "the Nebraska Wardens"
+  woo_nebraska_elites:0 "Nebraska Wardens"
+  woo_nebraska_elites_ADJ:0 "Wardens"
+  woo_nebraska_elites_DEF:0 "the Nebraska Wardens"
+  woo_nebraska_ruler:0 "Nebraska Wardens"
+  woo_nebraska_ruler_ADJ:0 "Wardens"
+  woo_nebraska_ruler_DEF:0 "the Nebraska Wardens"
+  woo_nebraska_intellectuals:0 "Nebraska Wardens"
+  woo_nebraska_intellectuals_ADJ:0 "Wardens"
+  woo_nebraska_intellectuals_DEF:0 "the Nebraska Wardens"
+
+  woo_louisiana_people:0 "Louisiana Wardens"
+  woo_louisiana_people_ADJ:0 "Wardens"
+  woo_louisiana_people_DEF:0 "the Louisiana Wardens"
+  woo_louisiana_elites:0 "Louisiana Wardens"
+  woo_louisiana_elites_ADJ:0 "Wardens"
+  woo_louisiana_elites_DEF:0 "the Louisiana Wardens"
+  woo_louisiana_ruler:0 "Louisiana Wardens"
+  woo_louisiana_ruler_ADJ:0 "Wardens"
+  woo_louisiana_ruler_DEF:0 "the Louisiana Wardens"
+  woo_louisiana_intellectuals:0 "Louisiana Wardens"
+  woo_louisiana_intellectuals_ADJ:0 "Wardens"
+  woo_louisiana_intellectuals_DEF:0 "the Louisiana Wardens"
+
+  woo_sonora_people:0 "Sonora Wardens"
+  woo_sonora_people_ADJ:0 "Wardens"
+  woo_sonora_people_DEF:0 "the Sonora Wardens"
+  woo_sonora_elites:0 "Sonora Wardens"
+  woo_sonora_elites_ADJ:0 "Wardens"
+  woo_sonora_elites_DEF:0 "the Sonora Wardens"
+  woo_sonora_ruler:0 "Sonora Wardens"
+  woo_sonora_ruler_ADJ:0 "Wardens"
+  woo_sonora_ruler_DEF:0 "the Sonora Wardens"
+  woo_sonora_intellectuals:0 "Sonora Wardens"
+  woo_sonora_intellectuals_ADJ:0 "Wardens"
+  woo_sonora_intellectuals_DEF:0 "the Sonora Wardens"
+
+  woo_california_people:0 "California Wardens"
+  woo_california_people_ADJ:0 "Wardens"
+  woo_california_people_DEF:0 "the California Wardens"
+  woo_california_elites:0 "California Wardens"
+  woo_california_elites_ADJ:0 "Wardens"
+  woo_california_elites_DEF:0 "the California Wardens"
+  woo_california_ruler:0 "California Wardens"
+  woo_california_ruler_ADJ:0 "Wardens"
+  woo_california_ruler_DEF:0 "the California Wardens"
+  woo_california_intellectuals:0 "California Wardens"
+  woo_california_intellectuals_ADJ:0 "Wardens"
+  woo_california_intellectuals_DEF:0 "the California Wardens"
+
+  woo_deseret_people:0 "Deseret Wardens"
+  woo_deseret_people_ADJ:0 "Wardens"
+  woo_deseret_people_DEF:0 "the Deseret Wardens"
+  woo_deseret_elites:0 "Deseret Wardens"
+  woo_deseret_elites_ADJ:0 "Wardens"
+  woo_deseret_elites_DEF:0 "the Deseret Wardens"
+  woo_deseret_ruler:0 "Deseret Wardens"
+  woo_deseret_ruler_ADJ:0 "Wardens"
+  woo_deseret_ruler_DEF:0 "the Deseret Wardens"
+  woo_deseret_intellectuals:0 "Deseret Wardens"
+  woo_deseret_intellectuals_ADJ:0 "Wardens"
+  woo_deseret_intellectuals_DEF:0 "the Deseret Wardens"
+
+  woo_wyoming_people:0 "Wyoming Wardens"
+  woo_wyoming_people_ADJ:0 "Wardens"
+  woo_wyoming_people_DEF:0 "the Wyoming Wardens"
+  woo_wyoming_elites:0 "Wyoming Wardens"
+  woo_wyoming_elites_ADJ:0 "Wardens"
+  woo_wyoming_elites_DEF:0 "the Wyoming Wardens"
+  woo_wyoming_ruler:0 "Wyoming Wardens"
+  woo_wyoming_ruler_ADJ:0 "Wardens"
+  woo_wyoming_ruler_DEF:0 "the Wyoming Wardens"
+  woo_wyoming_intellectuals:0 "Wyoming Wardens"
+  woo_wyoming_intellectuals_ADJ:0 "Wardens"
+  woo_wyoming_intellectuals_DEF:0 "the Wyoming Wardens"
+
+  woo_dakotas_people:0 "Dakotas Wardens"
+  woo_dakotas_people_ADJ:0 "Wardens"
+  woo_dakotas_people_DEF:0 "the Dakotas Wardens"
+  woo_dakotas_elites:0 "Dakotas Wardens"
+  woo_dakotas_elites_ADJ:0 "Wardens"
+  woo_dakotas_elites_DEF:0 "the Dakotas Wardens"
+  woo_dakotas_ruler:0 "Dakotas Wardens"
+  woo_dakotas_ruler_ADJ:0 "Wardens"
+  woo_dakotas_ruler_DEF:0 "the Dakotas Wardens"
+  woo_dakotas_intellectuals:0 "Dakotas Wardens"
+  woo_dakotas_intellectuals_ADJ:0 "Wardens"
+  woo_dakotas_intellectuals_DEF:0 "the Dakotas Wardens"
+
+  woo_montanna_people:0 "Montana Wardens"
+  woo_montanna_people_ADJ:0 "Wardens"
+  woo_montanna_people_DEF:0 "the Montana Wardens"
+  woo_montanna_elites:0 "Montana Wardens"
+  woo_montanna_elites_ADJ:0 "Wardens"
+  woo_montanna_elites_DEF:0 "the Montana Wardens"
+  woo_montanna_ruler:0 "Montana Wardens"
+  woo_montanna_ruler_ADJ:0 "Wardens"
+  woo_montanna_ruler_DEF:0 "the Montana Wardens"
+  woo_montanna_intellectuals:0 "Montana Wardens"
+  woo_montanna_intellectuals_ADJ:0 "Wardens"
+  woo_montanna_intellectuals_DEF:0 "the Montana Wardens"
+
+  woo_yucatan_people:0 "Yucatan Wardens"
+  woo_yucatan_people_ADJ:0 "Wardens"
+  woo_yucatan_people_DEF:0 "the Yucatan Wardens"
+  woo_yucatan_elites:0 "Yucatan Wardens"
+  woo_yucatan_elites_ADJ:0 "Wardens"
+  woo_yucatan_elites_DEF:0 "the Yucatan Wardens"
+  woo_yucatan_ruler:0 "Yucatan Wardens"
+  woo_yucatan_ruler_ADJ:0 "Wardens"
+  woo_yucatan_ruler_DEF:0 "the Yucatan Wardens"
+  woo_yucatan_intellectuals:0 "Yucatan Wardens"
+  woo_yucatan_intellectuals_ADJ:0 "Wardens"
+  woo_yucatan_intellectuals_DEF:0 "the Yucatan Wardens"
+
+  woo_idaho_people:0 "Idaho Wardens"
+  woo_idaho_people_ADJ:0 "Wardens"
+  woo_idaho_people_DEF:0 "the Idaho Wardens"
+  woo_idaho_elites:0 "Idaho Wardens"
+  woo_idaho_elites_ADJ:0 "Wardens"
+  woo_idaho_elites_DEF:0 "the Idaho Wardens"
+  woo_idaho_ruler:0 "Idaho Wardens"
+  woo_idaho_ruler_ADJ:0 "Wardens"
+  woo_idaho_ruler_DEF:0 "the Idaho Wardens"
+  woo_idaho_intellectuals:0 "Idaho Wardens"
+  woo_idaho_intellectuals_ADJ:0 "Wardens"
+  woo_idaho_intellectuals_DEF:0 "the Idaho Wardens"
+
+  woo_northwest_people:0 "North Western Wardens"
+  woo_northwest_people_ADJ:0 "Wardens"
+  woo_northwest_people_DEF:0 "the North Western Wardens"
+  woo_northwest_elites:0 "North Western Wardens"
+  woo_northwest_elites_ADJ:0 "Wardens"
+  woo_northwest_elites_DEF:0 "the North Western Wardens"
+  woo_northwest_ruler:0 "North Western Wardens"
+  woo_northwest_ruler_ADJ:0 "Wardens"
+  woo_northwest_ruler_DEF:0 "the North Western Wardens"
+  woo_northwest_intellectuals:0 "North Western Wardens"
+  woo_northwest_intellectuals_ADJ:0 "Wardens"
+  woo_northwest_intellectuals_DEF:0 "the North Western Wardens"
+
+  woo_columbia_people:0 "Columbia Wardens"
+  woo_columbia_people_ADJ:0 "Wardens"
+  woo_columbia_people_DEF:0 "the Columbia Wardens"
+  woo_columbia_elites:0 "Columbia Wardens"
+  woo_columbia_elites_ADJ:0 "Wardens"
+  woo_columbia_elites_DEF:0 "the Columbia Wardens"
+  woo_columbia_ruler:0 "Columbia Wardens"
+  woo_columbia_ruler_ADJ:0 "Wardens"
+  woo_columbia_ruler_DEF:0 "the Columbia Wardens"
+  woo_columbia_intellectuals:0 "Columbia Wardens"
+  woo_columbia_intellectuals_ADJ:0 "Wardens"
+  woo_columbia_intellectuals_DEF:0 "the Columbia Wardens"
+
+  woo_manitoba_people:0 "Manitoba Wardens"
+  woo_manitoba_people_ADJ:0 "Wardens"
+  woo_manitoba_people_DEF:0 "the Manitoba Wardens"
+  woo_manitoba_elites:0 "Manitoba Wardens"
+  woo_manitoba_elites_ADJ:0 "Wardens"
+  woo_manitoba_elites_DEF:0 "the Manitoba Wardens"
+  woo_manitoba_ruler:0 "Manitoba Wardens"
+  woo_manitoba_ruler_ADJ:0 "Wardens"
+  woo_manitoba_ruler_DEF:0 "the Manitoba Wardens"
+  woo_manitoba_intellectuals:0 "Manitoba Wardens"
+  woo_manitoba_intellectuals_ADJ:0 "Wardens"
+  woo_manitoba_intellectuals_DEF:0 "the Manitoba Wardens"
+
+  woo_smiling_people:0 "Scarlet Wardens"`
+  woo_smiling_people_ADJ:0 "Wardens"
+  woo_smiling_people_DEF:0 "the Scarlet Wardens"
+  woo_smiling_elites:0 "Scarlet Wardens"
+  woo_smiling_elites_ADJ:0 "Wardens"
+  woo_smiling_elites_DEF:0 "the Scarlet Wardens"
+  woo_smiling_ruler:0 "Scarlet Wardens"
+  woo_smiling_ruler_ADJ:0 "Wardens"
+  woo_smiling_ruler_DEF:0 "the Scarlet Wardens"
+  woo_smiling_intellectuals:0 "Scarlet Wardens"
+  woo_smiling_intellectuals_ADJ:0 "Wardens"
+  woo_smiling_intellectuals_DEF:0 "the Scarlet Wardens"
+
+  woo_alberta_people:0 "Alberta Wardens"
+  woo_alberta_people_ADJ:0 "Wardens"
+  woo_alberta_people_DEF:0 "the Alberta Wardens"
+  woo_alberta_elites:0 "Alberta Wardens"
+  woo_alberta_elites_ADJ:0 "Wardens"
+  woo_alberta_elites_DEF:0 "the Alberta Wardens"
+  woo_alberta_ruler:0 "Alberta Wardens"
+  woo_alberta_ruler_ADJ:0 "Wardens"
+  woo_alberta_ruler_DEF:0 "the Alberta Wardens"
+  woo_alberta_intellectuals:0 "Alberta Wardens"
+  woo_alberta_intellectuals_ADJ:0 "Wardens"
+  woo_alberta_intellectuals_DEF:0 "the Alberta Wardens"
+
+  woo_oklahoma_people:0 "Wardens of Oklahoma"
+  woo_oklahoma_people_ADJ:0 "Wardens"
+  woo_oklahoma_people_DEF:0 "the Wardens of Oklahoma"
+  woo_oklahoma_elites:0 "Oklahoma Wardens"
+  woo_oklahoma_elites_ADJ:0 "Wardens"
+  woo_oklahoma_elites_DEF:0 "the Oklahoma Wardens"
+  woo_oklahoma_ruler:0 "Wardens of Oklahoma"
+  woo_oklahoma_ruler_ADJ:0 "Wardens"
+  woo_oklahoma_ruler_DEF:0 "the Wardens of Oklahoma"
+  woo_oklahoma_intellectuals:0 "Wardens of Oklahoma"
+  woo_oklahoma_intellectuals_ADJ:0 "Wardens"
+  woo_oklahoma_intellectuals_DEF:0 "the Wardens of Oklahoma"
+  
+  woo_wild_west_people:0 "Wild West Wardens"
+  woo_wild_west_people_ADJ:0 "Wild West Wardens"
+  woo_wild_west_people_DEF:0 "the Wild West Wardens"
+  woo_wild_west_elites:0 "Western Wardens"
+  woo_wild_west_elites_ADJ:0 "Wild West Wardens"
+  woo_wild_west_elites_DEF:0 "the Wild West Wardens"
+  woo_wild_west_ruler:0 "Wild West Wardens"
+  woo_wild_west_ruler_ADJ:0 "Wild West Wardens"
+  woo_wild_west_ruler_DEF:0 "the Wild West Wardens"
+  woo_wild_west_intellectuals:0 "Wild West Wardens"
+  woo_wild_west_intellectuals_ADJ:0 "Wild West Wardens"
+  woo_wild_west_intellectuals_DEF:0 "the Wild West Wardens"
+  
+  woo_united_wardens_people:0 "United Wardens of America"
+  woo_united_wardens_people_ADJ:0 "United Wardens of America"
+  woo_united_wardens_people_DEF:0 "United Wardens of America"
+  woo_united_wardens_elites:0 "Western Wardens"
+  woo_united_wardens_elites_ADJ:0 "United Wardens of America"
+  woo_united_wardens_elites_DEF:0 "United Wardens of America"
+  woo_united_wardens_ruler:0 "United Wardens of America"
+  woo_united_wardens_ruler_ADJ:0 "United Wardens of America"
+  woo_united_wardens_ruler_DEF:0 "United Wardens of America"
+  woo_united_wardens_intellectuals:0 "United Wardens of America"
+  woo_united_wardens_intellectuals_ADJ:0 "United Wardens of America"
+  woo_united_wardens_intellectuals_DEF:0 "United Wardens of America"
+
+  woo_texlahoma_people:0 "Texlahoma"
+  woo_texlahoma_people_ADJ:0 "Texlahoma"
+  woo_texlahoma_people_DEF:0 "the Texlahoma"
+  woo_texlahoma_elites:0 "Texlahoma"
+  woo_texlahoma_elites_ADJ:0 "Texlahoma"
+  woo_texlahoma_elites_DEF:0 "the Texlahoma"
+  woo_texlahoma_ruler:0 "Texlahoma"
+  woo_texlahoma_ruler_ADJ:0 "Texlahoma"
+  woo_texlahoma_ruler_DEF:0 "the Texlahoma"
+  woo_texlahoma_intellectuals:0 "Texlahoma"
+  woo_texlahoma_intellectuals_ADJ:0 "Texlahoma"
+  woo_texlahoma_intellectuals_DEF:0 "the Texlahoma"
+
+  woo_texlahoma_v2_people:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_people_ADJ:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_people_DEF:0 "the Grand Republic of Texlahoma"
+  woo_texlahoma_v2_elites:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_elites_ADJ:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_elites_DEF:0 "the Grand Republic of Texlahoma"
+  woo_texlahoma_v2_ruler:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_ruler_ADJ:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_ruler_DEF:0 "the Grand Republic of Texlahoma"
+  woo_texlahoma_v2_intellectuals:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_intellectuals_ADJ:0 "Grand Republic of Texlahoma"
+  woo_texlahoma_v2_intellectuals_DEF:0 "the Grand Republic of Texlahoma"
+  
+  woo_anarchy_people:0 "Warden Anarchy"
+  woo_anarchy_people_ADJ:0 "Warden Anarchy"
+  woo_anarchy_people_DEF:0 "the Warden Anarchy"
+  woo_anarchy_elites:0 "Warden Anarchy"
+  woo_anarchy_elites_ADJ:0 "Warden Anarchy"
+  woo_anarchy_elites_DEF:0 "the Warden Anarchy"
+  woo_anarchy_ruler:0 "Warden Anarchy"
+  woo_anarchy_ruler_ADJ:0 "Warden Anarchy"
+  woo_anarchy_ruler_DEF:0 "the Warden Anarchy"
+  woo_anarchy_intellectuals:0 "Warden Anarchy"
+  woo_anarchy_intellectuals_ADJ:0 "Warden Anarchy"
+  woo_anarchy_intellectuals_DEF:0 "the Warden Anarchy"
+  
+  

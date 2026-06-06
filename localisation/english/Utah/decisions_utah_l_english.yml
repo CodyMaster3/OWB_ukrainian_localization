@@ -93,7 +93,8 @@ utah_mur_ano_war_desc:0 "«Ось, яке це добре і приємне – 
 
 utah_new_offensive_effort:0 "Нові Наступальні Дії"
 utah_reinforce_the_frontline:0 "Укріпити Передову"
-
+utah_request_ANO_from_HEA:0 "Заклики до Батьківщини"
+utah_request_ANO_from_HEA_desc:0 "Наші нові союзники в [HEA.GetNameWithFlag] перемогли, але захопили ці землі собі. Можливо, нам варто нагадати їм, кому вони насправді належать?"
 utah_glass_trade_with_ham:0 "Торгівля з Склярами"
 utah_glass_trade_with_ham_desc:0 "«Справедливі ваги й терези належать Господові; усі гирі в торбі – Його справа»."
 

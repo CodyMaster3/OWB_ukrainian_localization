@@ -180,6 +180,28 @@ nf_rot.20.t:0 "Магічна Сфера"
 nf_rot.20.d:0 "Кажуть, що одного вечора, коли сніг сріблом вкрив землю, великий Самсон влаштував розкішний бенкет для своїх найближчих соратників. На знак довіри та віри, він звертався до Сфери з питанням – чи може кожен із гостей їсти. Сфера відповідала ствердно кожному: “так, безсумнівно” або “без жодного сумніву”. Усім, крім одного.\n\nВорду Кулу, похмурому чоловіку, якого Самсон узяв до себе майже всупереч його волі, Сфера відповіла: “спитай пізніше”. Той з незадоволенням дивився, як інші частуються, і його роздратування зростало. Нарешті він підвівся та зажадав спитати ще раз:\n\n“Чи можу я поїсти?!”\n\nВідповідь була: “Дуже малоймовірно.”\n\nВін питав знову і знову. Щоразу йому відмовляли, і з кожною відмовою його лють зростала. Після п’ятнадцятого запиту він закричав від гніву й вийшов геть із зали. Кажуть, коли він ішов крізь хуртовину, на нього напав Яо-Ґай, що бродив поблизу чертогів Самсона. Після жорстокої сутички він убив звіра і приготував із його плоті чимало чудових страв. Якби його там не було, ця потвора могла б напасти на гостей і принести трагедію."
 nf_rot.20.a:0 "Слава Магічній Сфері!"
 
+  nf_rot.21.t:0 "Steamy Thoughts"
+  nf_rot.21.d:0 "Jacobia put his feet up as he drained the last of his drink, in a decent mood for once. He’d gone along with a recent patrol out of boredom and just gotten back a few hours ago. The patrol had been a good time, with the weather unseasonably warm and the boys in high spirits. They’d even roasted some yao guai for steaks. On one day of the patrol they’d strayed a bit south up against the edge of Heaven's Guards turf, and had a bit of a stare down with some of those kneelers own patrolling guards. They both went on their way after some sizing up of each other but the event had put the steam worshippers back in Jacobia’s mind.\n\nTossing his empty drink aside, he let himself wander down memory lane a bit. When he was younger he’d come across several hunters from the Heart, toting their strange steam weapons and taking down dangerous beasts like they were nothing. When he got older, and when he started making this land his, he’d told his men to leave the zealots alone for now and the southern border with them had been quiet. He didn’t give a single shit about their church or whether steam was holy or not but those weapons had fascinated him. They still did now. ‘I fuckin’ want some’, he thought to himself.\n\nIt wasn’t usually Jacobia’s style to ask for things nicely, to not just take what he wanted, but his good mood and nostalgia put him in a bit of a different mood. He started wondering about whether the neighbors would be interested in playing ball with him. If he could get his hands on some of their weapons, some of their soldiers for his own mission to burn out the abominations infesting the waste, he’d be willing to let them preach to his men or mumble through a prayer or two. Everything was already gone to hell so who cared whether god is steam or dead anyway. Having made up his mind, Jacobia slammed the intercom button and shouted for a runner to get their ass over to him."
+  nf_rot.21.a:0 "Let’s See What They Have to Say"
+
+  nf_rot.22.t:0 "A Dirty Outstretched Hand"
+  nf_rot.22.d:0 "Messengers came, and a meeting was arranged in short order. A meeting with the head of the Rotpurgers, a violent cabal from the north who claim to be working to purify the world. Their leader is a man named Jacobia, brash and poorly spoken, clearly not used to speaking to someone like an equal. And yet he seemed to be on his best behavior and earnest about his desire to work with us. He says that together we could burn and boil away the abominations and monsters plaguing the world, and that we could stand together against our enemies.\n\nHe admitted to being new to matters of faith, that he had a lot to learn but was willing. That his people would be a good source of new believers and he would do his part to encourage conversion. More important to him seemed to be talk of our blessed weaponry, of the fruits of the steam cores. In return for friendship and religious conversion, the man wants some access to our holy arms, and at least one of his own to bring home. It is an audacious request.\n\nThe Rotpurgers have grown strong to our north, and it is true that their people are spiritually adrift with little faith of their own. They are a people used to conflict and strong convictions however misplaced, and may be ripe for evangelizing. It is a certainty that should we ally with them that shared war with outsiders is in our future and that they will continue pursuing their rabid hatred of ghouls and other mutants, but they will join our own crusades in turn. Are such allies worth it, and would heaven approve?"
+  nf_rot.22.a:0 "No, reject the barbarians"
+  ROT_will_attack_HEA_tt:0 "§RThe Rotpurgers are a brutal and vicious lot. They will surely attack us if we refuse them!§!"
+  nf_rot.22.b:0 "We Will Plant the Seeds of Faith"
+
+  nf_rot.23.t:0 "Burning Rejection"
+  nf_rot.23.d:0 "They’d turned him away, told him to go fuck himself in their fancy religious words. It was all he could do to not burn the messenger alive on the spot. He’d instead waited until he’d heard everything they had to say before flying into a fury, locking them in an old shipping container and tossing in an incendiary grenade. A blacker mood than usual had taken the leader of the Rotpurgers after this rejection and he wasted little time in convening a number of his lieutenants for a meeting.\n\nScouts were dispatched, to gauge border weaknesses and whether the kneelers were mobilizing troops of their own. Squad leaders were sent out scrambling to their men, to make sure they were ready for trouble, and Jacobia himself began drawing up battle plans. No one dared to suggest to him that an attack on Heaven's Guard might cost them dearly, or not be worth it. They only shared his seething anger or held their tongues in hopes his rage would burn out before declaring war. Jacobia in that moment only cared about spiteful satisfaction."
+  nf_rot.23.a:0 "“I’ll give the fucks 'Heaven'”"
+
+  nf_rot.24.t:0 "Fire and Steam"
+  nf_rot.24.d:0 "The steam worshippers of Heaven's Guard had accepted Jacobia’s offer, and he was in a rare mood as a result. They’d made demands of him of course; churches to build and preachers to support, but he didn’t really care. They could preach all they liked to his men as long as they kept doing what he told them, and having an ally to take advantage of was plenty in return. But what really had him happy was the gift he’d asked for, and been given.\n\nThey called it a Demonslayer and he could see why. The gun let out a huge amount of heat, steam and energy, and he’d laughed aloud when first testing it on an unlucky nearby tree. The bark had stripped away in seconds and the thick trunk melted not long after. This is what he’d wanted for years and he’d put it to good use. It was damn good timing, he thought to himself, that they had a bunch of fresh prisoners captured in the last raid just waiting to help him put it through its paces."
+  nf_rot.24.a:0 "And the Demon Slayed"
+
+  nf_rot.25.t:0 "An Inspection of Piety"
+  nf_rot.25.d:0 "It had been some time since we made common cause with the Rotpurgers, and men had been sent to evaluate our new ally and whether they honored their word to us. To Spokane they traveled, as well as other strongholds of the belligerent soldiers. To the headquarters of their master, Jacobia as well. Their report is summed up here:\n\n“They are a barbaric force, this was known already. They live in squalor and dirty themselves with chem and drink, and they are foul mouthed and violent even amongst themselves. Against the targets of their ire: ghouls, mutants and others they despise, they are much worse. In this they are the most pure, unwilling to tolerate any enemies presence in their land and executing those they find. Their master is a soot stained brute, his tongue far more accustomed to profanity than prayer.\n\nYet they are not without a hope of redemption. The common rotpurger speaks well of the church, and of us as allies. Their public executions are carried out by boiling as often as the torch. Churches have been raised, and kept clean by our missionaries as well as the locals. Attendance is increasing and their lack of existing faith makes them pliable. Jacobia keeps a small altar in his den, and clearly at least worships the power of our holy arms. There is potential here."
+  nf_rot.25.a:0 "The Steam Comes to All"
+
 nf_rot.100.t:0 "Без Жодного Сумніву"
 nf_rot.100.d:0 "Сфера вирішує – час настав!"
 nf_rot.100.a:0 "Хай живе Король Самсон!"
@@ -485,10 +507,10 @@ TOC_land_doc_bonus:0 "Операція: На Повну"
 TOC_land_doc_bonus_desc:0 "Додати обертів завжди важливо. Якщо хочемо перемагати – маємо випереджати ворога на кожному кроці. Інакше ніяк: або ми на вершині, або ми ніхто."
 
 TOC_recruit_crusaders:0 "Операція: Рукостискання"
-TOC_recruit_crusaders_desc:0 "Так звані Хрестоносці Небесної Брами можуть виглядати дикими, та насправді вони як меч – направ і скажи 'вперед', і вони вже там. Віра – теж зброя."
+TOC_recruit_crusaders_desc:0 "Так звані Хрестоносці Небесної Варти можуть виглядати дикими, та насправді вони як меч – направ і скажи 'вперед', і вони вже там. Віра – теж зброя."
 
 TOC_recruit_normals:0 "Операція: Сила і Авторитет"
-TOC_recruit_normals_desc:0 "У південному Айдахо чимало людей, яких можна залучити до наших лав. Ми перемогли Небесну Браму – а отже, маємо повне право на диктування умов."
+TOC_recruit_normals_desc:0 "У південному Айдахо чимало людей, яких можна залучити до наших лав. Ми перемогли Небесну Варту – а отже, маємо повне право на диктування умов."
 
 TOC_reunite_with_quarterback:0 "Операція: Два за Ціною Одного"
 TOC_reunite_with_quarterback_desc:0 "§MЗ СТОЛУ ЮЛІУСА БРЕНДТА.§!\n§gОПЕРАЦІЯ: Два за Ціною Одного§!\n§RКОНФІДЕНЦІЙНА МІСІЯ§!\n\nКвотербек колись був одним із найкращих. Якось він вибрався з Сіетла сам і знову з нами. Віддамо йому шану героя – і кілька підвищень. Вірність у Білій Пустці – коштовна річ."
@@ -797,8 +819,20 @@ vault100_kicking_each_others_ass:0 "Війна за Сховище 100"
 vault100_vault_building:0 "Проєктування Vault-Tec"
 vault100_resources_idea:0 "Путівники з Виживання Vault-Tec"
 
-rot_rage_against_the_dying_of_the_light:0 "Нечестива Хрестова Хода"
-rot_the_crusade_never_ends:0 "Спадщина Хрестового Походу"
+#ROT
+  rot_legacy_of_vault_100:0 "Спадщина Сховища 100"
+  rot_legacy_of_vault_100_desc:0 "Сховище 100, збудоване під довоєнним Споканом, було одним із найбільших Сховищ, коли-небудь побудованих «Волт-Тек». Розраховане на понад 1200 мешканців, Сховище навмисно зробили великим, щоб сприяти проведенню збоченого експерименту в його стінах. Під пильним наглядом Наглядача радіацію навмисно пускали в житлові приміщення частини мешканців Сховища. Перше десятиліття наслідки були непомітними, але з часом майже половина мешканців Сховища повільно мутувала в розумних гулів. \n\nТі мешканці, що залишилися «чистими», жахалися своїх опромінених родичів, і незабаром у Сховищі спалахнула громадянська війна. Гулі здобули перевагу, коли захопили контроль над зброярнею Наглядача, змусивши людську фракцію тікати на поверхню. Люди втекли на схід, де заприсяглися помститися."
+  rot_legacy_of_vault_100_tt:0 "\nВідвоювання §YСпокана§! та викорінення §YСтарої Країни§! відкриє нам доступ до рішення §OСтворити Велику Інквізицію§!.\n"
+  rot_eternal_quest:0 "Вічний квест Чистих"
+  rot_eternal_quest_desc:0 "З часу нашого вигнання зі Сховища 100, нашого законного дому, ми планували помсту. Озброєні вогнеметами, нашою улюбленою зброєю для знищення гулів, та маючи за плечима три покоління тренувань і планування, ми нарешті готові відвоювати свій дім. Ми змусимо Спокан §Rяскраво палати§! вночі, якщо це необхідно для того, щоб убити гулів раз і назавжди."
+  rot_eternal_quest_tt:0 "Наша §Rненависть§! до тих, хто був спотворений радіацією, означає, що ми §Rне можемо§! наймати будь-які види §Oмутантів§!.\n"
+
+  rot_rage_against_the_dying_of_the_light:0 "Нечестива Хрестова Хода"
+  rot_the_crusade_never_ends:0 "Спадщина Хрестового Походу"
+
+  rot_samsons_eternal_quest:0 "Нескінченний квест Сфери"
+  rot_samsons_eternal_quest_desc:0 "Слідувати за Сферою та її вказівками часто буває непросто, що вимагає як рішучих дій, так і дисциплінованого терпіння. Іноді — одночасно. Саме винахідливість найкраще характеризує хорошого лицаря Нескінченності, здатність обходитися малим і підлаштовуватися на місці. На щастя, Самсон та його послідовники дуже добре знають свою справу. Ура!"
+  ROT_samson_changing_quest:0 "Видалити §YВічний квест Чистих§!"
 
 rot_samson_mania:0 "Манія Самсона"
 rot_samsons_elite:0 "Сини Самсона"

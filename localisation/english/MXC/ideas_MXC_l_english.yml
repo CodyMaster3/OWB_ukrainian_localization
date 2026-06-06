@@ -71,11 +71,36 @@ maxson_lanius_war:0 "Війна з Легіоном"
 
 maxson_final_attack:0 "Експедиція Ніколи Не Завершується"
 
-maxson_temp_production_buff:0 "Doki Doki Клуб Важкої Промисловості"
+maxson_colorado_shield:0 "Щит Колорадо"
 
-maxson_temp_research_buff:0 "Doki Doki Клуб Наукової Номенклатури"
+maxson_temp_production_buff:0 "Докі Докі клуб важкої промисловості"
+
+maxson_temp_research_buff:0 "Докі Докі клуб наукової номенклатури"
 
 maxson_temp_dan_buff:0 "До Ваших Послуг – Ден Ріверс"
 
 maxson_vault0_claimed:0 "Сховище 0"
 maxson_vault0_claimed_desc:0 "Навіть без Калькулятора Сховище 0 – надзвичайно цінний об’єкт, який ми мусимо втримати."
+
+maxson_scribes_idea:0 "Писарі з іншої школи"
+
+maxson_paladins_idea:0 "Нові друзі Сержа"
+
+maxson_research_club:0 "Докі Докі клуб досліджень!"
+
+trains_military:0 "Транспортні поїзди"
+
+los_research:0 "Бази даних Лос-Аламоса"
+
+## Brixley's Traits
+mxc_protector_weak_locked:0 "Захисник Колорадо"
+mxc_protector_weak_locked_tt:0 "Розблокуйте, виконавши завдання §Y\"Сталевий щит над Колорадо\"§!"
+
+mxc_protector_weak:0 "Захисник Колорадо"
+
+colorado_family:0 "Родина Колорадо"
+
+colorado_family_locked:0 "Родина Колорадо"
+colorado_family_locked_tt:0 "Розблокуйте §Yвіднайшовши свою втрачену іскру§!"
+
+challenged_leadership:0 "Лідерство в умовах викликів"

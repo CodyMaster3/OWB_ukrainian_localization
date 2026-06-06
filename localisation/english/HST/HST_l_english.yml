@@ -1,0 +1,268 @@
+﻿l_english:
+
+##Characters##
+
+  HST_GOODWIN_NAME:0 "William Goodwin"
+  HST_GOODWIN_DESC:0 "Some members of the Historical Society studied farming. Some learned how to skin animals. But Goodwin learned how to play the violin, a sound not heard in Dakota for over a hundred years. Goodwin's music is a comfort throughout the North, a reminder of why his people study the past. Not just to remember how to survive. But to remember how to live."
+  HST_GHOUL_NAME:0 "Prof. Creel Dixon Sarles"
+  HST_POWER_NAME:0 "Olsen Maddock"
+
+##Traits##
+
+  HST_compassionate:0 "Compassionate Scholar"
+  HST_observant:0 "Observant Scholar"
+  HST_studious:0 "Studious Scholar"
+  HST_tactical_historian:0 "Tactical Historian"
+
+##Ideas##
+
+  historian_presence:0 "Historian Presence"
+  HST_replicating_focus:0 "Replicating Artifacts"
+  HST_growth_focus:0 "Scholarships"
+  HST_crazy_horse:0 "Crazy Horse Monument"
+  HST_BTH_cooperation:0 "Ruminating with Friends"
+  HST_BTH_cooperation_desc:0 "A true, true friend helps a friend in need, a friend will be there to help them see."
+  HST_BIS_cooperation:0 "Historian-Bismark Trade"
+  HST_MCA_cooperation:0 "Enclave Training"
+  HST_MCA_cooperation_desc:0 "We may want the best for the wasteland, and the Enclave may see us as more than a bit naive, but the fact is sometimes you have to be tough to survive out here, and bleeding hearts only go so far to prevent actual bleeding."
+  HST_MCA_cooperation_2:0 "Enclave Training"
+  HST_MCA_cooperation_2_desc:0 "We may want the best for the wasteland, and the Enclave may see us as more than a bit naive, but the fact is sometimes you have to be tough to survive out here, and bleeding hearts only go so far to prevent actual bleeding."
+  HST_lock_in:0 "Defend our Knowledge"
+  HST_lock_in_desc:0 "This will not be another Library of Alexandria, at least not in its end."
+  HST_hard_place:0 "Hard Place"
+  HST_hard_place_desc:0 "Come try to take us on, we know better than anyone how to hunker down! We've got 200 years of books explaining just how to do it!"
+  HST_wolfcry:0 "Wolfcry"
+  HST_wolfcry_desc:0 "We know that in some models of Power Armor, there's a flaw in the welding of the chestplates, vulnerable to AP rounds and set to have the whole suit pop. Wonder if they fixed that for these newer models?"
+  HST_still_standing:0 "Still Standing"
+  HST_still_standing_desc:0 "We're still standing better than we ever did. Looking like true survivors."
+  HST_fourfather_copy:0 "The Great Men"
+  HST_fourfather_copy_desc:0 "This mountain was chiseled with the likeness of four great men from America's past, and is one of the most important historical sites we must preserve. Though, some new history has grown around it, and it'd be foolish to disregard that just because it's newer. The Four Fathers should have their place in the history books as well, and with their help we'll be able to do more than we could just on our own."
+  HST_jingoism:0 "Historian Jingoism"
+  HST_jingoism_desc:0 "We've known about the wonders, and failures, of America since before the bombs dropped. But, with the Enclave turning a new leaf, was it really so bad? Compared at least to the savages across the wasteland defacing history and blowing up mountains? It doesn't really matter in the end whether we fly the flag of maroon or the stars and stripes, what matters is saving the wasteland from any who would try to destroy the past."
+
+##Decisions##
+
+  hst_preservation_decisions:0 "Preserving Dakota"
+  hst_preservation_decisions_desc:0 " "
+  #"\n\n\n\n\n\n\n\n\n\n\n\nHistory is something to be treasured, and you can find pockets of the past wherever you look, if you take your time. Sadly, many moments have been lost to time, and the centuries have not been kind to Dakota's legacy. If we can find and preserve historical sites from long before the war, maybe we can reignite a love for history in the wasteland."
+
+  fort_buford:0 "Fort Buford Restoration"
+  fort_buford_desc:0 "Originally built over four centuries ago, this site was once the remains of a military post meant to protect the routes bringing in immigrants from the east."
+  fort_buford_polite:0 "Fort Buford Foreign Restoration Mission"
+  fort_buford_polite_desc:0 "Originally built over four centuries ago, this site was once the remains of a military post meant to protect the routes bringing in immigrants from the east."
+
+  killdeer_mountain:0 "Killdeer Mountain Restoration"
+  killdeer_mountain_desc:0 "This site overlooks the location of a battle that took place in 1864, fought between U.S. troops and the Sioux. It was one in a series of reprisal attacks against the Sioux after the US-Dakota war of 1862, despite the fact that many living in the village were not involved in the war."
+
+  chateau_de_mores:0 "Chateau de Mors Restoration"
+  chateau_de_mores_desc:0 "Chateau de Mores memorializes the life of one Antoine de Vallombrosa, the original founder of Medora, which he named in honor of his wife."
+
+  mandan_village:0 "Mandan Village Preservation"
+  mandan_village_desc:0 "This site memorializes the original Mandan people, who lived in this area until a smallpox epidemic devistated their population in 1781. While we cannot remember every lost nation, this site will be in honor of everyone lost to such tragedies."
+  mandan_village_polite:0 "Mandan Village Foreign Preservation Mission"
+  mandan_village_polite_desc:0 "This site memorializes the original Mandan people, who lived in this area until a smallpox epidemic devistated their population in 1781. While we cannot remember every lost nation, this site will be in honor of everyone lost to such tragedies."
+
+  fort_dilts:0 "Fort Dilts Restoration"
+  fort_dilts_desc:0 "Fort Dilts marks the site of an extended battle where settlers were attacked, and had to survive until they could be rescued by cavalry. It remains remarkably well preserved for being such an open location."
+  fort_dilts_polite:0 "Fort Dilts Foreign Restoration Mission"
+  fort_dilts_polite_desc:0 "Fort Dilts marks the site of an extended battle where settlers were attacked, and had to survive until they could be rescued by cavalry. It remains remarkably well preserved for being such an open location."
+
+  fort_abraham:0 "Fort Abraham Restoration"
+  fort_abraham_desc:0 "Not just a site, but an entire state park, the oldest in the original North Dakota territory. While time has certainly not been kind to the entire park, we can restore its former glory and carve out a wide chunk of time here."
+
+
+  whitestone_hill:0 "Whitestone Hill Restoration"
+  whitestone_hill_desc:0 "This site marks the fiercest clash between the natives and white soldiers of North Dakota, taking place over four centuries ago, and was another in the series of punishment battles commited against the participents of the Dakota Conflict. The two monuments honoring the dead of both sides are unfortunately lost to time, but we can recreate them to preserve their memories."
+  whitestone_hill_polite:0 "Whitestone Hill Foreign Restoration Mission"
+  whitestone_hill_polite_desc:0 "This site marks the fiercest clash between the natives and white soldiers of North Dakota, taking place over four centuries ago, and was another in the series of punishment battles commited against the participents of the Dakota Conflict. The two monuments honoring the dead of both sides are unfortunately lost to time, but we can recreate them to preserve their memories."
+
+  crazy_horse_monument:0 "Crazy Horse Monument Preservation"
+  crazy_horse_monument_desc:0 "This massive memorial was originally meant to depict the Oglala Lakota warrior Crazy Horse, though tragically it was never finished despite over a century of construction. There was much conflict over whether the carving should have even started in the first place, and whether Crazy Horse himself would have even approved, but that debate was never settled before the bombs dropped, and now the mountain will forever remain half-carved. It isn't our place to finish it, but we can preserve it, and the message the original sculpters were trying to convey in honor of all people indigenous to North America."
+  crazy_horse_monument_polite:0 "Crazy Horse Monument Foreign Preservation Mission"
+  crazy_horse_monument_polite_desc:0 "This massive memorial was originally meant to depict the Oglala Lakota warrior Crazy Horse, though tragically it was never finished despite over a century of construction. There was much conflict over whether the carving should have even started in the first place, and whether Crazy Horse himself would have even approved, but that debate was never settled before the bombs dropped, and now the mountain will forever remain half-carved. It isn't our place to finish it, but we can preserve it, and the message the original sculpters were trying to convey in honor of all people indigenous to North America."
+
+  adams_house:0 "Adams House Restoration"
+  adams_house_desc:0 "The Historic Adams House is a Queen Anne-style home built in 1892 for the Harris Franklin family and later purchased by William E. Adams. It was purchased by the Deadwood Preservation Commission because of the remarkably untouched interior having remained in its original state a century later, and even now after so much destruction is has many of its original features."
+  adams_house_polite:0 "Adams House Foreign Restoration Mission"
+  adams_house_polite_desc:0 "The Historic Adams House is a Queen Anne-style home built in 1892 for the Harris Franklin family and later purchased by William E. Adams. It was purchased by the Deadwood Preservation Commission because of the remarkably untouched interior having remained in its original state a century later, and even now after so much destruction is has many of its original features."
+
+  jewel_cave:0 "Jewel Cave Preservation"
+  jewel_cave_desc:0 "Jewel Cave is one of the longest caves in the world, with over 220 miles of mapped passages with a variety of formations on display. While not as cultural as the other sites we have preserved, it is important to remember the natural world just as much as the world touched by man."
+  jewel_cave_polite:0 "Jewel Cave Foreign Preservation Mission"
+  jewel_cave_polite_desc:0 "Jewel Cave is one of the longest caves in the world, with over 220 miles of mapped passages with a variety of formations on display. While not as cultural as the other sites we have preserved, it is important to remember the natural world just as much as the world touched by man."
+
+  politely_ask_to_help:0 "Politely ask to Help"
+  politely_ask_to_help_desc:0 "Not everything has to be solved with violence! Maybe if we just ask nicely, they'll let us in? Especially if we share some of our books."
+  show_politeness:0 "Show Help Offering Decisions"
+  hide_politeness:0 "Hide Help Offering Decisions"
+
+  hst_faction_decisions:0 "University Cliques"
+
+  join_midnight_union:0 "Join the Midnight Union"
+  join_midnight_union_desc:0 "Now that we're settled in, and we've got good rapport with Elizaveta, we should ask if we can join the Midnight Union. They seem to be doing a lot of good, and with some friends we'll be able to do even more as well!"
+
+##Focuses##
+
+  hst_start_1:0 "Ancient History"
+  hst_start_1_desc:0 "We know more about long long ago than anyone else."
+
+  hst_start_2:0 "Modern History"
+  hst_start_2_desc:0 "There's more to history than just dusty old books."
+
+  hst_start_3:0 "Writing History"
+  hst_start_3_desc:0 "Someday, today will be another page in the great saga."
+
+  historians_at_large:0 "Historians at Large"
+  historians_at_large_desc:0 "Well, maybe not Large, but we're trying our best!"
+
+  outside_contacts:0 "Outside Contacts"
+  outside_contacts_desc:0 "We're pretty well known in the area, best to keep our connections fresh, and maybe make some new friends too."
+
+  ruminating_with_friends:0 "Ruminating With Friends"
+  ruminating_with_friends_desc:0 "That Elizaveta's one heck of a gal. She's got a good thing going on, and she seems to like what we do out here. Maybe we can meet up and work out something good for both of us?"
+
+  the_river_league:0 "The River League"
+  the_river_league_desc:0 "Bismark's just around the corner from where we are, and they're one of the few nations in this world who isn't actively looking to grab up easy targets. Plus they don't seem to look kindly on Standing Rock eyeing up Dakota. We should ask if they'd be willing to lend a helping hand."
+
+  the_old_flag:0 "The Old Flag"
+  the_old_flag_desc:0 "Way out to the west, up in the mountains, is the Enclave. They still salute the flag we know burned over two centuries ago, with all the wonderfuly horrifying implications that come with that, but they seem to leave us alone for the most part. Some even like us! If we bring them some preserved American history, maybe they'd be nice enough to hand us some history that packs a punch."
+
+  the_canadian_crown:0 "Canadian Help"
+  the_canadian_crown_desc:0 "While we mainly focus on situations here in Dakota, our broadcasts are strangly popular in Canada, to the point where we're the go-to entertainment source for thousands of wastelanders. Maybe if we reached out, some would be interested in helping out? At the very least so we can keep broadcasting."
+
+  under_attack:0 "Under Attack"
+  under_attack_desc:0 "They're trying to burn our books! We can't let anything else be lost!"
+
+  the_museum_pieces:0 "The Museum Pieces"
+  the_museum_pieces_desc:0 "Papers and words aren't the only things worth preserving you know, there's plenty to be learned about history by studying physical things, like old guns for instance. It breaks our hearts to have to give these things more wear and tear, but when it comes to new scratches on our exhibits, or those exhibits being destroyed entirely, we're willing to deal with the scratches."
+
+  in_a_hard_place:0 "In a Hard Place"
+  in_a_hard_place_desc:0 "Standing Rock has been eyeing up Dakota for a while now, and they've officially made their move. Well, two can play at the rock game, [STR.GetLeader]! We definately don't have the strength to go on the offensive, but if we can turtle up, maybe we can weather the storm."
+
+  wolfcry:0 "Wolfcry"
+  wolfcry_desc:0 "There's a monster in the woods, a woman from the Brotherhood trying to carve out her own chunk of land, with us as her first target. She's already taken Hawkeye, and it's clear she's rearing up for a fight. Well, we may be outgunned, but we're better preservers than the Brotherhood could ever hope to be, let her try!"
+
+  history_classes:0 "History Classes"
+  history_classes_desc:0 "There's plenty of people out there who don't even know their own history, and it's our job to help them! If we can set up shop in other nations, there's no telling the good we could do, and we could protect historical sites and momuments while we're at it."
+
+  somehow_alive:0 "We're Somehow Alive!"
+  somehow_alive_desc:0 "I'll be honest, I really did not expect to still be around after facing the hoards of Standing Rock. But, somehow, we've broken through and come out on top! Now we can really do some good in the world with more resources available."
+
+  big_old_rock:0 "That Big Old Rock"
+  big_old_rock_desc:0 "Mt Rushmore, a truly breathtaking sight, and a testiment to the beauty of the old world. It's arguably the most important monument in the Dakotas, and one we cannot afford to lose."
+
+
+##Events##
+
+  historians.1.t:0 "Before the Fire"
+  historians.1.d:0 "The Historians weren't always a state-wide group. At one point, long before the bombs dropped, our records show that we were just an ordinary group of academics, concerned with studying and preserving history. Of course, nuclear annihilation changes a lot in people, and when the sirens started blaring and people were running for cover, our founders were ready to help.\n\nThey could grab industrial schematics and tools, to preserve and rebuild after the bombs.\n\nThey could grab weapon blueprints and guns, to protect their collections from any who would destroy history.\n\nAnd they knew people would carry more history than any book could, and pretecting the population was important.\n\nThey didn't have a lot of time, but they knew what they had to do."
+  historians.1.a:0 "They prepared to build."
+  historians.1.b:0 "They prepared to fight."
+  historians.1.c:0 "They opened the doors to their museums."
+
+  historians.2.t:0 "Tracking our Progress"
+  historians.2.d:0 "We haven't stayed still since the end of the world, far from it in fact. It was a long and hard road, but our efforts to rebuild in addition to our focus on preservation has given us some great advantages when compared to some other survivors. Though through it all, we never forgot our main purpose, safeguarding the past and exalting history. Of course, not everyone agreed on how exactly we should do that.\n\nSome said that going out and grabbing artifacts from the wasteland would be best, and trained to be observant and find good salvage spots.\n\nSome wanted to focus on what we already had, studying our exhibits to one day recreate what we had lost.\n\nAnd some rejected both of those options, saying that building a community and teaching people out the past would be the best course of action, to make sure the ideas we hold dear never die out."
+  historians.2.a:0 "We know how to get our hands dirty."
+  historians.2.b:0 "Our workshop courses are always full."
+  historians.2.c:0 "People from all around come to learn."
+
+  historians.3.t:0 "Valedictorian"
+  historians.3.d:0 "William Goodwin wasn't your tradition academic prodigy. He can't do calculous in his head, or repair a radio without instructions, but he's still our leader for a reason. He grew up Wetford, and from a young age it was clear he was going places. A hard worker, who could connect with people on a level most people in the Historical Society just couldn't.\n\nWhile his choice to study the violin over a more traditional subject was seen as a bit odd, his sheer passion for the instrument quickly assuaged any doubts, and his obvious skill in both music and regular studies put him at the top of his class. So, when it was time elect a new leader of the Historians with the previous one stepping down, William was an obvious candidate. Though, in the end, he had a certain skill that put him above all the other contenders."
+  historians.3.a:0 "He was more than just a social butterfly, he really knew people."
+  historians.3.b:0 "Whenever he studied, he could pick out details a hundred others missed."
+  historians.3.c:0 "He got to the top through hard work, and was always studying more."
+
+  historians.41.t:0 "A Friend in Need"
+  historians.41.d:0 "Dearest Elizaveta,\n\nHello again! I wanted to write to you because our previous efforts to help each other have been going so well, I figured it would be good to expand what we have going even further! Truth be told, things haven't exactly been easygoing over here, and Ruminating to Riches has really been cheering things up over here.\n\nI've actually been mixing in some of the passages from the book into my music broadcasts, just so people all around can have something more to look forward to.\n\nIf you'd like, I think it would be great if we could meet up and talk out some larger programs to help each other out! Letters can convey only so much, right?\nI pray this letter finds you well, and I can't wait to hear back from you!\n\nYours truly,\n\nWilliam Goodwin."
+  historians.41.a:0 "I think working together more would be a great thing!"
+  historians.41.b:0 "It's a bit far... maybe we should just stick to what's working?"
+
+  historians.42.t:0 "Sharing a Cup"
+  historians.42.d:0 ""It really is nice to sit down and just talk every once in a while, isn't it?"\n\nElizaveta said as she sat across from William, cradling a cup of tea. The two had meant to take this time to talk about potential collaberations between the Ruminators and Historians, but they had both been swept up just talking with each other and enjoying each other's company, that the official reason for the meeting had all but slipped their minds.\n\n"I mean, there's always so much to do, and people to manage, it drives you crazy right? Especially back in Wetford, can't really say I have your charm with people."\n\nWilliam chuckled to himself, tapping the side of his cup with one finger. Suddenly, he looked up, excited.\n\n"Oh actually, I'm not sure why, but that reminds me of something I wanted to show you!"\n\nSetting his cup down, he began rummaging around in a bag he had brought with him, eventually pulling out a wooden box and placing it on the table between them.\n\n"What's it?"\n\nElizaveta picked up the box, feeling the weight of it in her hands.\n\n"It's a surprise, come on, open it!"\n\nWilliam looked at Elizaveta excitedly as she quirked an eyebrow, but smiled and began to open the box. It was sturdy wood, and taking the top off just revealed a lot of padding inside. But, underneath all the protection, was a book. The title proudly stamped across the front, in full non-faded colors, 'Ruminating to Riches'. It looked perfectly preserved, unlike practically every copy she had ever seen circulating in the wasteland.\n\n"I believe it's mint condition, it was in a collection of books set to be preserved before the bombs dropped. And, well, I figured you should have it, even if you have other copies."\n\nElizaveta placed the book back into its cradle, walked over to William's side of the table, and gave him a hug."
+  historians.42.a:0 "I think that went really well!"
+
+  historians.43.t:0 "Politely Declined"
+  historians.43.d:0 "William read over the letter from Elizaveta one more time before putting it down with a sigh. She had politely declined his offer to talk about further cooperation. He had honestly expected her to agree to meet up, they were already on such good terms, though maybe it was for the best. Her reasoning was sound enough, it was a bit of a trek from Wetford to Rosebud, and they were already doing fine enough as it is."
+  historians.43.a:0 "We can stick to letters then."
+
+  historians.51.t:0 "Friends to the West"
+  historians.51.d:0 "A group of diplomats came in from the Historians, wanting to talk with [BIS.GetLeader]. Apparently their leader, William Goodwin, would like to discuss cooperation between our groups. He thinks it'd be in our mutual interest to help each other out, since we're so close, and we're both weary of the ambitions of Standing Rock.\n\nAnd not only would we be benifiting from greater trade, but the Historians are also willing to help improve our agriculture with their farming techniques."
+  historians.51.a:0 "No real reason not to, let's get those caps flowing!"
+  historians.51.b:0 "We have other plans for the Historians"
+
+  historians.52.t:0 "Success in Bismark"
+  historians.52.d:0 "A shipmeandered through the water into the river at the edge of Twin Buttes, signaling to come into port and anchoring to the docks. It was a trading ship from the ports of Bismark, the first of many like it. Similarly, trade was coming in over land as well, from over in Pick City. And from Twin Buttes, caravans carrying the items flowed out to Wetford and beyond, collecting and spending caps along the way.\n\nThere had obviously already been trade between the Historians and Bismark, but now with the new deal signed by William and [BIS.GetLeader], business was booming!"
+  historians.52.a:0 "Row, row, row your boat."
+
+  historians.53.t:0 "No Deal"
+  historians.53.d:0 "Bismark has turned down our offer to set up an ease of trade deal between the two of us. While it isn't exactly the biggest loss, it still hurts a bit, and will definitely hurt our budget going forward."
+  historians.53.a:0 "Shame, but what can you do?"
+
+  historians.61.t:0 "Old World Books"
+  historians.61.d:0 "Aaron Graham could only look surprised at the unconscious man on the other side of the containment field. When he got transferred to Chicago, he thought the only thing good to come was that he could see Martha again. Instead, there was actually something relevant to the State Department and no Secretary was in the way, Eden be damned.\n\n"He was shocked with a cattle prod and brought in for questioning, sir," the guard said to Aaron. "Standard protocol when an unknown outsider gets too close to the Base, I'm sure you understand."\n\n"Yes, yes," Aaron responded. "You'll have him interrogated, figure out where he's from, and use the outsider protocols without the Missoula Exceptions. At least, you normally would, but as we can plainly see, he's not dead."\n\n"Not this time, sir," the jailer responded. "He had a letter with him from his leader addressed to [MCA.GetLeader]. These guys want to swap stories, compare history and notes, do some trade. The usual stuff. But... well, the letter was damn weird."\n\n"Am I cleared to see it?" Aaron asked, but already, another guard held it out for the taking. The wax seal had already been broken- was that an eagle emblem atop it?- and the letter had clearly gotten damp from snow. That didn't stop the beautiful caligraphy singing to the eyes, and Aaron couldn't hold back a little smile as he realized the letter was an opening to diplomatic relations. There were too many variables, of course- these Historians could just be a guise for another raider gang. Similar schemes happened in the days of the Oil Rig. Additionally, a question remained on Aaron's lips, and turning back to the guard, he chose to voice it. "Why was this brought to my attention and not security?"\n\n The answer was swift. "[MCA.GetLeader] trusts your judgment, Mr. Graham.""
+  historians.61.a:0 ""We should offer him a flight home on a Vertibird patrol with a gift basket.""
+  historians.61.b:0 ""Enact outsider protocols.""
+
+  historians.62.t:0 "Army Strong"
+  historians.62.d:0 "The smell of ozone filled the air as the officers watched the Historian soldiers try to master their new energy weapons. It wasn't often that they got to conduct such excersises so far out in the wasteland, but it was actually a nice change of pace, even if these bleeding hearts were a nightmare to train.\n\nOlsen Maddock watched over the training with his arms crossed over his chest, a frown hidden behind his helmet. By all accounts he should be happy for this opportunity, the Historians had long needed advisors with real combat experience, and it was an honor to be working with the military minds of the original United States army... but it shouldn't be his to enjoy.\n\nProf. Sarles should be here, he's the more experienced military mind. But, he's also a ghoul, and William knew how the Enclave felt about ghouls when putting together this mission.\n\nBut that didn't matter right now, he could oversee these excersises just fine, and he'd talk with Sarles when they were back at camp. At least, that's what he kept repeating to himself as his soldiers started melting their targets at longer and longer ranges."
+  historians.62.a:0 "This We'll Defend"
+
+  historians.63.t:0 "Quiet No"
+  historians.63.d:0 "Our diplomat to Macarthur hasn't come back, and by this point we've lost hope that they ever will. It weems that the Enclave isn't willing to work with us, despite our best efforts at diplomacy.\n\nThough, maybe that's a good thing, all things considered. Working with the Enclave isn't exactly a desirable thing, this recent tragedy being a good example as to why."
+  historians.63.a:0 "It's best to stay away from the mountains."
+
+  historians.71.t:0 "Request from the South"
+  historians.71.d:0 "A broadcast was sent out across all of Canada earlier today, coming from the Historians so the south. They're the ones that provide entertainment for basically all of the north, and it turns out they're in a bit of a bind right now.\n\nThey're looking for volunteers to go south and help them out, anyone and everyone willing. We wouldn't have to send that many, just a hundred, and that'd be more than enough to lend a helping hand."
+  historians.71.a:0 "Let's show them some Canadian kindness!"
+  historians.71.b:0 "They are a bit out of reach, we'll stick to their radio shows."
+
+  historians.72.t:0 "Thumbs Up in the Court"
+  historians.72.d:0 "The Canadians have responded to our letter, and the courier bringing the response was immediately followed by a caravan of goods and workers!\n\nThey've already gone to work setting up shop in Wetford, and it's looking like they're here to stay.\n\nAnd as an added bonus, we were sent rifles to help protect the city."
+  historians.72.a:0 "Glad to know we still have friends up north."
+
+  historians.73.t:0 "Thumbs Down in the Court"
+  historians.73.d:0 "Unfortunately, the Canadians have turned down our offer for more cooperation.\n\nThe letter we got back was flowery in its text, but the message boiled down to us being too far out of their sphere to really be worth investing in.\n\nThough they did take the time to say they liked our music broadcasts, so it's good to hear Canada still has good taste in entertainment."
+  historians.73.a:0 "We'll have to look elsewhere for help. Probably closer."
+
+  historians.8.t:0 "What We Were Fighting For"
+  historians.8.d:0 "William looked up at the four giants carved into the side of the mountain, watching the land in silence. The formerly great carvings mangled by the demolition chargest that rocked the mountain not so long ago. Lincon looking more like a ghoul than a human, Washington left blind, Roosevelt's jaw shattered.\n\nRubble still lay strewn across the ground, the largest chunks were carted off to use in stonework, but there were still rocks and pebbles littering the area. They were too late, the wasteland got its wish, to leave the ruins of America behind. Now, the monument was far beyond repair, and on some level the Historians were to blame.\n\nWeren't they? It wasn't them who set the charges, but if the Historians had been faster, better at fighting, maybe they could have been stopped before the tragedy took place.\n\nUnable to look at the ruins anymore, William turned away, trying to hold back his tears. He took out his violin and began to play in honor of the knowledge lost to time, all the things they couldn't save, and made a promise to himself:"
+  historians.8.a:0 ""We must move on, and do better.""
+  historians.8.b:0 ""This will never happen again.""
+
+  historians.9.t:0 "The Great Men"
+  historians.9.d:0 "William looked up at the four giants carved into the side of the mountain, watching the land in silence. Somehow, the Historians had done it, they had survived the onslaught and went on to preserve all of the original historical sites under the Dakota ledgers. And now they had set things up so that Rushmore was brought to its former glory as well.\n\nHolding his hat to his chest, William brought his sleeve up to wipe the tears from his eyes, blinking a few times to clear his vision. This is what he had always strived for, what the Historians had ironically forgotten until just recently. You have more to do once you get past just basic survival, and now nobody will forget how far they have come.\n\nPlacing his hat back on his head, William reached down into his instrument case, pulling out his violin. There wasn't anyone near enough to hear this song but the great men before him, but that didn't really matter."
+  historians.9.a:0 "Who would we be, if we did not know our history?"
+
+  historians.10.t:0 "Breaking Out the Old Guns"
+  historians.10.d:0 "Barbarians are at the gates, the enemy is closing in and we don't have enough weapons to hold them off. Our workshops are doing the best they can, but we're going to have to face reality at some point, and the fact is our soldiers need weapons to fight. Now, we may not have weapons in our stockpiles... but we do have museum exhibits that technically still function, even if they need a bit of refurbishment. It breaks our hearts to have to deface these antiques, but we'd rather have a scratched up gun exhibit than a burnt down museum."
+  historians.10.a:0 "Grab the muskets, they're old but they're still reliable, and there's a lot of them."
+  historians.10.b:0 "Break out the civilian exhibits. They're good enough, and not too rare."
+  historians.10.c:0 "...get the American military guns and get them ready."
+  historians.10.e:0 "Muskets, rifles, machine guns, hell get the sabres! We just need weapons!"
+
+  historians.11.t:0 "A Polite Request"
+  historians.11.d:0 "A delegation from the Historians has come across our borders today with an offer. They say they want to help preserve history in every place they can, including in our lands, but they understand that simply pushing in to do what they want wouldn't fly with us. So, they're offering their expertise in matters like farming, in exchange for permission to set up shop on whatever 'historical sites' might be in our lands, and to defend those sites from outsiders."
+  historians.11.a:0 "I don't see why not, come on in!"
+  historians.11.b:0 "Tell those bleeding hearts to kick rocks."
+
+  historians.12.t:0 "Success!"
+  historians.12.d:0 "Our mission was a success, they're going to let us set up shop in their land! We have permission to start scouting out and reinforcing historical sites, and all it took was teaching them how to farm better! Who would have guessed talking things out would be so easy?"
+  historians.12.a:0 "Let's move in ASAP!"
+
+  historians.13.t:0 "Blunt Rejection"
+  historians.13.d:0 "We were rejected, and they weren't exactly kind with their rejection. We'll have to look elsewhere for easy preservation sites, or we'll have to gear up to protect their history by force."
+  historians.13.a:0 "Well... can't win em all."
+
+##Custom Tooltips##
+
+  preserving_dakota_tt:0 "Unlocks decisions to find and preserve important historical artifacts and locations."
+  preserved_all_tt:0 "We have preserved all of Dakota"
+  accepted_historian_help:0 "They have accepted our help"
+  HST_if_they_accept:0 "We'll ask for some help in exchange for sharing our farming knowledge, and if they accept:"
+  ruminator_help_spirit:0 "Add §YRuminating with Friends§!, which grants \nPolitical Power Gain: §G+5%§! \nMonthly Population: §G+5%§! \nConstruction Speed: §G+5%§!"
+  bismark_help_spirit:0 "Add §YHistorian-Bismark Trade§!, which grants \nMonthly Population: §G+5%§! \nConstruction Speed: §G+5%§! \nPassive Caps Income: §G+5.0§!"
+  macarthur_help_spirit:0 "Add §YEnclave Training§!, which grants \nStability: §R-15%§! \nDivision Attack: §G+15%§! \nTraining time: §G-10%§! \nMax planning: §G+10%§!"
+  canadian_help_tt:0 "For every Canadian country that wants to help, we will gain:\nManpower: §G+100§!"
+  double_dipping_tt:0 "§YJoining a faction will lock us out of joining any others.§!"
+  rushmore_dead_tt:0 "We were too late..."
+  jingoism_tt:0 "§CFlying the Old Flag, we won't let anything else be lost. Even if we have to use force to get to it.§!"

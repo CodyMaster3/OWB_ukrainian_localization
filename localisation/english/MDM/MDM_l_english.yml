@@ -118,7 +118,7 @@ mdm_happy_emp:0 "Щасливий працівник!"
 ### tooltips and flags
 
 vsh_wardens_kicked_out:0 "§YВартові Білини§! були §Rвигнані§! з §O[VSH.GetNameWithFlag]§!!"
-
+miscounts_in_store:0 "Співробітники  §RМіскаунтс§! досі працюють у §YМіддлмарку§!."
 MDM_twin_hate_idea_add_tt:0 "Додати §GОсиротілі Вартовими§!, що надає:\n(Атака проти §Y[TOC.GetNameWithFlag]§!): §G+3%§!, (Захист): §G+5%§!\n(Атака проти §Y[VSH.GetNameWithFlag]§!): §G+3%§!, (Захист): §G+5%§!\n(Атака проти §Y[PAS.GetNameWithFlag]§!): §G+3%§!, (Захист): §G+5%§!"
 MDM_twin_hate_idea_remove_tt:0 "Видалити §RОсиротілі Вартовими§!"
 

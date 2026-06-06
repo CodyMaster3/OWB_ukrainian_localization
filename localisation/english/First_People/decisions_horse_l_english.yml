@@ -1,0 +1,14 @@
+﻿l_english:
+ # decisions
+ horse_feeding_decisions:0 "Хочеш погратися?"
+ horse_feeding_decisions_desc:0 "Ха-ха, веселощів стало вдвічі більше."
+
+ mlp_spawn_the_horse:0 "Прикликати поні"
+ mlp_spawn_the_horse_desc:0 "Їй довелося несолодко, але вона повернулася, щоб погратися."
+ mlp_feed_the_horse:0 "Нагодувати поні"
+ mlp_feed_the_horse_desc:0 "Овес, яблука — будь-що, що зможемо знайти. Уся їжа для цього милого створіння."
+ mlp_evolve_the_horse:0 "Еволюція поні"
+ mlp_evolve_the_horse_desc:0 "Ой, зачекайте хвилинку, вона еволюціонує. АХ"
+
+ cute_trait:0 "Милота"
+ cute_trait_desc:0 "Я — Місяць!"

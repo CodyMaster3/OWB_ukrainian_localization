@@ -1,0 +1,14 @@
+﻿l_english:
+
+#Decisions
+  VLT_YKZ_merc_war_on_JAC:0 "Знищити шакалів"
+  VLT_YKZ_merc_war_on_VIP:0 "Знищити гадюк"
+
+#Ideas
+  
+  YKZ_bushido:0 "Кодекс бушідо"
+  YKZ_bushido_desc:0 "Згідно з кодексом бушідо, якудза борються до самого кінця. §0Слава в житті, немає честі у смерті.§!"
+  
+#Tooltips
+
+  yakuza_melee_1:0 "§YХолодна зброя§!§W:§! \n    £GFX_production_cost §WВартість виробництва:§! §G-10.00%§! \n    £GFX_breakthrough_texticon §WПрорив:§! §G+5%§!"

@@ -57,6 +57,9 @@ military_heritage_unlock_tech:0 "Військова спадщина"
 military_heritage_unlock_tech_desc:0 "Наша нація має довгу історію військових традицій, що походять від солдатів, які пережили Велику Війну."
 military_heritage_unlock_tech_tt:0 "Відкриває доступ до технологій §YВійськової спадщини§! у верхньому правому куті вікна технологій §GПіхоти§!."
 
+combat_engineers_tech:0 "Інженерна спадщина"
+combat_engineers_tech_desc:0 "Наше товариство заснували інженери, які пережили Велику війну і передали наступним поколінням свою пристрасть до вирішення проблем. Однією з цих традицій є наголос на застосуванні підходів до вирішення проблем навіть на полі бою."
+
 # Units
 police_infantry_tech:0 "Піхота законників"
 police_infantry_tech_desc:0 "Законники – це гібрид міліції та охоронців порядку, які патрулюють у мирний час і допомагають армії під час війни. Вони не такі ефективні в бою, як регулярна піхота, але краще знають місцевість і самостійно ведуть розвідку."
@@ -88,6 +91,9 @@ scribes_unlock_tech_desc:0 "Писарі – це науковці Братст�
 faerie_unlock_tech:0 "Феї"
 faerie_unlock_tech_desc:0 ""
 
+warbike_unlock_tech:0 "Бойові мотоцикли"
+warbike_unlock_tech_desc:0 "Бойові мотоцикли — це дещо неточна назва, оскільки багато з них насправді більше нагадують квадроцикли."
+
 leshy_unlock_tech:0 "Жертви Лешому"
 leshy_unlock_tech_desc:0 ""
 
@@ -96,6 +102,9 @@ gloria_robot_unlock_tech_desc:0 ""
 
 leshy_baby_support_unlock_tech:0 "Нащадки Лешого"
 leshy_baby_support_unlock_tech_desc:0 ""
+
+crusader_unit_tech_1:0 "Броньовані хрестоносці"
+crusader_unit_tech_1_LOI:0 "Дредноути"
 
 # Faction Units
 BAG_ghoul_paratrooper_tech:0 "Гуль-рейнджери"
@@ -158,6 +167,10 @@ EHT_ncr_railway_construction_desc:0 "Хоча Вісімдесятники ві�
 mutant_supremacy:0 "Кроти-мутанти правитимуть землею!"
 mutant_supremacy_desc:0 ""
 
+#SHI
+super_plants:0 "Суперрослини Шенга"
+super_plants_desc:0 "Доктор Шен нарешті здійснила свою мрію всього життя — створила рослини, наділені свідомістю та здатні вбивати."
+  
 #Itza
 itz_rough_terrian_training:0 "Тренування на складній місцевості"
 itz_rough_terrian_training_desc:0 "Наші спецпідрозділи проходять виснажливі тренування в дикій природі, щоб бути готовими до всіх викликів, які поставить перед ними пустка."
@@ -247,6 +260,7 @@ ces_navajo_skin_walkers_tech_desc:0 "Міфи Навахо говорять пр
 ces_two_tech:0 "Колісниці Легіону"
 ces_two_tech_desc:0 "Найкращі машини Двох Сонць тепер служать славі Легіону."
 
+phoenix_tech:0 "Уроки Фенікса"
 phoenix_tech_desc:0 "Повстання у Феніксі показало Легіону небезпеку зради. Кожен легіонер має чітко розуміти, що станеться, якщо він зрадить волю Легіону."
 
 legion_training_tech:0 "Хвильова тактика Легіону"
@@ -392,9 +406,6 @@ mininuke_unlock_tech_desc:0 "З обережністю"
 
 artillery_ammo_unlock_tech:0 "Артилерійські снаряди"
 artillery_ammo_unlock_tech_desc:0 "Артилерійські снаряди"
-
-railways_construction:0 "Будівництво доріг"
-railways_construction_desc:0 "Колись шосе з’єднували цілу країну. Тепер ми крокуємо лише по руїнах."
 
 interwoven_support_tech:0 "Тісна підтримка"
 interwoven_support_tech_desc:0 ""

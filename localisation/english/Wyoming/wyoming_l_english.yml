@@ -578,7 +578,6 @@ sie_cowboy_equipment_desc:0 "У Офелії був план. Дурнувати
   sie_lum_glw_cores_tt:0 "Ми отримаємо націоналізацію на §Gзалишки§! земель §YСяйнистих§! та §YСвітлячків§!!"
   sie_roads_decision_tt:0 "Ми §Mвідкриємо рішення§! для будівництва §Gдоріг§! на наших землях!"
   sie_arapaho_tt:0 "§GHoh'éni' Ceebíseet§! стане доступним як §Yкомандир підрозділу§!!"
-  sie_bumford_tt:0 "§GБамфорд§! стане доступним як §Yкомандир підрозділу§!!"
   mrr_reinforcements_tt:0 "§Y[SIE.GetFlag] [SIE.GetNameDefCap]§! отримає §G2§! §Yпіхотні§! дивізії від нас!"
 
   #decision
