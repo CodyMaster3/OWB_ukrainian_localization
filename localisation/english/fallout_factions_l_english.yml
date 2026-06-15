@@ -29,3 +29,19 @@
   #Cosmetics
   RRG_USM_faction:0 "Сполучені Штати Мексики"
   TEX_todds_faction:0 "Техас(TM) Економічний Союз"
+  
+  #GUI File Strings
+  CREATE_FACTION_NOT_POSSIBLE: "§OФРАКЦІЯ НЕДОСТУПНА§!"
+  FACTION_RULES_TITLE: "Правила фракції"
+  FACTION_GOALS_TITLE: "Цілі фракції"
+  SHORT_TERM: "§OКороткострокові§!"
+  MEDIUM_TERM: "§OСередньострокові§!"
+  LONG_TERM: "§OДовгострокові§!"
+  FACTION_INTEL_OPEN_AGENCY_WINDOW: "Відкрити агентство"
+  FACTION_INTEL_NO_ADVISOR: "§eРадник з розвідки не призначений§!"
+  FACTION_INTEL_HEAD_OF_CRYPTOLOGY: "§eКерівник криптології§!"
+  FACTION_INTEL_HEAD_OF_COUNTER: "§eКерівник контррозвідки§!"
+  FACTION_INTEL_HEAD_OF_OPERATIONS: "§eКерівник операцій§!"
+  FACTION_UNLOCK_BUTTON: "Розблокувати £faction_initiative_texticon£ $VALUE$"
+  FACTION_RESEARCH_BUTTON: "Дослідження фракції"
+  FACTION_RESEARCH_OPPORTUNITIES: "($VAL|H$ разів)"

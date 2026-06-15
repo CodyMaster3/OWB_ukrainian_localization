@@ -43,12 +43,14 @@
   string_fallout_coring_tab_no_states_info:0 "У цей час у нас нема ненаціональних областей."
   string_fallout_tlaloc_coring_tab_no_states_info:0 "У цей час у нас нема несполучених областей."
   coring_button_label_terraformer_coring:0 "Терраформувати"
+  coring_button_label_machinoform_coring:0 "Мачіноформ"
   coring_button_label_pacification_coring:0 "Умиротворити"
   coring_button_label_default_coring:0 "Націоналізувати"
 
   # Custom Modifiers:
   core_creation_cost_factor:0 "Ціна націоналізації"
   local_core_creation_cost_factor:0 "Місцевий множник ціни націоналізації"
+  coring_cost_targeted_state_factor:0 "Коефіцієнт вартості націоналізації"
   maxium_core_cost_increase:0 "Максимальна ціна націоналізації зміниться на"
   required_compliance_for_coring:0 "Необхідне підпорядкування для націоналізації"
   local_required_compliance_for_coring:0 "Місцеві вимоги підпорядкування для націоналізації"

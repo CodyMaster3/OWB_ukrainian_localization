@@ -145,6 +145,16 @@
  RULE_AI_BEHAVIOR_KHA_ESEN: "@KHA Есен"
  RULE_AI_BEHAVIOR_KHA_ESEN_DESC: "Північні Хани продовжуватимуть слідувати за Есеном і прагнутимуть сформувати Новий Ханат."
 
+ RULE_AI_BEHAVIOR_HEA:0 "@HEA Небесна Варта"
+ RULE_AI_BEHAVIOR_HEA_DEFAULT:0 "За замовчуванням"
+ RULE_AI_BEHAVIOR_HEA_DEFAULT_DESC:0 "Рішення буде залишено в руках Божих." 
+ RULE_AI_BEHAVIOR_HEA_MICHAEL:0 "@HEA Михаїл"
+ RULE_AI_BEHAVIOR_HEA_MICHAEL_DESC:0 "Святий Михаїл поведе Вірних Парі у Хрестовий похід!"
+ RULE_AI_BEHAVIOR_HEA_CONCLAVE:0 "@HEA Конклав"
+ RULE_AI_BEHAVIOR_HEA_CONCLAVE_DESC:0 "Конклав збереже свій багаторічний порядок у Небесній Варті."
+ RULE_AI_BEHAVIOR_HEA_GIDEON:0 "@HEA Гедеон"
+ RULE_AI_BEHAVIOR_HEA_GIDEON_DESC:0 "Паровий Пророк Гедеон спокійно досягне миру та змін у Небесній Варті."
+
  RULE_AI_BEHAVIOR_LAC: "@LAC Когорта Ланія"
  RULE_AI_BEHAVIOR_LAC_DEFAULT: "За замовчуванням"
  RULE_AI_BEHAVIOR_LAC_DEFAULT_DESC: "Ланій завдасть удару на північ, у Колорадо, і може залишитися вірним Цезарю."
@@ -285,15 +295,15 @@
  RULE_AI_BEHAVIOR_RRG_ROSADO: "@RRG Росадо"
  RULE_AI_BEHAVIOR_RRG_ROSADO_DESC: "Республіка Ріо-Ґранде обере Росадо своєю президенткою."
 
- RULE_AI_BEHAVIOR_RCK: "@RCK Рій тарганів"
- RULE_EVENTS_RCK_ROACH_SWARM_RANDOM: "@RCK Випадково"
- RULE_EVENTS_RCK_ROACH_SWARM_RANDOM_DESC: "Рій тарганів матиме 20% шанс рідкісної появи під час проходження."
- RULE_EVENTS_RCK_ROACH_SWARM_DISABLED: "Вимкнено"
- RULE_EVENTS_RCK_ROACH_SWARM_DISABLED_DESC: "Король Тарганів розуміє, що проводити стратегічні наради на ворожій території — не найрозумніша ідея. (Рій тарганів НІКОЛИ не з'явиться)"
- RULE_EVENTS_RCK_ROACH_SWARM_GUARANTEED: "Гарантовано"
- RULE_EVENTS_RCK_ROACH_SWARM_GUARANTEED_DESC: "Король Тарганів вирішує, що виживання в пустці — не таке вже й круте, як про нього кажуть. (Рій тарганів з'явиться ЗАВЖДИ)"
- RULE_EVENTS_RCK_ROACH_SWARM_SURVIVAL: "Режим виживання"
- RULE_EVENTS_RCK_ROACH_SWARM_SURVIVAL_DESC: "Альтернативний режим гри для Old World Blues. Рій тарганів з'явиться гарантовано, а сержант Тарган стане реінкарнацією Єдиного Істинного Рад-таргана. Вони отримають купу посилень для допомоги у цьому завоюванні.\n\nЦе розраховано на кооперативний PvE режим проти ШІ-опонента Рою тарганів. Чи зможете ви з друзями пережити навалу нескінченних рад-тарганів?"
+  RULE_AI_BEHAVIOR_RCK:0 "@RCK Король Тарганів"
+  RULE_AI_BEHAVIOR_RCK_DEFAULT:0 "За замовчуванням"
+  RULE_AI_BEHAVIOR_RCK_DEFAULT_DESC:0 "Король Тарганів обере один зі своїх шляхів випадковим чином."
+  RULE_AI_BEHAVIOR_RCK_ROACH_KING:0 "@RCK Легенда починається"
+  RULE_AI_BEHAVIOR_RCK_ROACH_KING_DESC:0 "Король Тарганів усвідомлює, що проводити стратегічні наради на ворожій території — не найрозумніша ідея."
+  RULE_AI_BEHAVIOR_RCK_ROACH_SWARM:0 "@RCK Тарганячий рій"
+  RULE_AI_BEHAVIOR_RCK_ROACH_SWARM_DESC:0 "Король Тарганів вирішує, що виживання в пустці — це зовсім не так чудово, як про це розповідають."
+  RULE_AI_BEHAVIOR_RCK_SURVIVAL:0 "@RCK Тарганячий рій — Режим виживання"
+  RULE_AI_BEHAVIOR_RCK_SURVIVAL_DESC:0 "Альтернативний ігровий режим для Old World Blues, у якому Тарганячий рій гарантовано з'явиться, а сержант Тарган стане реінкарнацією Єдиного Істинного Радтаргана й отримає безліч посилень для допомоги в цьому завоюванні. \n\nЦе кооперативний PVE-режим проти ШІ-супротивника «Тарганячий рій». Чи зможете ви та ваші друзі пережити натиск нескінченних радтарганів?"
 
  RULE_AI_BEHAVIOR_ROT: "@ROT Гнилочисти"
  RULE_AI_BEHAVIOR_ROT_DEFAULT: "За замовчуванням"
@@ -363,6 +373,14 @@
  RULE_AI_BEHAVIOR_VLT_BRAIN: "£flag_VLT_ruler_texticon Мозок"
  RULE_AI_BEHAVIOR_VLT_BRAIN_DESC: "У Місті Сховищі вибори завершаться нічиєю, що призведе до того, що Мозок знову запровадить §YВідродження§! для боротьби із загрозою псайкерів."
 
+  RULE_AI_BEHAVIOR_VTS:0 "@VTS Сховище 37"
+  RULE_AI_BEHAVIOR_VTS_DEFAULT:0 "За замовчуванням"
+  RULE_AI_BEHAVIOR_VTS_DEFAULT_DESC:0 "Сховище 37 обере один зі своїх шляхів випадковим чином."
+  RULE_AI_BEHAVIOR_VTS_THOMAS:0 "@VTS Наглядач Т.О.М.А.С."
+  RULE_AI_BEHAVIOR_VTS_THOMAS_DESC:0 "Після падіння Короля Тарганів Наглядач зберігає свою владу над Сховищем 37."
+  RULE_AI_BEHAVIOR_VTS_JAN:0 "£flag_VTS_brother_jan_texticon Брат Ян"
+  RULE_AI_BEHAVIOR_VTS_JAN_DESC:0 "Після падіння Короля Тарганів Брат Ян та його вартові захоплюють контроль над Сховищем 37."
+
  RULE_AI_BEHAVIOR_MCA: "@MCA МакАртур"
  RULE_AI_BEHAVIOR_MCA_DEFAULT: "За замовчуванням"
  RULE_AI_BEHAVIOR_MCA_DEFAULT_DESC: "МакАртур піде своїм історичним шляхом або обере випадковий шлях, базуючись на налаштуваннях історичних фокусів."
@@ -424,6 +442,14 @@
  RULE_AI_BEHAVIOR_WHT_MONSTERS_DESC: "Білоногі створять власну імперію!"
  RULE_AI_BEHAVIOR_WHT_LEGION: "@WHT Заявка на владу"
  RULE_AI_BEHAVIOR_WHT_LEGION_DESC: "Білоногі підуть разом з Легіоном."
+
+  RULE_AI_BEHAVIOR_ROS:0 "@ROS Єллоустоун"
+  RULE_AI_BEHAVIOR_ROS_DEFAULT:0 "За замовчуванням"
+  RULE_AI_BEHAVIOR_ROS_DEFAULT_DESC:0 "Паркові рейнджери оберуть один зі своїх шляхів випадковим чином."
+  RULE_AI_BEHAVIOR_ROS_RANGER:0 "£flag_ROS_people_texticon Паркові рейнджери"
+  RULE_AI_BEHAVIOR_ROS_RANGER_DESC:0 "Паркові рейнджери візьмуть Єллоустоун під свій контроль і побудують анархістську громаду."
+  RULE_AI_BEHAVIOR_ROS_MONAD:0 "£flag_ROS_ruler_texticon МОНАДА"
+  RULE_AI_BEHAVIOR_ROS_MONAD_DESC:0 "EPA втрутиться в те, у що не слід!"
 
  RULE_MAP_SETUP_MOJAVE_STATUS: "@MOJ Мохавське відділення"
  RULE_MAP_SETUP_MOJAVE_STATUS_DEFAULT: "@MOJ За замовчуванням"
@@ -611,6 +637,30 @@
  RULE_EVENTS_LUM_SIXTH_HOUSE_DISABLED: "Вимкнено"
  RULE_EVENTS_LUM_SIXTH_HOUSE_DISABLED_DESC: "Червона Гора залишається тихою... поки що."
 
+  RULE_EVENTS_FRK_2026:0 "@FRK Фріканклав"
+  RULE_EVENTS_FRK_2026_ENABLED:0 "@FRK Увімкнено"
+  RULE_EVENTS_FRK_2026_ENABLED_DESC:0 "§RТи зайшов набагато далі, ніж мав би,§! але ти ще й не зустрічав Фріка Горрігана. §2Твоя поїздка закінчилася, мутанте. ЧАС ПОФРІКУВАТИ.§!"
+  RULE_EVENTS_FRK_2026_DISABLED:0 "Вимкнено"
+  RULE_EVENTS_FRK_2026_DISABLED_DESC:0 "«СТОП! Це не та репліка....»"
+
+  RULE_EVENTS_EAS_HAKIS:0 "@EAS Родинна спадщина"
+  RULE_EVENTS_EAS_HAKIS_ENABLED:0 "@EAS Доленосний день звичайної жінки"
+  RULE_EVENTS_EAS_HAKIS_ENABLED_DESC:0 "А"
+  RULE_EVENTS_EAS_HAKIS_DISABLED:0 "Вимкнено"
+  RULE_EVENTS_EAS_HAKIS_DISABLED_DESC:0 "Грабіжники обирають когось іншого"
+
+  RULE_EVENTS_TON_FOCUS_TREE:0 "@TON Повстання фермерів"
+  RULE_EVENTS_TON_FOCUS_ENABLED:0 "@TON Тохоно повстають"
+  RULE_EVENTS_TON_FOCUS_ENABLED_DESC:0 "Тохоно-О'одам відмовляються так легко здаватися перед міццю Легіону. Це, мабуть, нічого не змінить, але хто знає..."
+  RULE_EVENTS_TON_FOCUS_DISABLED:0 "Вимкнено"
+  RULE_EVENTS_TON_FOCUS_DISABLED_DESC:0 "Тохоно продовжують своє життя, не звертаючи уваги на велику загрозу з півночі"
+
+  RULE_EVENTS_SHI_SHOWDOWN_CITY:0 "@SHI Абсолютне Ши-протистояння"
+  RULE_EVENTS_SHI_SHOWDOWN_CITY_ENABLED:0 "@SHI Увімкнено"
+  RULE_EVENTS_SHI_SHOWDOWN_CITY_ENABLED_DESC:0 "Хороші хлопці, погані хлопці та вибухи, скільки сягає око. \n\n§R(Зверніть увагу, це не можна використовувати разом із правилом гри «Імператор Нортон»!)§!"
+  RULE_EVENTS_SHI_SHOWDOWN_CITY_DISABLED:0 "Вимкнено"
+  RULE_EVENTS_SHI_SHOWDOWN_CITY_DISABLED_DESC:0 "Найкривавіша битва в історії так і не відбувається, і Ши не доводиться мати справу з цим лайном."
+
  #gamerule
 
  RULE_MISC_TLA_DEATH_SCREAM: "@TLA Передсмертний хрип Тлалока"
@@ -692,7 +742,13 @@
  RULE_CAPS_SYSTEM_TOGGLE_ENABLED_DESC: "Система кришок буде увімкнена у всій своїй красі."
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED: "Вимкнути систему кришок"
  RULE_CAPS_SYSTEM_TOGGLE_DISABLED_DESC: "Система кришок буде повністю вимкнена."
-
+ 
+ RULE_ORG_COOLDOWN_REMINDER:0 "Перемикач нагадування про доступність організації на ринку"
+ RULE_ORG_COOLDOWN_REMINDER_ENABLED:0 "Увімкнути нагадування про організацію"
+ RULE_ORG_COOLDOWN_REMINDER_ENABLED_DESC:0 "Відтворювати звук, коли організація стає доступною для торгівлі."
+ RULE_ORG_COOLDOWN_REMINDER_DISABLED:0 "Вимкнути нагадування про організацію"
+ RULE_ORG_COOLDOWN_REMINDER_DISABLED_DESC:0 "Не нагадувати гравцям."
+ 
  RULE_RAIDS_SYSTEM_TOGGLE:0 "Перемикач системи рейдів"
  RULE_RAIDS_SYSTEM_TOGGLE_DEFAULT:0 "Стандартна система рейдів"
  RULE_RAIDS_SYSTEM_TOGGLE_DEFAULT_DESC:0 "Систему рейдів зможуть використовувати незалежні рейдерські держави, а цілями можуть бути лише держави, що не є чиїмись маріонетками."
@@ -871,11 +927,11 @@
  RULE_UNIFIERS_CASCADIA_DREDGER: "Дредґери"
  RULE_UNIFIERS_CASCADIA_DREDGER_DESC: "Дредґери контролюють Каскадію"
 
- RULE_GATE_UNIFIER: "Об'єднувач області Небесної Брами"
+ RULE_GATE_UNIFIER: "Об'єднувач області Небесної Варти"
  RULE_UNIFIERS_GATE_DEFAULT: "Без об'єднувача"
  RULE_UNIFIERS_GATE_DEFAULT_DESC: "Немає об'єднувача області Брами"
- RULE_UNIFIERS_GATE_HEAVENGATE: "Небесна Брама"
- RULE_UNIFIERS_GATE_HEAVENGATE_DESC: "Небесна Брама контролює область Брами"
+ RULE_UNIFIERS_GATE_HEAVENGATE: "Небесна Варта"
+ RULE_UNIFIERS_GATE_HEAVENGATE_DESC: "Небесна Варта контролює область Брами"
  RULE_UNIFIERS_GATE_HIGHCHAPEL: "Вища Церква"
  RULE_UNIFIERS_GATE_HIGHCHAPEL_DESC: "Вища Церква контролює область Брами"
  RULE_UNIFIERS_GATE_MURTAUGH: "Реформатори Мерта"

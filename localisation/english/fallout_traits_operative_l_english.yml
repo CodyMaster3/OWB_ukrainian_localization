@@ -1,4 +1,6 @@
 ﻿l_english:
+operative_ninja_trait_chance_factor:1 "Шанс найняти оперативника з рисою §HНіндзя§!"
+operative_lockpick_trait_chance_factor:1 "Шанс найняти оперативника з рисою §HЗламник§!"
 operative_frumentarius:0 "Фрументарій"
 operative_frumentarius_desc:0 "Цей агент досконало володіє всіма методами легіонерської інфільтрації."
 operative_vulpes:0 "Вулпес Інкульта"
@@ -27,3 +29,5 @@ operative_mad_bomber:0 "Божевільний Підривник"
 operative_mad_bomber_desc:0 "Цей агент досконало знає всі способи, якими можна щось підірвати."
 operative_gecko:0 "Улюблений Гекон"
 operative_gecko_desc:0 "Немає нічого, що цей агент цінував би більше за свого гекона."
+operative_plaguelands_inhabitant:0 "Уцілілий з Чумних земель"
+operative_plaguelands_inhabitant_desc:0 "Цей оперативник родом із Чумних земель, що дозволяє йому чудово орієнтуватися в місцевих краях."

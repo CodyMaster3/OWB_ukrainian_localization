@@ -2,6 +2,7 @@
   owns_all_core_land_of_prev_tt: "Усі осердні землі держави §Y[This.GetNameDef]§! належать безпосередньо державі §Y[Prev.GetNameDef]§!\n"
   sphere_owns_all_core_land_of_prev_tt: "Усі осердні землі держави §Y[Prev.GetNameDef]§! належать державі §Y[This.GetNameDef]§!, її суб'єктам або союзникам\n"
   all_core_land_owned_by_prev_sphere_tt: "$all_core_land_owned_by_prev_sphere_raw_tt$\n"
+  all_core_land_owned_by_prev_sphere_tt_NOT:0 "Усі національні території §Y[This.GetNameDef]§! не належать §Y[Prev.GetNameDef]§!, її суб'єктам або союзникам."
   all_core_land_owned_by_prev_sphere_raw_tt: "Усі осердні землі держави §Y[This.GetNameDef]§! належать державі §Y[Prev.GetNameDef]§!, її суб'єктам або союзникам"
   all_core_land_owned_by_prev_sphere_or_with_bound_REQUIREMENT_tt: "$all_core_land_owned_by_prev_sphere_raw_tt$ Країни з ($REQUIREMENT$) також уважаються допустимими власниками\n" # (&): перевірити REQUIREMENT
   mormons_own_all_core_land_of_prev_tt: "Усі осердні землі держави §Y[Prev.GetNameDef]§! належать державі §Y[This.GetNameDef]§! або іншій державі під впливом §Yмормонів§!\n"

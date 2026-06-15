@@ -455,6 +455,9 @@
   scribe_support_unit:0 "Польові писарі"
   scribe_support_unit_short:0 "Писарі"
   scribe_support_unit_desc:0 ""
+  combat_engineer_unit:0 "Військові інженери"
+  combat_engineer_unit_short:0 "Військ. інженер"
+  combat_engineer_unit_desc:0 "Інженери, навчені підтримувати наші війська на полі бою шляхом зведення укріплень, посилення броні та адаптації спорядження до мінливих умов бойових дій"
 
   # Elites
   elite_infantry:0 "Елітна піхота"

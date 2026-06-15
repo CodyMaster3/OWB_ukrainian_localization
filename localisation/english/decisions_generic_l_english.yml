@@ -85,6 +85,10 @@
 
   fates_of_nations_category:0 "Долі Націй"
 
+  command_power_ongoing:0 "£command_power  §H0§!"
+  command_power_ongoing_blocked:0 "£command_power  §R0§!"
+  command_power_ongoing_tooltip:0 "Щоб вибрати це, потрібно витрачати £command_power §Rщодня§!. Дивіться модифікатор рішення."
+  
   command_power_more_than_25:0 "£command_power  §H25§!"
   command_power_more_than_25_blocked:0 "£command_power  §R25§!"
   command_power_more_than_25_tooltip:0 "Це коштує £command_power §R25§!, аби обрати це."

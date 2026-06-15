@@ -97,7 +97,7 @@
  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE: "Режим мапи: §YТорговельні вузли§!"
  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE_NAME: "Торговельні вузли"
  MAPMODE_ICODE_EVOLUTION_NODE_STATE_MAPMODE_DESC: "Режим мапи, що зображає торговельні вузли."
- evo_mapmode_icon_tt: "Evo TT"
+ evo_mapmode_icon_tt: "Торгові вузли"
  evo_mapmode_node_box_header_tt: "Торговельні вузли"
  evo_mapmode_node_box_selected_state_tt: "§Y[THIS.GetName]§!"
  evo_mapmode_node_box_owner_flag: "[OWNER.GetFlag]"

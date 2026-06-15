@@ -35,9 +35,10 @@
  organization_ledger_opinion_tt:0 "Поточна думка: [GetOrgOpinion]"
  org_opinion_string:0 "[?current_org_opinion_temp|+0]"
  org_available:0 "§GТак§!"
- org_unavailable:0 "§RНі§!"
+ org_unavailable:0 "§RНІ§! - залишилося §Y[GetOrgWaitTime]§! днів"
+ org_wait_string:0 "[?current_org_wait_temp|0]"
  recent_transaction_cooldown:0 "Немає недавніх угод з [GetOrganizationName]"
-  ### Organization Decisions Loc
+ ### Organization Decisions Loc
  CAPS_MARKET_DECISION_BUTTON_OPEN_TEXT:0 "Ринок Організацій"
  CAPS_MARKET_DECISION_BUTTON_OPEN_TEXT_BLOCKED:0 "§gРинок Організацій§!"
  has_organization_visible_tt:0 "Має [GetOrganizationName] присутність, що належить вузлу"
@@ -46,6 +47,7 @@
 
  gun_runner_boost_production:0 "§YЗброярі§!: Ривок виробництва"
  gun_runner_add_operative:0 "§YЗброярі§!: Найняти найкращих контрабандистів"
+ gun_runner_add_operative_tt:0 "Рекрутуємо §YЕлітного агента§!"
  gun_runner_entice:0 "Спокусити §GЗброярів§! розширенням"
 
  motorized_runner_hola_girls:0 "§YЧоп Шоп§!: Гавайські статуетки"
@@ -70,28 +72,32 @@
  advanced_runner_entice:0 " Спокусити §GВанкуверських Фвхівців§! розширенням"
  black_market_category:0 "Відносини з організаціями"
 
-
-
+#### Cooldown
+    caps_organization_1_cooldown_idea:0 "[GetGunRunnerName] недоступні для торгівлі"
+    caps_organization_2_cooldown_idea:0 "[GetMotorizedRunnerName] недоступні для торгівлі"
+    caps_organization_3_cooldown_idea:0 "[GetEnergyRunnerName] недоступні для торгівлі"
+    caps_organization_4_cooldown_idea:0 "[GetMeleeRunnerName] недоступні для торгівлі"
+    caps_organization_5_cooldown_idea:0 "[GetAdvancedRunnerName] недоступні для торгівлі"
 
   #### Events
-    ### Generic
- caps_organization_events.1.t:0 "[GetOrganizationName] просить про позику"
- caps_organization_events.1.d:0 "[GetOrganizationName] звернулися до нас у скрутну хвилину. Продажі йдуть погано, справи просідають. Вони хотіли б запросити позику, щоб зберегти обсяги свого виробництва. Це може бути привабливим варіантом, якщо нам коли-небудь знадобляться їхні товари."
+  ### Generic
+ caps_organization_events.1.t:0 "[GetOrganizationNameEvent] просить про позику"
+ caps_organization_events.1.d:0 "[GetOrganizationNameEvent] звернулися до нас у скрутну хвилину. Продажі йдуть погано, справи просідають. Вони хотіли б запросити позику, щоб зберегти обсяги свого виробництва. Це може бути привабливим варіантом, якщо нам коли-небудь знадобляться їхні товари."
  caps_organization_events.1.a:0 "Позика"
  caps_organization_events.1.b:0 "Ми не можемо стільки витрачати"
  caps_organization_events.1.c:0 "Подарунок"
 
- caps_organization_events.11.t:0 "[GetOrganizationName] повернули борг"
- caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationName] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву."
+ caps_organization_events.11.t:0 "[GetOrganizationNameEvent] повернули борг"
+ caps_organization_events.11.d:0 "Кредит, виданий [GetOrganizationNameEvent] повністю виплачено. Вони вкрай вдячні [THIS.GetName], що філії втрималися на плаву."
  caps_organization_events.11.a:0 "Союзник, який нам колись знадобиться"
 
- caps_organization_events.12.t:0 "[GetOrganizationName] затримують виплати"
- caps_organization_events.12.d:0 "[GetOrganizationName] не можуть дозволити собі виплатити наш кредит. На даний момент вони начебто стабільні, але навряд чи ми знову побачимо наші кришки."
+ caps_organization_events.12.t:0 "[GetOrganizationNameEvent] затримують виплати"
+ caps_organization_events.12.d:0 "[GetOrganizationNameEvent] не можуть дозволити собі виплатити наш кредит. На даний момент вони начебто стабільні, але навряд чи ми знову побачимо наші кришки."
  caps_organization_events.12.a:0 "Забудемо заради дружби"
  caps_organization_events.12.b:0 "Ми будемо терплячі"
 
- caps_organization_events.13.t:0 "[GetOrganizationName] запитують знижені тарифи"
- caps_organization_events.13.d:0 "[GetOrganizationName] попросили нас знизити тарифи на торгівлю по всій нашій країні. Наші податки завдають шкоди їм, і вони, схоже, готові домовитися з нами про деякі... вигідні угоди пізніше, в обмін на цю послугу."
+ caps_organization_events.13.t:0 "[GetOrganizationNameEvent] запитують знижені тарифи"
+ caps_organization_events.13.d:0 "[GetOrganizationNameEvent] попросили нас знизити тарифи на торгівлю по всій нашій країні. Наші податки завдають шкоди їм, і вони, схоже, готові домовитися з нами про деякі... вигідні угоди пізніше, в обмін на цю послугу."
  caps_organization_events.13.a:0 "Відмінний козир"
  caps_organization_events.13.b:0 "Ми не можемо стільки витрачати"
  organizations_lowered_trade_tariffs:0 "Зниження тарифів"
@@ -105,12 +111,12 @@
  bolster_production_event_org_tt:0 "Змінить ставлення всіх організацій: [?org_influence_amount|+=0]"
 
  caps_organization_events.2.t:0 "Дослідження для технологій"
- caps_organization_events.2.d:0 "Керівництво [GetOrganizationName] запросило допомогу в дослідженні покинутого наукового закладу поблизу. Вони вважають, що тут є велика схованка зі спорядженням Старого Світу, що може допомогти їм з новими підприємствами і допоможемо триматися на передовій ринку. В обмін на підтримку, вони поділяться цим знанням з нами. Хоча є ризик втратити людей, або ще гірше, від оборонних систем закладу, ми маємо витримати подібне випробування."
+ caps_organization_events.2.d:0 "Керівництво [GetOrganizationNameEvent] запросило допомогу в дослідженні покинутого наукового закладу поблизу. Вони вважають, що тут є велика схованка зі спорядженням Старого Світу, що може допомогти їм з новими підприємствами і допоможемо триматися на передовій ринку. В обмін на підтримку, вони поділяться цим знанням з нами. Хоча є ризик втратити людей, або ще гірше, від оборонних систем закладу, ми маємо витримати подібне випробування."
  caps_organization_events.2.a:0 "Знайдіть лідера для загону"
  caps_organization_events.2.b:0 "У нас немає людей для подібного"
 
  caps_organization_events.21.t:0 "Скарб"
- caps_organization_events.21.d:0 "Наші люди знайшли не тільки шматочки технологій Старого Світу, а й робочий прототип. [GetOrganizationName] вкрай вдячні нам за наш успіх, пропонуючи можливу послугу в майбутньому."
+ caps_organization_events.21.d:0 "Наші люди знайшли не тільки шматочки технологій Старого Світу, а й робочий прототип. [GetOrganizationNameEvent] вкрай вдячні нам за наш успіх, пропонуючи можливу послугу в майбутньому."
  caps_organization_events.21.a:0 "Навички та тренування окупаються"
  caps_organization_events.22.t:0 "Скринька Пандори"
  caps_organization_events.22.d:0 "Коли наші люди спустилися в глибини комплексу [GetOrganizationName], більшість із них не повернулися. Член групи повідомляє, що коли вони спустилися всередину, на них влаштували засідку сторожові роботи. На щастя, кілька людей повернулися."
